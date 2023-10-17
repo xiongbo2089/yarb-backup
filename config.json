@@ -54,7 +54,7 @@
     },
 
     "keywords": {
-        "exclude": [
+        "include": [
             "设计", "figma"
         ]
     }

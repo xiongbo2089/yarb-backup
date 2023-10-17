@@ -75,10 +75,10 @@ def parseThread(conf: dict, url: str, proxy_url=''):
     """获取文章线程"""
     def filter(title: str):
         """过滤文章"""
-        for i in conf['exclude']:
+        for i in conf['include']:
             if i in title:
-                return False
-        return True
+                return True
+        return False
 
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
     headers = {
