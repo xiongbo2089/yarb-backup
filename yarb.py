@@ -78,6 +78,8 @@ def parseThread(conf: dict, url: str, proxy_url=''):
         for i in conf['include']:
             if i in title:
                 return True
+            if i in summary:
+                return True
         return False
 
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
