@@ -6,10 +6,9 @@
     },
 
     "rss": {
-        "wechatRSS": {
+        "CustomRSS": {
             "enabled": true,
-            "url": "https://raw.githubusercontent.com/ttttmr/Wechat2RSS/master/static/opml/sec.opml",
-            "filename": "wechatRSS.opml"
+            "filename": "CustomRSS.opml"
         }
     },
 
