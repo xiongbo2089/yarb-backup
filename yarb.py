@@ -73,12 +73,10 @@ def update_rss(rss: dict, proxy_url=''):
 
 def parseThread(conf: dict, url: str, proxy_url=''):
     """获取文章线程"""
-    def filter(title: str):
+    def filter(title: str, summary: str):
         """过滤文章"""
         for i in conf['include']:
-            if i in title:
-                return True
-            if i in summary:
+            if i in title or i in summary:
                 return True
         return False
 
@@ -99,7 +97,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
             d = entry.get('published_parsed') or entry.get('updated_parsed')
             yesterday = datetime.date.today() + datetime.timedelta(-1)
             pubday = datetime.date(d[0], d[1], d[2])
-            if pubday == yesterday and filter(entry.title):
+            if pubday == yesterday and filter(entry.title, entry.summary):
                 item = {entry.title: entry.link}
                 print(item)
                 result |= item
