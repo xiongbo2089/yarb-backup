@@ -3,6 +3,5 @@
 <head><title>CustomRSS</title></head>
 <body>
      <outline text="龙爪槐守望者" title="龙爪槐守望者" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/a4e706b0-c834-4990-bd6b-46baa0fd0d8e.xml" htmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/a4e706b0-c834-4990-bd6b-46baa0fd0d8e.xml" />
-     <outline text="AI前线" title="AI前线" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/c241494b-c25b-46bf-86d3-6e5c2950dcb5.xml" htmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/c241494b-c25b-46bf-86d3-6e5c2950dcb5.xml" />
 </body>
 </opml>
