@@ -78,7 +78,8 @@ class wecomBot:
             text = f'## {feed}\n'
             for title, link in value.items():
                 text += f'- [{title}]({link})\n'
-            text_list.append(text.strip())
+            text += f'## {feed}\n'
+        text_list.append(text)
         return text_list
 
     async def send(self, text_list: list):
