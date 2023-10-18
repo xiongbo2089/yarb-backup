@@ -73,12 +73,13 @@ class wecomBot:
     @staticmethod
     def parse_results(results: list):
         text_list = []
+        mainText = ""
         for result in results:
             (feed, value), = result.items()
             text = f'## {feed}\n'
             for title, link in value.items():
                 text += f'- [{title}]({link})\n'
-            text += f'## {feed}\n'
+            mainText += text
         text_list.append(text)
         return text_list
 
