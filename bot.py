@@ -80,7 +80,7 @@ class wecomBot:
             for title, link in value.items():
                 text += f'- [{title}]({link})\n'
             mainText += text
-        text_list.append(text)
+        text_list.append(mainText)
         return text_list
 
     async def send(self, text_list: list):
