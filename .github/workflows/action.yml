@@ -39,11 +39,6 @@ jobs:
           git add archive today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ github.token }}
-
   del_runs:
     runs-on: ubuntu-latest
     steps:
