@@ -12,7 +12,6 @@
            <outline type="rss" text="腾讯isux" title="腾讯isux" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/4586986e-4fac-4cff-9369-4f670e70b5a8.xml" htmlUrl="http://isux.tencent.com" />
            <outline type="rss" text="淘宝ued" title="淘宝ued" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/d0c82477-13e0-4a21-b22f-91f3dd82e946.xml" htmlUrl="http://ued.taobao.org" />
            <outline type="rss" text="群核MCUX" title="群核MCUX" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/4cf55f27-4be0-4317-98c5-94825c568327.xml" htmlUrl="http://ued.taobao.org" />
-
-
+           <outline type="rss" text="智设周刊" title="智设周刊" xmlUrl="https://rss.app/feeds/4BOLFGdadzAVuEOI.xml" htmlUrl="https://www.uied.cn/feed" />
       </body>
 </opml>
