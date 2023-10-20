@@ -1,10 +1,32 @@
 # 每日安全资讯（2023-10-20）
 
+- 腾讯ISUX-公众号
+  - [古物焕新 | 腾讯探元文化创新大赛正式开启](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd93COTKQRbTKkZ0-l3I-B9IRAnVh08yR2HfXEIg2x2iYkkq2fcvSphKMA8cxfjTIPGUIPWbrRoTx5lDZJAPdrbTWqHZrtM7kB0WE8lZoWY-flF8SLo2EME2EtRaUnMs59_4KhJ61zJVaelMFHJxspzyXJJYdUfEWjNDyI9peSKQMVQL0Hr9Gyd3Q..&type=1&query=tencent_isux&token=A85E94357A5C56A48F8998AB96F4099090D362B4653261E7)
+  - [isWechat](True)
+- 量子位-公众号
+  - [arXiv可算有钱搞服务器了:新获1000万美元捐款,正在线火热招人](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9anQbMOgR2jFCPn-yNRZvMlSSwgrg-XNlRFrPrWkzkSV3fFU34HsaJVSCayKv2RsxUrdeXxLUJRzQKnsYbY4pQfFAx6OlmnNYvtPQ7WMjsk6OuaOXnnBsNJfTHVp5qzQUVDEi5I_9eTnLcD14vuT0ljJgh2XU_8Lrg1U08TbKD5VQL0Hr9Gyd3Q..&type=1&query=QbitAI&token=A85E9437C16DD86A7B7C725F7D190BD27BA9C967653261E7)
+  - [isWechat](True)
+- 歸藏的AI工具箱-公众号
+  - [想玩 AI 画图和视频却没好电脑?藏师傅手把手教你云端部署 SD 生成 ...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9U1D6ZmP8dZjcNyIV9q72ZmpbagsX3ac0zuvBldViN2mE2CVmOFAb4BIYP5GVhhSjZAGLrBwnAiSWgTl2UYuYjljMTqwxRirD--kzrGLRp24ruJ16KBoiSw9TPpXw8a72Uy1qIQwSt8xxuLZrIuEKPiR9Zarp7GxmsiEela02WV4Cn9lOoZLP2Q..&type=1&query=op7418ux&token=A85E94268C14C37664626C4062000ECC650AE02D653261E7)
+  - [isWechat](True)
 - 淘宝设计-公众号
-  - [无痛成才的淘宝设计新人计划,你想来吗?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDVYe9YLlFq5I9pYJBJJtmq1qXa8Fplpd9pbrkR7BLhYn7Uu1jIMpzOriCVNp_8Oz1BpEJZFZv0mT8twV9oEzNjKXpHHQOKmPnkzlzcGfEVSkbU-esu5TVX4u4MlfO5w8yF1kbbwLPfAhEd5JOWMm2kYarHNytPZTgfftItmbIW7r-Lm6ikqka2CZKkcDGpX9tC_q5JJMD1OtFH6In5Ei3zg..&type=1&query=ali-taobaoued&token=A7FE3336612CFA45575150742ACF8B07588F627C65325837)
+  - [无痛成才的淘宝设计新人计划,你想来吗?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9pbrkR7BLhYn7Uu1jIMpzOriCVNp_8Oz1BpEJZFZv0mT8twV9oEzNjCxnya6jiMqjbK_JIhDUTRZalFuBkt-QAE2DKnBoDKgWYpT4wDbki76CjSO0i1vh4xQM4vgVvUrLzJbtvdgYwPXLc4KntAvEj_opxnIiV6BA9ohacFKg-GNe0WC6Sbi7DA..&type=1&query=ali-taobaoued&token=A85E94396778B1021214193617759BFA123CBD54653261E7)
+  - [isWechat](True)
+- 阅文体验设计YUX-公众号
+  - [WEBNOVEL: Read Your Adventures](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9aj-NiIEoZ6ljiNLtzt43znTopd0dN2gATUJlQcXE9G_vn3qiB5r6HIO-VS2zPdcaZS7aBCsTne8rMtqxNd4jrSH57FsAV3kN8OMr4fQAUAePq-GErAWgcuOYCFh_0QvEylZa1BmXcmAm6XhcVkFvb6IAA9gNJ0vSBADwIy7932fdrgozfSg6bw..&type=1&query=YUX_design&token=A85E93F78A4F5AB79C9D94BF9DF84ECB9C2F3AF4653261E7)
+  - [isWechat](True)
 - 58UXD-公众号
-  - [3D看盘-数字孪生可视化是如何应用与落地的](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDVYe9YLlFq5I9pYJBJJtmq1qXa8Fplpd9P5pndpWRGR9XJ71EnSaZSaDlu8Fj8GQ0qHmbw5xNRyCsqMY6pGe86jNG44Pb1F2m_7s_gC_mcYuLRYWrPaVfAIz0Lk6iDli48nUjCCN1QxfqGL9fD-2i5Ard7S2H0fri3o4HXEDG4IscS_ypvMNDaGCSCvWQUySvgBZGYlHaWWjYl_Q5RRZQjg..&type=1&query=i58UXD&token=A7FE3384EC80AE1D0E08052E7F95CDF60E134C2F65325837)
+  - [3D看盘-数字孪生可视化是如何应用与落地的](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9P5pndpWRGR9XJ71EnSaZSaDlu8Fj8GQ0qHmbw5xNRyCsqMY6pGe86viv4AdnF-pqLvDNUE6bhSCE63k6mCtBhxU25RFJk9gGjU9tvsUhoaPVcNVIk3VvtPTGYQSrFgJ9tDObbPxNeCds29WqfBFpWSBIuhNiLx8rtYhnXCmys63S-e4Yz84xMA..&type=1&query=i58UXD&token=A85E9581DE9C4AFAE8E1E0C3E18D5D7FE84DFA74653261E7)
+  - [isWechat](True)
+- 知学释疑-公众号
+  - [LibreCAD 一款开源免费的CAD 制图软件](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9ydGsKmuglDBawXdeErIn5Ri_nTHdDrhY4uU0Jm3_4il4F-Wvc9XQEEtUBP8bYvFlrBDb3RkdoRigsirfeqwjVdAfq-wh5pheHbQ9eeXAjNBxHBLC6-IVttZYD0cnTgHufy0-TNCOioidQXluPT0ZnGqHo_Exz8rxT3myMco7itLYl_Q5RRZQjg..&type=1&query=metinlearn&token=A85E95CC70D302EFC4C2CCE0C2A3E43CC52D4070653261E7)
+  - [isWechat](True)
+- 每天说设计-公众号
+  - [响应式酸性绿色极简主义风网站|源文件分享](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9QV2Pk62_YCS43bJwyX3KC7b_KAmLZy4bv2QXr9V_ia-9eCgOPBky8mlCtR7kxklwGXk94VSSLZOy-M-btEh6qnLjgPXLTBYeHD17CoBk017GZ4jQamQ5J3dqaiOH3nZ1laAquP0aMPMOfFYupczv3sqt1foYK0wBjZvVg6G5k4GrCDCayYmfpA..&type=1&query=beijingyongcan&token=A85E95C216B32A998C8D84AF8DEA9C048C762AB4653261E7)
+  - [isWechat](True)
 - UIED用户体验学习平台
+  - [Midjourney | 商业应用教程：电商产品海报—空气净化器](https://www.uied.cn/36956.html)
+  - [isWechat](False)
   - [第二十三期：AYONG_BDR周练-16](https://www.uied.cn/25585.html)
   - [AIGC｜如何使用ChatGPT定制各种实用小工具？](https://www.uied.cn/37754.html)
   - [BLUE周刊-Vol.070](https://www.uied.cn/35274.html)
@@ -13,27 +35,18 @@
   - [可视化设计分享 -《黑衣人：全球追缉》FUI](https://www.uied.cn/25590.html)
   - [Stable Diffusion | 商业应用：电商产品海报—啤酒](https://www.uied.cn/36947.html)
   - [Stable Diffusion | 商业应用：电商产品海报—赛博音响KV](https://www.uied.cn/36949.html)
-  - [Stable Diffusion | Ai绘画：常见通用咒语提示词-人物-服装（2）](https://www.uied.cn/36950.html)
+- UXD笔记-公众号
+  - [百度搜索设计系统复盘:在复杂业务中制定组件规范](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfIr9uN-abCvM9pYJBJJtmq1qXa8Fplpd9zDKP8dKQ_Wp2GD99J1LgJAjA91WT9pZ44H_a9lxJCPX6edrL53QecGj0gH9Yut4_eFvIpkp85342p9EZcTT08gTq2eom6bn6dpBCpRNhFbYlXECDw8lZzBBdXZv0lbBCoRGp9Zs-tVnEJjuYmguELPRBRhlacWhXclP1Pg4DgYjyPfCoem7FzA..&type=1&query=UX_zixuan&token=A85E95B61BEA4BA68E8B86AA8BE99FD68E538BDE653261E7)
+  - [isWechat](True)
 - 人工智能-UIED用户体验学习平台
   - [Stable Diffusion](https://www.uied.cn/36945.html)
+  - [isWechat](False)
   - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
-- 量子位-公众号
-  - [arXiv可算有钱搞服务器了:新获1000万美元捐款,正在线火热招人](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9anQbMOgR2jFCPn-yNRZvMlSSwgrg-XNlRFrPrWkzkSV3fFU34HsaJYZmpDHnR3BwLqbvqI3dwn_7Il5nrI1nessnyzpp0MAB3xGpY4w88NxHhF6V-pvfpNhAGw-fVNBHUpkdz7HSWB8J-6A9TdjXHwcBhIAqdRGoStj5Hwd-OjpCy6umSSPEsg..&type=1&query=QbitAI&token=A7FE3E0EE86C74C5D6D0DEF5A57D46B7D7B3F0BE65325839)
 - Designer News Feed
   - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
-- 阅文体验设计YUX-公众号
-  - [WEBNOVEL: Read Your Adventures](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9aj-NiIEoZ6ljiNLtzt43znTopd0dN2gATUJlQcXE9G_vn3qiB5r6HJ6jT3g7VHU9Y7HFkbkRlims7n5xlAM2jqbolRU_mWQxkVNkskmzSZ2alCtOrz_MdxqVpjMzdc6v4DMmOJF8HfVkAFCT4w8ZemTu6Q7baDlVrMNlAYTYZ87I3OTRHYU2og..&type=1&query=YUX_design&token=A7FE3FE69B2C1AA9B8BEB09ACB1740C1B9D4716565325839)
-- 知学释疑-公众号
-  - [LibreCAD 一款开源免费的CAD 制图软件](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9ydGsKmuglDBawXdeErIn5Ri_nTHdDrhY4uU0Jm3_4il4F-Wvc9XQEPufesCr8B3dKJe4NpqeFDP9kExKc3JqEEIbKhC_e7wHCipfMZmVVa9JNOno3OACZzCm2ynR4an8UakYYJKWxmBLJ19kjW0RpE9yGejLkQCBAfgAvwDqPFnuL0unUdKkuw..&type=1&query=metinlearn&token=A7FE4102AA3A823624222C00519227CB24267E8765325839)
-- 歸藏的AI工具箱-公众号
-  - [想玩 AI 画图和视频却没好电脑?藏师傅手把手教你云端部署 SD 生成 ...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9U1D6ZmP8dZjcNyIV9q72ZmpbagsX3ac0zuvBldViN2mE2CVmOFAb4K6F5gZ8OpgddxIgJ0ATXzZlNE1RAQqtdWkI3gDHRtuaiBqWGKjcAGF2056I_pU0UlwGvvHr2Tdvocs8YfsI64z2ogxGU4MllU2N6jM9iJvXHggFvr9kIy3RtmyIGw2VAg..&type=1&query=op7418ux&token=A7FE415B9CF94EFBEBEAE3CF995A96ECEC1DE52365325839)
-- 腾讯ISUX-公众号
-  - [古物焕新 | 腾讯探元文化创新大赛正式开启](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd93COTKQRbTKkZ0-l3I-B9IRAnVh08yR2HfXEIg2x2iYkkq2fcvSphKGE9zwpM3WglK47aho-zFyE3fHe8A3m4A1s-KnrEY3krcbJRf8iEf7lGy6GwCndiOsflkWQYE69g2pu32xE9BlLXgnx7VTnaENfjt0wtsPK_uTBV8ulgc6V6VKrzu_4XKA..&type=1&query=tencent_isux&token=A7FE40F8A7BB71C3D3D5DAF1A0628F13D35C1C8165325839)
-- UXD笔记-公众号
-  - [百度搜索设计系统复盘:在复杂业务中制定组件规范](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9zDKP8dKQ_Wp2GD99J1LgJAjA91WT9pZ44H_a9lxJCPX6edrL53QecLATFp_Az2-8CxPnqTnlOF-zujxgOWbnboWwRa-aZF7Dj4XnK6WHWFD9Sc5f_F8E5Luos1wpAhnmykR8UjH_8Uy0fF25erraUCXpzW3M47UHsc3doZWLjYcCYioxHkzTmA..&type=1&query=UX_zixuan&token=A7FE41FF61B40ABBA8AEA18BDA1B92F9A91132F265325839)
-- 每天说设计-公众号
-  - [响应式酸性绿色极简主义风网站|源文件分享](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qD6mkaua1YQP89pYJBJJtmq1qXa8Fplpd9QV2Pk62_YCS43bJwyX3KC7b_KAmLZy4bv2QXr9V_ia-9eCgOPBky8mPSB94RRaEAkfyv0nSPS-bqN5Ds_hQEbUc4PHqT262oJbx5kJRKp8_AkAuYxJ6fdXZGPnPqpNKPoILrgqm6yIBcJMFFv4nOxJf2gg8X_f9K0I7BGqHZB4ACn9lOoZLP2Q..&type=1&query=beijingyongcan&token=A7FE41633A3EA01603020C2771B5DEC40475973E65325839)
+  - [isWechat](False)
 - AIGC - 优设网 - 学设计上优设
   - [8 个 AI 时代的产品设计工作新机遇！你 get 到了吗？](https://www.uisdc.com/group/535827.html)
+  - [isWechat](False)
   - [超全熬夜整理！96 个 Midjourney 艺术家提示词合集！](https://www.uisdc.com/group/535634.html)
   - [Stable Diffusion 电商教程！2 步分解手持化妆品模特制作思路](https://www.uisdc.com/group/535624.html)

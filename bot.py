@@ -74,13 +74,18 @@ class wecomBot:
     def parse_results(results: list):
         text_list = []
         mainText = ""
+        wechatText = ""
         for result in results:
             (feed, value), = result.items()
             text = f'## {feed}\n'
             for title, link in value.items():
                 text += f'- [{title}]({link})\n'
-            mainText += text
+            if value.get("isWechat"):
+                wechatText += text
+            else:
+                mainText += text
         text_list.append(mainText)
+        text_list.append(wechatText)
         return text_list
 
     async def send(self, text_list: list):
