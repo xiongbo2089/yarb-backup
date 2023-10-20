@@ -107,6 +107,7 @@ class wecomBot:
             else:
                 console.print('[-] wecomBot 发送失败', style='bold red')
                 print(r.text)
+            break
 
 
 class dingtalkBot:
