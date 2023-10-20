@@ -74,7 +74,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
     """获取文章线程"""
     def filter(title: str, summary: str):
         if url.startswith('https://pyrsshub.vercel.app'):
-            return False
+            return True
         """过滤文章"""
         for i in conf['include']:
             if i in title or i in summary:

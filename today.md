@@ -1,2 +1,21 @@
 # 每日安全资讯（2023-10-20）
 
+- UIED用户体验学习平台
+  - [第二十三期：AYONG_BDR周练-16](https://www.uied.cn/25585.html)
+  - [AIGC｜如何使用ChatGPT定制各种实用小工具？](https://www.uied.cn/37754.html)
+  - [BLUE周刊-Vol.070](https://www.uied.cn/35274.html)
+  - [Stable Diffusion | 商业应用：服装换模特](https://www.uied.cn/36944.html)
+  - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
+  - [可视化设计分享 -《黑衣人：全球追缉》FUI](https://www.uied.cn/25590.html)
+  - [Stable Diffusion | 商业应用：电商产品海报—啤酒](https://www.uied.cn/36947.html)
+  - [Stable Diffusion | 商业应用：电商产品海报—赛博音响KV](https://www.uied.cn/36949.html)
+  - [Stable Diffusion | Ai绘画：常见通用咒语提示词-人物-服装（2）](https://www.uied.cn/36950.html)
+- Designer News Feed
+  - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
+- 人工智能-UIED用户体验学习平台
+  - [Stable Diffusion](https://www.uied.cn/36945.html)
+  - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
+- AIGC - 优设网 - 学设计上优设
+  - [8 个 AI 时代的产品设计工作新机遇！你 get 到了吗？](https://www.uisdc.com/group/535827.html)
+  - [超全熬夜整理！96 个 Midjourney 艺术家提示词合集！](https://www.uisdc.com/group/535634.html)
+  - [Stable Diffusion 电商教程！2 步分解手持化妆品模特制作思路](https://www.uisdc.com/group/535624.html)
