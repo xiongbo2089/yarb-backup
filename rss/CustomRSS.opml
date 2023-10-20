@@ -13,5 +13,18 @@
            <outline type="rss" text="淘宝ued" title="淘宝ued" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/d0c82477-13e0-4a21-b22f-91f3dd82e946.xml" htmlUrl="http://ued.taobao.org" />
            <outline type="rss" text="群核MCUX" title="群核MCUX" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/4cf55f27-4be0-4317-98c5-94825c568327.xml" htmlUrl="http://ued.taobao.org" />
            <outline type="rss" text="智设周刊" title="智设周刊" xmlUrl="https://rss.app/feeds/4BOLFGdadzAVuEOI.xml" htmlUrl="https://www.uied.cn/feed" />
+           <outline type="rss" text="归藏的工具箱" title="归藏的工具箱" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/9b2166ba-ecb0-4337-903a-6ca95acac04d.xml" htmlUrl="https://www.uied.cn/feed" />
+           <outline type="rss" text="公众号-乐伊体验笔记" title="公众号-乐伊体验笔记" xmlUrl="https://rssh-ub-sand-chi.vercel.app/wechat/mp/msgalbum/Mzg4Mjg3Nzc0MA==/2741589484911198210" htmlUrl="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4Mjg3Nzc0MA==&action=getalbum&album_id=2741589484911198210&scene=173&from_msgid=2247488892&from_itemidx=1&count=3&nolastread=1#wechat_redirect" />
+           <outline type="rss" text="每天说设计-最新" title="每天说设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" htmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" />
+           <outline type="rss" text="知学释疑-最新" title="知学释疑-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" htmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" />
+           <outline type="rss" text="龙爪槐守望者-最新" title="龙爪槐守望者-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/ftium4_wx" htmlUrl="https://pyrsshub.vercel.app/mp/gh/ftium4_wx" />
+           <outline type="rss" text="智设AI-最新" title="智设AI-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_8b4e27e69b85" htmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_8b4e27e69b85" />
+           <outline type="rss" text="乐伊体验笔记-最新" title="乐伊体验笔记-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/designer-roy0101" htmlUrl="https://pyrsshub.vercel.app/mp/gh/designer-roy0101" />
+           <outline type="rss" text="阅文体验设计YUX-最新" title="阅文体验设计YUX-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/YUX_design" htmlUrl="https://pyrsshub.vercel.app/mp/gh/YUX_design" />
+           <outline type="rss" text="58UXD-最新" title="58UXD-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/i58UXD" htmlUrl="https://pyrsshub.vercel.app/mp/gh/i58UXD" />
+           <outline type="rss" text="百度MEUX-最新" title="百度MEUX-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/baidumeux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/baidumeux" />
+           <outline type="rss" text="歸藏的AI工具箱-最新" title="歸藏的AI工具箱-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" />
+           <outline type="rss" text="量子位-最新" title="量子位-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/QbitAI" htmlUrl="https://pyrsshub.vercel.app/mp/gh/QbitAI" />
+
       </body>
 </opml>
