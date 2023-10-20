@@ -96,11 +96,16 @@ def parseThread(conf: dict, url: str, proxy_url=''):
         title = r.feed.title
         for entry in r.entries:
             dstr = entry.get('published_parsed') or entry.get('updated_parsed')
+            console.print(f'[-] date: {dstr}')
             if not dstr:
                 dstr = entry.get('published') or entry.get('updated')
+                console.print(f'[-] date1: {dstr}')
                 if dstr:
                     dstr = datetime.datetime.fromtimestamp(int(dstr)).date()
+                    console.print(f'[-] date2: {dstr}')
                 pubday = datetime.date(dstr.year, dstr.month, dstr.day)
+                console.print(f'[-] date3: {pubday}')
+                console.print(f'[-] date4: {(pubday >= yesterday)}')
             else:
                 pubday = datetime.date(dstr[0], dstr[1], dstr[2])
             yesterday = datetime.date.today() + datetime.timedelta(-1)
