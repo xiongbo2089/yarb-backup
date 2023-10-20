@@ -101,15 +101,13 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                     if dstr:
                         dstr = datetime.datetime.fromtimestamp(int(dstr)).date()
                 pubday = datetime.date(dstr.year, dstr.month, dstr.day)
-                isWechat = True
             else:
                 dstr = entry.get('published_parsed') or entry.get('updated_parsed')
                 pubday = datetime.date(dstr[0], dstr[1], dstr[2])
-                isWechat = False
 
             yesterday = datetime.date.today() + datetime.timedelta(-1)
             if (pubday >= yesterday) and filter(entry.title, entry.summary):
-                item = {entry.title: entry.link,"isWechat": isWechat}
+                item = {entry.title: entry.link}
                 print(item)
                 result |= item
         console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')

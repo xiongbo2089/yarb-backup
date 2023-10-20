@@ -73,19 +73,18 @@ class wecomBot:
     @staticmethod
     def parse_results(results: list):
         text_list = []
-        mainText = ""
-        wechatText = ""
+        main_text = ""
         for result in results:
             (feed, value), = result.items()
             text = f'## {feed}\n'
             for title, link in value.items():
-                text += f'- [{title}]({link})\n'
-            if value.get("isWechat"):
-                wechatText += text
-            else:
-                mainText += text
-        text_list.append(mainText)
-        text_list.append(wechatText)
+                new_line = f'- [{title}]({link})\n'
+                if len(main_text + text + new_line) > 4000:
+                    text_list.append(main_text)
+                    main_text = ''
+                text += new_line
+            main_text += text
+        text_list.append(main_text)
         return text_list
 
     async def send(self, text_list: list):
@@ -97,7 +96,7 @@ class wecomBot:
             limiter.try_acquire('identity')
             print(f'{len(text)} {text[:50]}...{text[-50:]}')
             console.print(f'[-] robot text: {text}', style='bold red')
-            
+
             data = {"msgtype": "markdown", "markdown": {"content": text}}
             headers = {'Content-Type': 'application/json'}
             url = f'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={self.key}'
