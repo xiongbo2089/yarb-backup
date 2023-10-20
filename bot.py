@@ -96,7 +96,8 @@ class wecomBot:
         for text in text_list:
             limiter.try_acquire('identity')
             print(f'{len(text)} {text[:50]}...{text[-50:]}')
-
+            console.print(f'[-] robot text: {text}', style='bold red')
+            
             data = {"msgtype": "markdown", "markdown": {"content": text}}
             headers = {'Content-Type': 'application/json'}
             url = f'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={self.key}'
