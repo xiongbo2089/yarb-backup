@@ -2,7 +2,6 @@
 
 import os
 import json
-import time
 import asyncio
 import schedule
 import pyfiglet
@@ -74,6 +73,8 @@ def update_rss(rss: dict, proxy_url=''):
 def parseThread(conf: dict, url: str, proxy_url=''):
     """获取文章线程"""
     def filter(title: str, summary: str):
+        if url.startswith('https://pyrsshub.vercel.app'):
+            return False
         """过滤文章"""
         for i in conf['include']:
             if i in title or i in summary:
@@ -94,9 +95,15 @@ def parseThread(conf: dict, url: str, proxy_url=''):
         r = feedparser.parse(r.content)
         title = r.feed.title
         for entry in r.entries:
-            d = entry.get('published_parsed') or entry.get('updated_parsed')
-            yesterday = datetime.date.today() + datetime.timedelta(-2)
-            pubday = datetime.date(d[0], d[1], d[2])
+            dstr = entry.get('published_parsed') or entry.get('updated_parsed')
+            if not dstr:
+                dstr = entry.get('published') or entry.get('updated')
+                if dstr:
+                    dstr = datetime.datetime.fromtimestamp(int(dstr)).date()
+                pubday = datetime.date(dstr.year, dstr.month, dstr.day)
+            else:
+                pubday = datetime.date(dstr[0], dstr[1], dstr[2])
+            yesterday = datetime.date.today() + datetime.timedelta(-1)
             if (pubday >= yesterday) and filter(entry.title, entry.summary):
                 item = {entry.title: entry.link}
                 print(item)
