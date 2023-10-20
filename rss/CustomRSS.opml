@@ -9,11 +9,7 @@
            <outline type="rss" text="智设周刊" title="智设周刊" xmlUrl="https://www.uied.cn/?feed=rss" htmlUrl="https://www.uied.cn/feed" />
            <outline type="rss" text="优设AIGC" title="优设AIGC" xmlUrl="https://rss.app/feeds/8cCU77NgyGuBaqjL.xml" htmlUrl="https://www.uisdc.com/news" />
            <outline type="rss" text="行业新闻" title="行业新闻" xmlUrl="https://rss.app/feeds/tNXps4iLzOpHu6xL.xml" htmlUrl="https://www.uisdc.com/category/hangye" />
-           <outline type="rss" text="腾讯isux" title="腾讯isux" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/4586986e-4fac-4cff-9369-4f670e70b5a8.xml" htmlUrl="http://isux.tencent.com" />
-           <outline type="rss" text="淘宝ued" title="淘宝ued" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/d0c82477-13e0-4a21-b22f-91f3dd82e946.xml" htmlUrl="http://ued.taobao.org" />
-           <outline type="rss" text="群核MCUX" title="群核MCUX" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/4cf55f27-4be0-4317-98c5-94825c568327.xml" htmlUrl="http://ued.taobao.org" />
            <outline type="rss" text="智设周刊" title="智设周刊" xmlUrl="https://rss.app/feeds/4BOLFGdadzAVuEOI.xml" htmlUrl="https://www.uied.cn/feed" />
-           <outline type="rss" text="归藏的工具箱" title="归藏的工具箱" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/9b2166ba-ecb0-4337-903a-6ca95acac04d.xml" htmlUrl="https://www.uied.cn/feed" />
            <outline type="rss" text="公众号-乐伊体验笔记" title="公众号-乐伊体验笔记" xmlUrl="https://rssh-ub-sand-chi.vercel.app/wechat/mp/msgalbum/Mzg4Mjg3Nzc0MA==/2741589484911198210" htmlUrl="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4Mjg3Nzc0MA==&action=getalbum&album_id=2741589484911198210&scene=173&from_msgid=2247488892&from_itemidx=1&count=3&nolastread=1#wechat_redirect" />
            <outline type="rss" text="每天说设计-最新" title="每天说设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" htmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" />
            <outline type="rss" text="知学释疑-最新" title="知学释疑-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" htmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" />
@@ -25,6 +21,11 @@
            <outline type="rss" text="百度MEUX-最新" title="百度MEUX-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/baidumeux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/baidumeux" />
            <outline type="rss" text="歸藏的AI工具箱-最新" title="歸藏的AI工具箱-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" />
            <outline type="rss" text="量子位-最新" title="量子位-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/QbitAI" htmlUrl="https://pyrsshub.vercel.app/mp/gh/QbitAI" />
+           <outline type="rss" text="UXD笔记-最新" title="UXD笔记-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/UX_zixuan" htmlUrl="https://pyrsshub.vercel.app/mp/gh/UX_zixuan" />
+           <outline type="rss" text="淘宝设计-最新" title="淘宝设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/ali-taobaoued" htmlUrl="https://pyrsshub.vercel.app/mp/gh/ali-taobaoued" />
+           <outline type="rss" text="腾讯isux-最新" title="腾讯isux-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/tencent_isux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/tencent_isux" />
+           <outline type="rss" text="群核科技用户体验设计-最新" title="群核科技用户体验设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/KUX_KUJIALE" htmlUrl="https://pyrsshub.vercel.app/mp/gh/KUX_KUJIALE" />
+           <outline type="rss" text="歸藏的AI工具箱-最新" title="歸藏的AI工具箱-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" />
 
       </body>
 </opml>

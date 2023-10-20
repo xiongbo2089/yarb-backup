@@ -1,5 +1,7 @@
 # 每日安全资讯（2023-10-20）
 
+- 58UXD-公众号
+  - [3D看盘-数字孪生可视化是如何应用与落地的](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDDvYbQFQ856Q9pYJBJJtmq1qXa8Fplpd9P5pndpWRGR9XJ71EnSaZSaDlu8Fj8GQ0qHmbw5xNRyCsqMY6pGe86jNG44Pb1F2m_7s_gC_mcYuLRYWrPaVfABtESnWIIpEwpEo7niwKexghmac1Gmxq0qOqYW_46B9hoZijrQ7cFtxX4RxxPG6orxdK6CgPL3UM67iyA4GnBoMY-UZGbO56rA..&type=1&query=i58UXD&token=A773792C2DD0A01507000F249B449F3F07769AC565324A3C)
 - UIED用户体验学习平台
   - [第二十三期：AYONG_BDR周练-16](https://www.uied.cn/25585.html)
   - [AIGC｜如何使用ChatGPT定制各种实用小工具？](https://www.uied.cn/37754.html)
@@ -10,11 +12,19 @@
   - [Stable Diffusion | 商业应用：电商产品海报—啤酒](https://www.uied.cn/36947.html)
   - [Stable Diffusion | 商业应用：电商产品海报—赛博音响KV](https://www.uied.cn/36949.html)
   - [Stable Diffusion | Ai绘画：常见通用咒语提示词-人物-服装（2）](https://www.uied.cn/36950.html)
-- Designer News Feed
-  - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
+- 歸藏的AI工具箱-公众号
+  - [想玩 AI 画图和视频却没好电脑?藏师傅手把手教你云端部署 SD 生成 ...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDDvYbQFQ856Q9pYJBJJtmq1qXa8Fplpd9U1D6ZmP8dZjcNyIV9q72ZmpbagsX3ac0zuvBldViN2mE2CVmOFAb4K6F5gZ8OpgddxIgJ0ATXzZlNE1RAQqtdYCi1yi6EE2gn2_mDZijfD4tBmxbbuQ-ivWLiNSToeoo3Rv9zCNhEWASHI0_C1z1wZXpOuwFCi4al-TfWT28_6D2CsG6-xMgzQ..&type=1&query=op7418ux&token=A7737B2BAD5A932131373913AD761D5131345FFE65324A3C)
+- 每天说设计-公众号
+  - [响应式酸性绿色极简主义风网站|源文件分享](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDDvYbQFQ856Q9pYJBJJtmq1qXa8Fplpd9QV2Pk62_YCS43bJwyX3KC7b_KAmLZy4bv2QXr9V_ia-9eCgOPBky8mPSB94RRaEAkfyv0nSPS-bqN5Ds_hQEbWw1NHxRsQi41YgadAnQ6lY-dWDL6YDf36WSbMTbMEox_M2bQ2vmK-DdZfT7IQsR-Zq45r96YX7i995egceE56ZflztgI7RZ1g..&type=1&query=beijingyongcan&token=A7737B1806B1B35E75707E54EB33989676D2471265324A3C)
+- 量子位-公众号
+  - [arXiv可算有钱搞服务器了:新获1000万美元捐款,正在线火热招人](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDDvYbQFQ856Q9pYJBJJtmq1qXa8Fplpd9anQbMOgR2jFCPn-yNRZvMlSSwgrg-XNlRFrPrWkzkSV3fFU34HsaJYZmpDHnR3BwLqbvqI3dwn_7Il5nrI1neobDENUv__xlhbUrzewKVNmwl1v8V9bjeijg0UZInig0LLV_cgoWYWlJOEiR1YFEEMvXV6Ck9sh9HJEIz_Zk48u00NVofL2iDw..&type=1&query=QbitAI&token=A7737B51D9A538D5FEF9F7DD63B9CACEFF44C78D65324A3C)
+- 知学释疑-公众号
+  - [LibreCAD 一款开源免费的CAD 制图软件](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4L0JFzOJ4qDDvYbQFQ856Q9pYJBJJtmq1qXa8Fplpd9ydGsKmuglDBawXdeErIn5Ri_nTHdDrhY4uU0Jm3_4il4F-Wvc9XQEPufesCr8B3dKJe4NpqeFDP9kExKc3JqEGMa2mnkREy69jmRsuUcAcntJo0kaBXwsDIHJAYsEb6LZmdevYDcgvKa6Ev15Cx4rlk6IwvsfC-n_hT_9sdkmirvzHZXxeLdyg..&type=1&query=metinlearn&token=A7737B27E28016A7B5B3BC9728F23E94B580DD7465324A3C)
 - 人工智能-UIED用户体验学习平台
   - [Stable Diffusion](https://www.uied.cn/36945.html)
   - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
+- Designer News Feed
+  - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
 - AIGC - 优设网 - 学设计上优设
   - [8 个 AI 时代的产品设计工作新机遇！你 get 到了吗？](https://www.uisdc.com/group/535827.html)
   - [超全熬夜整理！96 个 Midjourney 艺术家提示词合集！](https://www.uisdc.com/group/535634.html)
