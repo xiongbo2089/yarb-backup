@@ -26,6 +26,8 @@
            <outline type="rss" text="腾讯isux-最新" title="腾讯isux-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/tencent_isux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/tencent_isux" />
            <outline type="rss" text="群核科技用户体验设计-最新" title="群核科技用户体验设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/KUX_KUJIALE" htmlUrl="https://pyrsshub.vercel.app/mp/gh/KUX_KUJIALE" />
            <outline type="rss" text="歸藏的AI工具箱-最新" title="歸藏的AI工具箱-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" htmlUrl="https://pyrsshub.vercel.app/mp/gh/op7418ux" />
-
+           <outline type="rss" text="前端早读课-最新" title="前端早读课-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/FeZaoDuKe" htmlUrl="https://pyrsshub.vercel.app/mp/gh/FeZaoDuKe" />
+           <outline type="rss" text="卡尔的AI沃茨-最新" title="卡尔的AI沃茨-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/LearnPrompt4Free" htmlUrl="https://pyrsshub.vercel.app/mp/gh/LearnPrompt4Free" />
+           <outline type="rss" text="且曼B端产品设计-最新" title="且曼B端产品设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/tobuxd" htmlUrl="https://pyrsshub.vercel.app/mp/gh/tobuxd" />
       </body>
 </opml>
