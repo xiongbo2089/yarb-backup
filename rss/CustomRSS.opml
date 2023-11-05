@@ -8,6 +8,8 @@
            <outline type="rss" text="designernews" title="designernews" xmlUrl="https://www.designernews.co/?format=rss" htmlUrl="https://www.designernews.co" />
            <outline type="rss" text="uied-UI" title="UI" xmlUrl="https://www.uied.cn/category/wenzhang/ui-wenzhang/feed" htmlUrl="https://www.uisdc.com/news" />
            <outline type="rss" text="uied-ai" title="uied-ai" xmlUrl="https://www.uied.cn/category/wenzhang/ai/feed" htmlUrl="https://www.uisdc.com/category/hangye" />
+           <outline type="rss" text="uied-素材设计周刊" title="uied-ai" xmlUrl="https://www.uied.cn/search/%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/feed/rss2/" htmlUrl="https://www.uisdc.com/category/hangye" />
+           <outline type="rss" text="uied-效率工具" title="uied-ai" xmlUrl="https://www.uied.cn/category/wenzhang/tool/feed" htmlUrl="https://www.uisdc.com/category/hangye" />
            <outline type="rss" text="公众号-乐伊体验笔记" title="公众号-乐伊体验笔记" xmlUrl="https://rssh-ub-sand-chi.vercel.app/wechat/mp/msgalbum/Mzg4Mjg3Nzc0MA==/2741589484911198210" htmlUrl="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4Mjg3Nzc0MA==&action=getalbum&album_id=2741589484911198210&scene=173&from_msgid=2247488892&from_itemidx=1&count=3&nolastread=1#wechat_redirect" />
            <outline type="rss" text="每天说设计-最新" title="每天说设计-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" htmlUrl="https://pyrsshub.vercel.app/mp/gh/beijingyongcan" />
            <outline type="rss" text="知学释疑-最新" title="知学释疑-最新" xmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" htmlUrl="https://pyrsshub.vercel.app/mp/gh/metinlearn" />
