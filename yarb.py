@@ -100,25 +100,47 @@ def parseThread(conf: dict, url: str, proxy_url=''):
     title = ''
     result = {}
     try:
-        r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
-        r = feedparser.parse(r.content)
-        title = r.feed.title
-        for entry in r.entries:
-            if url.startswith('https://pyrsshub.vercel.app'):
-                dstr = entry.get('published') or entry.get('updated')
-                if dstr:
-                    if dstr:
-                        dstr = datetime.datetime.fromtimestamp(int(dstr)).date()
-                pubday = datetime.date(dstr.year, dstr.month, dstr.day)
+        if url.startswith("https://svc-drcn.developer.huawei.com"):
+            # 请求的参数
+            payload = {
+                "pageSize": 16,
+                "pageIndex": 1,
+                "type": 2
+            }
+            title = '鸿蒙官网'
+            # 发送POST请求
+            response = requests.post(url, json=payload)
+            if response.status_code == 200:
+                # 打印返回的JSON数据item["blogId"]
+                for entry in response.json()["resultList"]:
+                    yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y%m%d%H%M%S")
+                    if (entry['previewContent'] >= yesterday) and filter(entry['title'], entry['previewContent']):
+                        item = {entry['title']: f"https://developer.huawei.com/consumer/cn/blog/topic/{entry['blogId']}"}
+                        print(item)
+                        result |= item
             else:
-                dstr = entry.get('published_parsed') or entry.get('updated_parsed')
-                pubday = datetime.date(dstr[0], dstr[1], dstr[2])
+                print(f"请求失败，状态码：{response.status_code}")
 
-            yesterday = datetime.date.today() + datetime.timedelta(-1)
-            if (pubday >= yesterday) and filter(entry.title, entry.summary):
-                item = {entry.title: entry.link}
-                print(item)
-                result |= item
+        else:
+            r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
+            r = feedparser.parse(r.content)
+            title = r.feed.title
+            for entry in r.entries:
+                if url.startswith('https://pyrsshub.vercel.app'):
+                    dstr = entry.get('published') or entry.get('updated')
+                    if dstr:
+                        if dstr:
+                            dstr = datetime.datetime.fromtimestamp(int(dstr)).date()
+                    pubday = datetime.date(dstr.year, dstr.month, dstr.day)
+                else:
+                    dstr = entry.get('published_parsed') or entry.get('updated_parsed')
+                    pubday = datetime.date(dstr[0], dstr[1], dstr[2])
+
+                yesterday = datetime.date.today() + datetime.timedelta(-1)
+                if (pubday >= yesterday) and filter(entry.title, entry.summary):
+                    item = {entry.title: entry.link}
+                    print(item)
+                    result |= item
         console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
     except Exception as e:
         console.print(f'[-] failed: {url}', style='bold red')
