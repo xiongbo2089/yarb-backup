@@ -34,7 +34,12 @@ jobs:
       - name: Commit
         run: |
           git diff
-          git config --global user.email firmianay@gmail.com
-          git config --global user.name firmianay
+          git config --global user.email 463078220@qq.com
+          git config --global user.name xiongbo2089
           git add today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ github.token }}
