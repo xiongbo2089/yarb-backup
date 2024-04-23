@@ -36,5 +36,5 @@ jobs:
           git diff
           git config --global user.email firmianay@gmail.com
           git config --global user.name firmianay
-          git add archive today.md
+          git add today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
