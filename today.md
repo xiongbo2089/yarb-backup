@@ -36,3 +36,5 @@
   - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
 - Designer News Feed
   - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
+- 鸿洋-公众号
+  - [用BuildSrc管理Android依赖版本已经过时了?Catalogs才是版本答案?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5fQNdvcaF6kz-RnkuYuLRKW1qXa8Fplpd9ksNemaS2DxB4BDpDfOmlqQRCV7a1ujTGUBsm1xbaLj3vRGOu8Y6VaUt5dMdbMmGt8Y3EBTd2PufWUkP6_Blm_py9CvuNDdKNiMNFUWSgMv3mujFSxCF7uZPkMjnQ0SugHG9oJmnPULPGSGOd2yhZx1KcWUvfkB-8mycaUt0GBpOjotuuiAmOIg..&type=1&query=hongyangAndroid&token=DF995996E6F2D160727465B02BF2378B73B603F46627B467)
