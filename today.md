@@ -65,3 +65,16 @@
   - [支持电影票预订商圈查询服务，华为鸿蒙全新小艺“智慧语音”App 获推 12.1.2.400 众测更新](https://www.ithome.com/0/757/593.htm)
   - [百度推出华为鸿蒙 HarmonyOS NEXT 地图 SDK](https://www.ithome.com/0/757/575.htm)
   - [高德发布华为鸿蒙 HarmonyOS NEXT 定位、地图 SDK](https://www.ithome.com/0/757/527.htm)
+- 鸿蒙开发者社区-公众号
+  - [基于鸿蒙开发的碳监控APP](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5ftFaR0rmmTySRnkuYuLRKW1qXa8Fplpd9soVATUf38YbqiQwnUvA7JMK2KV9pSZZ5EsHblPwh7oWg-64uCwDFuwLD5cBQg7xS8qeXgNI8qp3DyhDoekqc8-8ozvvGQYEVkrcMO9_F9py3T8wEq_TdG2g89dOzqWBgGtU0LDLIj5UP1NVHOBX5C18MFvqB14-LsgL3KNzJgtBOJBjQH7pCxQ..&type=1&query=gh_4d9eccaaf99e&token=DFABF35342D534819395845013DF44F293245D346627B714)
+- 鸿蒙新闻中心：最新最热的华为HarmonyOS鸿蒙动态新闻，HarmonyOS最新版本和功能改进抢先预告
+  - [华为 HDC 2024 开发者大会售票网站上线，鸿蒙星河版将开启 Beta 测试](https://www.ithome.com/0/763/683.htm)
+  - [中国铁路 12306 完成华为鸿蒙 HarmonyOS NEXT 原生应用核心版本开发](https://www.ithome.com/0/763/674.htm)
+- 鸿洋-公众号
+  - [用BuildSrc管理Android依赖版本已经过时了?Catalogs才是版本答案?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5ftFaR0rmmTySRnkuYuLRKW1qXa8Fplpd9ksNemaS2DxB4BDpDfOmlqQRCV7a1ujTGUBsm1xbaLj3vRGOu8Y6VaUt5dMdbMmGt8Y3EBTd2PufWUkP6_Blm_jb9tygUb3xmWnwo8mBE_iJfeyqRjZq04yVeZjadz2802ClqSAvyT91GRzS2HU7SLojCVIXOaqbHkcZOddN6gZbRtmyIGw2VAg..&type=1&query=hongyangAndroid&token=DFABF47D5E4969DBC9CCDC094B994F29CA81A7C36627B714)
+- 鸿蒙官网
+  - [鸿蒙开发实战：【系统服务框架部件】](https://developer.huawei.com/consumer/cn/blog/topic/03149273314797048)
+  - [鸿蒙原生应用元服务-访问控制（权限）开发应用权限列表一](https://developer.huawei.com/consumer/cn/blog/topic/03149251282271078)
+  - [deveco studio与Android studio类比下的小建议](https://developer.huawei.com/consumer/cn/blog/topic/03149219740623044)
+  - [填充组件的使用Blank](https://developer.huawei.com/consumer/cn/blog/topic/03149194370815054)
+  - [鸿蒙原生应用元服务-访问控制（权限）开发校验环节](https://developer.huawei.com/consumer/cn/blog/topic/03149188049593043)
