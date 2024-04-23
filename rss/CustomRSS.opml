@@ -4,6 +4,6 @@
             <title>Feed Subscriptions</title>
       </head>
       <body>
-           <outline type="rss" text="51cto" title="51cto" xmlUrl="https://rsshub.app/51cto/index/recommend" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="鸿洋" title="鸿洋" xmlUrl="https://pyrsshub.vercel.app/mp/gh/hongyangAndroid" htmlUrl="http://www.ftium4.com/" />
       </body>
 </opml>
