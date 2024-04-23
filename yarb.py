@@ -20,29 +20,24 @@ requests.packages.urllib3.disable_warnings()
 
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 
-
 def update_today(data: list=[]):
     """更新today"""
     root_path = Path(__file__).absolute().parent
     data_path = root_path.joinpath('temp_data.json')
     today_path = root_path.joinpath('today.md')
-    archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today}.md')
 
     if not data and data_path.exists():
         with open(data_path, 'r') as f1:
             data = json.load(f1)
 
-    archive_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# 每日安全资讯（{today}）\n\n'
+    with open(today_path, 'a') as f1:
+        content = ''
         for item in data:
             (feed, value), = item.items()
             content += f'- {feed}\n'
             for title, url in value.items():
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
-        f2.write(content)
-
 
 def update_rss(rss: dict, proxy_url=''):
     """更新订阅源文件"""
@@ -72,10 +67,24 @@ def update_rss(rss: dict, proxy_url=''):
 
 def parseThread(conf: dict, url: str, proxy_url=''):
     """获取文章线程"""
+
     def filter(title: str, summary: str):
         if url.startswith('https://pyrsshub.vercel.app'):
             return True
         """过滤文章"""
+        # 读取today.md文件
+        today_md_path = root_path.joinpath('today.md')
+        if today_md_path.exists():
+            with open(today_md_path, 'r') as f:
+                today_md_content = f.read()
+        else:
+            today_md_content = ""
+
+        # 检查标题是否在today.md文件中
+        if title in today_md_content:
+            return False  # 如果标题已存在，过滤掉
+
+        # 原有的过滤逻辑
         for i in conf['include']:
             if i in title or i in summary:
                 return True
