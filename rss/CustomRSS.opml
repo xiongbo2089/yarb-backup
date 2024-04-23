@@ -21,5 +21,8 @@
            <outline type="rss" text="HarmonyOS-official" title="HarmonyOS-official" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS-official" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="HarmonyOS_Dev" title="HarmonyOS_Dev" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS_Dev" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="51cto" title="51cto" xmlUrl="https://politepol.com/fd/tRJRfbzSu1FX.xml" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="IT之家" title="IT之家" xmlUrl="https://politepol.com/fd/WjkQGE5FfFnW.xml" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="鸿蒙新闻" title="鸿蒙新闻" xmlUrl="https://politepol.com/fd/MQ255plWGVhw.xml" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="华为鸿蒙论坛" title="华为鸿蒙论坛" xmlUrl="https://politepol.com/fd/wOC8R6N0jr2l.xml" htmlUrl="http://www.ftium4.com/" />
       </body>
 </opml>
