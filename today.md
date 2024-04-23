@@ -1,42 +1,67 @@
-# 每日安全资讯（2023-10-20）
-- 阅文体验设计YUX-公众号
-  - [WEBNOVEL: Read Your Adventures](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9aj-NiIEoZ6ljiNLtzt43znTopd0dN2gATUJlQcXE9G_vn3qiB5r6HIO-VS2zPdcaZS7aBCsTne8rMtqxNd4jrXm63fp3Rnrcbdu-FBU8N-kjzvrhLetZqUCkII3_kjz74Odl_lWuISYkv98KbZ-FdHUvFiN2UYFZWQXu2dlnw76E8RsmObDbtQ..&type=1&query=YUX_design&token=A906656EF67FB75B707778557E8F004971BE24AD6532734F)
-- 歸藏的AI工具箱-公众号
-  - [想玩 AI 画图和视频却没好电脑?藏师傅手把手教你云端部署 SD 生成 ...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9U1D6ZmP8dZjcNyIV9q72ZmpbagsX3ac0zuvBldViN2mE2CVmOFAb4BIYP5GVhhSjZAGLrBwnAiSWgTl2UYuYju2I9-Sdjy53M6_qEJbr0iy75-SnFKVvS_SQ0ifSHU1JRbQ6IqbT4NxPNVfn4Z2Sz0Wd1eqXBaISYGtl_oN-hJ9FH6In5Ei3zg..&type=1&query=op7418ux&token=A906673DFBF3BE0A181E103D081554F8189BBF496532734F)
-- UXD笔记-公众号
-  - [百度搜索设计系统复盘:在复杂业务中制定组件规范](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9zDKP8dKQ_Wp2GD99J1LgJAjA91WT9pZ44H_a9lxJCPX6edrL53QecGj0gH9Yut4_eFvIpkp85342p9EZcTT08lZjzIGtLWYADrTE3c2ffdNiP_aNl5FBiKslcmK91tsuGnFS9K2YjyLUER6BnzV18yHOEJOgSBmJuhBkFKTplo3uL0unUdKkuw..&type=1&query=UX_zixuan&token=A906657094388D3F2E28260A21D05E172F7C317A6532734F)
-- 58UXD-公众号
-  - [3D看盘-数字孪生可视化是如何应用与落地的](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9P5pndpWRGR9XJ71EnSaZSaDlu8Fj8GQ0qHmbw5xNRyCsqMY6pGe86viv4AdnF-pqLvDNUE6bhSCE63k6mCtBhyGDCDtr-J6xDJ3hESEkrHrKC1G9kd9QlSzxV-MwMyeIGTsBaWSFphMlruAcrdun0pW_N4yDjZe4HzzGb2AfllVFH6In5Ei3zg..&type=1&query=i58UXD&token=A9066599DFA3A2EFFF0608250FFF908700EDA7856532734F)
-- 淘宝设计-公众号
-  - [无痛成才的淘宝设计新人计划,你想来吗?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9pbrkR7BLhYn7Uu1jIMpzOriCVNp_8Oz1BpEJZFZv0mT8twV9oEzNjCxnya6jiMqjbK_JIhDUTRZalFuBkt-QANB4HO3-Zdn23Hg-s6zugYgaOQgeDcVxZxmRncGWgfqOrXMZv8xWeiK3EmikDnZgV3rTVMFHjOyB9IBVKmSRZoYY-UZGbO56rA..&type=1&query=ali-taobaoued&token=A90665A3160B41F4E7E0EFC3E8184D37E7DE6ADE6532734F)
-- 知学释疑-公众号
-  - [LibreCAD 一款开源免费的CAD 制图软件](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9ydGsKmuglDBawXdeErIn5Ri_nTHdDrhY4uU0Jm3_4il4F-Wvc9XQEEtUBP8bYvFlrBDb3RkdoRigsirfeqwjVRCIjhv2gekvZ6Elp61vzf8nY7kQNAZ9Pf_1BjLrx4n5jOXU6J0bOSGde-QjvCnj22xl0SNTszphg8ZBy8z8W6QSYTqT4eyLmA..&type=1&query=metinlearn&token=A90665909A3709BEABAAA489A454379BAC09D7AF6532734F)
-- 量子位-公众号
-  - [arXiv可算有钱搞服务器了:新获1000万美元捐款,正在线火热招人](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9anQbMOgR2jFCPn-yNRZvMlSSwgrg-XNlRFrPrWkzkSV3fFU34HsaJVSCayKv2RsxUrdeXxLUJRzQKnsYbY4pQd0QVX_qB8X1B_SAsaKViLePKwBtpLffqdtYo2xwZB3wgXfqULwROgmKrryFBt7AMqZ85z707wTWyibTNBe06G46Ebq8fk9diw..&type=1&query=QbitAI&token=A90667396F7BCF22090F002C180A3519093FBD856532734F)
-- 每天说设计-公众号
-  - [响应式酸性绿色极简主义风网站|源文件分享](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd9QV2Pk62_YCS43bJwyX3KC7b_KAmLZy4bv2QXr9V_ia-9eCgOPBky8mlCtR7kxklwGXk94VSSLZOy-M-btEh6qsC9FIDiRvi-pvFcoPnYCzhtiWTC_T6-TU6vzzbWkFL8IFp-5QgqQc8KjbGAROwRHo1KFKK9mZZ7X7hnioGXxZjvzHZXxeLdyg..&type=1&query=beijingyongcan&token=A906658CCB7D4BF8E7E1E0CDE71791EFE8E3F33E6532734F)
-- UIED用户体验学习平台
-  - [【AI电商设计】奢华电商展台300张高清素材包免费分享](https://www.uied.cn/37839.html)
-  - [Midjourney | 商业应用教程：电商产品海报—空气净化器](https://www.uied.cn/36956.html)
-  - [第二十三期：AYONG_BDR周练-16](https://www.uied.cn/25585.html)
-  - [AIGC｜如何使用ChatGPT定制各种实用小工具？](https://www.uied.cn/37754.html)
-  - [BLUE周刊-Vol.070](https://www.uied.cn/35274.html)
-  - [Stable Diffusion | 商业应用：服装换模特](https://www.uied.cn/36944.html)
-  - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
-  - [可视化设计分享 -《黑衣人：全球追缉》FUI](https://www.uied.cn/25590.html)
-  - [Stable Diffusion | 商业应用：电商产品海报—啤酒](https://www.uied.cn/36947.html)
-- AIGC - 优设网 - 学设计上优设
-  - [8 个 AI 时代的产品设计工作新机遇！你 get 到了吗？](https://www.uisdc.com/group/535827.html)
-  - [超全熬夜整理！96 个 Midjourney 艺术家提示词合集！](https://www.uisdc.com/group/535634.html)
-  - [Stable Diffusion 电商教程！2 步分解手持化妆品模特制作思路](https://www.uisdc.com/group/535624.html)
-- 腾讯ISUX-公众号
-  - [古物焕新 | 腾讯探元文化创新大赛正式开启](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4X3JhXu1MOfPdKkfUApcMw9pYJBJJtmq1qXa8Fplpd93COTKQRbTKkZ0-l3I-B9IRAnVh08yR2HfXEIg2x2iYkkq2fcvSphKMA8cxfjTIPGUIPWbrRoTx5lDZJAPdrbTdgjgfgU0vp0kqHrfW5Csx3kCEAkneXl07HYAMkUIWgYGBDglaWC0udceOw02CGU_aWoycpj9xm5rTa-opv9VssCYioxHkzTmA..&type=1&query=tencent_isux&token=A90665984D7963ADC0C6C89ACF4060A7C0A96E096532734F)
-- 人工智能-UIED用户体验学习平台
-  - [Stable Diffusion](https://www.uied.cn/36945.html)
-  - [Stable Diffusion | 插件：Segment Anything（分离图像元素)](https://www.uied.cn/36943.html)
-- Designer News Feed
-  - [5-minute bite-sized weekly newsletter for code-loving UX/UI designers.](https://www.designernews.co/stories/136333-5minute-bitesized-weekly-newsletter-for-codeloving-uxui-designers)
+- OSCHINA 社区最新新闻
+  - [鸿蒙之父王成录：开源鸿蒙是我国基础软件领域唯一一次架构创新](https://www.oschina.net/news/288918)
 - 鸿洋-公众号
-  - [用BuildSrc管理Android依赖版本已经过时了?Catalogs才是版本答案?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5fQNdvcaF6kz-RnkuYuLRKW1qXa8Fplpd9ksNemaS2DxB4BDpDfOmlqQRCV7a1ujTGUBsm1xbaLj3vRGOu8Y6VaUt5dMdbMmGt8Y3EBTd2PufWUkP6_Blm_py9CvuNDdKNiMNFUWSgMv3mujFSxCF7uZPkMjnQ0SugHG9oJmnPULPGSGOd2yhZx1KcWUvfkB-8mycaUt0GBpOjotuuiAmOIg..&type=1&query=hongyangAndroid&token=DF995996E6F2D160727465B02BF2378B73B603F46627B467)
-- 鸿洋-公众号
-  - [用BuildSrc管理Android依赖版本已经过时了?Catalogs才是版本答案?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5fZnJwVRuycrCRnkuYuLRKW1qXa8Fplpd9ksNemaS2DxB4BDpDfOmlqQRCV7a1ujTGUBsm1xbaLj3vRGOu8Y6VaUt5dMdbMmGt8Y3EBTd2PufWUkP6_Blm_lfL2Owt_XCdjt7dfCUFtfeIYo-hfbW6MjwSEaMzIcagg6cmcYHdNUMXChDx155eaq10NB2r58C9M0PEUftfNF7RtmyIGw2VAg..&type=1&query=hongyangAndroid&token=DF9BC4BA62F417A3B1B4A472EC25E2B2B251C6C56627B4BC)
+  - [用BuildSrc管理Android依赖版本已经过时了?Catalogs才是版本答案?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5fxgFBW-nk33-RnkuYuLRKW1qXa8Fplpd9ksNemaS2DxB4BDpDfOmlqQRCV7a1ujTGUBsm1xbaLj3vRGOu8Y6VaUt5dMdbMmGt8Y3EBTd2PufWUkP6_Blm_hlyrISuo2pEwCkWD7AwlepFjic7MPbk_me3toEN9Vku3Rrs4K3eHe7XknIHDufrtYd5RLc4FqGqgLmNW0l2bCuFW6cwuUnkdA..&type=1&query=hongyangAndroid&token=DF9BF4F38EB73BD6FDFAEA3FA2F49EC4FD4CF89A6627B4C4)
+- 鸿蒙开发者社区-公众号
+  - [基于鸿蒙开发的碳监控APP](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS71et5xFxM5fxgFBW-nk33-RnkuYuLRKW1qXa8Fplpd9soVATUf38YbqiQwnUvA7JMK2KV9pSZZ5EsHblPwh7oWg-64uCwDFuwLD5cBQg7xS8qeXgNI8qp3DyhDoekqc8_fURryQEHBZciRfcg58guX2EwztDHBrR4tguPC_fWZBL2wpqAMcTFugSMywYSDqrJvZHXGEDd25xRtBadS6kI_zAjcIGepUqA..&type=1&query=gh_4d9eccaaf99e&token=DF9BF427D641A115070110C459019B1E07897D0B6627B4C4)
+- 应用开发-鸿蒙开发者社区-51CTO.COM
+  - [可以使用中文开发鸿蒙APP啦, 中文代码实现喜马拉雅APP主页示例](https://ost.51cto.com/posts/28937)
+  - [OpenHarmony运行docker详细步骤](https://ost.51cto.com/posts/25425)
+  - [鸿蒙一次开发，多端部署（六）自适应布局](https://ost.51cto.com/posts/28890)
+  - [鸿蒙一次开发，多端部署（五）页面开发的一多能力介绍](https://ost.51cto.com/posts/28889)
+  - [鸿蒙一次开发，多端部署（四）工程管理](https://ost.51cto.com/posts/28888)
+  - [OpenHarmony开发-连接开发板调试应用](https://ost.51cto.com/posts/28876)
+  - [OpenHarmony开发自测试执行框架](https://ost.51cto.com/posts/28932)
+  - [鸿蒙一次开发，多端部署（八）典型布局场景](https://ost.51cto.com/posts/28896)
+  - [OpenHarmony BLE低功耗蓝牙](https://ost.51cto.com/posts/19301)
+  - [HarmonyOS基础知识科普课件](https://ost.51cto.com/posts/8033)
+  - [OpenHarmony开发-系统烧录](https://ost.51cto.com/posts/28832)
+  - [Harmony OS 开发指南——源码下载和编译](https://ost.51cto.com/posts/28936)
+  - [OpenHarmony IDL工具规格及使用说明书（仅对系统应用开放）](https://ost.51cto.com/posts/28934)
+  - [梦幻联动，这个OpenHarmony创意音乐短片你给打几分？](https://ost.51cto.com/posts/28834)
+  - [#2020征文-开发板#鸿蒙开发板智能家居项目](https://ost.51cto.com/posts/2183)
+  - [OpenHarmony应用实现二维码扫码识别](https://ost.51cto.com/posts/26045)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 MatePad 2023 与 MatePad Pro 12.6 2022 平板开启鸿蒙 HarmonyOS 4.2 公测](https://www.ithome.com/0/763/378.htm)
+  - [华为公布鸿蒙 HarmonyOS 4.2 主要亮点，全新小艺支持 AI 消除](https://www.ithome.com/0/762/911.htm)
+  - [4000 多个 Top5000 应用明确鸿蒙迁移计划，华为徐直军称打造鸿蒙原生应用生态是 2024 年关键](https://www.ithome.com/0/762/658.htm)
+  - [降低“不感兴趣”内容推荐频次，华为鸿蒙全新小艺建议 App 获推 13.12.3.300 众测更新](https://www.ithome.com/0/762/276.htm)
+  - [改进 Markdown 格式显示，华为鸿蒙全新小艺“智慧语音”App 获推 12.1.3.400 众测更新](https://www.ithome.com/0/761/957.htm)
+  - [华为 P50、nova 12 系列手机开启鸿蒙 HarmonyOS 4.2 公测](https://www.ithome.com/0/761/927.htm)
+  - [跨越两个大版本，多款华为老智慧屏直接从鸿蒙 2.0 升级 HarmonyOS 4.2](https://www.ithome.com/0/761/529.htm)
+  - [鸿蒙星河版蓄势待发！华为开发者大会 2024 定档 6 月，HarmonyOS NEXT 6 月开启 Beta](https://www.ithome.com/0/761/265.htm)
+  - [华为 HDC2024 开发者大会官宣 6 月，HarmonyOS NEXT 鸿蒙星河版开启 Beta 测试](https://www.ithome.com/0/761/263.htm)
+  - [华为鸿蒙生态春季沟通会官宣 4 月 11 日举行，将推出智界 S7、MateBook 新品](https://www.ithome.com/0/760/754.htm)
+  - [超 4000 个应用加入鸿蒙生态！鸿蒙生态成就扩张传奇：两月增长 20 倍](https://www.ithome.com/0/760/384.htm)
+  - [业内首个，央广网 App 已完成华为鸿蒙原生应用全量版本开发](https://www.ithome.com/0/758/557.htm)
+  - [外籍人员可持永久居住证开通支付，华为钱包 App 获推 9.0.23.381 众测版更新](https://www.ithome.com/0/757/673.htm)
+  - [音视频领域首个，阿里云推出华为鸿蒙 HarmonyOS NEXT 版音视频 SDK](https://www.ithome.com/0/757/612.htm)
+  - [支持电影票预订商圈查询服务，华为鸿蒙全新小艺“智慧语音”App 获推 12.1.2.400 众测更新](https://www.ithome.com/0/757/593.htm)
+  - [华为何刚出席揭幕，鸿蒙生态创新中心落户深圳南山区](https://www.ithome.com/0/756/702.htm)
+  - [支持“图库拉取文档扫描”功能，华为鸿蒙“智慧视觉”应用获推 13.0.2.301 众测版更新](https://www.ithome.com/0/756/347.htm)
+  - [接入航班酒店美团商圈等信息，华为鸿蒙“小艺建议”应用获推 13.12.2.301 众测版更新](https://www.ithome.com/0/756/286.htm)
+- 鸿蒙新闻中心：最新最热的华为HarmonyOS鸿蒙动态新闻，HarmonyOS最新版本和功能改进抢先预告
+  - [库洛游戏与华为“牵手”，《战双帕弥什》将启动鸿蒙原生应用开发](https://www.ithome.com/0/763/298.htm)
+  - [华为路由器 AX3 / Pro 推送鸿蒙 4.2 系统更新，开启 IPv6 功能](https://www.ithome.com/0/762/936.htm)
+  - [华为公布鸿蒙 HarmonyOS 4.2 主要亮点，全新小艺支持 AI 消除](https://www.ithome.com/0/762/911.htm)
+  - [4000 多个 Top5000 应用明确鸿蒙迁移计划，华为徐直军称打造鸿蒙原生应用生态是 2024 年关键](https://www.ithome.com/0/762/658.htm)
+  - [华为余承东：智界 S7 本月交付预计超 4500 台，“双 7 组合”已成新爆款](https://www.ithome.com/0/762/645.htm)
+  - [降低“不感兴趣”内容推荐频次，华为鸿蒙全新小艺建议 App 获推 13.12.3.300 众测更新](https://www.ithome.com/0/762/276.htm)
+  - [华为 WATCH ULTIMATE DESIGN 手表更新鸿蒙 HarmonyOS 4.2](https://www.ithome.com/0/762/242.htm)
+  - [改进 Markdown 格式显示，华为鸿蒙全新小艺“智慧语音”App 获推 12.1.3.400 众测更新](https://www.ithome.com/0/761/957.htm)
+  - [跨越两个大版本，多款华为老智慧屏直接从鸿蒙 2.0 升级 HarmonyOS 4.2](https://www.ithome.com/0/761/529.htm)
+  - [哔哩哔哩游戏《碧蓝航线》启动华为鸿蒙原生应用开发](https://www.ithome.com/0/761/380.htm)
+  - [华为公布鸿蒙 HarmonyOS 4.2 升级计划：今日公测招募，4-6 月陆续升级](https://www.ithome.com/0/761/266.htm)
+  - [鸿蒙星河版蓄势待发！华为开发者大会 2024 定档 6 月，HarmonyOS NEXT 6 月开启 Beta](https://www.ithome.com/0/761/265.htm)
+  - [华为 HDC2024 开发者大会官宣 6 月，HarmonyOS NEXT 鸿蒙星河版开启 Beta 测试](https://www.ithome.com/0/761/263.htm)
+  - [华为多款手机、平板开放鸿蒙 HarmonyOS 4.2 系统公测](https://www.ithome.com/0/761/240.htm)
+  - [华为鸿蒙生态春季沟通会官宣 4 月 11 日举行，将推出智界 S7、MateBook 新品](https://www.ithome.com/0/760/754.htm)
+  - [超 4000 原生应用加入华为鸿蒙生态，两个月增长幅度达 20 倍](https://www.ithome.com/0/760/332.htm)
+  - [开源鸿蒙 OpenHarmony 4.1 Release 发布，新增 4000 多个 API](https://www.ithome.com/0/759/312.htm)
+  - [B站完成华为鸿蒙原生应用 Beta 版本开发，Q4 推出商用版本](https://www.ithome.com/0/758/968.htm)
+  - [业内首个，央广网 App 已完成华为鸿蒙原生应用全量版本开发](https://www.ithome.com/0/758/557.htm)
+  - [外籍人员可持永久居住证开通支付，华为钱包 App 获推 9.0.23.381 众测版更新](https://www.ithome.com/0/757/673.htm)
+  - [音视频领域首个，阿里云推出华为鸿蒙 HarmonyOS NEXT 版音视频 SDK](https://www.ithome.com/0/757/612.htm)
+  - [支持电影票预订商圈查询服务，华为鸿蒙全新小艺“智慧语音”App 获推 12.1.2.400 众测更新](https://www.ithome.com/0/757/593.htm)
+  - [百度推出华为鸿蒙 HarmonyOS NEXT 地图 SDK](https://www.ithome.com/0/757/575.htm)
+  - [高德发布华为鸿蒙 HarmonyOS NEXT 定位、地图 SDK](https://www.ithome.com/0/757/527.htm)
