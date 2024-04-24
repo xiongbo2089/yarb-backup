@@ -65,3 +65,34 @@
   - [高德发布华为鸿蒙 HarmonyOS NEXT 定位、地图 SDK](https://www.ithome.com/0/757/527.htm)
 - 鸿洋-公众号
   - [算法备案通过了,聊聊踩过的坑](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8242qEKpJ5HemnuWGYrRctdOzcSfCOoz1qXa8Fplpd9otyTA7ynimVQywDNW0f2vMVYw29Gz5PE8LXHQBbE4pyOwOAp7Y_hdTJggq-33lxC9TouckVbEmma3JhyDDQkj7xLsPfseGrAxCoCtqgvT6ykeeXPlenMkChoDLzA0Ds32U6zuEk3L3CT9WAl1e1tlJDrCS-FDeCRhqA9v260-w4HpHkoPMgL3A..&type=1&query=hongyangAndroid&token=E433478D8C94F544565041991F4EB2BE578C030B66286BE0)
+- 鸿蒙IT之家
+  - [华为 Vision 智慧屏 3、S3 Pro 开启鸿蒙 HarmonyOS 4.2 Beta 版尝鲜招募](https://www.ithome.com/0/763/974.htm)
+  - [肯德基宣布成为首个完成 Beta 版鸿蒙原生应用开发的快餐品牌，与华为共同发布 App](https://www.ithome.com/0/763/911.htm)
+  - [华为 MatePad 2023 与 MatePad Pro 12.6 2022 平板开启鸿蒙 HarmonyOS 4.2 公测](https://www.ithome.com/0/763/378.htm)
+- 51CTO-鸿蒙应用开发
+  - [Harmony OS WiFi编程——连接热点、创建热点](https://ost.51cto.com/posts/28950)
+  - [#星计划#OpenHarmony4.0的应用自动化测试开发原理](https://ost.51cto.com/posts/28438)
+- 鸿蒙新闻中心
+  - [肯德基宣布成为首个完成 Beta 版鸿蒙原生应用开发的快餐品牌，与华为共同发布 App](https://www.ithome.com/0/763/911.htm)
+  - [华为 HDC 2024 开发者大会售票网站上线，鸿蒙星河版将开启 Beta 测试](https://www.ithome.com/0/763/683.htm)
+  - [中国铁路 12306 完成华为鸿蒙 HarmonyOS NEXT 原生应用核心版本开发](https://www.ithome.com/0/763/674.htm)
+  - [华为 MatePad 2023 与 MatePad Pro 12.6 2022 平板开启鸿蒙 HarmonyOS 4.2 公测](https://www.ithome.com/0/763/378.htm)
+  - [库洛游戏与华为“牵手”，《战双帕弥什》将启动鸿蒙原生应用开发](https://www.ithome.com/0/763/298.htm)
+- 鸿蒙官网
+  - [鸿蒙开发实战：【文件管理】](https://developer.huawei.com/consumer/cn/blog/topic/03149353713281032)
+  - [鸿蒙原生应用元服务-访问控制（权限）开发应用权限列表二](https://developer.huawei.com/consumer/cn/blog/topic/03149351982793057)
+  - [鸿蒙与OpenHarmony相关读博与科研方向与机会](https://developer.huawei.com/consumer/cn/blog/topic/03149344582277079)
+  - [鸿蒙开发实战：【系统服务框架部件】](https://developer.huawei.com/consumer/cn/blog/topic/03149273314797048)
+  - [鸿蒙原生应用元服务-访问控制（权限）开发应用权限列表一](https://developer.huawei.com/consumer/cn/blog/topic/03149251282271078)
+  - [鸿蒙网络编程系列9-使用HttpRequest模拟登录示例](https://developer.huawei.com/consumer/cn/blog/topic/03149241797519030)
+- 掘金社区
+  - [鸿蒙应用开发-webview 组件白屏检测](https://juejin.cn/post/7361253974052388873)
+  - [支持刷新加载的鸿蒙动态分组列表组件](https://juejin.cn/post/7360586351816720421)
+- 鸿蒙开源工程更新
+  - [OpenHarmony/community](https://gitee.com/openharmony/community)
+  - [OpenHarmony/kernel_liteos_a](https://gitee.com/openharmony/kernel_liteos_a)
+  - [WeHarmony/kernel_liteos_a_note](https://gitee.com/weharmony/kernel_liteos_a_note)
+  - [OpenHarmony/codelabs](https://gitee.com/openharmony/codelabs)
+  - [ISRC_OHOS/UltimateHarmonyReference](https://gitee.com/isrc_ohos/ultimate-harmony-reference)
+  - [精益开源/OpenAtom OpenHarmony教育资源仓](https://gitee.com/openatom-university/openharmony-oer)
+  - [OpenHarmony/applications_app_samples](https://gitee.com/openharmony/applications_app_samples)
