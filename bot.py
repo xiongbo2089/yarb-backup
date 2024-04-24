@@ -79,7 +79,7 @@ class wecomBot:
             text = f'## {feed}\n'
             for title, link in value.items():
                 new_line = f'- [{title}]({link})\n'
-                if len(main_text + text + new_line) > 2040:
+                if len(main_text + text + new_line) > 3900:
                     text_list.append(main_text)
                     main_text = ''
                 text += new_line
