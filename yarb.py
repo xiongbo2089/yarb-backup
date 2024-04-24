@@ -125,6 +125,16 @@ def parseThread(conf: dict, url: str, proxy_url=''):
             r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
             r = feedparser.parse(r.content)
             title = r.feed.title
+            if '掘金 Android' in title:
+                title = '掘金社区'
+            if '应用开发-鸿蒙开发者社区-51CTO.COM' in title:
+                title = '51CTO-鸿蒙应用开发'
+            if '鸿蒙_鸿蒙最新动态_IT之家' in title:
+                title = '鸿蒙IT之家'
+            if '鸿蒙新闻中心' in title:
+                title = '鸿蒙新闻中心'
+            if 'Gitee Recommened Projects' in title:
+                title = '鸿蒙开源工程'
             for entry in r.entries:
                 if url.startswith('https://pyrsshub.vercel.app'):
                     dstr = entry.get('published') or entry.get('updated')
@@ -227,6 +237,8 @@ async def job(args):
     feeds = init_rss(conf['rss'], args.update, proxy_rss)
 
     results = []
+    results_dict = {}
+
     if args.test:
         # 测试数据
         results.extend({f'test{i}': {Pattern.create(i*500): 'test'}} for i in range(1, 20))
@@ -240,7 +252,23 @@ async def job(args):
                 title, result = task.result()            
                 if result:
                     numb += len(result.values())
-                    results.append({title: result})
+                    # 检查标题是否已经存在于results_dict中
+                    if title in results_dict:
+                        # 如果存在，合并结果
+                        for pattern, content in result.items():
+                            if pattern in results_dict[title]:
+                                # 如果相同的Pattern已经存在，可以选择合并内容或者跳过
+                                # 这里假设我们合并内容
+                                results_dict[title][pattern] += content
+                            else:
+                                results_dict[title][pattern] = content
+                    else:
+                        # 如果不存在，添加新的键值对
+                        results_dict[title] = result
+
+        # 将results_dict转换为列表形式，以符合之前的代码逻辑
+        results = [{title: result} for title, result in results_dict.items()]
+
         console.print(f'[+] {len(results)} feeds, {numb} articles', style='bold yellow')
 
         # temp_path = root_path.joinpath('temp_data.json')
