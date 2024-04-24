@@ -85,3 +85,14 @@
   - [ArkUI 开发实例：快五一了，做一个回家的订票动画界面(上)](https://juejin.cn/post/7360903734853091380)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-ArkUI动画（放大缩小视图） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18153964)
+- 掘金 Android
+  - [支持刷新加载的鸿蒙动态分组列表组件](https://juejin.cn/post/7360586351816720421)
+- Gitee Recommened Projects
+  - [OpenHarmony/community](https://gitee.com/openharmony/community)
+  - [OpenHarmony/kernel_liteos_a](https://gitee.com/openharmony/kernel_liteos_a)
+- Gitee Recommened Projects
+  - [WeHarmony/kernel_liteos_a_note](https://gitee.com/weharmony/kernel_liteos_a_note)
+  - [OpenHarmony/codelabs](https://gitee.com/openharmony/codelabs)
+  - [ISRC_OHOS/UltimateHarmonyReference](https://gitee.com/isrc_ohos/ultimate-harmony-reference)
+  - [精益开源/OpenAtom OpenHarmony教育资源仓](https://gitee.com/openatom-university/openharmony-oer)
+  - [OpenHarmony/applications_app_samples](https://gitee.com/openharmony/applications_app_samples)
