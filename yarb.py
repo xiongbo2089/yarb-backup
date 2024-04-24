@@ -114,7 +114,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                 # 打印返回的JSON数据item["blogId"]
                 for entry in response.json()["resultList"]:
                     yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y%m%d%H%M%S")
-                    if (entry['previewContent'] >= yesterday) and filter(entry['title'], entry['previewContent']):
+                    if (entry['publishTime'] >= yesterday) and filter(entry['title'], entry['previewContent']):
                         item = {entry['title']: f"https://developer.huawei.com/consumer/cn/blog/topic/{entry['blogId']}"}
                         print(item)
                         result |= item
@@ -134,7 +134,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
             if '鸿蒙新闻中心' in title:
                 title = '鸿蒙新闻中心'
             if 'Gitee Recommened Projects' in title:
-                title = '鸿蒙开源工程'
+                title = '鸿蒙开源工程更新'
             for entry in r.entries:
                 if url.startswith('https://pyrsshub.vercel.app'):
                     dstr = entry.get('published') or entry.get('updated')
