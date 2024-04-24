@@ -79,3 +79,9 @@
 - 应用开发-鸿蒙开发者社区-51CTO.COM
   - [鸿蒙（HarmonyOS）版Retrofit网络请求框架](https://ost.51cto.com/posts/28952)
   - [Harmony OS WiFi编程——连接热点、创建热点](https://ost.51cto.com/posts/28950)
+- 应用开发-鸿蒙开发者社区-51CTO.COM
+  - [#星计划#OpenHarmony4.0的应用自动化测试开发原理](https://ost.51cto.com/posts/28438)
+- 掘金 Android
+  - [ArkUI 开发实例：快五一了，做一个回家的订票动画界面(上)](https://juejin.cn/post/7360903734853091380)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI动画（放大缩小视图） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18153964)
