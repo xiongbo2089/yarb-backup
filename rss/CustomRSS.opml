@@ -15,8 +15,6 @@
            <outline type="rss" text="csdn" title="csdn" xmlUrl="https://blog.csdn.net/wds1181977/rss/list" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="csdn" title="csdn" xmlUrl="https://blog.csdn.net/nav/rss/list" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="博客园" title="博客园" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="鸿蒙开发者社区" title="鸿蒙开发者社区" xmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_4d9eccaaf99e" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="鸿蒙开发者社区" title="鸿蒙开发者社区" xmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_4d9eccaaf99e" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="HarmonyOS-official" title="HarmonyOS-official" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS-official" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="OpenHarmony" title="OpenHarmony" xmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_e4f28cfa3159" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="HarmonyOS_Dev" title="HarmonyOS_Dev" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS_Dev" htmlUrl="http://www.ftium4.com/" />
