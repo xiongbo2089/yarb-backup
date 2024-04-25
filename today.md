@@ -101,3 +101,22 @@
 - 鸿蒙官网
   - [鸿蒙网络编程系列10-使用HttpRequest下载文件到本地示例](https://developer.huawei.com/consumer/cn/blog/topic/03149413362258058)
   - [鸿蒙开发实战：【系统服务管理部件】](https://developer.huawei.com/consumer/cn/blog/topic/03149373820232033)
+- HarmonyOS开发者-公众号
+  - [HarmonyOS 极客马拉松 2024——一场挑战极限,成就技术世界超级极...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3lKOkHXdmxxw0LsIcpGjLcR380T3EUNkVqXa8Fplpd9uJQ_E2VbdqRSLHcBPl1wJ-XbBkM73VcX-L5rKdoLmvWB-T5MzI74tH3GO9uQSqMs5bLfxBbqfOM3dKNeDyBikRreOCandKc9UVFAC5EhMD1UvnqkqtzO00AV2Bikmh-5gEkxB_-C9VFeCb_mVd9VWouVCtiBmjZBlyBpKxYfIt889kyxDwoXvg..&type=1&query=HarmonyOS_Dev&token=F2EBD59D756DA716040212EA31F282DB04C3BF54662A838F)
+- 鸿蒙官网
+  - [鸿蒙开发实战：【Hdf Framework】](https://developer.huawei.com/consumer/cn/blog/topic/03149441955051050)
+  - [鸿蒙原生应用元服务-访问控制（权限）开发应用权限列表三](https://developer.huawei.com/consumer/cn/blog/topic/03149437476076060)
+- 博客园_首页
+  - [HarmonyOS 应用生命周期有哪些？ 按返回键会调用哪些生命周期？ - 西北野狼](https://www.cnblogs.com/androidsuperman/p/18158760)
+  - [日志服务 HarmonyOS NEXT 日志采集最佳实践 - 阿里云云栖号](https://www.cnblogs.com/yunqishequ/p/18158151)
+- 鸿蒙IT之家
+  - [华为 Pocket 2 / Mate 60 系列等 11 款机型开放鸿蒙 HarmonyOS 4.2 正式版不限量升级](https://www.ithome.com/0/764/211.htm)
+- HarmonyOS-公众号
+  - [华为开发者大会2024早鸟票开售!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3lKOkHXdmxxw0LsIcpGjLcR380T3EUNkVqXa8Fplpd9t3yTJbavEERPFLgDYCh6zrawhFKLFNbaQ_Y4en6zGGEouiUn6O7q012p89UTnGll76jaXkR10qH_dFzKmmGBUdw0BKK2lN4EbRRY2koVSyC8WH5Zf5JIEEzM_MEEdPyVjQXRUnV0h-FZVzY4uDajJ8dwEF9Ev7YM20MG8lY4tUTvzHZXxeLdyg..&type=1&query=HarmonyOS-official&token=F2EBD701C63A30839297847CA46B15D99265EBEB662A838F)
+- OSCHINA 社区最新新闻
+  - [开源日报 | “鸿蒙原生版”微信；小镇里的“大模型”；全网最刚游戏公司；半个AI圈向李彦宏「开炮」](https://www.oschina.net/news/289528)
+  - [微信客户端底层组件 MMKV 官宣支持 HarmonyOS NEXT](https://www.oschina.net/news/289497/wechat-mmkv-support-harmonyos-next)
+- 鸿蒙新闻中心
+  - [华为 Pocket 2 / Mate 60 系列等 11 款机型开放鸿蒙 HarmonyOS 4.2 正式版不限量升级](https://www.ithome.com/0/764/211.htm)
+- 鸿蒙开源工程更新
+  - [waylau/harmonyos-tutorial](https://gitee.com/waylau/harmonyos-tutorial)
