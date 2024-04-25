@@ -96,3 +96,8 @@
   - [ISRC_OHOS/UltimateHarmonyReference](https://gitee.com/isrc_ohos/ultimate-harmony-reference)
   - [精益开源/OpenAtom OpenHarmony教育资源仓](https://gitee.com/openatom-university/openharmony-oer)
   - [OpenHarmony/applications_app_samples](https://gitee.com/openharmony/applications_app_samples)
+- 鸿蒙IT之家
+  - [原生鸿蒙版微信正在路上：腾讯 MMKV 组件现已提供华为 HarmonyOS NEXT 官方支持](https://www.ithome.com/0/763/997.htm)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列10-使用HttpRequest下载文件到本地示例](https://developer.huawei.com/consumer/cn/blog/topic/03149413362258058)
+  - [鸿蒙开发实战：【系统服务管理部件】](https://developer.huawei.com/consumer/cn/blog/topic/03149373820232033)
