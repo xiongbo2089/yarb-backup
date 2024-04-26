@@ -120,3 +120,7 @@
   - [华为 Pocket 2 / Mate 60 系列等 11 款机型开放鸿蒙 HarmonyOS 4.2 正式版不限量升级](https://www.ithome.com/0/764/211.htm)
 - 鸿蒙开源工程更新
   - [waylau/harmonyos-tutorial](https://gitee.com/waylau/harmonyos-tutorial)
+- HarmonyOS开发者-公众号
+  - [HarmonyOS 极客马拉松 2024——一场挑战极限,成就技术世界超级极...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3lKOkHXdmxx2hO41mv4d5Xm_RUXY2p1_VqXa8Fplpd9oalEN3fMK4qCAyARVnU7ScXny1Ya0Oy5S2AJyul-JecRhHglTgdGNF_hI-mCKV0s6ptHJJYjue0BP_j_6BpmTKH_WXG0v_HnoedHkD6b_PrD1aDaEeKr6UG0j3hvu4A8yNp8Df0UePEIPabdqHEw_E-uc6045i03odz5eO2aTgKAFV_3u-a3OQ..&type=1&query=HarmonyOS_Dev&token=F66B4F8C8638BC0D1E1809E992C313871F135358662B0F79)
+- 博客园_首页
+  - [鸿蒙系统应用基础开发 - SRIGT](https://www.cnblogs.com/SRIGT/p/18159320)
