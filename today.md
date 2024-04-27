@@ -124,3 +124,23 @@
   - [HarmonyOS 极客马拉松 2024——一场挑战极限,成就技术世界超级极...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3lKOkHXdmxx2hO41mv4d5Xm_RUXY2p1_VqXa8Fplpd9oalEN3fMK4qCAyARVnU7ScXny1Ya0Oy5S2AJyul-JecRhHglTgdGNF_hI-mCKV0s6ptHJJYjue0BP_j_6BpmTKH_WXG0v_HnoedHkD6b_PrD1aDaEeKr6UG0j3hvu4A8yNp8Df0UePEIPabdqHEw_E-uc6045i03odz5eO2aTgKAFV_3u-a3OQ..&type=1&query=HarmonyOS_Dev&token=F66B4F8C8638BC0D1E1809E992C313871F135358662B0F79)
 - 博客园_首页
   - [鸿蒙系统应用基础开发 - SRIGT](https://www.cnblogs.com/SRIGT/p/18159320)
+- 鸿蒙IT之家
+  - [江淮瑞风 RF8 鸿蒙版上市：首款搭载华为车机的 MPV，售价 20.99 万元起](https://www.ithome.com/0/764/464.htm)
+  - [电子社保卡 App 启动华为 HarmonyOS 鸿蒙原生应用开发](https://www.ithome.com/0/764/446.htm)
+- 51CTO-鸿蒙应用开发
+  - [#夏日挑战赛#OHOS构建自定义服务实战](https://ost.51cto.com/posts/14068)
+- 鸿蒙新闻中心
+  - [华为家庭存储测试微信备份功能，需搭配鸿蒙 HarmonyOS 4.2 及以上版本手机平板使用](https://www.ithome.com/0/764/539.htm)
+  - [电子社保卡 App 启动华为 HarmonyOS 鸿蒙原生应用开发](https://www.ithome.com/0/764/446.htm)
+  - [鹰角网络官宣加入华为鸿蒙生态，《明日方舟》《来自星尘》手游有望推出 HarmonyOS NEXT 原生版](https://www.ithome.com/0/764/422.htm)
+- 鸿蒙官网
+  - [关于数字键盘不能输入小数点的解决办法](https://developer.huawei.com/consumer/cn/blog/topic/03149571663954084)
+  - [鸿蒙开发实例【使用高德地图鸿蒙SDK】（一）](https://developer.huawei.com/consumer/cn/blog/topic/03149526738438083)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI事件（键鼠事件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18160887)
+  - [HarmonyOS 鸿蒙隔离层设计 - 西北野狼](https://www.cnblogs.com/androidsuperman/p/18160848)
+- HarmonyOS-公众号
+  - [HarmonyOS 4.2 正式版来了!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8h1aN5P_Qx7Tx2SSSocYf9-6wyiv9YPnVqXa8Fplpd97g-8mlPeuwYkcfhJX9DLYkIBw4V-cGezzrcFkq0whgAq1flUtZBtfo2Ab6FoSfvyuB9_pDhsjDgC2F7JFz08hEpvNBF8xlPqOqGtFnmbsrCjOCg6ITfZX6H77OGO_zqmCC6wXDmt7NOyPv2zZ2EHhz1qzAW6NWANMrD89bADldCTJmCU1UgHwQ..&type=1&query=HarmonyOS-official&token=0026E31C48A8D43911140618B8070871124CF552662C60DE)
+- 掘金社区
+  - [「KMM」、「KMP」？他们到底是什么？](https://juejin.cn/post/7361976432249733135)
+  - [鸿蒙Next开发之-解决鸿蒙next开发如何给测试同学测试包的问题](https://juejin.cn/post/7361943620930306100)
