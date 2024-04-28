@@ -144,3 +144,8 @@
 - 掘金社区
   - [「KMM」、「KMP」？他们到底是什么？](https://juejin.cn/post/7361976432249733135)
   - [鸿蒙Next开发之-解决鸿蒙next开发如何给测试同学测试包的问题](https://juejin.cn/post/7361943620930306100)
+- HarmonyOS开发者-公众号
+  - [万物智联时代,HarmonyOS如何实现“换道超车”?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-C4KUjqaXWLBXJTirb4acQnQY4zizBk51qXa8Fplpd9S_0H8fVc82TgIc2YbvvIqe109q7v521qpxVq7C_YskLTDLXvzVmv0R_vDDo6hnQnzDU6nMv9yqlflCLcC2H6ObXbvSYSUH0WtK0tZzzjhNz-1O5iI_htS-IOfUpHuBpKs2oJCEDrbfsT-_p07Z1AjGbQzVMvUtmlLiwJ3hIGbzT2CsG6-xMgzQ..&type=1&query=HarmonyOS_Dev&token=09BDAFA52D4C84694244555C9AC2B33A42D8BFCF662DB385)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列11-使用HttpRequest上传文件到服务端示例](https://developer.huawei.com/consumer/cn/blog/topic/03149674981867056)
+  - [华为鸿蒙应用--封装通用标题栏：CommonTitleBar（鸿蒙工具）-ArkTs](https://developer.huawei.com/consumer/cn/blog/topic/03149608517941055)
