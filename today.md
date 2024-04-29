@@ -149,3 +149,20 @@
 - 鸿蒙官网
   - [鸿蒙网络编程系列11-使用HttpRequest上传文件到服务端示例](https://developer.huawei.com/consumer/cn/blog/topic/03149674981867056)
   - [华为鸿蒙应用--封装通用标题栏：CommonTitleBar（鸿蒙工具）-ArkTs](https://developer.huawei.com/consumer/cn/blog/topic/03149608517941055)
+- HarmonyOS开发者-公众号
+  - [HarmonyOS 极客马拉松 2024——一场挑战极限,成就技术世界超级极...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9_BiiMnFQnfR7tdJmKFFIVTOOWOhbritlqXa8Fplpd9DEoTEddwDXYMW1LYAWT2cYqIMYeWUyAK4-9zg1LAEg6hty1EZJOplzgzyuEvuZRkcUyfjb4TTa5PhRIJYmwEpo6tDds9OH-GJdIG0U0Nppg5yDlBm8fW34LmBsVRIGrNBMh4bE79IluBcFOXOx8x0H6v52dxZTcqCRPtStBWXIlflztgI7RZ1g..&type=1&query=HarmonyOS_Dev&token=131E21B2919978CDDED8C9EC34310DD6DF2C50E5662F0445)
+- 鸿蒙IT之家
+  - [有望为鸿蒙星河版铺路：“华为开发者联盟”官方 B 站账号更名为“HarmonyOS 开发者”](https://www.ithome.com/0/764/874.htm)
+- 鸿蒙新闻中心
+  - [有望为鸿蒙星河版铺路：“华为开发者联盟”官方 B 站账号更名为“HarmonyOS 开发者”](https://www.ithome.com/0/764/874.htm)
+- OpenAtom OpenHarmony-公众号
+  - [OpenHarmony项目群硬件芯片工作组正式成立](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9_BiiMnFQnfCjUMAzdyiyRTOOWOhbritlqXa8Fplpd9I1PYLujVQj8DQUOYXYxKBh97aO1O6ZryBSZGDIBQrE53K1JwGvdZxQDgvAv1AVWcPGuliDmrlDycOe4_M8G2181tKUB5HGGocxuR238O636bAPxh9ehZMEu6vrkHe9cPWhq96Dmpnk1Nh3Rcdrvxmivq7ItpnYVmsv8YEQZxq9rRtmyIGw2VAg..&type=1&query=gh_e4f28cfa3159&token=131E2462F0019E2A37312F0ADDCC6E703879F3B4662F0445)
+- 鸿蒙官网
+  - [Apple MACBOOK Air 2024 M3芯 安装DevEco Studio 3.1教程](https://developer.huawei.com/consumer/cn/blog/topic/03149717201303087)
+  - [鸿蒙原生应用元服务开发-Web管理位置权限](https://developer.huawei.com/consumer/cn/blog/topic/03149702155935065)
+  - [如何获取设备唯一标识](https://developer.huawei.com/consumer/cn/blog/topic/03149698000366086)
+- 掘金社区
+  - [Kotlin 技术月报 | 2024 年 4 月](https://juejin.cn/post/7362739494494388258)
+- OSCHINA 社区最新新闻
+  - [开源日报 | 开源模型行业化；国产Sora的秘密；谷歌Python基金会团队裁员；通义千问千亿参数模型开源；开源鸿蒙价值](https://www.oschina.net/news/289997)
+  - [华为高管评价开源鸿蒙价值：被国外持续打压仍有自己的操作系统](https://www.oschina.net/news/289980)
