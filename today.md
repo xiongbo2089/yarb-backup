@@ -166,3 +166,17 @@
 - OSCHINA 社区最新新闻
   - [开源日报 | 开源模型行业化；国产Sora的秘密；谷歌Python基金会团队裁员；通义千问千亿参数模型开源；开源鸿蒙价值](https://www.oschina.net/news/289997)
   - [华为高管评价开源鸿蒙价值：被国外持续打压仍有自己的操作系统](https://www.oschina.net/news/289980)
+- 鸿蒙IT之家
+  - [Counterpoint：预计 2024 年高级智能手表全球市场份额增长 15%，华为鸿蒙手表国内市场份额达 61%](https://www.ithome.com/0/765/137.htm)
+- 鸿蒙新闻中心
+  - [消息称现阶段华为 HarmonyOS NEXT 系统流畅度追平当前鸿蒙](https://www.ithome.com/0/765/079.htm)
+- 51CTO-鸿蒙应用开发
+  - [基于JS通用组件的鸿蒙购物应用开发介绍](https://ost.51cto.com/posts/4008)
+  - [CWJ？蔡文姬？不~~ 是 “偲稳稽” ！！！](https://ost.51cto.com/posts/28987)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列12-使用Request部件下载文件到本地示例](https://developer.huawei.com/consumer/cn/blog/topic/03149792737201088)
+  - [鸿蒙原生应用元服务开发-Web加载HTML格式的文本数据](https://developer.huawei.com/consumer/cn/blog/topic/03149785129151071)
+- 掘金社区
+  - [Pura 70和12306的性能分析](https://juejin.cn/post/7362901975421517875)
+  - [Flutter：听说你最近到处和人说我解散了？](https://juejin.cn/post/7362901975421337651)
+  - [【纯血鸿蒙】之用户首选项](https://juejin.cn/post/7362756601726681127)
