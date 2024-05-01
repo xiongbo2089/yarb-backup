@@ -180,3 +180,16 @@
   - [Pura 70和12306的性能分析](https://juejin.cn/post/7362901975421517875)
   - [Flutter：听说你最近到处和人说我解散了？](https://juejin.cn/post/7362901975421337651)
   - [【纯血鸿蒙】之用户首选项](https://juejin.cn/post/7362756601726681127)
+- 鸿蒙IT之家
+  - [北京大学宣布将开发鸿蒙 HarmonyOS 校园服务 App，参与学生有机会前往华为实习](https://www.ithome.com/0/765/369.htm)
+  - [北京大学计算中心发布鸿蒙 APP 开发招聘！面向全校服务，学生有机会前往华为实习](https://www.ithome.com/0/765/352.htm)
+- HarmonyOS-公众号
+  - [5·1劳动节|快乐的N种打开方式](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1n2511IytSX1H9tvTiq3KzSkhykwqbfk1qXa8Fplpd9BPTc0R1PyQUX-w8sXk9GecADdPtbc7_XZXfp7ZwWOe8T1RBE8nvBuUOt8Hj9FZw4yo1BLcgnwveT21uzTIHy5iGOXmQVHUI_daYX852tMFGUgk6K_QLORq8Y1zWpKFTtkgVCfiPucC7z9iGmmwkWP8LueGRNJrMbEMc8kHHdXHjYl_Q5RRZQjg..&type=1&query=HarmonyOS-official&token=048BA2C8260587332126377B14B8B190216F58DA6631A830)
+- 鸿蒙新闻中心
+  - [北京大学宣布将开发鸿蒙 HarmonyOS 校园服务 App，参与学生有机会前往华为实习](https://www.ithome.com/0/765/369.htm)
+- OpenAtom OpenHarmony-公众号
+  - [智敬劳动|生态共荣,源自每一份共建的贡献!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1n2511IytSX1H9tvTiq3KzSkhykwqbfk1qXa8Fplpd9uv2CQZCvPxzxawFPcJ2k8EK-xfpT45lX9-rFx5RDLrq0nvT4IBkO5eGKTKQOGABSO57l5ZWM--gk5BFLkd-PhgQ-4TSbyv3kqol9s_DQHD-EtqcLVbffCrpdLFTHO_oduRV_DvKfopoDULslcSP8T_k_t4Rp--02UAwKRnmz5XFj3x9Nw6p-Fg..&type=1&query=gh_e4f28cfa3159&token=048BA3915AF7DD6F807968244B1B620F806EC8746631A830)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-Web加载本地页面](https://developer.huawei.com/consumer/cn/blog/topic/03149873570682073)
+- 鸿蒙开源工程更新
+  - [OpenHarmony/security](https://gitee.com/openharmony/security)
