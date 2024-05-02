@@ -193,3 +193,9 @@
   - [鸿蒙原生应用元服务开发-Web加载本地页面](https://developer.huawei.com/consumer/cn/blog/topic/03149873570682073)
 - 鸿蒙开源工程更新
   - [OpenHarmony/security](https://gitee.com/openharmony/security)
+- HarmonyOS-公众号
+  - [华为开发者大会2024正价票开售!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7QDPiZC-nTs1kG1BmjPSxch4L961KetSVqXa8Fplpd9edGd-Qzg_hIhTd39byDDPvUp-3pXVUmgkQoJ1Ee8aevUCsmS0Q4c7IVu3lF0kNFyYs4Er3-sJtzo9oLQEaO6jeZpFc2S7m57zl63LZZnZiOrVXvBloKGuXWgtuVT93vo_wWatyJy4YXqVc5MThaV3KT5dsyiO799TeJqNNMikZDS-e4Yz84xMA..&type=1&query=HarmonyOS-official&token=0B42F02C09BF25C8E3E4F58DA2E1BE42E388388F6632F88B)
+- 51CTO-鸿蒙应用开发
+  - [#打卡不停更# HarmonyOS - 基于ArkUI(ETS) 实现心电图组件](https://ost.51cto.com/posts/18252)
+- 鸿蒙官网
+  - [鸿蒙沉浸式模式的设置（HarmonyOS）](https://developer.huawei.com/consumer/cn/blog/topic/03149963049486090)
