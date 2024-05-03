@@ -199,3 +199,10 @@
   - [#打卡不停更# HarmonyOS - 基于ArkUI(ETS) 实现心电图组件](https://ost.51cto.com/posts/18252)
 - 鸿蒙官网
   - [鸿蒙沉浸式模式的设置（HarmonyOS）](https://developer.huawei.com/consumer/cn/blog/topic/03149963049486090)
+- 掘金社区
+  - [ArkUI-X 调起华为支付](https://juejin.cn/post/7363620903224033330)
+  - [Android 通过消息队列机制实现无侵入式 Telegram/酷安 风格主题切换揭示动画](https://juejin.cn/post/7363635167300829211)
+- HarmonyOS-公众号
+  - [华为开发者大会2024正价票开售!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwgqmntemyMeI4BMdb9bK0bzXGkmNESOFlqXa8Fplpd9R4plf_03FI0JJ7ILBfA3cckTQVbXK4HPWxGmeTf8qHLq4QlR3oL4yx3VPRQaR7Ndq1f0lhixWqipe8rsmDJbMeaYb21g7X5SuwteOrPoZSXgHeqTQlQ67pu60Hg7CfVYMrhSu4ksI8uBJ5erLEJfMse0z-No9z6mmW7OK31UxgnS-e4Yz84xMA..&type=1&query=HarmonyOS-official&token=11DE95BB7EE30AE7CDCBDA4EA594A745CDFEEF9866344AAB)
+- 鸿蒙官网
+  - [快速实现鸿蒙侧边栏显示与隐藏](https://developer.huawei.com/consumer/cn/blog/topic/03150050432168036)
