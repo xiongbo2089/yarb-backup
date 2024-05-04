@@ -206,3 +206,8 @@
   - [华为开发者大会2024正价票开售!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwgqmntemyMeI4BMdb9bK0bzXGkmNESOFlqXa8Fplpd9R4plf_03FI0JJ7ILBfA3cckTQVbXK4HPWxGmeTf8qHLq4QlR3oL4yx3VPRQaR7Ndq1f0lhixWqipe8rsmDJbMeaYb21g7X5SuwteOrPoZSXgHeqTQlQ67pu60Hg7CfVYMrhSu4ksI8uBJ5erLEJfMse0z-No9z6mmW7OK31UxgnS-e4Yz84xMA..&type=1&query=HarmonyOS-official&token=11DE95BB7EE30AE7CDCBDA4EA594A745CDFEEF9866344AAB)
 - 鸿蒙官网
   - [快速实现鸿蒙侧边栏显示与隐藏](https://developer.huawei.com/consumer/cn/blog/topic/03150050432168036)
+- 掘金社区
+  - [HarmonyOS 开发：TypeScript 语言补充](https://juejin.cn/post/7364051847177371648)
+  - [HarmonyOS 开发：ArkTS 语言基础](https://juejin.cn/post/7364051847177338880)
+  - [HarmonyOS 开发：我想先告诉你这些(二)](https://juejin.cn/post/7363932520952332288)
+  - [HarmonyOS 开发：我想先告诉你这些(一)](https://juejin.cn/post/7363932520952250368)
