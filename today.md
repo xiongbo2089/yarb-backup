@@ -211,3 +211,5 @@
   - [HarmonyOS 开发：ArkTS 语言基础](https://juejin.cn/post/7364051847177338880)
   - [HarmonyOS 开发：我想先告诉你这些(二)](https://juejin.cn/post/7363932520952332288)
   - [HarmonyOS 开发：我想先告诉你这些(一)](https://juejin.cn/post/7363932520952250368)
+- 掘金社区
+  - [ArkUI-X 调用华为授权登录我允许你不会](https://juejin.cn/post/7364409181053239322)
