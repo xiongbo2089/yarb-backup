@@ -215,3 +215,12 @@
   - [ArkUI-X 调用华为授权登录我允许你不会](https://juejin.cn/post/7364409181053239322)
 - 鸿蒙开源工程更新
   - [scriptiot/evue_doc](https://gitee.com/scriptiot/evue_doc)
+- 掘金社区
+  - [鸿蒙应用开发-http网络请求封装](https://juejin.cn/post/7365811000475467786)
+- 51CTO-鸿蒙应用开发
+  - [OpenHarmony Full SDK的安装](https://ost.51cto.com/posts/26752)
+- 鸿蒙官网
+  - [鸿蒙应用开发-http网络请求封装](https://developer.huawei.com/consumer/cn/blog/topic/03150418670258093)
+  - [鸿蒙原生应用元服务开发-Web建立应用侧与前端页面数据通道](https://developer.huawei.com/consumer/cn/blog/topic/03150376752101091)
+- OSCHINA 社区最新新闻
+  - [开源日报 | 谷歌扶持鸿蒙上位；开源Rabbit R1；Docker加持的安卓手机；微软的焦虑和野心；海尔电器把开放平台关了](https://www.oschina.net/news/291051)
