@@ -224,3 +224,17 @@
   - [鸿蒙原生应用元服务开发-Web建立应用侧与前端页面数据通道](https://developer.huawei.com/consumer/cn/blog/topic/03150376752101091)
 - OSCHINA 社区最新新闻
   - [开源日报 | 谷歌扶持鸿蒙上位；开源Rabbit R1；Docker加持的安卓手机；微软的焦虑和野心；海尔电器把开放平台关了](https://www.oschina.net/news/291051)
+- 掘金社区
+  - [2024 Flutter 一季度热门 issue/roadmap 进展和个人感触闲聊](https://juejin.cn/post/7366149991159808010)
+  - [HarmonyOs开发：关系型数据库封装之增删改查](https://juejin.cn/post/7366084203954208794)
+  - [HarmonyOS应用开发必备-ArkTS基础知识](https://juejin.cn/post/7365830295393828883)
+- HarmonyOS-公众号
+  - [HarmonyOS 4.2 nova 12 系列正式版来了!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-rz76TeYAPcWoIwyQYWZ4NEv6EPjdtT4VqXa8Fplpd9HT_IHUxky6m0V4mOXw6pLYMlXeMSKpbiabMsFDuO5KjCT8P8PU-E61g03HoOctZl1dUhqaCD3X9h0DTLI0-DzTxpAFGfZf_kVF0WfeMJB3d3JbJxSJKKtvTzybzSXO1wXvxprl08a4qu_wBGqCV_uHW3n_g9xtvMuI9yFTlQerEGX_iHL9MadA..&type=1&query=HarmonyOS-official&token=338868859DCB1CF2DADCCD3D0EDCCB3ADAD66FA1663ADF72)
+- HarmonyOS开发者-公众号
+  - [【直播预告】涵盖HarmonyOS架构设计,创新场景,最佳实践等四大...](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-rz76TeYAPcWoIwyQYWZ4NEv6EPjdtT4VqXa8Fplpd9QKUDSd4MeFmBGDXYydG5BhIsdFNL6S0ovwcyFt5fbKIxRRRNBPcYU0ynHXp16bvFYU6iESR7mg61uPQg63Iy_-49P7-GVE7933ynHZ6YrtXzs7fZJIdPz7feM-7HWm2kEr1QER_PZcFiI2XDpmdN8axY2nM95SwaSAtGdCFaO7_0OK9DLfgmPA..&type=1&query=HarmonyOS_Dev&token=338869FFC8FB239381869666558940C9819FBB92663ADF72)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列15-域名解析示例](https://developer.huawei.com/consumer/cn/blog/topic/03150537674868003)
+  - [鸿蒙网络编程系列14-WebSocket客户端通讯示例](https://developer.huawei.com/consumer/cn/blog/topic/03150484601323001)
+  - [鸿蒙原生应用元服务开发-Web前端页面调用应用侧函数](https://developer.huawei.com/consumer/cn/blog/topic/03150474639608002)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI事件（焦点事件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18178396)
