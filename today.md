@@ -238,3 +238,12 @@
   - [鸿蒙原生应用元服务开发-Web前端页面调用应用侧函数](https://developer.huawei.com/consumer/cn/blog/topic/03150474639608002)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-ArkUI事件（焦点事件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18178396)
+- 鸿蒙官网
+  - [鸿蒙设备开发UDP群发问题](https://developer.huawei.com/consumer/cn/blog/topic/03150570880670005)
+  - [hi3861适配压力传感器](https://developer.huawei.com/consumer/cn/blog/topic/03150564597588005)
+  - [【ArkTS】HMAC-SHA1在HarmonyOS API9中的实现](https://developer.huawei.com/consumer/cn/blog/topic/03150548828699008)
+  - [鸿蒙原生应用元服务开发-Web上传文件](https://developer.huawei.com/consumer/cn/blog/topic/03150547873900003)
+- 掘金社区
+  - [【纯血鸿蒙】之网络请求库统一封装](https://juejin.cn/post/7366192987551825970)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI事件（手势方法） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18180891)
