@@ -129,7 +129,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                 title = '掘金社区'
             if '应用开发-鸿蒙开发者社区-51CTO.COM' in title:
                 title = '51CTO-鸿蒙应用开发'
-            if '鸿蒙_鸿蒙最新动态_IT之家' in title:
+            if '鸿蒙之家' in title:
                 title = '鸿蒙IT之家'
             if '鸿蒙新闻中心' in title:
                 title = '鸿蒙新闻中心'
