@@ -247,3 +247,10 @@
   - [【纯血鸿蒙】之网络请求库统一封装](https://juejin.cn/post/7366192987551825970)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-ArkUI事件（手势方法） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18180891)
+- OpenAtom OpenHarmony-公众号
+  - [2024年第三期OpenHarmony繁星计划师资培训在武汉圆满举办](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwvusNDbRTEianqBNYsWz55HodTTMOsEvFqXa8Fplpd9K1tAPjL-JIPytRlD-RK14TqC662fPfs60nRhCBwqSVy8B5TWfCeNnxEGe6t6STXLgjOeB2or0_cdSjn9HdIyX4O87L3e1qQ63WeUuBIBns4nfSkL8vaS2dwFWeEYzsKl3FMRtcpCd8sMb3N090maewKEAamqpGjDfTAQ1EDyOnry08OLTBhW0A..&type=1&query=gh_e4f28cfa3159&token=40321326AB7FFC173C3D242C7DCE0E743C76DB30663D8611)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-Web设置深色模式](https://developer.huawei.com/consumer/cn/blog/topic/03150650578356011)
+  - [关于APP备案不得不说:扯犊子](https://developer.huawei.com/consumer/cn/blog/topic/03150643334987007)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI事件（单一手势） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18183168)
