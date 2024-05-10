@@ -254,3 +254,15 @@
   - [关于APP备案不得不说:扯犊子](https://developer.huawei.com/consumer/cn/blog/topic/03150643334987007)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-ArkUI事件（单一手势） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18183168)
+- 鸿蒙IT之家
+  - [【IT之家评测室】华为鸿蒙 HarmonyOS 大不同：简洁实用、流畅稳定，安全性更上一级](https://www.ithome.com/0/555/858.htm)
+- 51CTO-鸿蒙应用开发
+  - [OpenHarmony集成OCR三方库实现文字提取](https://ost.51cto.com/posts/19273)
+  - [OpenHarmony自定义系统应用之实践介绍](https://ost.51cto.com/posts/24701)
+- harmony · GitHub Topics · GitHub
+  - [Carbon](https://github.com/CarbonCommunity/Carbon)
+  - [harmonyapi](https://github.com/harmonydata/harmonyapi)
+  - [harmony-netease](https://github.com/softfatgay/harmony-netease)
+  - [harmony-toolbox](https://github.com/easy-node-pro/harmony-toolbox)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-Web相关说明](https://developer.huawei.com/consumer/cn/blog/topic/03150735338159008)
