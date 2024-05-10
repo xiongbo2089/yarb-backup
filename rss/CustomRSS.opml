@@ -16,13 +16,12 @@
            <outline type="rss" text="csdn" title="csdn" xmlUrl="https://blog.csdn.net/nav/rss/list" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="博客园" title="博客园" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="HarmonyOS-official" title="HarmonyOS-official" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS-official" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="OpenHarmony" title="OpenHarmony" xmlUrl="https://pyrsshub.vercel.app/mp/gh/gh_e4f28cfa3159" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="HarmonyOS_Dev" title="HarmonyOS_Dev" xmlUrl="https://pyrsshub.vercel.app/mp/gh/HarmonyOS_Dev" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="51cto" title="51cto" xmlUrl="https://politepol.com/fd/tRJRfbzSu1FX.xml" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="hwdeveloper" title="HarmonyOS_Dev" xmlUrl="https://pyrsshub.vercel.app/mp/gh/hwdeveloper" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="51cto" title="51cto" xmlUrl="https://fetchrss.com/rss/663c3fedaf02e049e459abb2663e0dfcff891f4702262c02.xml" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="IT之家" title="IT之家" xmlUrl="https://politepol.com/fd/WjkQGE5FfFnW.xml" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="鸿蒙新闻" title="鸿蒙新闻" xmlUrl="https://politepol.com/fd/MQ255plWGVhw.xml" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="鸿蒙新闻" title="鸿蒙新闻" xmlUrl="http://fetchrss.com/rss/663c3fedaf02e049e459abb2663e11f30cbfb44ce548ed52.xml" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="华为鸿蒙论坛" title="华为鸿蒙论坛" xmlUrl="https://svc-drcn.developer.huawei.com/community/servlet/consumer/partnerblogservice/v1/openblog/getBlogList" htmlUrl="http://www.ftium4.com/" />
-           <outline type="rss" text="github-topic" title="github-topic" xmlUrl="https://rsshub.app/github/topics/harmony/l=php&o=desc&s=updated" htmlUrl="http://www.ftium4.com/" />
+           <outline type="rss" text="github-topic" title="github-topic" xmlUrl="https://politepol.com/fd/afE54wzTC4aU.xml" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="giteeharmony" title="giteeharmony" xmlUrl="https://gitee.com/explore/harmony.atom" htmlUrl="http://www.ftium4.com/" />
            <outline type="rss" text="giteeharmony-guide" title="giteeharmony-guide" xmlUrl="https://gitee.com/explore/harmonyos-guide.atom" htmlUrl="http://www.ftium4.com/" />
       </body>
