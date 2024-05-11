@@ -266,3 +266,5 @@
   - [harmony-toolbox](https://github.com/easy-node-pro/harmony-toolbox)
 - 鸿蒙官网
   - [鸿蒙原生应用元服务开发-Web相关说明](https://developer.huawei.com/consumer/cn/blog/topic/03150735338159008)
+- 鸿蒙开源工程更新
+  - [深鸿会/Awesome-HarmonyOS_木棉花](https://gitee.com/hiharmonica/awesome-harmony-os-kapok)
