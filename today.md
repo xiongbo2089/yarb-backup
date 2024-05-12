@@ -268,3 +268,11 @@
   - [鸿蒙原生应用元服务开发-Web相关说明](https://developer.huawei.com/consumer/cn/blog/topic/03150735338159008)
 - 鸿蒙开源工程更新
   - [深鸿会/Awesome-HarmonyOS_木棉花](https://gitee.com/hiharmonica/awesome-harmony-os-kapok)
+- 51CTO-鸿蒙应用开发
+  - [鸿蒙js报{"code":200,"data":"request data error"}](https://ost.51cto.com/posts/28333)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate 50 系列等 9 款机型不限量升级鸿蒙 Harmony OS 4.2 正式版](https://www.ithome.com/0/767/275.htm)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-Web应用侧调用前端页面函数](https://developer.huawei.com/consumer/cn/blog/topic/03150822314971012)
+- 掘金社区
+  - [一文搞懂 Android 音视频编解码器 MediaCodec](https://juejin.cn/post/7367394078622253108)
