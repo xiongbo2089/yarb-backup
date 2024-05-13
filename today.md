@@ -276,3 +276,7 @@
   - [鸿蒙原生应用元服务开发-Web应用侧调用前端页面函数](https://developer.huawei.com/consumer/cn/blog/topic/03150822314971012)
 - 掘金社区
   - [一文搞懂 Android 音视频编解码器 MediaCodec](https://juejin.cn/post/7367394078622253108)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-ArkUI事件（组合手势） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18188295)
+- 鸿蒙官网
+  - [鸿蒙应用与开发-如何在应用中播放音频文件](https://developer.huawei.com/consumer/cn/blog/topic/03150922611130013)
