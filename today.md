@@ -288,3 +288,7 @@
   - [#星计划#鸿蒙原生应用随机诗词【坚果派-坚果】](https://ost.51cto.com/posts/28347)
   - [#星计划#鸿蒙跨平台框架来了ArkUI-X【坚果派-咸鱼】](https://ost.51cto.com/posts/28314)
   - [OpenHarmony替换系统软键盘_kikakeyboard](https://ost.51cto.com/posts/28655)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列16-获取Wifi信息示例](https://developer.huawei.com/consumer/cn/blog/topic/03151145088228015)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（UIAbility组件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18192396)
