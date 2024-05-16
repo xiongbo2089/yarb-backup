@@ -292,3 +292,18 @@
   - [鸿蒙网络编程系列16-获取Wifi信息示例](https://developer.huawei.com/consumer/cn/blog/topic/03151145088228015)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（UIAbility组件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18192396)
+- HarmonyOS-公众号
+  - [温暖的世界:华为影像XMAGE全球巡展正式开幕](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2g-Bt5j8G38VtOcKWpP0j1xtg4ZXvmoa1qXa8Fplpd9d_najlTJZZmuk5BSXN5jiTBqxgcWQImtk1KdpWz6Q-7SUHJj0tnUb8HTxVCLngCWWoHmyLLUpchl_LDcDxv4cIFtyDB4MwPvWHh8BVh3kR72x4f0ZBhZ3BxByROf_LjbIti0rshLyffls-PDwkKLn_Bab0Vd8VMizBZpYGxwjSZ5Nu7CnoSqqg..&type=1&query=HarmonyOS-official&token=676C618DC14569DBCCCAD444212E4904CCB44F6166456E46)
+- 51CTO-鸿蒙应用开发
+  - [基于ArkUI现有能力实现自定义弹窗封装方案](https://ost.51cto.com/posts/29078)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [180 款设备可升级鸿蒙 4.2：更多趣味实用性玩法，值得超千万设备升级](https://www.ithome.com/0/768/108.htm)
+  - [华为余承东：鸿蒙生态设备数量超 8 亿台，180 款设备可陆续升级 HarmonyOS 4.2](https://www.ithome.com/0/768/105.htm)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（ExtensionAbility组件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18194855)
+- 鸿蒙官网
+  - [鸿蒙HarmonyOS-http四种请求的统一封装](https://developer.huawei.com/consumer/cn/blog/topic/03151193875447017)
+- OSCHINA 社区最新新闻
+  - [华为：鸿蒙生态设备数量超 8 亿台](https://www.oschina.net/news/292565)
+- 掘金社区
+  - [【HarmonyOS NEXT】获取卸载APP后不变的设备ID](https://juejin.cn/post/7368777511952990234)
