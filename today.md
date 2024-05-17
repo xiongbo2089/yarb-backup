@@ -307,3 +307,10 @@
   - [华为：鸿蒙生态设备数量超 8 亿台](https://www.oschina.net/news/292565)
 - 掘金社区
   - [【HarmonyOS NEXT】获取卸载APP后不变的设备ID](https://juejin.cn/post/7368777511952990234)
+- harmony · GitHub Topics · GitHub
+  - [harmonydata.github.io](https://github.com/harmonydata/harmonydata.github.io)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列17-网络状态监测示例](https://developer.huawei.com/consumer/cn/blog/topic/03151314624359018)
+  - [鸿蒙原生应用元服务开发WEB-Cookie管理](https://developer.huawei.com/consumer/cn/blog/topic/03151252276800017)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（服务卡片介绍和运行机制） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18196902)
