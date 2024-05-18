@@ -314,3 +314,14 @@
   - [鸿蒙原生应用元服务开发WEB-Cookie管理](https://developer.huawei.com/consumer/cn/blog/topic/03151252276800017)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（服务卡片介绍和运行机制） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18196902)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 系统可通过描述文件安装“企业内部应用”](https://www.ithome.com/0/768/843.htm)
+  - [海底捞、哪吒汽车、中通快递等 30 多款应用启动华为鸿蒙原生应用开发](https://www.ithome.com/0/768/836.htm)
+- 51CTO-鸿蒙应用开发
+  - [#2023盲盒+码# Full-SDK下载和替换教程之2023](https://ost.51cto.com/posts/26454)
+  - [基于加解密算法框架的常见规格问题](https://ost.51cto.com/posts/29087)
+- 鸿蒙官网
+  - [用了 5 年才知道华为智能家居系统如此差](https://developer.huawei.com/consumer/cn/blog/topic/03151349082246016)
+  - [鸿蒙原生应用元服务开发WEB-缓存与存储管理](https://developer.huawei.com/consumer/cn/blog/topic/03151326479320015)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（服务卡片的模块和创建） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18198752)
