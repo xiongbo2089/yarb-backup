@@ -325,3 +325,7 @@
   - [鸿蒙原生应用元服务开发WEB-缓存与存储管理](https://developer.huawei.com/consumer/cn/blog/topic/03151326479320015)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（服务卡片的模块和创建） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18198752)
+- 掘金社区
+  - [ArkUI 与 跨平台UI技术的发展](https://juejin.cn/post/7370008254719639591)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（开发卡片页面） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18199846)
