@@ -329,3 +329,8 @@
   - [ArkUI 与 跨平台UI技术的发展](https://juejin.cn/post/7370008254719639591)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（开发卡片页面） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18199846)
+- 掘金社区
+  - [HarmonyOS 动画二：如何丝滑衔接页面](https://juejin.cn/post/7370235634294751242)
+  - [HarmonyOS 动画一：如何优雅编排控件](https://juejin.cn/post/7369993845750546483)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列18-Web组件加载网页的四种方式示例](https://developer.huawei.com/consumer/cn/blog/topic/03151576299379019)
