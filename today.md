@@ -334,3 +334,12 @@
   - [HarmonyOS 动画一：如何优雅编排控件](https://juejin.cn/post/7369993845750546483)
 - 鸿蒙官网
   - [鸿蒙网络编程系列18-Web组件加载网页的四种方式示例](https://developer.huawei.com/consumer/cn/blog/topic/03151576299379019)
+- HarmonyOS-公众号
+  - [HUAWEI P60等新一批机型即日升级HarmonyOS 4.2正式版](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwE1asZMzjtjHsp541pVmkHhS1OYBvFN3lqXa8Fplpd9lycBN3JXDdncfh5I1MbBMDaU4L-0VDPUL9N-r_Q9sJKlmnDc5TOSoG0IpH_HfaYj5dMQ0Z_zYe-Ph-O-KpBImdSyTukVq3P00atRnW3AHLIibNmfoO9SrnVs65bVer6Tsf7yj7UF976F84SIFK4_h8fG3_s09sj5Gla4gp8iXYpFH6In5Ei3zg..&type=1&query=HarmonyOS-official&token=8A976D19FDF92C9F8E8996620BE47C568FE055C5664C05DC)
+- 踏雨歌青春，诗酒趁年华
+  - [OFCA-OpenHarmony课后习题答案](https://blog.csdn.net/weixin_41793160/article/details/139062768)
+- 鸿蒙官网
+  - [鸿蒙应用开发中-如何申请user_grant权限](https://developer.huawei.com/consumer/cn/blog/topic/03151618919223023)
+  - [鸿蒙原生应用元服务开发-Web历史记录导航](https://developer.huawei.com/consumer/cn/blog/topic/03151598935188021)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（开发卡片事件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18203026)
