@@ -343,3 +343,16 @@
   - [鸿蒙原生应用元服务开发-Web历史记录导航](https://developer.huawei.com/consumer/cn/blog/topic/03151598935188021)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（开发卡片事件） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18203026)
+- harmony · GitHub Topics · GitHub
+  - [hm-chat](https://github.com/wildfirechat/hm-chat)
+- HarmonyOS-公众号
+  - [HUAWEI P60等新一批机型即日升级HarmonyOS 4.2正式版](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8r9ZDipxege4ps_xThiYoc-f8MzkqNyC1qXa8Fplpd9YOJiNNVxl9XEqMDTbyL8UCJOLWtLIJcFpFgVwSVaH5UqbIOg-qYnuuXOqKEglfmcZd5Y1kRsEaxp4VsrOKAIwSYnWjbgRP7RVQalwmbGGgH83sF3itNbP-ABEo_nTBOMFZGMkVNso70rRK5-D9ZlUjS7bKxVA4jZR3iueKjLYkjS-e4Yz84xMA..&type=1&query=HarmonyOS-official&token=9111AAFF19A542F6E5E3FCE4402424BDE576CFF6664D5786)
+- 鸿蒙官网
+  - [一个十五岁高中生制作应用的经历](https://developer.huawei.com/consumer/cn/blog/topic/03151717189563025)
+  - [鸿蒙原生应用元服务开发WEB-使用Devtools工具调试前端页面](https://developer.huawei.com/consumer/cn/blog/topic/03151688995833018)
+- OSCHINA 社区最新新闻
+  - [开源日报 | 俄罗斯站队RISC-V的意义；大模型价格战；鸿蒙生态需要百万级别以上的开发者；微软"Copilot+PC"；iOS最牛的万能模拟器](https://www.oschina.net/news/293527)
+- 掘金社区
+  - [关于鸿蒙中的异步(Promise)和线程（taskPool,worker）](https://juejin.cn/post/7371271589012946996)
+  - [【HarmonyOS Next】搜索框推荐词轮播](https://juejin.cn/post/7371311226435420197)
+  - [HarmonyOS 角落里的知识 —— AvoidArea](https://juejin.cn/post/7370980422900350991)
