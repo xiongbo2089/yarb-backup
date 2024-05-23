@@ -356,3 +356,11 @@
   - [关于鸿蒙中的异步(Promise)和线程（taskPool,worker）](https://juejin.cn/post/7371271589012946996)
   - [【HarmonyOS Next】搜索框推荐词轮播](https://juejin.cn/post/7371311226435420197)
   - [HarmonyOS 角落里的知识 —— AvoidArea](https://juejin.cn/post/7370980422900350991)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列19-获取网络连接信息并选择一种绑定到应用示例](https://developer.huawei.com/consumer/cn/blog/topic/03151836691478026)
+- 掘金社区
+  - [鸿蒙（HarmonyOS）安全和高效的使用N-API开发Native模块](https://juejin.cn/post/7371671537509302284)
+  - [【技术对比】设计一个简单的 Demo 项目，对比几种声明式 UI 框架](https://juejin.cn/post/7371716384847675443)
+  - [HarmonyOS 角落里的知识 —— 触摸交互](https://juejin.cn/post/7371479502458208290)
+- OSCHINA 社区最新新闻
+  - [开源日报 | 微软一直有两个梦；大模型的“中场战事”；英伟达大客户参与替代CUDA的开源项目；腾讯市值冲向4万亿；鸿蒙企业办公空间扶持最高3000万](https://www.oschina.net/news/293724)
