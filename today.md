@@ -364,3 +364,10 @@
   - [HarmonyOS 角落里的知识 —— 触摸交互](https://juejin.cn/post/7371479502458208290)
 - OSCHINA 社区最新新闻
   - [开源日报 | 微软一直有两个梦；大模型的“中场战事”；英伟达大客户参与替代CUDA的开源项目；腾讯市值冲向4万亿；鸿蒙企业办公空间扶持最高3000万](https://www.oschina.net/news/293724)
+- 51CTO-鸿蒙应用开发
+  - [【OpenHarmony2.2】体验新版下Hi3516小型系统的编译烧录](https://ost.51cto.com/posts/7543)
+  - [鸿蒙构建系统——gn官方FAQ翻译，以及gn官方文档分享](https://ost.51cto.com/posts/1889)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发WEB-自定义页面请求响应](https://developer.huawei.com/consumer/cn/blog/topic/03151858641632022)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（应用上下文Context） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18209504)
