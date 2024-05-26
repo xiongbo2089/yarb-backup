@@ -379,3 +379,7 @@
 - 鸿蒙官网
   - [鸿蒙网络编程系列20-解决web组件加载网页白屏示例](https://developer.huawei.com/consumer/cn/blog/topic/03151959472228003)
   - [鸿蒙原生应用元服务开发-鸿蒙真机运行项目实战与注意事项](https://developer.huawei.com/consumer/cn/blog/topic/03151943143854023)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [OpenHarmony 开源三年，已有 7500 多名社区共建者](https://www.ithome.com/0/770/632.htm)
+- 博客园_首页
+  - [鸿蒙HarmonyOS实战-Stage模型（进程模型） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18213077)
