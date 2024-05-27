@@ -383,3 +383,7 @@
   - [OpenHarmony 开源三年，已有 7500 多名社区共建者](https://www.ithome.com/0/770/632.htm)
 - 博客园_首页
   - [鸿蒙HarmonyOS实战-Stage模型（进程模型） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18213077)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [博主展示鸿蒙 HarmonyOS NEXT 系统截图，6 月 21 日华为开发者大会 HDC.2024 正式揭晓](https://www.ithome.com/0/770/778.htm)
+- 掘金社区
+  - [他山之石，Kotlin/Dart对比学，数据类与密封类](https://juejin.cn/post/7372946993696849939)
