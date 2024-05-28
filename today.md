@@ -395,3 +395,6 @@
   - [如何使用AVPlay播放在线音频](https://developer.huawei.com/consumer/cn/blog/topic/03152227197277006)
   - [自定义手势密码组件](https://developer.huawei.com/consumer/cn/blog/topic/03152204475497005)
   - [鸿蒙原生应用元服务开发-WEB跨应用跳转](https://developer.huawei.com/consumer/cn/blog/topic/03152202775408026)
+- 51CTO
+  - [Qt for OpenHarmony 开发环境搭建笔记](https://ost.51cto.com/posts/27497)
+  - [OpenHarmony应用签名 - 厂商私有签名](https://ost.51cto.com/posts/21654)

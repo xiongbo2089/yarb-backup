@@ -9,8 +9,10 @@ import argparse
 import datetime
 import listparser
 import feedparser
+import uuid
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from openpyxl import Workbook
 
 from bot import *
 from utils import *
@@ -39,6 +41,32 @@ def update_today(data: list=[]):
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
 
+def update_today_exl(data: list=[]):
+    """更新today，保存到Excel文件"""
+    root_path = Path(__file__).absolute().parent
+    excel_path = root_path.joinpath('today.xlsx')
+
+    # 创建一个新的Excel工作簿
+    wb = Workbook()
+    ws = wb.active
+    ws.append(['id', 'title', 'link', 'summary', 'image_url', 'likes', 'author', 'created_at', 'comments'])
+
+    for item in data:
+        for articles in item.values():
+            ws.append([
+                articles['uuid'],
+                articles['title'],
+                articles['link'],
+                articles['summary'],
+                articles.get('cover', ''),
+                0,  # likes
+                articles['author'],  # author
+                today,  # created_at
+                0,  # comments
+            ])
+
+    # 保存Excel文件
+    wb.save(excel_path)
 def update_rss(rss: dict, proxy_url=''):
     """更新订阅源文件"""
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
@@ -115,20 +143,35 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                 for entry in response.json()["resultList"]:
                     yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y%m%d%H%M%S")
                     if (entry['publishTime'] >= yesterday) and filter(entry['title'], entry['previewContent']):
-                        item = {entry['title']: f"https://developer.huawei.com/consumer/cn/blog/topic/{entry['blogId']}"}
+                        current_time_uuid = str(uuid.uuid1())
+                        item = {
+                            'uuid': current_time_uuid,
+                            'title': entry['title'],
+                            'link': f"https://developer.huawei.com/consumer/cn/blog/topic/{entry['blogId']}",
+                            'summary': entry['previewContent'],
+                            'cover': entry['coverPic'],
+                            'author':  title,
+                        }
+
                         print(item)
                         result |= item
             else:
                 print(f"请求失败，状态码：{response.status_code}")
 
         else:
-            r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
+            r = requests.get(url, timeout=60, headers=headers, verify=False, proxies=proxy)
             r = feedparser.parse(r.content)
             title = r.feed.title
             if '掘金 Android' in title:
                 title = '掘金社区'
             if '应用开发-鸿蒙开发者社区-51CTO.COM' in title:
-                title = '51CTO-鸿蒙应用开发'
+                title = '51CTO'
+            if 'OSCHINA 社区最新新闻' in title:
+                title = '开源中国'
+            if 'harmony · GitHub Topics · GitHub' in title:
+                title = 'GitHub'
+            if '博客园_首页' in title:
+                title = '博客园'
             if '鸿蒙之家' in title:
                 title = '鸿蒙IT之家'
             if '鸿蒙新闻中心' in title:
@@ -146,9 +189,16 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                     dstr = entry.get('published_parsed') or entry.get('updated_parsed')
                     pubday = datetime.date(dstr[0], dstr[1], dstr[2])
 
+
                 yesterday = datetime.date.today() + datetime.timedelta(-1)
                 if (pubday >= yesterday) and filter(entry.title, entry.summary):
-                    item = {entry.title: entry.link}
+                    item = {
+                        'uuid': str(uuid.uuid1()),
+                        'title': entry.title,
+                        'link': entry.link,
+                        'summary':  entry.summary,
+                        'author':  title,
+                    }
                     print(item)
                     result |= item
         console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
@@ -277,7 +327,16 @@ async def job(args):
         #     console.print(f'[+] temp data: {temp_path}', style='bold yellow')
 
         # 更新today
-        update_today(results)
+        results2 = []
+        for title, articles in results_dict.items():
+            item = {articles['title']: articles['link']}
+            feed_dict = {title: item}
+            results2.append(feed_dict)
+
+        # 更新today
+        update_today(results2)
+
+        update_today_exl(results)
 
     # 推送文章
     proxy_bot = conf['proxy']['url'] if conf['proxy']['bot'] else ''
