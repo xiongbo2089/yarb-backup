@@ -387,3 +387,11 @@
   - [博主展示鸿蒙 HarmonyOS NEXT 系统截图，6 月 21 日华为开发者大会 HDC.2024 正式揭晓](https://www.ithome.com/0/770/778.htm)
 - 掘金社区
   - [他山之石，Kotlin/Dart对比学，数据类与密封类](https://juejin.cn/post/7372946993696849939)
+- 掘金社区
+  - [【最新鸿蒙应用开发总结】——关于程序包了解，一篇就够了](https://juejin.cn/post/7373507761126948915)
+  - [HarmonyOS 角落里的知识 —— 状态管理](https://juejin.cn/post/7373473695057625114)
+- 鸿蒙官网
+  - [如何使用AudioCapturer录制音频](https://developer.huawei.com/consumer/cn/blog/topic/03152228294377007)
+  - [如何使用AVPlay播放在线音频](https://developer.huawei.com/consumer/cn/blog/topic/03152227197277006)
+  - [自定义手势密码组件](https://developer.huawei.com/consumer/cn/blog/topic/03152204475497005)
+  - [鸿蒙原生应用元服务开发-WEB跨应用跳转](https://developer.huawei.com/consumer/cn/blog/topic/03152202775408026)
