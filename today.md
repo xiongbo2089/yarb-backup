@@ -395,3 +395,13 @@
   - [如何使用AVPlay播放在线音频](https://developer.huawei.com/consumer/cn/blog/topic/03152227197277006)
   - [自定义手势密码组件](https://developer.huawei.com/consumer/cn/blog/topic/03152204475497005)
   - [鸿蒙原生应用元服务开发-WEB跨应用跳转](https://developer.huawei.com/consumer/cn/blog/topic/03152202775408026)
+- 51CTO
+  - [Qt for OpenHarmony 开发环境搭建笔记](https://ost.51cto.com/posts/27497)
+- 博客园
+  - [鸿蒙HarmonyOS实战-Web组件（基本使用和属性） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18219057)
+- GitHub
+  - [interview-handbook-project](https://github.com/HarmonyOS-Next/interview-handbook-project)
+- 掘金社区
+  - [HarmonyOS NEXT请求库封装](https://juejin.cn/post/7373877431494950912)
+- 开源中国
+  - [龙芯自主龙架构 2024 年已适配 318 款产品、有望推出「龙芯+鸿蒙」桌面 PC](http://osc.cool/99Ar188B)
