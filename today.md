@@ -405,3 +405,9 @@
   - [HarmonyOS NEXT请求库封装](https://juejin.cn/post/7373877431494950912)
 - 开源中国
   - [龙芯自主龙架构 2024 年已适配 318 款产品、有望推出「龙芯+鸿蒙」桌面 PC](http://osc.cool/99Ar188B)
+- 51CTO
+  - [OpenHarmony应用签名 - 厂商私有签名](https://ost.51cto.com/posts/21654)
+- GitHub
+  - [HarmonyOwl](https://github.com/rabbitinhere/HarmonyOwl)
+- 开源中国
+  - [开源日报 | Istio七周岁；倪光南果然有远见；AI搜索的诸神之战；“龙芯+鸿蒙”桌面PC；马斯克激情对线；SaaS的PLG模式](https://www.oschina.net/news/294724)
