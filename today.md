@@ -421,5 +421,4 @@
   - [开源日报 | Angular v18；大模型价格战下的推理优化；Mistral AI以开源模型瞄准美国市场；硅谷有自己的鲁迅](https://www.oschina.net/news/294882)
 - 掘金社区
   - [鸿蒙UI通用代码几种抽离方法](https://juejin.cn/post/7374293974577692706)
-- 掘金社区
-  - [Kotlin 技术月报 | 2024 年 5 月](https://juejin.cn/post/7374307181481754678)
+
