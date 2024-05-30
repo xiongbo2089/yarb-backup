@@ -12,7 +12,7 @@ import feedparser
 import uuid
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from openpyxl import Workbook, load_workbook
+from openpyxl import Workbook
 
 from bot import *
 from utils import *
@@ -41,29 +41,16 @@ def update_today(data: list=[]):
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
 
-def update_today_exl(data: list):
-    """更新today，清空内容后保存到Excel文件"""
+def update_today_exl(data: list=[]):
+    """更新today，保存到Excel文件"""
     root_path = Path(__file__).absolute().parent
     excel_path = root_path.joinpath('today.xlsx')
 
-    # 检查Excel文件是否存在
-    if excel_path.exists():
-        print(f'[+] update_today_exl exists')
-        # 打开现有的Excel工作簿
-        wb = load_workbook(excel_path)
-        ws = wb.active
-        # 删除现有的所有行（假设只有一个工作表）
-        ws.delete_rows(1, ws.max_row)
-    else:
-        # 创建一个新的Excel工作簿
-        print(f'[+] update_today_exl new')
-        wb = Workbook()
-        ws = wb.active
-
-    # 写入标题行
+    # 创建一个新的Excel工作簿
+    wb = Workbook()
+    ws = wb.active
     ws.append(['id', 'title', 'link', 'summary', 'image_url', 'likes', 'author', 'created_at', 'comments'])
 
-    print(f'[+] update_today_exl')
     for item in data:
         for articles in item.values():
             ws.append([
@@ -78,10 +65,8 @@ def update_today_exl(data: list):
                 0,  # comments
             ])
 
-    print(f'[+] 本地文件：save')
     # 保存Excel文件
     wb.save(excel_path)
-
 def update_rss(rss: dict, proxy_url=''):
     """更新订阅源文件"""
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
