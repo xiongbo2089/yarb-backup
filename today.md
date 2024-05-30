@@ -411,3 +411,13 @@
   - [HarmonyOwl](https://github.com/rabbitinhere/HarmonyOwl)
 - 开源中国
   - [开源日报 | Istio七周岁；倪光南果然有远见；AI搜索的诸神之战；“龙芯+鸿蒙”桌面PC；马斯克激情对线；SaaS的PLG模式](https://www.oschina.net/news/294724)
+- GitHub
+  - [HarmonyX](https://github.com/BepInEx/HarmonyX)
+- 鸿蒙官网
+  - [自定义扫码功能（鸿蒙版）](https://developer.huawei.com/consumer/cn/blog/topic/03152372108305031)
+- 51CTO
+  - [OpenHarmony投屏工具OHScrcpy Beta4发布，适配API11，支持模拟输入文本](https://ost.51cto.com/posts/28811)
+- 开源中国
+  - [开源日报 | Angular v18；大模型价格战下的推理优化；Mistral AI以开源模型瞄准美国市场；硅谷有自己的鲁迅](https://www.oschina.net/news/294882)
+- 掘金社区
+  - [鸿蒙UI通用代码几种抽离方法](https://juejin.cn/post/7374293974577692706)
