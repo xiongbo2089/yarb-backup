@@ -48,6 +48,7 @@ def update_today_exl(data: list):
 
     # 检查Excel文件是否存在
     if excel_path.exists():
+        print(f'[+] update_today_exl exists')
         # 打开现有的Excel工作簿
         wb = load_workbook(excel_path)
         ws = wb.active
@@ -55,12 +56,14 @@ def update_today_exl(data: list):
         ws.delete_rows(1, ws.max_row)
     else:
         # 创建一个新的Excel工作簿
+        print(f'[+] update_today_exl new')
         wb = Workbook()
         ws = wb.active
 
     # 写入标题行
     ws.append(['id', 'title', 'link', 'summary', 'image_url', 'likes', 'author', 'created_at', 'comments'])
 
+    print(f'[+] update_today_exl')
     for item in data:
         for articles in item.values():
             ws.append([
@@ -75,6 +78,7 @@ def update_today_exl(data: list):
                 0,  # comments
             ])
 
+    print(f'[+] 本地文件：save')
     # 保存Excel文件
     wb.save(excel_path)
 
