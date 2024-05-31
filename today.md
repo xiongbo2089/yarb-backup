@@ -424,3 +424,9 @@
 
 - 掘金社区
   - [Kotlin 技术月报 | 2024 年 5 月](https://juejin.cn/post/7374307181481754678)
+- 鸿蒙官网
+  - [超详细-分布注释鸿蒙Next头像上传单张图片上传教程，可直接CV到你的项目哦](https://developer.huawei.com/consumer/cn/blog/topic/03152474262330002)
+- 博客园
+  - [鸿蒙HarmonyOS实战-Web组件（页面跳转和浏览记录） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18223182)
+- 掘金社区
+  - [HarmonyOS项目开发经历——开启沉浸式模式](https://juejin.cn/post/7374342059950997530)
