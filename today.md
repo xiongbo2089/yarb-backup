@@ -430,3 +430,7 @@
   - [鸿蒙HarmonyOS实战-Web组件（页面跳转和浏览记录） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18223182)
 - 掘金社区
   - [HarmonyOS项目开发经历——开启沉浸式模式](https://juejin.cn/post/7374342059950997530)
+- 51CTO
+  - [OpenHarmony - ArkUI（TS）声明式开发之底部导航栏](https://ost.51cto.com/posts/15787)
+- 掘金社区
+  - [【最新鸿蒙应用开发】——多线程？并发模型？一篇就够了](https://juejin.cn/post/7374429831876198426)
