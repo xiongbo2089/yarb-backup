@@ -434,3 +434,5 @@
   - [OpenHarmony - ArkUI（TS）声明式开发之底部导航栏](https://ost.51cto.com/posts/15787)
 - 掘金社区
   - [【最新鸿蒙应用开发】——多线程？并发模型？一篇就够了](https://juejin.cn/post/7374429831876198426)
+- 掘金社区
+  - [HarmonyOS一杯冰美式的时间 -- DragView](https://juejin.cn/post/7374783392674201626)
