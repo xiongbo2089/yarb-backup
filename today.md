@@ -436,3 +436,9 @@
   - [【最新鸿蒙应用开发】——多线程？并发模型？一篇就够了](https://juejin.cn/post/7374429831876198426)
 - 掘金社区
   - [HarmonyOS一杯冰美式的时间 -- DragView](https://juejin.cn/post/7374783392674201626)
+- GitHub
+  - [ioBroker.harmony](https://github.com/iobroker-community-adapters/ioBroker.harmony)
+- 博客园
+  - [鸿蒙HarmonyOS实战-Web组件（请求响应和页面调试） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18226360)
+- 掘金社区
+  - [鸿蒙实现动态增删 View，看这一篇就够了！！](https://juejin.cn/post/7374984900372709412)
