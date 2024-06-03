@@ -442,3 +442,11 @@
   - [鸿蒙HarmonyOS实战-Web组件（请求响应和页面调试） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18226360)
 - 掘金社区
   - [鸿蒙实现动态增删 View，看这一篇就够了！！](https://juejin.cn/post/7374984900372709412)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [北京大学联合在校学生启动鸿蒙原生“校园服务”应用开发，参与者有机会前往华为实习](https://www.ithome.com/0/772/525.htm)
+- 鸿蒙官网
+  - [鸿蒙实现自定义广告，非常实用](https://developer.huawei.com/consumer/cn/blog/topic/03152750746936015)
+- 51CTO
+  - [HarmonyOS/OpenHarmony应用开发-ArkTS拖拽事件](https://ost.51cto.com/posts/22023)
+- 掘金社区
+  - [HarmonyOS项目开发经历——添加自定义广告](https://juejin.cn/post/7375109287716306984)
