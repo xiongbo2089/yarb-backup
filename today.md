@@ -450,3 +450,7 @@
   - [HarmonyOS/OpenHarmony应用开发-ArkTS拖拽事件](https://ost.51cto.com/posts/22023)
 - 掘金社区
   - [HarmonyOS项目开发经历——添加自定义广告](https://juejin.cn/post/7375109287716306984)
+- 鸿蒙官网
+  - [HarmonyOS使用Canvas绘制自定义图形](https://developer.huawei.com/consumer/cn/blog/topic/03152875685620038)
+- 掘金社区
+  - [通俗易懂的设计模式七大原则](https://juejin.cn/post/7375437041725636660)
