@@ -454,3 +454,5 @@
   - [HarmonyOS使用Canvas绘制自定义图形](https://developer.huawei.com/consumer/cn/blog/topic/03152875685620038)
 - 掘金社区
   - [通俗易懂的设计模式七大原则](https://juejin.cn/post/7375437041725636660)
+- 掘金社区
+  - [采用 Kotlin Multiplatform 做跨平台](https://juejin.cn/post/7375586227984711689)
