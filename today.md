@@ -456,3 +456,7 @@
   - [通俗易懂的设计模式七大原则](https://juejin.cn/post/7375437041725636660)
 - 掘金社区
   - [采用 Kotlin Multiplatform 做跨平台](https://juejin.cn/post/7375586227984711689)
+- 博客园
+  - [鸿蒙HarmonyOS实战-ArkTS语言基础类库（并发） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18231705)
+- 掘金社区
+  - [鸿蒙，ArkTs 一段诡异的代码](https://juejin.cn/post/7376158566598705167)
