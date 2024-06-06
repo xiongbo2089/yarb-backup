@@ -460,3 +460,7 @@
   - [鸿蒙HarmonyOS实战-ArkTS语言基础类库（并发） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18231705)
 - 掘金社区
   - [鸿蒙，ArkTs 一段诡异的代码](https://juejin.cn/post/7376158566598705167)
+- 51CTO
+  - [OpenHarmony 分布式相机（上）](https://ost.51cto.com/posts/21219)
+- 掘金社区
+  - [纯血鸿蒙之手机验证码登录业务（axios）](https://juejin.cn/post/7376532114106187827)
