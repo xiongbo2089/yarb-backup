@@ -464,3 +464,9 @@
   - [OpenHarmony 分布式相机（上）](https://ost.51cto.com/posts/21219)
 - 掘金社区
   - [纯血鸿蒙之手机验证码登录业务（axios）](https://juejin.cn/post/7376532114106187827)
+- GitHub
+  - [XTHUD](https://github.com/kukumaluCN/XTHUD)
+- 51CTO
+  - [OpenHarmony 分布式相机（下）](https://ost.51cto.com/posts/21257)
+- 掘金社区
+  - [鸿蒙HarmonyOS开发之关闭隐藏输入法软键盘](https://juejin.cn/post/7376894518329983011)
