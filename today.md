@@ -470,3 +470,7 @@
   - [OpenHarmony 分布式相机（下）](https://ost.51cto.com/posts/21257)
 - 掘金社区
   - [鸿蒙HarmonyOS开发之关闭隐藏输入法软键盘](https://juejin.cn/post/7376894518329983011)
+- 鸿蒙官网
+  - [HarmonyOS next——沙箱机制如何理解](https://developer.huawei.com/consumer/cn/blog/topic/03153162556596046)
+- 掘金社区
+  - [纯血鸿蒙——多端部署教程(开发重点建议收藏)](https://juejin.cn/post/7377275977414557723)
