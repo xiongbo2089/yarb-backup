@@ -474,3 +474,7 @@
   - [HarmonyOS next——沙箱机制如何理解](https://developer.huawei.com/consumer/cn/blog/topic/03153162556596046)
 - 掘金社区
   - [纯血鸿蒙——多端部署教程(开发重点建议收藏)](https://juejin.cn/post/7377275977414557723)
+- 51CTO
+  - [从微信小程序到鸿蒙js开发【08】——表单组件&注册登录模块](https://ost.51cto.com/posts/3147)
+- 掘金社区
+  - [纯血鸿蒙——响应式布局如何实现？](https://juejin.cn/post/7377421387601346560)
