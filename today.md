@@ -478,3 +478,9 @@
   - [从微信小程序到鸿蒙js开发【08】——表单组件&注册登录模块](https://ost.51cto.com/posts/3147)
 - 掘金社区
   - [纯血鸿蒙——响应式布局如何实现？](https://juejin.cn/post/7377421387601346560)
+- 鸿蒙官网
+  - [ArkUI方舟UI框架——两种开发范式](https://developer.huawei.com/consumer/cn/blog/topic/03153312814181041)
+- GitHub
+  - [harmony-utils](https://github.com/787107497/harmony-utils)
+- 掘金社区
+  - [HarmonyOS开发：Web 组件本地网页交互](https://juejin.cn/post/7377697380215848997)
