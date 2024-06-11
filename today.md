@@ -490,3 +490,14 @@
   - [harmony-endpoint-management-js-ts-sdk](https://github.com/CheckPointSW/harmony-endpoint-management-js-ts-sdk)
 - 掘金社区
   - [鸿蒙 游戏来了 鸿蒙版 五子棋来了 我不允许你不会](https://juejin.cn/post/7377901375000641599)
+- GitHub
+  - [SpinKit](https://github.com/787107497/SpinKit)
+  - [harmony-endpoint-management-cli](https://github.com/CheckPointSW/harmony-endpoint-management-cli)
+  - [harmony-endpoint-management-py-sdk](https://github.com/CheckPointSW/harmony-endpoint-management-py-sdk)
+- 掘金社区
+  - [为什么 Android 要采用 Binder 作为 IPC 机制？](https://juejin.cn/post/7378321582399602707)
+  - [【拥抱鸿蒙】HarmonyOS NEXT由元服务引发的一些思考](https://juejin.cn/post/7377901375001624639)
+  - [【HarmonyOS NEXT】全局弹窗的一种实现思路](https://juejin.cn/post/7378015213348470847)
+  - [【最新鸿蒙应用开发】——类Web开发范式1——生命周期](https://juejin.cn/post/7377925587040665641)
+  - [【最新鸿蒙应用开发】————总结ArkUI生命周期](https://juejin.cn/post/7378084350129094683)
+  - [HarmonyOS开发：四类基本通知](https://juejin.cn/post/7378084350128717851)
