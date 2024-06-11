@@ -484,3 +484,9 @@
   - [harmony-utils](https://github.com/787107497/harmony-utils)
 - 掘金社区
   - [HarmonyOS开发：Web 组件本地网页交互](https://juejin.cn/post/7377697380215848997)
+- 鸿蒙官网
+  - [HarmonyOS next——总结ArkUI生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03153425900359043)
+- GitHub
+  - [harmony-endpoint-management-js-ts-sdk](https://github.com/CheckPointSW/harmony-endpoint-management-js-ts-sdk)
+- 掘金社区
+  - [鸿蒙 游戏来了 鸿蒙版 五子棋来了 我不允许你不会](https://juejin.cn/post/7377901375000641599)
