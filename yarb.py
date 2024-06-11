@@ -52,21 +52,23 @@ def update_today_exl(data: list=[]):
     ws.append(['id', 'title', 'link', 'summary', 'image_url', 'likes', 'author', 'created_at', 'comments'])
 
     for item in data:
-        for articles in item.values():
-            ws.append([
-                articles['uuid'],
-                articles['title'],
-                articles['link'],
-                articles['summary'],
-                articles.get('cover', ''),
-                0,  # likes
-                articles['author'],  # author
-                today,  # created_at
-                0,  # comments
-            ])
+        for feed, articles in item.items():
+            for article in articles:
+                ws.append([
+                    article['uuid'],
+                    article['title'],
+                    article['link'],
+                    article['summary'],
+                    article.get('cover', ''),
+                    0,  # likes
+                    article['author'],  # author
+                    today,  # created_at
+                    0,  # comments
+                ])
 
     # 保存Excel文件
     wb.save(excel_path)
+
 def update_rss(rss: dict, proxy_url=''):
     """更新订阅源文件"""
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
@@ -126,7 +128,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
     }
 
     title = ''
-    result = {}
+    result = []
     try:
         if url.startswith("https://svc-drcn.developer.huawei.com"):
             # 请求的参数
@@ -200,7 +202,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                         'author':  title,
                     }
                     print(item)
-                    result |= item
+                    result.append(item)
         console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
     except Exception as e:
         console.print(f'[-] failed: {url}', style='bold red')
@@ -269,7 +271,6 @@ def cleanup():
     """结束清理"""
     qqBot.kill_server()
 
-
 async def job(args):
     """定时任务"""
     print(f'{pyfiglet.figlet_format("yarb")}\n{today}')
@@ -299,19 +300,13 @@ async def job(args):
         with ThreadPoolExecutor(100) as executor:
             tasks.extend(executor.submit(parseThread, conf['keywords'], url, proxy_rss) for url in feeds)
             for task in as_completed(tasks):
-                title, result = task.result()            
+                title, result = task.result()
                 if result:
-                    numb += len(result.values())
+                    numb += len(result)
                     # 检查标题是否已经存在于results_dict中
                     if title in results_dict:
                         # 如果存在，合并结果
-                        for pattern, content in result.items():
-                            if pattern in results_dict[title]:
-                                # 如果相同的Pattern已经存在，可以选择合并内容或者跳过
-                                # 这里假设我们合并内容
-                                results_dict[title][pattern] += content
-                            else:
-                                results_dict[title][pattern] = content
+                        results_dict[title].extend(result)
                     else:
                         # 如果不存在，添加新的键值对
                         results_dict[title] = result
@@ -329,7 +324,7 @@ async def job(args):
         # 更新today
         results2 = []
         for title, articles in results_dict.items():
-            item = {articles['title']: articles['link']}
+            item = {article['title']: article['link'] for article in articles}
             feed_dict = {title: item}
             results2.append(feed_dict)
 
@@ -345,7 +340,6 @@ async def job(args):
         await bot.send(bot.parse_results(results2))
 
     cleanup()
-
 
 def argument():
     parser = argparse.ArgumentParser()
