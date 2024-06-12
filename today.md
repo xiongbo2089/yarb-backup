@@ -501,3 +501,8 @@
   - [【最新鸿蒙应用开发】——类Web开发范式1——生命周期](https://juejin.cn/post/7377925587040665641)
   - [【最新鸿蒙应用开发】————总结ArkUI生命周期](https://juejin.cn/post/7378084350129094683)
   - [HarmonyOS开发：四类基本通知](https://juejin.cn/post/7378084350128717851)
+- 掘金社区
+  - [【拥抱鸿蒙】HarmonyOS NEXT对于游戏类App的基础支持](https://juejin.cn/post/7379060488351809546)
+  - [探索鸿蒙系统中的HTTP请求处理：以HttpRequest.requestInStream为例](https://juejin.cn/post/7378330155385454592)
+  - [使用HarmonyOS的Drawing模块设置文字颜色：从颜色索引到RGB的转换](https://juejin.cn/post/7378143151888695330)
+  - [【最新鸿蒙应用开发】——应用模型Stage和FA的区别](https://juejin.cn/post/7378328335037218855)
