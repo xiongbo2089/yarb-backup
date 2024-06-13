@@ -506,3 +506,9 @@
   - [探索鸿蒙系统中的HTTP请求处理：以HttpRequest.requestInStream为例](https://juejin.cn/post/7378330155385454592)
   - [使用HarmonyOS的Drawing模块设置文字颜色：从颜色索引到RGB的转换](https://juejin.cn/post/7378143151888695330)
   - [【最新鸿蒙应用开发】——应用模型Stage和FA的区别](https://juejin.cn/post/7378328335037218855)
+- 51CTO
+  - [非鸿蒙官方低代码源码生成器](https://ost.51cto.com/posts/28548)
+- 掘金社区
+  - [鸿蒙系统中IAP环境查询的异常分析与解决](https://juejin.cn/post/7379446193140842523)
+  - [Kotlin Multiplatform 跨平台支持鸿蒙](https://juejin.cn/post/7379059228105621556)
+  - [【最新鸿蒙应用开发】——ArkWeb1——arkts加载h5页面](https://juejin.cn/post/7379058697618554880)
