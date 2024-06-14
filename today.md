@@ -512,3 +512,15 @@
   - [鸿蒙系统中IAP环境查询的异常分析与解决](https://juejin.cn/post/7379446193140842523)
   - [Kotlin Multiplatform 跨平台支持鸿蒙](https://juejin.cn/post/7379059228105621556)
   - [【最新鸿蒙应用开发】——ArkWeb1——arkts加载h5页面](https://juejin.cn/post/7379058697618554880)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 首超苹果 iOS！成 2024 年 Q1 中国第二大手机操作系统](https://www.ithome.com/0/774/895.htm)
+- 开源中国
+  - [开源日报 | 下一个AI之城；ChromeOS“安卓化”；HarmonyOS超越iOS；Stable Diffusion 3 Medium开源；计算机专业还值得报考吗？](https://www.oschina.net/news/297137)
+- 掘金社区
+  - [Intent传输数据的大小有限制吗？这个大小是所有应用共享的吗？为什么不能传递大数据？](https://juejin.cn/post/7379897208533319734)
+  - [【鸿蒙Harmony 】记录下LocalStorage、AppStorage、PersistentStorage的持久化存储相关](https://juejin.cn/post/7379627430992773120)
+  - [【最新鸿蒙应开发】——HarmonyOS沙箱目录](https://juejin.cn/post/7379514285536919552)
+  - [解决TaskPool中线程管理和XML解析问题的指南](https://juejin.cn/post/7379524605105274930)
+  - [boss直聘鸿蒙版 来了 我不允许你不会](https://juejin.cn/post/7379560771061612579)
+  - [鸿蒙构建中如何获取Jenkins传递的环境变量参数](https://juejin.cn/post/7379599360944357413)
+  - [解决`LocalStorage.getShared()`返回undefined的问题](https://juejin.cn/post/7379569983128354831)
