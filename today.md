@@ -524,3 +524,11 @@
   - [boss直聘鸿蒙版 来了 我不允许你不会](https://juejin.cn/post/7379560771061612579)
   - [鸿蒙构建中如何获取Jenkins传递的环境变量参数](https://juejin.cn/post/7379599360944357413)
   - [解决`LocalStorage.getShared()`返回undefined的问题](https://juejin.cn/post/7379569983128354831)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙首超 iOS 成中国第二大手机操作系统，华为全场景生态已然成形](https://www.ithome.com/0/775/119.htm)
+- 开源中国
+  - [华为 HarmonyOS 中国市场份额一季度超越苹果 iOS](https://www.oschina.net/news/297191)
+- 掘金社区
+  - [HarmonyOS 角落里的知识 —— 图形变换](https://juejin.cn/post/7380210630887587874)
+  - [在鸿蒙系统中处理ETS层与C++层之间的数组传递](https://juejin.cn/post/7379884568579145755)
+  - [【最新鸿蒙应用开发】——Context上下文对象](https://juejin.cn/post/7379823758419116084)
