@@ -532,3 +532,9 @@
   - [HarmonyOS 角落里的知识 —— 图形变换](https://juejin.cn/post/7380210630887587874)
   - [在鸿蒙系统中处理ETS层与C++层之间的数组传递](https://juejin.cn/post/7379884568579145755)
   - [【最新鸿蒙应用开发】——Context上下文对象](https://juejin.cn/post/7379823758419116084)
+- 51CTO
+  - [【Purple Pi OH】OpenHarmony开发板使用体验+原创跨屏输入应用](https://ost.51cto.com/posts/29231)
+- 鸿蒙开源工程更新
+  - [黑胡桃实验室 BlackWalnut Labs./Waffle NanoV1 Python API Doc](https://gitee.com/blackwalnutlabs/waffle_nano_v1_python_api_document)
+- 掘金社区
+  - [鸿蒙装饰器](https://juejin.cn/post/7380545407728402459)
