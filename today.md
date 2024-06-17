@@ -538,3 +538,9 @@
   - [黑胡桃实验室 BlackWalnut Labs./Waffle NanoV1 Python API Doc](https://gitee.com/blackwalnutlabs/waffle_nano_v1_python_api_document)
 - 掘金社区
   - [鸿蒙装饰器](https://juejin.cn/post/7380545407728402459)
+- 51CTO
+  - [【木棉花】#夏日挑战赛# 鸿蒙小游戏项目——数独Sudoku（2）](https://ost.51cto.com/posts/14446)
+- 掘金社区
+  - [鸿蒙 画布来了 我不允许你不会](https://juejin.cn/post/7380579040825180198)
+  - [鸿蒙应用开发用常用组件感恩父亲节](https://juejin.cn/post/7380510171640971276)
+  - [ArkUI Engine - 探索状态管理装饰器的实现](https://juejin.cn/post/7380357384776073266)
