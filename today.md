@@ -544,3 +544,12 @@
   - [鸿蒙 画布来了 我不允许你不会](https://juejin.cn/post/7380579040825180198)
   - [鸿蒙应用开发用常用组件感恩父亲节](https://juejin.cn/post/7380510171640971276)
   - [ArkUI Engine - 探索状态管理装饰器的实现](https://juejin.cn/post/7380357384776073266)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 2012 实验室旗下“编程语言 Lab”公众号更名为“仓颉编程语言”](https://www.ithome.com/0/775/701.htm)
+- 51CTO
+  - [如何使用DevEco Studio创建Native C++应用](https://ost.51cto.com/posts/21366)
+- 开源中国
+  - [开源日报 | Arm为何手撕高通；武汉软件产业蓄势进发；HarmonyOS Next是系统级AI；iPhone 16会杀死大模型APP吗？](https://www.oschina.net/news/297673)
+- 掘金社区
+  - [为什么Zygote通信使用socket而不是binder?](https://juejin.cn/post/7381388012276940819)
+  - [【最新鸿蒙应用开发】——NAPI的通信服务](https://juejin.cn/post/7380645714932973631)
