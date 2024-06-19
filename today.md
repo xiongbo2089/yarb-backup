@@ -553,3 +553,8 @@
 - 掘金社区
   - [为什么Zygote通信使用socket而不是binder?](https://juejin.cn/post/7381388012276940819)
   - [【最新鸿蒙应用开发】——NAPI的通信服务](https://juejin.cn/post/7380645714932973631)
+- 掘金社区
+  - [为什么在子线程中创建 Handler 会抛异常？](https://juejin.cn/post/7381760851986661415)
+  - [从零开始的鸿蒙开发之旅（一）——入门](https://juejin.cn/post/7381657886801264640)
+  - [【最新鸿蒙应用开发】——总结鸿蒙ArkTS渲染机制](https://juejin.cn/post/7381437156840439834)
+  - [纯血鸿蒙——如何申请权限](https://juejin.cn/post/7381437156840407066)
