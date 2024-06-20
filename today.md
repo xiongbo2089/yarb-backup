@@ -558,3 +558,12 @@
   - [从零开始的鸿蒙开发之旅（一）——入门](https://juejin.cn/post/7381657886801264640)
   - [【最新鸿蒙应用开发】——总结鸿蒙ArkTS渲染机制](https://juejin.cn/post/7381437156840439834)
   - [纯血鸿蒙——如何申请权限](https://juejin.cn/post/7381437156840407066)
+- 51CTO
+  - [#过年不停更# OpenHarmony 网络-通过第三方库实现IP自动配置(L2)](https://ost.51cto.com/posts/10374)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 nova / 畅享系列 7 款机型宣布不限量开放鸿蒙 HarmonyOS 4.2 正式版升级](https://www.ithome.com/0/776/335.htm)
+  - [消息称华为与腾讯接近达成协议，鸿蒙应用商店将免除对微信的抽成](https://www.ithome.com/0/776/273.htm)
+  - [“编程语言 Lab”公众号更名，华为自研仓颉编程语言即将发布](https://www.ithome.com/0/775/701.htm)
+- 掘金社区
+  - [解决华为NEXT应用开发中模拟器组件缺失问题](https://juejin.cn/post/7381855857125638144)
+  - [HarmonyOS中基于Stage模型开发的生命周期函数（钩子函数）](https://juejin.cn/post/7381721278720409600)
