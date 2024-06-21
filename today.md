@@ -567,3 +567,5 @@
 - 掘金社区
   - [解决华为NEXT应用开发中模拟器组件缺失问题](https://juejin.cn/post/7381855857125638144)
   - [HarmonyOS中基于Stage模型开发的生命周期函数（钩子函数）](https://juejin.cn/post/7381721278720409600)
+- 51CTO
+  - [OpenHarmony应用开发技巧 - 应用常驻和自启动配置](https://ost.51cto.com/posts/21670)
