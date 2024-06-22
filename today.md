@@ -569,3 +569,21 @@
   - [HarmonyOS中基于Stage模型开发的生命周期函数（钩子函数）](https://juejin.cn/post/7381721278720409600)
 - 51CTO
   - [OpenHarmony应用开发技巧 - 应用常驻和自启动配置](https://ost.51cto.com/posts/21670)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙星河，IT之家，亮](https://www.ithome.com/0/776/871.htm)
+  - [华为 HDC 2024 开发者大会首日一文汇总：纯血鸿蒙开发者 Beta 测试、仓颉编程语言、盘古大模型 5.0 登场](https://www.ithome.com/0/776/854.htm)
+  - [【一图知】华为 HDC 2024 开发者大会：纯血鸿蒙开发者 Beta 测试、仓颉编程语言与盘古大模型 5.0 登场](https://www.ithome.com/0/776/852.htm)
+  - [HarmonyOS NEXT 原生智能开启 AI 大模型时代的 OS 新体验！华为小艺变身智能体](https://www.ithome.com/0/776/804.htm)
+  - [鸿蒙新篇，未来已来！2024 华为开发者大会余承东宣布纯血鸿蒙冲刺商用](https://www.ithome.com/0/776/799.htm)
+  - [华为：鸿蒙内核已超越 Linux 内核，操作系统软件不再被欧美垄断](https://www.ithome.com/0/776/791.htm)
+  - [微信鸿蒙版即将发布？消息称腾讯多款产品正适配华为 HarmonyOS 系统](https://www.ithome.com/0/776/790.htm)
+  - [号称多平台可实现一致体验，华为介绍鸿蒙 HarmonyOS NEXT 全场景特性](https://www.ithome.com/0/776/777.htm)
+  - [余承东宣布华为 HarmonyOS NEXT 纯血鸿蒙开启开发者 Beta 测试，将于四季度正式投入商用](https://www.ithome.com/0/776/768.htm)
+- 掘金社区
+  - [纯血鸿蒙 璀璨星河](https://juejin.cn/post/7382892371224494120)
+  - [鸿蒙开发之如何实现帧动画](https://juejin.cn/post/7382537293582237722)
+- 开源中国
+  - [开源日报 | 马斯克暗讽伊利亚；华为发布仓颉编程语言；美国禁售杀软“卡巴斯基”；纯血鸿蒙从内到外实现全栈自研](https://www.oschina.net/news/298428)
+  - [纯血鸿蒙来了：全栈自研，面向开发者启动 Beta](https://my.oschina.net/u/3859945/blog/11212896)
+  - [余承东：纯血鸿蒙从内到外实现全栈自研](https://www.oschina.net/news/298386)
+  - [OpenHarmony 5.0 Beta1](https://www.oschina.net/news/298357/openharmony-5-0-beta1)
