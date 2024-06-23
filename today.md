@@ -587,3 +587,7 @@
   - [纯血鸿蒙来了：全栈自研，面向开发者启动 Beta](https://my.oschina.net/u/3859945/blog/11212896)
   - [余承东：纯血鸿蒙从内到外实现全栈自研](https://www.oschina.net/news/298386)
   - [OpenHarmony 5.0 Beta1](https://www.oschina.net/news/298357/openharmony-5-0-beta1)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为与汉仪联合推出 HarmonyOS Symbol 字体：超 1500 个矢量图标、粗细可变、分层定义](https://www.ithome.com/0/776/957.htm)
+  - [“鸿蒙 PC 版”部分应用 UI 曝光？华为发布 HarmonyOS 二合一设备应用设计指南](https://www.ithome.com/0/776/954.htm)
+  - [微信鸿蒙版即将发布？腾讯多款产品正适配华为 HarmonyOS 系统](https://www.ithome.com/0/776/790.htm)
