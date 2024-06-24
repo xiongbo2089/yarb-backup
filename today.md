@@ -591,3 +591,7 @@
   - [华为与汉仪联合推出 HarmonyOS Symbol 字体：超 1500 个矢量图标、粗细可变、分层定义](https://www.ithome.com/0/776/957.htm)
   - [“鸿蒙 PC 版”部分应用 UI 曝光？华为发布 HarmonyOS 二合一设备应用设计指南](https://www.ithome.com/0/776/954.htm)
   - [微信鸿蒙版即将发布？腾讯多款产品正适配华为 HarmonyOS 系统](https://www.ithome.com/0/776/790.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [原生鸿蒙开启 Beta 测试！体验脱胎换骨，生态大势已成](https://www.ithome.com/0/777/071.htm)
+- 博客园
+  - [美团携手HarmonyOS SDK，开启便捷生活新篇章 - HarmonyOS_SDK](https://www.cnblogs.com/hmscore/p/18263780)
