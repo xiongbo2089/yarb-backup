@@ -595,3 +595,14 @@
   - [原生鸿蒙开启 Beta 测试！体验脱胎换骨，生态大势已成](https://www.ithome.com/0/777/071.htm)
 - 博客园
   - [美团携手HarmonyOS SDK，开启便捷生活新篇章 - HarmonyOS_SDK](https://www.cnblogs.com/hmscore/p/18263780)
+- GitHub
+  - [harmonyos-games](https://github.com/dividez/harmonyos-games)
+  - [HarmonyDevTools](https://github.com/Dev-Wiki/HarmonyDevTools)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [HDC2024 早餐会三道“硬菜”颠覆流量格局，原生鸿蒙遍布商业潜力](https://www.ithome.com/0/777/337.htm)
+- 开源中国
+  - [开源日报 | Xcode 16新功能最少需16GB内存；我们仍然是芯片第一大进口国；鸿蒙的崛起；天文学家讨厌马斯克](https://www.oschina.net/news/298795)
+- 掘金社区
+  - [Binder 对象存储在哪里，谁引用了它](https://juejin.cn/post/7383887420326019126)
+  - [ZoomImageView 实现指南（上篇）](https://juejin.cn/post/7383980134828687386)
+  - [仓颉开发入门初体验](https://juejin.cn/post/7383374760577482771)
