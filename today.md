@@ -606,3 +606,11 @@
   - [Binder 对象存储在哪里，谁引用了它](https://juejin.cn/post/7383887420326019126)
   - [ZoomImageView 实现指南（上篇）](https://juejin.cn/post/7383980134828687386)
   - [仓颉开发入门初体验](https://juejin.cn/post/7383374760577482771)
+- 开源中国
+  - [开源日报 | Qt for OpenHarmony；英特尔在中国开源生态上有重大作用；国内工业软件市场规模约2414亿元；华为纯血鸿蒙与开源鸿蒙设备互联互通](https://www.oschina.net/news/298948)
+  - [Qt 与华为合作开发 OpenHarmony 版本](https://www.oschina.net/news/298880)
+- OSCHINA 社区最新软件
+  - [面向全场景智能的现代编程语言 仓颉](https://www.oschina.net/p/cangjie)
+- 掘金社区
+  - [游戏发行之鸿蒙SDK](https://juejin.cn/post/7384244866874556466)
+  - [在Mac上配置和使用HDC工具的指南](https://juejin.cn/post/7384140472337432586)
