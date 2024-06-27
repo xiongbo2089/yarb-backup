@@ -614,3 +614,7 @@
 - 掘金社区
   - [游戏发行之鸿蒙SDK](https://juejin.cn/post/7384244866874556466)
   - [在Mac上配置和使用HDC工具的指南](https://juejin.cn/post/7384140472337432586)
+- 开源中国
+  - [首批基于仓颉编程语言的高性能图像处理算法库发布](https://www.oschina.net/news/299025)
+- 掘金社区
+  - [为什么kotlin要使用协程](https://juejin.cn/post/7384632888321916939)
