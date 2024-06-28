@@ -618,3 +618,7 @@
   - [首批基于仓颉编程语言的高性能图像处理算法库发布](https://www.oschina.net/news/299025)
 - 掘金社区
   - [为什么kotlin要使用协程](https://juejin.cn/post/7384632888321916939)
+- 掘金社区
+  - [进行IPC通信时Service崩溃了，如何避免客户端崩溃](https://juejin.cn/post/7385025044730789927)
+  - [鸿蒙开发之如何使用关系型数据库进行关联查询](https://juejin.cn/post/7384801095666040870)
+  - [【拥抱鸿蒙】Cocos Creator构建OpenHarmony工程实践](https://juejin.cn/post/7384801095664844838)
