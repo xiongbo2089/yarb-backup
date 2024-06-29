@@ -622,3 +622,7 @@
   - [进行IPC通信时Service崩溃了，如何避免客户端崩溃](https://juejin.cn/post/7385025044730789927)
   - [鸿蒙开发之如何使用关系型数据库进行关联查询](https://juejin.cn/post/7384801095666040870)
   - [【拥抱鸿蒙】Cocos Creator构建OpenHarmony工程实践](https://juejin.cn/post/7384801095664844838)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [中国信通院：华为 HarmonyOS NEXT 推动提升终端侧隐私和生态管控能力，进一步加强用户个人信息保护](https://www.ithome.com/0/778/420.htm)
+- 掘金社区
+  - [鸿蒙ArkUI学习之布局篇--线性布局、弹性布局、层叠布局](https://juejin.cn/post/7385132405797306377)
