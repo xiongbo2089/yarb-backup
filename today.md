@@ -626,3 +626,8 @@
   - [中国信通院：华为 HarmonyOS NEXT 推动提升终端侧隐私和生态管控能力，进一步加强用户个人信息保护](https://www.ithome.com/0/778/420.htm)
 - 掘金社区
   - [鸿蒙ArkUI学习之布局篇--线性布局、弹性布局、层叠布局](https://juejin.cn/post/7385132405797306377)
+- GitHub
+  - [harmony-events](https://github.com/afeiship/harmony-events)
+- 掘金社区
+  - [一道奇葩的面试题，线程调用2次start方法会怎样](https://juejin.cn/post/7385758285960773671)
+  - [鸿蒙 NAPI 注册流程分析](https://juejin.cn/post/7385776238789001225)
