@@ -631,3 +631,8 @@
 - 掘金社区
   - [一道奇葩的面试题，线程调用2次start方法会怎样](https://juejin.cn/post/7385758285960773671)
   - [鸿蒙 NAPI 注册流程分析](https://juejin.cn/post/7385776238789001225)
+- 51CTO
+  - [HarmonyOS如何通过点击元服务卡片触发调试过程](https://ost.51cto.com/posts/29288)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [自主研发比率 100%，中国信通院完成华为鸿蒙内核自主成熟度等级认证](https://www.ithome.com/0/778/810.htm)
+  - [<font color="#d22222">【视频】好学好玩的家庭鸿蒙平板，2024款华为MatePad SE平板开箱评测</font>](https://www.ithome.com/0/778/791.htm)
