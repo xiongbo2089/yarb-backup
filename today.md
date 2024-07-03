@@ -636,3 +636,7 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [自主研发比率 100%，中国信通院完成华为鸿蒙内核自主成熟度等级认证](https://www.ithome.com/0/778/810.htm)
   - [<font color="#d22222">【视频】好学好玩的家庭鸿蒙平板，2024款华为MatePad SE平板开箱评测</font>](https://www.ithome.com/0/778/791.htm)
+- 51CTO
+  - [【仓颉】创建静态库及使用](https://ost.51cto.com/posts/29299)
+  - [【仓颉】配置仓颉运行环境VSCode + Win11](https://ost.51cto.com/posts/29298)
+  - [OpenHarmony Wifi HAL与WPA_supplicant的通信浅析](https://ost.51cto.com/posts/23582)
