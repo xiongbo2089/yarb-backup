@@ -640,3 +640,8 @@
   - [【仓颉】创建静态库及使用](https://ost.51cto.com/posts/29299)
   - [【仓颉】配置仓颉运行环境VSCode + Win11](https://ost.51cto.com/posts/29298)
   - [OpenHarmony Wifi HAL与WPA_supplicant的通信浅析](https://ost.51cto.com/posts/23582)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为手环 8 获推鸿蒙 HarmonyOS 4.2.0.103：新增数字车钥匙、智慧屏联动等](https://www.ithome.com/0/779/521.htm)
+  - [首款鸿蒙生态路由器开启商用：九联 UNR035H 千兆双频路由器通过开源鸿蒙认证](https://www.ithome.com/0/779/464.htm)
+- 掘金社区
+  - [鸿蒙next 下拉刷新上来加载 来了 我不允许你不会](https://juejin.cn/post/7386936832609337355)
