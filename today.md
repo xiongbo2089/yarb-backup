@@ -645,3 +645,12 @@
   - [首款鸿蒙生态路由器开启商用：九联 UNR035H 千兆双频路由器通过开源鸿蒙认证](https://www.ithome.com/0/779/464.htm)
 - 掘金社区
   - [鸿蒙next 下拉刷新上来加载 来了 我不允许你不会](https://juejin.cn/post/7386936832609337355)
+- 鸿蒙官网
+  - [HarmonyOS Next 原生应用开发-从TS到ArkTS的适配规则（三）](https://developer.huawei.com/consumer/cn/blog/topic/03155581158280002)
+  - [【HarmonyOS】颜色混合方案：比如从 红色 最终过度到黑色 取0时返回红色 取1时返回黑色 取0.x时返回过渡中的某一个颜色。](https://developer.huawei.com/consumer/cn/blog/topic/03155557583031009)
+  - [虚拟机闪退报这个错误0000000000000000 Not mapped...，偶尔运行又不报，咋解决](https://developer.huawei.com/consumer/cn/blog/topic/03155494470660007)
+  - [HarmonyOS Next 原生应用开发的功能优先级](https://developer.huawei.com/consumer/cn/blog/topic/03155492613626028)
+  - [HarmonyOS Next 原生应用开发-从TS到ArkTS的适配规则（二）](https://developer.huawei.com/consumer/cn/blog/topic/03155489906990027)
+  - [【踩坑记录】web组件使用时遇到17100001问题](https://developer.huawei.com/consumer/cn/blog/topic/03155475350474008)
+  - [员工上网行为监控中的Swift接口开发](https://developer.huawei.com/consumer/cn/blog/topic/03155470863043007)
+  - [HarmonyOS NEXT 版本不支持在原型上赋值](https://developer.huawei.com/consumer/cn/blog/topic/03155468079393026)
