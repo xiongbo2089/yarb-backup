@@ -133,7 +133,7 @@ def parseThread(conf: dict, url: str, proxy_url=''):
         if url.startswith("https://svc-drcn.developer.huawei.com"):
             # 请求的参数
             payload = {
-                "pageSize": 16,
+                "pageSize": 24,
                 "pageIndex": 1,
                 "type": 2
             }
@@ -144,19 +144,21 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                 # 打印返回的JSON数据item["blogId"]
                 for entry in response.json()["resultList"]:
                     yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y%m%d%H%M%S")
-                    if (entry['publishTime'] >= yesterday) and filter(entry['title'], entry['previewContent']):
+                    if (entry['publishTime'] >= yesterday) and filter(entry['title'] + "鸿蒙", entry['previewContent']):
                         current_time_uuid = str(uuid.uuid1())
+                        upload_info_list = entry.get('uploadInfoList', [])
+                        cover = upload_info_list[0]['filePath'] if upload_info_list else ''
                         item = {
                             'uuid': current_time_uuid,
                             'title': entry['title'],
                             'link': f"https://developer.huawei.com/consumer/cn/blog/topic/{entry['blogId']}",
                             'summary': entry['previewContent'],
-                            'cover': entry['coverPic'],
+                            'cover': cover,
                             'author':  title,
                         }
 
                         print(item)
-                        result |= item
+                        result.append(item)
             else:
                 print(f"请求失败，状态码：{response.status_code}")
 
@@ -203,7 +205,6 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                     }
                     print(item)
                     result.append(item)
-        console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
     except Exception as e:
         console.print(f'[-] failed: {url}', style='bold red')
         print(e)
