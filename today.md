@@ -654,3 +654,8 @@
   - [【踩坑记录】web组件使用时遇到17100001问题](https://developer.huawei.com/consumer/cn/blog/topic/03155475350474008)
   - [员工上网行为监控中的Swift接口开发](https://developer.huawei.com/consumer/cn/blog/topic/03155470863043007)
   - [HarmonyOS NEXT 版本不支持在原型上赋值](https://developer.huawei.com/consumer/cn/blog/topic/03155468079393026)
+- 鸿蒙官网
+  - [HarmonyOS Next 原生应用开发-从TS到ArkTS的适配规则（三）](https://developer.huawei.com/consumer/cn/blog/topic/03155581158280002)
+  - [【HarmonyOS】颜色混合方案：比如从 红色 最终过度到黑色 取0时返回红色 取1时返回黑色 取0.x时返回过渡中的某一个颜色。](https://developer.huawei.com/consumer/cn/blog/topic/03155557583031009)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称国内首款鸿蒙人形机器人正在蔚来、亨通等工厂检测验证](https://www.ithome.com/0/780/041.htm)
