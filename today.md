@@ -659,3 +659,8 @@
   - [【HarmonyOS】颜色混合方案：比如从 红色 最终过度到黑色 取0时返回红色 取1时返回黑色 取0.x时返回过渡中的某一个颜色。](https://developer.huawei.com/consumer/cn/blog/topic/03155557583031009)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [消息称国内首款鸿蒙人形机器人正在蔚来、亨通等工厂检测验证](https://www.ithome.com/0/780/041.htm)
+- 51CTO
+  - [无法连接真机](https://ost.51cto.com/posts/29328)
+  - [【仓颉】坚果派仓颉三方库leap_year的实践](https://ost.51cto.com/posts/29326)
+- 鸿蒙官网
+  - [用AI加持反编译是否可行--给所有AI开发者的一个建议](https://developer.huawei.com/consumer/cn/blog/topic/03155662387845009)
