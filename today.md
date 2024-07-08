@@ -664,3 +664,5 @@
   - [【仓颉】坚果派仓颉三方库leap_year的实践](https://ost.51cto.com/posts/29326)
 - 鸿蒙官网
   - [用AI加持反编译是否可行--给所有AI开发者的一个建议](https://developer.huawei.com/consumer/cn/blog/topic/03155662387845009)
+- GitHub
+  - [negative-melody](https://github.com/riccardogiampiccolo/negative-melody)
