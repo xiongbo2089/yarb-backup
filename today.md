@@ -666,3 +666,10 @@
   - [用AI加持反编译是否可行--给所有AI开发者的一个建议](https://developer.huawei.com/consumer/cn/blog/topic/03155662387845009)
 - GitHub
   - [negative-melody](https://github.com/riccardogiampiccolo/negative-melody)
+- 鸿蒙官网
+  - [对标java注解，仓颉语言宏功能简介](https://developer.huawei.com/consumer/cn/blog/topic/03155894187357006)
+  - [ HarmonyOS开发AES加密解密和中文乱码处理](https://developer.huawei.com/consumer/cn/blog/topic/03155820534691005)
+  - [【HarmonyOS】预览器Previewer不显示的可能情况整理。](https://developer.huawei.com/consumer/cn/blog/topic/03155819355621010)
+  - [上网行为管理软件中的Groovy灵活脚本](https://developer.huawei.com/consumer/cn/blog/topic/03155816208481011)
+- 掘金社区
+  - [🎉久等啦！华为HarmonyOS NEXT创意有奖征文开奖咯～](https://juejin.cn/post/7388842078800199689)
