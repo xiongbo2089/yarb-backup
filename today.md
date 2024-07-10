@@ -673,3 +673,18 @@
   - [上网行为管理软件中的Groovy灵活脚本](https://developer.huawei.com/consumer/cn/blog/topic/03155816208481011)
 - 掘金社区
   - [🎉久等啦！华为HarmonyOS NEXT创意有奖征文开奖咯～](https://juejin.cn/post/7388842078800199689)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [对标 Photoshop，悟空图像上线华为鸿蒙 HarmonyOS NEXT：兼容 PSD、PDF](https://www.ithome.com/0/780/664.htm)
+- 鸿蒙官网
+  - [【HarmonyOS】java与ArkTS中方法重载的使用注意事项记录，ArkTS的方法名只能有一个，可以用 ? 或 |  来模拟java中的重载](https://developer.huawei.com/consumer/cn/blog/topic/03155928036735011)
+  - [HarmonyOS Next 原生应用开发-从TS到ArkTS的适配规则（四）](https://developer.huawei.com/consumer/cn/blog/topic/03155918230460007)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#实战鸿蒙，实现一款权限请求框架](https://ost.51cto.com/posts/29350)
+  - [HarmonyOS Codelab 优秀样例——购物应用，体验一次开发多端部署魅力](https://ost.51cto.com/posts/26145)
+  - [#HarmonyOS NEXT体验官# 基于HarmonyOS NEXT的智能宠物管理系统（代码+运行结果+测试用例）](https://ost.51cto.com/posts/29349)
+  - [#HarmonyOS NEXT体验官# 鸿蒙原生应用、元服务开发项目实战：推送、支付等接入HarmonyOS SDK 原创](https://ost.51cto.com/posts/29347)
+  - [集成态HSP](https://ost.51cto.com/posts/29346)
+- GitHub
+  - [abcde](https://github.com/Yricky/abcde)
+- 掘金社区
+  - [HarmonyOS：NavPathStack的详细使用说明以及示例](https://juejin.cn/post/7389278362242007077)
