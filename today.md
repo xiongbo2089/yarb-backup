@@ -688,3 +688,15 @@
   - [abcde](https://github.com/Yricky/abcde)
 - 掘金社区
   - [HarmonyOS：NavPathStack的详细使用说明以及示例](https://juejin.cn/post/7389278362242007077)
+- 鸿蒙官网
+  - [【招聘】高级嵌入式软件开发工程师 30k-45k](https://developer.huawei.com/consumer/cn/blog/topic/03156071942791010)
+  - [鸿蒙应用开发环境搭建与ArkTS语法](https://developer.huawei.com/consumer/cn/blog/topic/03156039001068012)
+  - [vcpkg编译鸿蒙第三方库](https://developer.huawei.com/consumer/cn/blog/topic/03156026506278001)
+  - [【HarmonyOS】使用Flex布局和onAreaChange事件计算并记录多行文本位置的实现方案](https://developer.huawei.com/consumer/cn/blog/topic/03156019051328009)
+  - [华为HarmonyOS NEXT （基于Echarts）开发一个OpenHarmony三方库](https://developer.huawei.com/consumer/cn/blog/topic/03156013351018015)
+  - [Go语言之nocopy详解](https://developer.huawei.com/consumer/cn/blog/topic/03156012335865008)
+  - [《经典图论算法》迪杰斯特拉算法(Dijkstra)](https://developer.huawei.com/consumer/cn/blog/topic/03155996483195014)
+  - [linux如何将网卡的名称修改](https://developer.huawei.com/consumer/cn/blog/topic/03155990795955013)
+- 掘金社区
+  - [鸿蒙架构之AOP](https://juejin.cn/post/7389912518704922636)
+  - [HarmonyOS：日志打印并且写入本地文件，并上传服务器](https://juejin.cn/post/7389923941471059994)
