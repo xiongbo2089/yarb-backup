@@ -700,3 +700,11 @@
 - 掘金社区
   - [鸿蒙架构之AOP](https://juejin.cn/post/7389912518704922636)
   - [HarmonyOS：日志打印并且写入本地文件，并上传服务器](https://juejin.cn/post/7389923941471059994)
+- 鸿蒙官网
+  - [【HarmonyOS】当list设置横向布局时，list高度默认撑满没有达到预期的高度自适应，可以通过onAreaChange动态修改高度。](https://developer.huawei.com/consumer/cn/blog/topic/03156113482089015)
+  - [鸿蒙架构之AOP](https://developer.huawei.com/consumer/cn/blog/topic/03156080984302002)
+  - [屏幕监控软件中的Racket元编程](https://developer.huawei.com/consumer/cn/blog/topic/03156074312545011)
+  - [鸿蒙元服务API集全新呈现-开发更清晰高效](https://developer.huawei.com/consumer/cn/blog/topic/03156072902575013)
+  - [【招聘】高级嵌入式软件开发工程师 30k-45k](https://developer.huawei.com/consumer/cn/blog/topic/03156071942791010)
+- 鸿蒙开源工程更新
+  - [小添同学/荔园Harmony](https://gitee.com/zhang-zhaotian/liyuan-harmony)
