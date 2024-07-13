@@ -708,3 +708,12 @@
   - [【招聘】高级嵌入式软件开发工程师 30k-45k](https://developer.huawei.com/consumer/cn/blog/topic/03156071942791010)
 - 鸿蒙开源工程更新
   - [小添同学/荔园Harmony](https://gitee.com/zhang-zhaotian/liyuan-harmony)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate 60、X5 系列及 MatePad Pro 13.2 等机型开启鸿蒙 HarmonyOS NEXT Beta 第二期测试招募](https://www.ithome.com/0/781/395.htm)
+- 鸿蒙官网
+  - [对鸿蒙开发程序包 HAP、HAR 以及 HSP 的简要理解](https://developer.huawei.com/consumer/cn/blog/topic/03156183345335016)
+  - [元服务体验-服务使用](https://developer.huawei.com/consumer/cn/blog/topic/03156178874243002)
+  - [界面级一多：自适应布局](https://developer.huawei.com/consumer/cn/blog/topic/03156176644801018)
+  - [【HarmonyOS】封装基于 promptAction 全局弹窗的自定义对话框工具类：优化操作以及记录报错信息OpenCustomDialog args error code is 401的原因](https://developer.huawei.com/consumer/cn/blog/topic/03156175016189017)
+  - [DES-CBC-PKCS7实现](https://developer.huawei.com/consumer/cn/blog/topic/03156174956970016)
+  - [网页三维CAD参数化建模开发框架的搭建教程](https://developer.huawei.com/consumer/cn/blog/topic/03156157716980001)
