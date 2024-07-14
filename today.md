@@ -717,3 +717,11 @@
   - [【HarmonyOS】封装基于 promptAction 全局弹窗的自定义对话框工具类：优化操作以及记录报错信息OpenCustomDialog args error code is 401的原因](https://developer.huawei.com/consumer/cn/blog/topic/03156175016189017)
   - [DES-CBC-PKCS7实现](https://developer.huawei.com/consumer/cn/blog/topic/03156174956970016)
   - [网页三维CAD参数化建模开发框架的搭建教程](https://developer.huawei.com/consumer/cn/blog/topic/03156157716980001)
+- 鸿蒙官网
+  - [科技云报道：产业为根大模型应用为擎，容联云推动企业营销服场景重塑](https://developer.huawei.com/consumer/cn/blog/topic/03156283116622019)
+  - [【HarmonyOS】Tabs使用封装](https://developer.huawei.com/consumer/cn/blog/topic/03156267896893018)
+- 51CTO
+  - [鸿蒙开源组件——RTMP流的工具包](https://ost.51cto.com/posts/8323)
+  - [#HarmonyOS NEXT体验官# 推送服务卡片开发中获取PushToken](https://ost.51cto.com/posts/29364)
+- 掘金社区
+  - [鸿蒙Web与JSBridge使用](https://juejin.cn/post/7390620343012982836)
