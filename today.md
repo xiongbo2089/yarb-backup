@@ -725,3 +725,18 @@
   - [#HarmonyOS NEXT体验官# 推送服务卡片开发中获取PushToken](https://ost.51cto.com/posts/29364)
 - 掘金社区
   - [鸿蒙Web与JSBridge使用](https://juejin.cn/post/7390620343012982836)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [“鸿蒙 PC 版”现身华为开发者官网：顶部显示状态栏、底部应用 Dock 栏](https://www.ithome.com/0/781/995.htm)
+  - [华为官宣鸿蒙原生游戏参展 2024 ChinaJoy，7 月 26 日开幕](https://www.ithome.com/0/781/806.htm)
+- 鸿蒙官网
+  - [HFSS 3D LAYOUT自动化脚本](https://developer.huawei.com/consumer/cn/blog/topic/03156493413665002)
+  - [serdes与PCIE的区别](https://developer.huawei.com/consumer/cn/blog/topic/03156492741421020)
+  - [8/10b和sds的关系](https://developer.huawei.com/consumer/cn/blog/topic/03156491781677002)
+  - [sds板级仿真用什么软件？](https://developer.huawei.com/consumer/cn/blog/topic/03156491570393005)
+  - [在应用市场上架APP所需的版权证书获取方法（汇总）](https://developer.huawei.com/consumer/cn/blog/topic/03156462034230019)
+  - [# Harmony 状态管理神器  @ObservedV2   ## ](https://developer.huawei.com/consumer/cn/blog/topic/03156453771973001)
+  - [使用@Observed 如何解决多层对象嵌套 UI更新问题](https://developer.huawei.com/consumer/cn/blog/topic/03156426014525021)
+  - [父组件使用Ref 调用子组件实例方法](https://developer.huawei.com/consumer/cn/blog/topic/03156425838186020)
+  - [公司电脑监控软件中的Julia科学计算](https://developer.huawei.com/consumer/cn/blog/topic/03156420100799020)
+- 掘金社区
+  - [鸿蒙next 数据持久化 你不知道的事情](https://juejin.cn/post/7391693209359663140)
