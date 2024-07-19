@@ -784,3 +784,13 @@
 - 掘金社区
   - [用final声明的局部变量，能提升性能吗](https://juejin.cn/post/7392501157736693812)
   - [【拥抱鸿蒙】基于Cocos Creator的OpenHarmony自动构建](https://juejin.cn/post/7392426370054012954)
+- 51CTO
+  - [如何实现OpenHarmony的OTA升级](https://ost.51cto.com/posts/20978)
+- 鸿蒙官网
+  - [Harmony 状态管理  @Local  和 @Param](https://developer.huawei.com/consumer/cn/blog/topic/03156724982743016)
+  - [【ArkData学习笔记】用户首选项](https://developer.huawei.com/consumer/cn/blog/topic/03156705591767008)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（六）](https://developer.huawei.com/consumer/cn/blog/topic/03156696961845031)
+  - [华为鸿蒙系统4.0 删除恢复应用功能吧求求你们了，大佬们](https://developer.huawei.com/consumer/cn/blog/topic/03156693323422014)
+  - [局域网监控软件中的Octave数值分析](https://developer.huawei.com/consumer/cn/blog/topic/03156684243680030)
+- 掘金社区
+  - [鸿蒙：自定义父子组件之间如何进行事件传递以及this指向问题](https://juejin.cn/post/7392654657774452763)
