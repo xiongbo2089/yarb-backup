@@ -794,3 +794,12 @@
   - [局域网监控软件中的Octave数值分析](https://developer.huawei.com/consumer/cn/blog/topic/03156684243680030)
 - 掘金社区
   - [鸿蒙：自定义父子组件之间如何进行事件传递以及this指向问题](https://juejin.cn/post/7392654657774452763)
+- 鸿蒙官网
+  - [【HarmonyOS】启动图设计尺寸要准备一张大于768像素，才能满足大部分手机。](https://developer.huawei.com/consumer/cn/blog/topic/03156791108862009)
+  - [string.json 中的字符串资源引用方式](https://developer.huawei.com/consumer/cn/blog/topic/03156785521496015)
+  - [局域网内两个鸿蒙设备之间的TCP通讯](https://developer.huawei.com/consumer/cn/blog/topic/03156784348304034)
+  - [鸿蒙开发 - 相对布局 RelativeContainer ](https://developer.huawei.com/consumer/cn/blog/topic/03156767520624033)
+  - [【HarmonyOS】给组件添加下划线或者画虚线边框可以使用.borderStyle和.borderWidth](https://developer.huawei.com/consumer/cn/blog/topic/03156765875458017)
+- 掘金社区
+  - [为鸿蒙应用 Navigation 组件自动生成系统路由表](https://juejin.cn/post/7393195128960172066)
+  - [鸿蒙模拟器 HTTPS 抓包教程](https://juejin.cn/post/7393195128960122914)
