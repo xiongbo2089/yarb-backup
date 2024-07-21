@@ -803,3 +803,7 @@
 - 掘金社区
   - [为鸿蒙应用 Navigation 组件自动生成系统路由表](https://juejin.cn/post/7393195128960172066)
   - [鸿蒙模拟器 HTTPS 抓包教程](https://juejin.cn/post/7393195128960122914)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT Developer Beta2 更新：新增手势拦截能力、UI 设计套件等](https://www.ithome.com/0/783/209.htm)
+- 鸿蒙官网
+  - [【HarmonyOS开发】Navigation使用](https://developer.huawei.com/consumer/cn/blog/topic/03156866239983017)
