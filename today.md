@@ -807,3 +807,12 @@
   - [华为鸿蒙 HarmonyOS NEXT Developer Beta2 更新：新增手势拦截能力、UI 设计套件等](https://www.ithome.com/0/783/209.htm)
 - 鸿蒙官网
   - [【HarmonyOS开发】Navigation使用](https://developer.huawei.com/consumer/cn/blog/topic/03156866239983017)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙 PC 版将至？深开鸿 CEO 王成录晒哈工大博士录取通知书：三年时间，建立鸿蒙操作系统理论体系](https://www.ithome.com/0/783/306.htm)
+- 鸿蒙官网
+  - [【HarmonyOS】globalThis 替代方案探讨](https://developer.huawei.com/consumer/cn/blog/topic/03157022059836019)
+  - [【HarmonyOS】flexGrow与layoutWeight的区别分析记录](https://developer.huawei.com/consumer/cn/blog/topic/03156966276704037)
+  - [模拟器调试正常  真机调试广告页跳转页面闪退](https://developer.huawei.com/consumer/cn/blog/topic/03156963476897019)
+  - [鸿蒙开发 - HTTP 网络请求](https://developer.huawei.com/consumer/cn/blog/topic/03156938910648011)
+  - [HarmonyOS Next相关概念-02](https://developer.huawei.com/consumer/cn/blog/topic/03156938034639018)
+  - [HarmonyOS Next相关概念-01](https://developer.huawei.com/consumer/cn/blog/topic/03156937514672018)
