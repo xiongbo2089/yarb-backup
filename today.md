@@ -816,3 +816,18 @@
   - [鸿蒙开发 - HTTP 网络请求](https://developer.huawei.com/consumer/cn/blog/topic/03156938910648011)
   - [HarmonyOS Next相关概念-02](https://developer.huawei.com/consumer/cn/blog/topic/03156938034639018)
   - [HarmonyOS Next相关概念-01](https://developer.huawei.com/consumer/cn/blog/topic/03156937514672018)
+- 鸿蒙官网
+  - [OpenHarmony开发板通过RS485使用传感器](https://developer.huawei.com/consumer/cn/blog/topic/03157053142250039)
+  - [.HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（七）](https://developer.huawei.com/consumer/cn/blog/topic/03157041806765020)
+  - [单位网络监控软件中的ABAP企业编程](https://developer.huawei.com/consumer/cn/blog/topic/03157038825354021)
+  - [【HarmonyOS】如何获取设备的内存信息，包括设备总内存，剩余内存和可用内存](https://developer.huawei.com/consumer/cn/blog/topic/03157032092143020)
+  - [【HarmonyOS】鸿蒙端防抖动策略：单例工具类助力提升应用稳定性](https://developer.huawei.com/consumer/cn/blog/topic/03157028297842038)
+  - [【HarmonyOS】globalThis 替代方案探讨](https://developer.huawei.com/consumer/cn/blog/topic/03157022059836019)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [启动时间 1 秒内，淘宝鸿蒙原生版上线 HarmonyOS NEXT](https://www.ithome.com/0/783/544.htm)
+  - [游戏流转将至，华为鸿蒙 HarmonyOS 原生游戏特性公布：云渲染、多端互联](https://www.ithome.com/0/783/481.htm)
+- 开源中国
+  - [“鸿蒙之父”王成录计划建立鸿蒙操作系统理论体系系统](https://www.oschina.net/news/303247)
+- 掘金社区
+  - [HarmonyOS鸿蒙应用开发-ZRouter让系统路由表变得更简单](https://juejin.cn/post/7394094789287067685)
+  - [【拥抱鸿蒙】HarmonyOS NEXT深入理解路由容器之Navigation](https://juejin.cn/post/7393746524474146879)
