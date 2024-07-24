@@ -831,3 +831,20 @@
 - 掘金社区
   - [HarmonyOS鸿蒙应用开发-ZRouter让系统路由表变得更简单](https://juejin.cn/post/7394094789287067685)
   - [【拥抱鸿蒙】HarmonyOS NEXT深入理解路由容器之Navigation](https://juejin.cn/post/7393746524474146879)
+- 鸿蒙官网
+  - [【HarmonyOS】鸿蒙代码编写完成，APP上架流程与所需资料记录](https://developer.huawei.com/consumer/cn/blog/topic/03157193726155016)
+  - [【踩坑记录】ArkTs/事件/第三方富文本组件@ohasasugar/hp-richtext](https://developer.huawei.com/consumer/cn/blog/topic/03157156171400015)
+  - [【HarmonyOS学习】用户文件访问](https://developer.huawei.com/consumer/cn/blog/topic/03157147675053014)
+  - [鸿蒙开发 - 数据解析 ](https://developer.huawei.com/consumer/cn/blog/topic/03157134934868041)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（八）](https://developer.huawei.com/consumer/cn/blog/topic/03157134920154023)
+  - [HAP,HAR,HSP](https://developer.huawei.com/consumer/cn/blog/topic/03157125462519013)
+  - [ArkUI框架](https://developer.huawei.com/consumer/cn/blog/topic/03157120341834040)
+  - [Harmony状态管理@Event](https://developer.huawei.com/consumer/cn/blog/topic/03157118234897023)
+  - [鸿蒙入门01-下载和安装](https://developer.huawei.com/consumer/cn/blog/topic/03157113777161022)
+  - [自定义tabs导航栏实现切换效果](https://developer.huawei.com/consumer/cn/blog/topic/03157112446314022)
+  - [HiAppEvent学习](https://developer.huawei.com/consumer/cn/blog/topic/03157112034158012)
+- 掘金社区
+  - [鸿蒙文件上传和下载功能](https://juejin.cn/post/7394786709647605760)
+  - [鸿蒙 next 实现虚拟返回键杀死进程关闭app](https://juejin.cn/post/7394795454582210600)
+  - [鸿蒙权限申请、网络请求](https://juejin.cn/post/7394699814203703336)
+  - [Flutter For Harmony今日时鉴应用](https://juejin.cn/post/7394272287431032844)
