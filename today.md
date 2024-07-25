@@ -848,3 +848,18 @@
   - [鸿蒙 next 实现虚拟返回键杀死进程关闭app](https://juejin.cn/post/7394795454582210600)
   - [鸿蒙权限申请、网络请求](https://juejin.cn/post/7394699814203703336)
   - [Flutter For Harmony今日时鉴应用](https://juejin.cn/post/7394272287431032844)
+- GitHub
+  - [harmony-remote-card](https://github.com/ljmerza/harmony-remote-card)
+- 鸿蒙官网
+  - [【HarmonyOS】实现一个自定义带圆点的进度条效果。](https://developer.huawei.com/consumer/cn/blog/topic/03157278498700018)
+  - [科技云报道：算网筑基AI注智，中国联通如何讲出AI时代的“新故事”？](https://developer.huawei.com/consumer/cn/blog/topic/03157244697390024)
+  - [【HarmonyOS】接口请求参数封装思路分析 Object()、ESObject、Record、class](https://developer.huawei.com/consumer/cn/blog/topic/03157223312924046)
+  - [Harmony Next -- 通用标题栏](https://developer.huawei.com/consumer/cn/blog/topic/03157222613991045)
+  - [Harmony Next -- 图片选择库，宫格展示、全屏预览](https://developer.huawei.com/consumer/cn/blog/topic/03157206670515044)
+  - [鸿蒙开发 - 开发一个简单的壁纸应用](https://developer.huawei.com/consumer/cn/blog/topic/03157204862540043)
+  - [HarmonyOSNext首选项使用](https://developer.huawei.com/consumer/cn/blog/topic/03157204307418017)
+  - [【HarmonyOS学习】应用文件访问](https://developer.huawei.com/consumer/cn/blog/topic/03157202810240042)
+  - [【脚本】集关于计算机的一些基本信息，并将其保存到一个文本文件中。](https://developer.huawei.com/consumer/cn/blog/topic/03157199769572024)
+  - [【HarmonyOS】鸿蒙代码编写完成，APP上架流程与所需资料记录](https://developer.huawei.com/consumer/cn/blog/topic/03157193726155016)
+- 掘金社区
+  - [Flutter For Harmony next 来了](https://juejin.cn/post/7395042216647704628)
