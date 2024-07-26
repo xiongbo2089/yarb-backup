@@ -863,3 +863,20 @@
   - [【HarmonyOS】鸿蒙代码编写完成，APP上架流程与所需资料记录](https://developer.huawei.com/consumer/cn/blog/topic/03157193726155016)
 - 掘金社区
   - [Flutter For Harmony next 来了](https://juejin.cn/post/7395042216647704628)
+- 51CTO
+  - [【FFH】OpenHarmony构建编译实战](https://ost.51cto.com/posts/29408)
+- 鸿蒙官网
+  - [开发调试中，如何把文字快速输入到真机或者模拟器中？](https://developer.huawei.com/consumer/cn/blog/topic/03157310544446026)
+  - [【HarmonyOS】SaveButton组件把图片显示到相册中的方法demo，支持组件截图、url网络图片、base64格式图片。注意事项：1、不支持自定义SaveButton样式。2、下载按钮被遮挡一部分，也无法保存到相册。](https://developer.huawei.com/consumer/cn/blog/topic/03157306639465048)
+  - [华为地图服务功能概览](https://developer.huawei.com/consumer/cn/blog/topic/03157304230219047)
+  - [网页CAD视区显示的设置和二次开发的详细教程](https://developer.huawei.com/consumer/cn/blog/topic/03157302931121020)
+  - [结合百度AI模型和分布式设备协同网络的分布式AI聊天室 ](https://developer.huawei.com/consumer/cn/blog/topic/03157301003058027)
+  - [Basic 为员工上网行为监控软件的入门级开发](https://developer.huawei.com/consumer/cn/blog/topic/03157298232581019)
+  - [IM跨平台技术学习(十三)：从理论到实践，详细对比Electron和Tauri的优劣](https://developer.huawei.com/consumer/cn/blog/topic/03157297449141026)
+  - [【HarmonyOS】实现Web组件高度自适应的一种方案是在H5页面的body底部追加一个div元素，并通过获取该div的offsetTop值来动态更新Web组件的高度。](https://developer.huawei.com/consumer/cn/blog/topic/03157287402382025)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（九）](https://developer.huawei.com/consumer/cn/blog/topic/03157287390327025)
+  - [【HarmonyOS】实现一个自定义带圆点的进度条效果。](https://developer.huawei.com/consumer/cn/blog/topic/03157278498700018)
+- GitHub
+  - [harmony-ops](https://github.com/harmony-one/harmony-ops)
+- 掘金社区
+  - [HarmonyOS：组件Navigation使用中List显示不全的问题探究以及解决办法](https://juejin.cn/post/7395217248675037234)
