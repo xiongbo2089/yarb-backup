@@ -880,3 +880,21 @@
   - [harmony-ops](https://github.com/harmony-one/harmony-ops)
 - 掘金社区
   - [HarmonyOS：组件Navigation使用中List显示不全的问题探究以及解决办法](https://juejin.cn/post/7395217248675037234)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [HarmonyOS 公开课面向青年学子公开招募，人才是鸿蒙发展关键引擎](https://www.ithome.com/0/784/474.htm)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#Web获取相机拍照图片](https://ost.51cto.com/posts/29425)
+  - [#HarmonyOS NEXT体验官#设备信息查看器](https://ost.51cto.com/posts/29416)
+  - [#HarmonyOS NEXT体验官#手电筒应用](https://ost.51cto.com/posts/29415)
+- 鸿蒙官网
+  - [【HarmonyOS NEXT】踩坑！Scroll中使用relativeContainer无法滚动问题](https://developer.huawei.com/consumer/cn/blog/topic/03157418314575026)
+  - [【HarmonyOS Next】如何实时监控Scroll组件水平方向滚动偏移量](https://developer.huawei.com/consumer/cn/blog/topic/03157400374565024)
+  - [【HarmonyOS】关于键盘的显示与隐藏监听，点击按钮隐藏键盘的方法。keyboardShow和keyboardHide不管用了，可以用keyboardHeightChange实现监听](https://developer.huawei.com/consumer/cn/blog/topic/03157379996747029)
+  - [基于开源IM即时通讯框架MobileIMSDK：RainbowChat v11.6版已发布](https://developer.huawei.com/consumer/cn/blog/topic/03157379056229028)
+  - [Web网页端IM产品RainbowChat-Web的v7.1版已发布](https://developer.huawei.com/consumer/cn/blog/topic/03157376447030023)
+  - [【踩坑随笔】XComponent：用获取 surfaceId 替代传递 libraryname](https://developer.huawei.com/consumer/cn/blog/topic/03157375171433028)
+  - [鸿蒙界面的开发](https://developer.huawei.com/consumer/cn/blog/topic/03157373588492022)
+  - [构建应用(动态)与组件开发入门](https://developer.huawei.com/consumer/cn/blog/topic/03157372926337021)
+  - [HarmonyOS next sdk从api 9 升级到 api 10](https://developer.huawei.com/consumer/cn/blog/topic/03157372776758027)
+- 掘金社区
+  - [【HarmonyOS NEXT】鸿蒙中实现组件化通信解耦](https://juejin.cn/post/7395473411651354663)
