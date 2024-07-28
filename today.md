@@ -898,3 +898,12 @@
   - [HarmonyOS next sdk从api 9 升级到 api 10](https://developer.huawei.com/consumer/cn/blog/topic/03157372776758027)
 - 掘金社区
   - [【HarmonyOS NEXT】鸿蒙中实现组件化通信解耦](https://juejin.cn/post/7395473411651354663)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#无网络环境如何开发鸿蒙应用](https://ost.51cto.com/posts/29435)
+  - [#HarmonyOS NEXT体验官#鸿蒙系列沙龙璀璨星河有你，参加活动有感](https://ost.51cto.com/posts/29429)
+  - [#HarmonyOS NEXT体验官#（基于Echarts）开发一个OpenHarmony三方库](https://ost.51cto.com/posts/29428)
+  - [#HarmonyOS NEXT体验官#  手把手教你适配微信小游戏-打飞机](https://ost.51cto.com/posts/29427)
+- 鸿蒙官网
+  - [逻辑编写常见错误收集](https://developer.huawei.com/consumer/cn/blog/topic/03157463870928031)
+- 掘金社区
+  - [初阶技能：Android 应用异常如何丰富线索](https://juejin.cn/post/7395862719913672731)
