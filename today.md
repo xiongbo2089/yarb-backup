@@ -907,3 +907,8 @@
   - [逻辑编写常见错误收集](https://developer.huawei.com/consumer/cn/blog/topic/03157463870928031)
 - 掘金社区
   - [初阶技能：Android 应用异常如何丰富线索](https://juejin.cn/post/7395862719913672731)
+- 鸿蒙官网
+  - [支付宝案例](https://developer.huawei.com/consumer/cn/blog/topic/03157592224198027)
+- 掘金社区
+  - [鸿蒙next ArkUI 单例模式和手游sdk接口设计](https://juejin.cn/post/7396332696660017161)
+  - [从零开始的鸿蒙开发之旅（三）——状态管理](https://juejin.cn/post/7395964553413705791)
