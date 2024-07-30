@@ -912,3 +912,27 @@
 - 掘金社区
   - [鸿蒙next ArkUI 单例模式和手游sdk接口设计](https://juejin.cn/post/7396332696660017161)
   - [从零开始的鸿蒙开发之旅（三）——状态管理](https://juejin.cn/post/7395964553413705791)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#九宫格切图-创意分享新风尚](https://ost.51cto.com/posts/29439)
+  - [#HarmonyOS NEXT体验官#联系人管理器](https://ost.51cto.com/posts/29440)
+  - [OpenHarmony社区运营报告（2022年11月）](https://ost.51cto.com/posts/19924)
+  - [#HarmonyOS NEXT体验官#《鸿蒙社区适配实战一》](https://ost.51cto.com/posts/29438)
+  - [#HarmonyOS NEXT体验官# HarmonyOS UI可预览架构大结局（上）](https://ost.51cto.com/posts/29436)
+  - [#HarmonyOS NEXT 体验官#开发一个灵感速记APP](https://ost.51cto.com/posts/29443)
+- 鸿蒙官网
+  - [华为地图服务 - 侦听事件来实现地图交互](https://developer.huawei.com/consumer/cn/blog/topic/03157659396789032)
+  - [华为地图服务 - 利用UI控件和手势进行地图交互](https://developer.huawei.com/consumer/cn/blog/topic/03157659227401053)
+  - [华为地图服务 - 通过"地图相机"控制地图的可见区域](https://developer.huawei.com/consumer/cn/blog/topic/03157658733729031)
+  - [【HarmonyOS】@ObservedV2版利用装饰器@Track刷新。很好用哈，记录一下。](https://developer.huawei.com/consumer/cn/blog/topic/03157658189441052)
+  - [【HarmonyOS】使用crypto-js可以同步获取MD5值](https://developer.huawei.com/consumer/cn/blog/topic/03157657764455031)
+  - [华为地图服务 - 如何开启和展示“我的位置”？](https://developer.huawei.com/consumer/cn/blog/topic/03157652990503030)
+  - [华为地图服务 -- 三种地图类型](https://developer.huawei.com/consumer/cn/blog/topic/03157651967599051)
+  - [模拟器镜像问题](https://developer.huawei.com/consumer/cn/blog/topic/03157649972628030)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十）](https://developer.huawei.com/consumer/cn/blog/topic/03157648075792029)
+  - [鸿蒙入门02-中文插件设置](https://developer.huawei.com/consumer/cn/blog/topic/03157635037271035)
+  - [华为地图服务 -- 如何实现地图呈现？](https://developer.huawei.com/consumer/cn/blog/topic/03157634832626034)
+  - [modelsim仿真常用按键设置](https://developer.huawei.com/consumer/cn/blog/topic/03157633735939033)
+  - [关于公司用什么软件监控电脑，Ruby 语言能做什么](https://developer.huawei.com/consumer/cn/blog/topic/03157633138181028)
+  - [获取手机UUID方法及注意点](https://developer.huawei.com/consumer/cn/blog/topic/03157630030494032)
+- 掘金社区
+  - [HarmonyOS实战开发：ArkTS语言状态管理详解](https://juejin.cn/post/7396922016942751785)
