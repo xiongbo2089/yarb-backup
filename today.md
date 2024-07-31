@@ -936,3 +936,23 @@
   - [获取手机UUID方法及注意点](https://developer.huawei.com/consumer/cn/blog/topic/03157630030494032)
 - 掘金社区
   - [HarmonyOS实战开发：ArkTS语言状态管理详解](https://juejin.cn/post/7396922016942751785)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#聊天UI效果与简单AI接口调用](https://ost.51cto.com/posts/29460)
+  - [#HarmonyOS NEXT体验官#拼图小游戏](https://ost.51cto.com/posts/29459)
+  - [#HarmonyOS NEXT 体验官#NDK开发知多少？](https://ost.51cto.com/posts/29455)
+  - [#HarmonyOS NEXT 体验官# 鸿蒙模拟器申请步骤](https://ost.51cto.com/posts/29454)
+  - [#HarmonyOS NEXT 体验官#了解 webview 请求拦截防止 cors 跨域](https://ost.51cto.com/posts/29451)
+  - [#HarmonyOS NEXT体验官# 体验HarmonyOS开发流程，开发一个简单图册展示app（二）](https://ost.51cto.com/posts/29450)
+- 鸿蒙官网
+  - [Unity编辑器脚本：删除项目中引用丢失脚本](https://developer.huawei.com/consumer/cn/blog/topic/03157798507267001)
+  - [鸿蒙原生应用元服务开发-初识仓颉开发语言](https://developer.huawei.com/consumer/cn/blog/topic/03157743530763041)
+  - [【HarmonyOS 踩坑日记(三)】select控件使用attributeModifier控制样式失效](https://developer.huawei.com/consumer/cn/blog/topic/03157741704562040)
+  - [HarmonyOS 踩坑日记(二)】TextInput组件设置为NUMBER或者NUMBER_DECIMAL都不可以输入负数](https://developer.huawei.com/consumer/cn/blog/topic/03157732742278033)
+  - [【HarmonyOS 踩坑日记(一)】CounterComponent的value值不能做动态渲染](https://developer.huawei.com/consumer/cn/blog/topic/03157732151572039)
+- GitHub
+  - [harmonyhub-backend-](https://github.com/blairmichaelg/harmonyhub-backend-)
+- 掘金社区
+  - [主线程结束了，子线程是否可以正常运行](https://juejin.cn/post/7397292988672868367)
+  - [Kotlin 技术月报 | 2024 年 7 月](https://juejin.cn/post/7397274001066606601)
+  - [鸿蒙：进程通信案例分析](https://juejin.cn/post/7397288730727530535)
+  - [OpenHarmony驱动框架HDF中设备管理服务构建过程详解（二）](https://juejin.cn/post/7397285224349925414)
