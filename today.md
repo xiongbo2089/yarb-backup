@@ -989,3 +989,13 @@
   - [鸿蒙助力网综，39 位明星集体成「行走的种草机」](https://www.ithome.com/0/785/356.htm)
 - 鸿蒙开源工程更新
   - [ISRC_OHOS/AVLoadingIndicatorView_ohos](https://gitee.com/isrc_ohos/avloading-indicator-view_ohos)
+- 鸿蒙官网
+  - [Reflect（反射）](https://developer.huawei.com/consumer/cn/blog/topic/03157918125732041)
+  - [@StateStyles只支持通用属性修改及解决思路](https://developer.huawei.com/consumer/cn/blog/topic/03157910004264040)
+  - [在HarmonyOS中手动编写一个装饰器——第3部分：方法装饰器](https://developer.huawei.com/consumer/cn/blog/topic/03157909902964039)
+  - [【HarmonyOS】实现分页滚动文本组件：为何选择 Scroll + Text 而非 textOverflow](https://developer.huawei.com/consumer/cn/blog/topic/03157903771979048)
+  - [await-to-arkts](https://developer.huawei.com/consumer/cn/blog/topic/03157891444741038)
+  - [鸿蒙原生应用元服务开发-仓颉ArkTS相互操作（二）](https://developer.huawei.com/consumer/cn/blog/topic/03157890976215009)
+  - [解析员工监控软件与 Octave 语言的整合思路](https://developer.huawei.com/consumer/cn/blog/topic/03157890332879047)
+- 掘金社区
+  - [鸿蒙next 画布来了 我不允许你不会](https://juejin.cn/post/7398046883636068392)
