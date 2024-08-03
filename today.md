@@ -999,3 +999,19 @@
   - [解析员工监控软件与 Octave 语言的整合思路](https://developer.huawei.com/consumer/cn/blog/topic/03157890332879047)
 - 掘金社区
   - [鸿蒙next 画布来了 我不允许你不会](https://juejin.cn/post/7398046883636068392)
+- 鸿蒙官网
+  - [科技云报道：大模型引领技术浪潮，AI安全治理面临“大考”](https://developer.huawei.com/consumer/cn/blog/topic/03158013395114014)
+  - [【HarmonyOS】高仿华为阅读app翻页demo](https://developer.huawei.com/consumer/cn/blog/topic/03158002809910044)
+  - [应用切面编程设计(AOP)——代码插桩](https://developer.huawei.com/consumer/cn/blog/topic/03157995902665067)
+  - [HarmonyOS网络编程学习视频上架开发者学堂](https://developer.huawei.com/consumer/cn/blog/topic/03157995468333043)
+  - [【HarmonyOS】当import命名冲突时，可以用as重命名解决](https://developer.huawei.com/consumer/cn/blog/topic/03157994918068066)
+  - [HarmonyOS：如何实现自定义的Tabs,TabContent内部实现如何动态配置](https://developer.huawei.com/consumer/cn/blog/topic/03157994240514051)
+  - [ HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十一）](https://developer.huawei.com/consumer/cn/blog/topic/03157990175605050)
+  - [【HarmonyOS】利用首选项实现动态切换环境配置功能demo](https://developer.huawei.com/consumer/cn/blog/topic/03157985440820049)
+  - [【HarmonyOS】普通组件与web组件长截屏方案：原则是利用Scroll内的组件可以使用componentSnapshot完整的截屏](https://developer.huawei.com/consumer/cn/blog/topic/03157983727832042)
+  - [鸿蒙原生应用元服务开发-仓颉ArkTS相互操作（一）](https://developer.huawei.com/consumer/cn/blog/topic/03157980987741013)
+  - [鸿蒙入门04-常见装饰器( 简单装饰器 )](https://developer.huawei.com/consumer/cn/blog/topic/03157978827553012)
+  - [鸿蒙网络编程系列27-HTTPS服务端证书的四种校验方式示例](https://developer.huawei.com/consumer/cn/blog/topic/03157971188795011)
+- 掘金社区
+  - [HarmonyOS：如何实现自定义的Tabs,TabContent内部实现如何动态配置](https://juejin.cn/post/7398352956712173606)
+  - [【HarmonyOS NEXT】鸿蒙中实现团队代码格式化风格一致性](https://juejin.cn/post/7398325680666869787)
