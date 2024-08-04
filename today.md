@@ -1015,3 +1015,18 @@
 - 掘金社区
   - [HarmonyOS：如何实现自定义的Tabs,TabContent内部实现如何动态配置](https://juejin.cn/post/7398352956712173606)
   - [【HarmonyOS NEXT】鸿蒙中实现团队代码格式化风格一致性](https://juejin.cn/post/7398325680666869787)
+- 51CTO
+  - [OpenHarmony北向探索[环境搭建篇]](https://ost.51cto.com/posts/24547)
+  - [#HarmonyOS NEXT体验官#亲戚称谓计算器](https://ost.51cto.com/posts/29561)
+  - [#HarmonyOS NEXT体验官#HarmonyOS中json如何model](https://ost.51cto.com/posts/29560)
+  - [#HarmonyOS NEXT 体验官# 鸿蒙开发实战--C/C++库移植](https://ost.51cto.com/posts/29558)
+  - [# HarmonyOS NEXT 体验官 # 搭建AI聊天小助手（娱乐）](https://ost.51cto.com/posts/29556)
+- GitHub
+  - [openharmony-App-YunmoAi](https://github.com/gracienewd/openharmony-App-YunmoAi)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [美的四款 App 适配华为鸿蒙原生系统，简化智能家居操作步骤](https://www.ithome.com/0/786/060.htm)
+- 鸿蒙官网
+  - [鸿蒙开发 - 一些知识点整理 ](https://developer.huawei.com/consumer/cn/blog/topic/03158086981657052)
+- 掘金社区
+  - [HarmonyOS 状态管理 v2](https://juejin.cn/post/7398511534745124879)
+  - [鸿蒙next 隐私协议弹窗实现来我不允许你不会](https://juejin.cn/post/7398480670447009855)
