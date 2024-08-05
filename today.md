@@ -1030,3 +1030,17 @@
 - 掘金社区
   - [HarmonyOS 状态管理 v2](https://juejin.cn/post/7398511534745124879)
   - [鸿蒙next 隐私协议弹窗实现来我不允许你不会](https://juejin.cn/post/7398480670447009855)
+- 鸿蒙官网
+  - [常用时钟器件厂家](https://developer.huawei.com/consumer/cn/blog/topic/03158163801324071)
+  - [IB 网络基础知识学习](https://developer.huawei.com/consumer/cn/blog/topic/03158154457125070)
+  - [怎么看综合报告](https://developer.huawei.com/consumer/cn/blog/topic/03158153535701016)
+  - [逻辑综合时序几种优化方法](https://developer.huawei.com/consumer/cn/blog/topic/03158153483519069)
+  - [逻辑时钟树的常见方法](https://developer.huawei.com/consumer/cn/blog/topic/03158153418765045)
+  - [逻辑时钟树优化的成功案例](https://developer.huawei.com/consumer/cn/blog/topic/03158153361055053)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT Developer Beta3 更新：新增 WLAN 和移动网络多通道收发数据、小艺输入法自动纠错等](https://www.ithome.com/0/786/119.htm)
+- 掘金社区
+  - [服务卡片开发：鸿蒙系统用力瞥一眼](https://juejin.cn/post/7398748102375374882)
+  - [Harmony：关于鸿蒙系统相关的内容都总结在这里了](https://juejin.cn/post/7398952301781614630)
+  - [鸿蒙next生肖选择器来了我不允许你不会](https://juejin.cn/post/7398741211656749097)
+  - [鸿蒙next 评分组件来了 我不允许你不会](https://juejin.cn/post/7398472542313758732)
