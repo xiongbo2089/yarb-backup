@@ -1060,3 +1060,17 @@
   - [隔断屏风墙（含有：自动升降隔断，自动平移隔断，手动隔断，半自动隔断，LED旋转隔断）自动平移门，旋转门，非标定制18389699958广州西恩源头厂家](https://developer.huawei.com/consumer/cn/blog/topic/03158237809233072)
   - [文件写入中文时为乱码](https://developer.huawei.com/consumer/cn/blog/topic/03158237517320054)
   - [一大波女生、男生适用的最新鸿蒙练手案例来袭  ## ](https://developer.huawei.com/consumer/cn/blog/topic/03158233647210017)
+- 51CTO
+  - [#HarmonyOS NEXT体验官# 鸿蒙next天气app来了我不允许你不会](https://ost.51cto.com/posts/29591)
+  - [#HarmonyOS NEXT 体验官# 长按组件颜色刷新](https://ost.51cto.com/posts/29536)
+  - [在鸿蒙中使用AVPlayer完成视频的播放](https://ost.51cto.com/posts/29589)
+  - [#HarmonyOS NEXT体验官#视频播放器（缓存播放）](https://ost.51cto.com/posts/29587)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-仓颉基本概念标识符](https://developer.huawei.com/consumer/cn/blog/topic/03158347473434023)
+  - [鸿蒙原生应用元服务开发-仓颉C相互操作](https://developer.huawei.com/consumer/cn/blog/topic/03158347173016077)
+  - [鸿蒙开发 - 数据持久化中的用户首选项](https://developer.huawei.com/consumer/cn/blog/topic/03158344271867021)
+  - [拍照，图库、文档 选择文件并上传](https://developer.huawei.com/consumer/cn/blog/topic/03158334251981075)
+  - [下载文件并保存](https://developer.huawei.com/consumer/cn/blog/topic/03158334063126020)
+  - [鸿蒙入门06-Button组件](https://developer.huawei.com/consumer/cn/blog/topic/03158327000527058)
+  - [华为鸿蒙NEXT 手把手教你适配微信小游戏-打飞机](https://developer.huawei.com/consumer/cn/blog/topic/03158322538753019)
+  - [播放组件平滑迁移实现思路](https://developer.huawei.com/consumer/cn/blog/topic/03158319416001057)
