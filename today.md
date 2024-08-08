@@ -1074,3 +1074,19 @@
   - [鸿蒙入门06-Button组件](https://developer.huawei.com/consumer/cn/blog/topic/03158327000527058)
   - [华为鸿蒙NEXT 手把手教你适配微信小游戏-打飞机](https://developer.huawei.com/consumer/cn/blog/topic/03158322538753019)
   - [播放组件平滑迁移实现思路](https://developer.huawei.com/consumer/cn/blog/topic/03158319416001057)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [8 月 14 日前可申请，华为鸿蒙 HarmonyOS NEXT 系统第三批先锋用户招募报名时间延长](https://www.ithome.com/0/786/941.htm)
+- 鸿蒙官网
+  - [鸿蒙入门09-CheckBoxGroup组件](https://developer.huawei.com/consumer/cn/blog/topic/03158489851491062)
+  - [前端学鸿蒙-UI尺寸与单位与应用场景](https://developer.huawei.com/consumer/cn/blog/topic/03158450978819061)
+  - [【HarmonyOS】TextInput设置最多两位小数且整数部分不超过6位方法](https://developer.huawei.com/consumer/cn/blog/topic/03158433603401027)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十二）](https://developer.huawei.com/consumer/cn/blog/topic/03158430087606026)
+  - [【HarmonyOS】List+ListItem高度会有一条横线，滑动的时候还会闪烁，建议尽量用Scroll+Column代替。](https://developer.huawei.com/consumer/cn/blog/topic/03158428566029078)
+  - [鸿蒙入门08-Divider组件](https://developer.huawei.com/consumer/cn/blog/topic/03158427717603047)
+  - [【HarmonyOS】获取设备屏幕宽高cm（厘米）屏幕对角线尺寸（英寸）方法。](https://developer.huawei.com/consumer/cn/blog/topic/03158411427459025)
+  - [【HarmonyOS】工具类利用Snowflake雪花算法生成全局唯一ID](https://developer.huawei.com/consumer/cn/blog/topic/03158411075930024)
+  - [【API 11 工具类封装】利用emitter封装工具类，使得父组件与子组件实现事件监听。](https://developer.huawei.com/consumer/cn/blog/topic/03158408309471046)
+  - [看到很多厂商适配鸿蒙，真的非常高兴](https://developer.huawei.com/consumer/cn/blog/topic/03158406807376060)
+  - [鸿蒙入门07-CheckBox组件](https://developer.huawei.com/consumer/cn/blog/topic/03158403553936059)
+- 掘金社区
+  - [【Harmony Next】七夕前学会创建开屏动画拿下女同事的芳心](https://juejin.cn/post/7400072326199820324)
