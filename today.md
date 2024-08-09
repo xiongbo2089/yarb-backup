@@ -1090,3 +1090,12 @@
   - [鸿蒙入门07-CheckBox组件](https://developer.huawei.com/consumer/cn/blog/topic/03158403553936059)
 - 掘金社区
   - [【Harmony Next】七夕前学会创建开屏动画拿下女同事的芳心](https://juejin.cn/post/7400072326199820324)
+- 鸿蒙官网
+  - [前端学鸿蒙-组件生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03158531458206082)
+  - [了解 API 管理的基本概念以及为什么 Apifox 是理想的管理选择](https://developer.huawei.com/consumer/cn/blog/topic/03158523505890030)
+  - [Harmony获取底部导航栏与头部状态栏](https://developer.huawei.com/consumer/cn/blog/topic/03158522070505029)
+  - [【HarmonyOS NEXT星河版开发学习】综合测试案例a-京东登录页面](https://developer.huawei.com/consumer/cn/blog/topic/03158509680617080)
+  - [WebViewJavascriptBridge 在 HarmonyOS 上的实现](https://developer.huawei.com/consumer/cn/blog/topic/03158495840094049)
+  - [Haskell 助力局域网管控软件的逻辑优化](https://developer.huawei.com/consumer/cn/blog/topic/03158495630871048)
+  - [鸿蒙原生应用元服务开发-仓颉基本概念表达式（一）](https://developer.huawei.com/consumer/cn/blog/topic/03158493274530079)
+  - [鸿蒙入门09-CheckBoxGroup组件](https://developer.huawei.com/consumer/cn/blog/topic/03158489851491062)
