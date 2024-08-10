@@ -1099,3 +1099,11 @@
   - [Haskell 助力局域网管控软件的逻辑优化](https://developer.huawei.com/consumer/cn/blog/topic/03158495630871048)
   - [鸿蒙原生应用元服务开发-仓颉基本概念表达式（一）](https://developer.huawei.com/consumer/cn/blog/topic/03158493274530079)
   - [鸿蒙入门09-CheckBoxGroup组件](https://developer.huawei.com/consumer/cn/blog/topic/03158489851491062)
+- 鸿蒙官网
+  - [Harmony设置沉浸式状态栏](https://developer.huawei.com/consumer/cn/blog/topic/03158598778953002)
+  - [仓颉与HarmonyOS 要怎么学习呢？](https://developer.huawei.com/consumer/cn/blog/topic/03158598399265001)
+  - [鸿蒙原生应用元服务开发-仓颉基本概念表达式（二）](https://developer.huawei.com/consumer/cn/blog/topic/03158586725183003)
+  - [HarmonyOS 编辑器使用教程](https://developer.huawei.com/consumer/cn/blog/topic/03158583602074002)
+  - [前端学鸿蒙-路由跳转](https://developer.huawei.com/consumer/cn/blog/topic/03158577608805004)
+- 掘金社区
+  - [HarmonyOS：如何优雅地实现自定义组件，类似于系统的组件构建方法](https://juejin.cn/post/7400752648121630747)
