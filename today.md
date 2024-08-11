@@ -1107,3 +1107,13 @@
   - [前端学鸿蒙-路由跳转](https://developer.huawei.com/consumer/cn/blog/topic/03158577608805004)
 - 掘金社区
   - [HarmonyOS：如何优雅地实现自定义组件，类似于系统的组件构建方法](https://juejin.cn/post/7400752648121630747)
+- 51CTO
+  - [【开源鸿蒙】 open Harmony 4.1Release代码编译报错](https://ost.51cto.com/posts/29614)
+- 鸿蒙官网
+  - [阶段一ArkTsUI进阶](https://developer.huawei.com/consumer/cn/blog/topic/03158722195695007)
+  - [阶段一ArkTs基础](https://developer.huawei.com/consumer/cn/blog/topic/03158718006731004)
+  - [【HarmonyOS】仿前端css中的背景色渐变两层叠加](https://developer.huawei.com/consumer/cn/blog/topic/03158707561837006)
+  - [模块化架构组件 （使用系统路由表+注解+hvigor插件 自动配置项目模块化）](https://developer.huawei.com/consumer/cn/blog/topic/03158673665510003)
+  - [Navigation标题居中 NavDestination标题居中 Navigation title居中 ](https://developer.huawei.com/consumer/cn/blog/topic/03158672424963003)
+- 掘金社区
+  - [鸿蒙-从 0 到 1 开发一个天气 APP](https://juejin.cn/post/7401060368087777318)
