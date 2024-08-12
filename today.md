@@ -1117,3 +1117,16 @@
   - [Navigation标题居中 NavDestination标题居中 Navigation title居中 ](https://developer.huawei.com/consumer/cn/blog/topic/03158672424963003)
 - 掘金社区
   - [鸿蒙-从 0 到 1 开发一个天气 APP](https://juejin.cn/post/7401060368087777318)
+- 51CTO
+  - [#HarmonyOS NEXT体验官# 鸿蒙应用开发-你不得不知道的UIAbility组件](https://ost.51cto.com/posts/29622)
+  - [#HarmonyOS NEXT体验官# 鸿蒙应用开发- ArkTS必知必会](https://ost.51cto.com/posts/29621)
+  - [#HarmonyOS NEXT体验官# 鸿蒙应用开发-Logger简单又实用的日志框架](https://ost.51cto.com/posts/29620)
+  - [一款应用中组件状态管理的实战案例研究](https://ost.51cto.com/posts/29617)
+- 鸿蒙官网
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十三）](https://developer.huawei.com/consumer/cn/blog/topic/03158837432764009)
+  - [一种可输入改变数字的计数器设计（默认显示占位符，点选后输入数字）](https://developer.huawei.com/consumer/cn/blog/topic/03158781202900004)
+  - [无HarmonyOS NEXT Developer Beta3版本的英文配套文档](https://developer.huawei.com/consumer/cn/blog/topic/03158775511715005)
+  - [DevEco Device Tool安装配置过程中的错误及解决方法](https://developer.huawei.com/consumer/cn/blog/topic/03158763286706006)
+- 掘金社区
+  - [鸿蒙next 手游sdk重磅来袭 我不允许你不会](https://juejin.cn/post/7401112990442717218)
+  - [横扫鸿蒙弹窗乱象，SmartDialog出世](https://juejin.cn/post/7401056900878368807)
