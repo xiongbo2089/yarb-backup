@@ -1130,3 +1130,31 @@
 - 掘金社区
   - [鸿蒙next 手游sdk重磅来袭 我不允许你不会](https://juejin.cn/post/7401112990442717218)
   - [横扫鸿蒙弹窗乱象，SmartDialog出世](https://juejin.cn/post/7401056900878368807)
+- 鸿蒙官网
+  - [鸿蒙(HarmonyOS)实现隐私政策弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03158922835031007)
+  - [如何拉起图册和相机拍照](https://developer.huawei.com/consumer/cn/blog/topic/03158880336736011)
+  - [Cannot find module '@ohos/hvigor'](https://developer.huawei.com/consumer/cn/blog/topic/03158876519505010)
+  - [设备标识符、唯一ID、沙箱文件等方案](https://developer.huawei.com/consumer/cn/blog/topic/03158866129236012)
+  - [科技云报道：“大模型+机器人”，具身智能将开启“智械时代”](https://developer.huawei.com/consumer/cn/blog/topic/03158865326422009)
+  - [自定义数字输入框组件inputNumber](https://developer.huawei.com/consumer/cn/blog/topic/03158859636942011)
+  - [Tabs自定义tabitem对齐方式居左，或者局右](https://developer.huawei.com/consumer/cn/blog/topic/03158858354608010)
+  - [如何给App不同页面设置沉浸式效果，采用全屏+状态栏设置的方式实现](https://developer.huawei.com/consumer/cn/blog/topic/03158857693171008)
+  - [清除应用缓存和数据的方式](https://developer.huawei.com/consumer/cn/blog/topic/03158856702148012)
+  - [如何禁止图片突然拖动](https://developer.huawei.com/consumer/cn/blog/topic/03158856606248006)
+  - [华为数据库，有学习测试的连接吗](https://developer.huawei.com/consumer/cn/blog/topic/03158846603772009)
+  - [关于窗口、组件截图等的一些列问题](https://developer.huawei.com/consumer/cn/blog/topic/03158846255858005)
+  - [企业上网行为管理软件在 F# 中的高效实现](https://developer.huawei.com/consumer/cn/blog/topic/03158845776879008)
+  - [【HarmonyOS】记录利用bind(this)解决报错SourceMap is not initialized yet](https://developer.huawei.com/consumer/cn/blog/topic/03158844573051011)
+  - [http请求模块支持取消请求吗？](https://developer.huawei.com/consumer/cn/blog/topic/03158842804287007)
+  - [HarmonyOS 3.1/4.0 应用升级到 HarmonyOS NEXT 改动点](https://developer.huawei.com/consumer/cn/blog/topic/03158842722646007)
+  - [全屏（沉浸式）页面与非全屏（非沉浸式）页面之间的跳转与切换示例](https://developer.huawei.com/consumer/cn/blog/topic/03158840509925006)
+  - [关于ohpm以及私仓的一些列问题](https://developer.huawei.com/consumer/cn/blog/topic/03158838550506010)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十三）](https://developer.huawei.com/consumer/cn/blog/topic/03158837432764009)
+- 开源中国
+  - [开源日报 | AtomUI正式开源；使用LLM的一些经验；开源EDA物理设计框架；硅谷为AI监管吵翻天；北京超200款鸿蒙应用上架](https://www.oschina.net/news/306672)
+- 51CTO
+  - [#在HarmonyOS星河遨游#鸿蒙仙途](https://ost.51cto.com/posts/29638)
+- 掘金社区
+  - [应用启动AppStartup - Android vs HarmonyOS](https://juejin.cn/post/7402204156876849189)
+  - [鸿蒙Next - 基于Axios对网络请求进行二次封装](https://juejin.cn/post/7402060970426155017)
+  - [鸿蒙 & MVI](https://juejin.cn/post/7401464779128586280)
