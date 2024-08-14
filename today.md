@@ -1158,3 +1158,17 @@
   - [应用启动AppStartup - Android vs HarmonyOS](https://juejin.cn/post/7402204156876849189)
   - [鸿蒙Next - 基于Axios对网络请求进行二次封装](https://juejin.cn/post/7402060970426155017)
   - [鸿蒙 & MVI](https://juejin.cn/post/7401464779128586280)
+- 鸿蒙官网
+  - [【HarmonyOS】RSA加解密使用示例：服务端RSA公私钥生成、鸿蒙端根据公钥加密文本、服务端根据私钥解密文本。](https://developer.huawei.com/consumer/cn/blog/topic/03158966900867009)
+  - [Windows家庭版 Hyper-V虚拟机的安装和配置教程总结](https://developer.huawei.com/consumer/cn/blog/topic/03158960445173015)
+  - [HarmonyOS的企业私有化开发如何进行ohpm的二方依赖管理？](https://developer.huawei.com/consumer/cn/blog/topic/03158953799469013)
+  - [HarmonyOS 音视频之音频采集实战](https://developer.huawei.com/consumer/cn/blog/topic/03158953116618014)
+  - [探索 Apifox：优秀 API 管理平台的综合评测](https://developer.huawei.com/consumer/cn/blog/topic/03158948438544014)
+  - [HarmoneyOSNext实现用户欢迎页面](https://developer.huawei.com/consumer/cn/blog/topic/03158941240177008)
+  - [记录报错：Load Page Failed，没查到原因，但Build --> Clean Project后问题解决。](https://developer.huawei.com/consumer/cn/blog/topic/03158940925315013)
+  - [【踩坑记录】HSP包引用自身资源报错Unknown resource name xxx](https://developer.huawei.com/consumer/cn/blog/topic/03158928252687013)
+  - [鸿蒙原生应用元服务开发-仓颉基本概念程序结构](https://developer.huawei.com/consumer/cn/blog/topic/03158927776906012)
+  - [鸿蒙(HarmonyOS)实现隐私政策弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03158922835031007)
+- 掘金社区
+  - [鸿蒙next 高仿QQ好友页面 ，相信你看完也能变成光！](https://juejin.cn/post/7402502765576142899)
+  - [鸿蒙next朋友圈来了](https://juejin.cn/post/7402170596690165775)
