@@ -1172,3 +1172,10 @@
 - 掘金社区
   - [鸿蒙next 高仿QQ好友页面 ，相信你看完也能变成光！](https://juejin.cn/post/7402502765576142899)
   - [鸿蒙next朋友圈来了](https://juejin.cn/post/7402170596690165775)
+- 51CTO
+  - [OpenHarmony - ArkUI(TS)开发之下拉选择菜单](https://ost.51cto.com/posts/16355)
+- 鸿蒙官网
+  - [一镜到底demo的实现](https://developer.huawei.com/consumer/cn/blog/topic/03159050215808011)
+  - [鸿蒙原生应用元服务开发-仓颉基本概念函数](https://developer.huawei.com/consumer/cn/blog/topic/03159032552533010)
+- 掘金社区
+  - [OpenHarmony UI开发-组件material-dialogs](https://juejin.cn/post/7402572475719630867)
