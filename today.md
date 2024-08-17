@@ -1210,3 +1210,16 @@
 - 掘金社区
   - [鸿蒙Next - 手把手教你实现一个属于自己的日期选择器](https://juejin.cn/post/7403151883135107099)
   - [鸿蒙next LazyForEach 数据懒加载来了](https://juejin.cn/post/7402845471646842920)
+- 51CTO
+  - [#HarmonyOS NEXT 体验官#开发一款BLE低功耗蓝牙调试助手(一)连接BLE服务端](https://ost.51cto.com/posts/29717)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [HarmonyOS NEXT Beta 福利活动来袭：升级可享华为视频、华为音乐惊喜好礼](https://www.ithome.com/0/789/073.htm)
+- 鸿蒙官网
+  - [软键盘上无缝衔接撑起一个输入框](https://developer.huawei.com/consumer/cn/blog/topic/03159213662135022)
+  - [鸿蒙应用开发技巧——获取设备的IMEI信息](https://developer.huawei.com/consumer/cn/blog/topic/03159209265917018)
+  - [如何防止企业文件传输泄密问题？](https://developer.huawei.com/consumer/cn/blog/topic/03159206089800020)
+  - [Path组件如何commands绘制撑满父组件，如何绘制圆弧角](https://developer.huawei.com/consumer/cn/blog/topic/03159205142296019)
+  - [web加载h5页面+评论组件实现滑动嵌套、滑动联动](https://developer.huawei.com/consumer/cn/blog/topic/03159203710003024)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十四）](https://developer.huawei.com/consumer/cn/blog/topic/03159184687245021)
+- 掘金社区
+  - [【HarmonyOS】比鸿蒙官方Aspect更强的AOP 方案-货拉拉开源AspectPro](https://juejin.cn/post/7403261114762543154)
