@@ -1223,3 +1223,8 @@
   - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十四）](https://developer.huawei.com/consumer/cn/blog/topic/03159184687245021)
 - 掘金社区
   - [【HarmonyOS】比鸿蒙官方Aspect更强的AOP 方案-货拉拉开源AspectPro](https://juejin.cn/post/7403261114762543154)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#藏头诗应用](https://ost.51cto.com/posts/29431)
+  - [鸿蒙应用开发从入门到入行：篇1-HarmonyOS介绍--带你深入理解鸿蒙特性](https://ost.51cto.com/posts/29719)
+- 掘金社区
+  - [鸿蒙入门之开发常用ArkUI及其属性1.0](https://juejin.cn/post/7403606839605133348)
