@@ -1228,3 +1228,5 @@
   - [鸿蒙应用开发从入门到入行：篇1-HarmonyOS介绍--带你深入理解鸿蒙特性](https://ost.51cto.com/posts/29719)
 - 掘金社区
   - [鸿蒙入门之开发常用ArkUI及其属性1.0](https://juejin.cn/post/7403606839605133348)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统首款 MOBA 游戏《曙光英雄》上线，支持多账号体系登录](https://www.ithome.com/0/789/320.htm)
