@@ -1230,3 +1230,23 @@
   - [鸿蒙入门之开发常用ArkUI及其属性1.0](https://juejin.cn/post/7403606839605133348)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为鸿蒙 HarmonyOS NEXT 系统首款 MOBA 游戏《曙光英雄》上线，支持多账号体系登录](https://www.ithome.com/0/789/320.htm)
+- 51CTO
+  - [#HarmonyOS NEXT体验官# TypeScript装饰器](https://ost.51cto.com/posts/29735)
+  - [#HarmonyOS NEXT 体验官#探索HarmonyOS位置服务：精准定位的科技奥秘](https://ost.51cto.com/posts/29739)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [人生第一堂 HarmonyOS 公开课：播下改变鸿蒙世界未来的种子](https://www.ithome.com/0/789/504.htm)
+- 鸿蒙官网
+  - [分享：安装HAP时提示“code:9568332 error: install sign info inconsistent”](https://developer.huawei.com/consumer/cn/blog/topic/03159521193054025)
+  - [Deveco Studio 开发的 Open Harmony 应用程序生成 APK ](https://developer.huawei.com/consumer/cn/blog/topic/03159492383437024)
+  - [动态路由导航的router模块示例](https://developer.huawei.com/consumer/cn/blog/topic/03159469212414023)
+  - [科技云报道：大模型的“掘金卖铲”生意，AI Infra的最佳机会来了？](https://developer.huawei.com/consumer/cn/blog/topic/03159468132341028)
+  - [在entryability中获取状态栏、导航栏高度示例](https://developer.huawei.com/consumer/cn/blog/topic/03159465480474025)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十五）](https://developer.huawei.com/consumer/cn/blog/topic/03159465063725024)
+  - [鸿蒙应用开发中的类](https://developer.huawei.com/consumer/cn/blog/topic/03159459810484021)
+  - [DevEco Studio NEXT Developer Beta3打开NEXT Developer Preview2应用报错问题解决](https://developer.huawei.com/consumer/cn/blog/topic/03159457634136027)
+  - [网络请求Rcp封装参考](https://developer.huawei.com/consumer/cn/blog/topic/03159457004758026)
+  - [CoffeeScript 语言能否增强公司电脑监控软件](https://developer.huawei.com/consumer/cn/blog/topic/03159448735829020)
+  - [Uni-APP 开发鸿蒙应用指南](https://developer.huawei.com/consumer/cn/blog/topic/03159445949815023)
+  - [镭速如何实现文件高效传输？](https://developer.huawei.com/consumer/cn/blog/topic/03159444729585019)
+- 掘金社区
+  - [写给Android开发的HarmonyOS白皮书](https://juejin.cn/post/7404775786706518057)
