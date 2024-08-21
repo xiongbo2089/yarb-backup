@@ -1250,3 +1250,8 @@
   - [镭速如何实现文件高效传输？](https://developer.huawei.com/consumer/cn/blog/topic/03159444729585019)
 - 掘金社区
   - [写给Android开发的HarmonyOS白皮书](https://juejin.cn/post/7404775786706518057)
+- 鸿蒙官网
+  - [【HarmonyOS】记录工具类【1】将一个base64编码的图片字符串写入到设备的文件系统中，并返回图片的沙箱路径URI。【2】读取指定路径的图片文件，将其转换为像素地图（PixelMap），并返回这个像素地图对象。](https://developer.huawei.com/consumer/cn/blog/topic/03159569065364030)
+  - [动漫游戏行业都在用的企业大文件传输系统](https://developer.huawei.com/consumer/cn/blog/topic/03159556579396022)
+  - [【HarmonyOS】封装可以同时显示多个toast的工具类](https://developer.huawei.com/consumer/cn/blog/topic/03159554418915029)
+  - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十六）](https://developer.huawei.com/consumer/cn/blog/topic/03159544025220026)
