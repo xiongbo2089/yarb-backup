@@ -1255,3 +1255,23 @@
   - [动漫游戏行业都在用的企业大文件传输系统](https://developer.huawei.com/consumer/cn/blog/topic/03159556579396022)
   - [【HarmonyOS】封装可以同时显示多个toast的工具类](https://developer.huawei.com/consumer/cn/blog/topic/03159554418915029)
   - [HarmonyOS Next原生应用开发-从TS到ArkTS的适配规则（十六）](https://developer.huawei.com/consumer/cn/blog/topic/03159544025220026)
+- 51CTO
+  - [OpenHarmony4.0壁纸设置应用整合包和安装教程](https://ost.51cto.com/posts/28607)
+  - [#HarmonyOS NEXT体验官# 体验HarmonyOS开发流程，开发一个记步app（三）](https://ost.51cto.com/posts/29767)
+  - [#HarmonyOS NEXT体验官# 体验HarmonyOS开发流程，开发一个记步app（二）](https://ost.51cto.com/posts/29766)
+  - [#HarmonyOS NEXT体验官# 体验HarmonyOS开发流程，开发一个记步app（一）](https://ost.51cto.com/posts/29757)
+  - [#HarmonyOS NEXT 体验官#HarmonyOS 地图服务：深度解析其丰富功能与精准导航实力](https://ost.51cto.com/posts/29756)
+- 鸿蒙官网
+  - [怎么抓trace](https://developer.huawei.com/consumer/cn/blog/topic/03159653745354032)
+  - [淘宝客SDK，一键导入淘宝客商城，快速实现流量变现](https://developer.huawei.com/consumer/cn/blog/topic/03159648090187031)
+  - [最受欢迎的鸿蒙工具类，封装了常用工具类，提供一系列简单易用的方法。帮助开发者快速构建鸿蒙应用。](https://developer.huawei.com/consumer/cn/blog/topic/03159647553966030)
+  - [[横竖屏,小窗,AVPlayer,NodeController] 播放器支持组件和页面之间的持续播放切换 (实战)](https://developer.huawei.com/consumer/cn/blog/topic/03159641321192028)
+  - [CODINGRAPH——自动生成ArkTS,仓颉Cangjie及各种语言程序流程图的软件](https://developer.huawei.com/consumer/cn/blog/topic/03159637052108023)
+  - [基于鸿蒙Next模拟扫图识物的一个过程](https://developer.huawei.com/consumer/cn/blog/topic/03159634876487027)
+  - [个人总结：Apifox 如何进行 API 自动化测试？](https://developer.huawei.com/consumer/cn/blog/topic/03159634245215031)
+  - [【HarmonyOS】List组件的使用与AlphabetIndexer联动实践](https://developer.huawei.com/consumer/cn/blog/topic/03159632742565026)
+  - [【HarmonyOS】记录当引入自定义组件有TextInput时，获取子组件输入框的值方法【1】使用@Link【2】使用onChange回调](https://developer.huawei.com/consumer/cn/blog/topic/03159623604170029)
+- 掘金社区
+  - [鸿蒙开发第一篇：创建一个应用，使用Tabs和导航栏结构。](https://juejin.cn/post/7405413046902685748)
+  - [鸿蒙部分工具类封装](https://juejin.cn/post/7405243925336604699)
+  - [鸿蒙PCM录音功能开发](https://juejin.cn/post/7405243925336375323)
