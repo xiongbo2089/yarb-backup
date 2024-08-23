@@ -1275,3 +1275,12 @@
   - [鸿蒙开发第一篇：创建一个应用，使用Tabs和导航栏结构。](https://juejin.cn/post/7405413046902685748)
   - [鸿蒙部分工具类封装](https://juejin.cn/post/7405243925336604699)
   - [鸿蒙PCM录音功能开发](https://juejin.cn/post/7405243925336375323)
+- 鸿蒙官网
+  - [基于xdrp在Window远程桌面操作CentOS的环境搭建](https://developer.huawei.com/consumer/cn/blog/topic/03159751370289040)
+  - [AI模拟器](https://developer.huawei.com/consumer/cn/blog/topic/03159729710126031)
+  - [每天就进步那么一点：继续学习NEXT开发](https://developer.huawei.com/consumer/cn/blog/topic/03159727479232030)
+  - [arthas快捷替换](https://developer.huawei.com/consumer/cn/blog/topic/03159722870409026)
+  - [跨网文件交换难题？镭速轻松应对](https://developer.huawei.com/consumer/cn/blog/topic/03159719998055035)
+  - [鸿蒙原生应用开发-时刻助手应用之设计篇](https://developer.huawei.com/consumer/cn/blog/topic/03159718954933034)
+  - [Fortran 语言与局域网监控电脑屏幕软件的交集](https://developer.huawei.com/consumer/cn/blog/topic/03159716396325024)
+  - [【HarmonyOS】记录淡入淡出切换控件内图片的方法.transition(TransitionEffect.OPACITY)](https://developer.huawei.com/consumer/cn/blog/topic/03159712684381033)
