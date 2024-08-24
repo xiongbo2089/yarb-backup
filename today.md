@@ -1284,3 +1284,11 @@
   - [鸿蒙原生应用开发-时刻助手应用之设计篇](https://developer.huawei.com/consumer/cn/blog/topic/03159718954933034)
   - [Fortran 语言与局域网监控电脑屏幕软件的交集](https://developer.huawei.com/consumer/cn/blog/topic/03159716396325024)
   - [【HarmonyOS】记录淡入淡出切换控件内图片的方法.transition(TransitionEffect.OPACITY)](https://developer.huawei.com/consumer/cn/blog/topic/03159712684381033)
+- 51CTO
+  - [OpenHarmony在gitee上的推送流程](https://ost.51cto.com/posts/29776)
+- 鸿蒙官网
+  - [鸿蒙 学习 起点太高 ,文档 写的太烂](https://developer.huawei.com/consumer/cn/blog/topic/03159811442613037)
+  - [【HarmonyOS】自定义TabLayout代码示例，通过 Scroll 锚点 Tab 布局，滚动条会自动滚动使选中的标签居中显示。](https://developer.huawei.com/consumer/cn/blog/topic/03159803937507033)
+  - [鸿蒙原生应用开发-时刻助手应用之功能开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03159802868949029)
+  - [镭速关于FTP替代升级方案](https://developer.huawei.com/consumer/cn/blog/topic/03159794177916036)
+  - [鸿蒙网络编程系列28-服务端证书锁定防范中间人攻击示例](https://developer.huawei.com/consumer/cn/blog/topic/03159790420532035)
