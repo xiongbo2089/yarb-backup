@@ -1292,3 +1292,7 @@
   - [鸿蒙原生应用开发-时刻助手应用之功能开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03159802868949029)
   - [镭速关于FTP替代升级方案](https://developer.huawei.com/consumer/cn/blog/topic/03159794177916036)
   - [鸿蒙网络编程系列28-服务端证书锁定防范中间人攻击示例](https://developer.huawei.com/consumer/cn/blog/topic/03159790420532035)
+- 鸿蒙官网
+  - [DevEcoStudio创建的默认工程HelloWorld build失败请问如何解决？](https://developer.huawei.com/consumer/cn/blog/topic/03159875227261030)
+- GitHub
+  - [sniperbot](https://github.com/1MohammadSaleh/sniperbot)
