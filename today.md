@@ -1321,3 +1321,21 @@
   - [一分钟了解：全天24小时稳定人工计划](https://developer.huawei.com/consumer/cn/blog/topic/03160012205959113)
   - [一分钟了解：大发全网最高赔率](https://developer.huawei.com/consumer/cn/blog/topic/03160012178374112)
   - [一分钟了解大发全天24小时人工计划免费看](https://developer.huawei.com/consumer/cn/blog/topic/03160012104334116)
+- 51CTO
+  - [#HarmonyOS NEXT 体验官#5行代码渲染出3D悟空！](https://ost.51cto.com/posts/29746)
+- 鸿蒙官网
+  - [MySQL 深入探讨：高级特性与实际应用](https://developer.huawei.com/consumer/cn/blog/topic/03160101145736187)
+  - [深入了解 MySQL：技术探讨与应用实践](https://developer.huawei.com/consumer/cn/blog/topic/03160100918763198)
+  - [每天就进步那么一点：继续学习NEXT开发](https://developer.huawei.com/consumer/cn/blog/topic/03160078911377168)
+  - [适合企业内外网文件交换系统是怎样的？](https://developer.huawei.com/consumer/cn/blog/topic/03160073186625195)
+  - [Squeak 语言和公司监控上网记录的关联分析](https://developer.huawei.com/consumer/cn/blog/topic/03160061156437175)
+  - [视屏/全屏播放 ](https://developer.huawei.com/consumer/cn/blog/topic/03160052221124129)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称华为鸿蒙 HarmonyOS NEXT Beta 版系统“推送时间还是月底”](https://www.ithome.com/0/791/244.htm)
+  - [华为鸿蒙 HarmonyOS NEXT Beta 用户招募开启：适配 Mate 60、Pura 70 等机型](https://www.ithome.com/0/791/206.htm)
+- 掘金社区
+  - [OpenHarmony GIF图像渲染库—ohos-gif-drawable](https://juejin.cn/post/7407274895928786996)
+  - [鸿蒙切屏监听](https://juejin.cn/post/7406999328769114121)
+  - [鸿蒙微博SDK分享](https://juejin.cn/post/7407271112994570266)
+  - [鸿蒙关键字 @Observed](https://juejin.cn/post/7406992576514670630)
+  - [HarmonyOS NEXT开发，这篇文章帮你从入门到 “遥遥领先”](https://juejin.cn/post/7406900130764570676)
