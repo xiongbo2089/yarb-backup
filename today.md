@@ -1339,3 +1339,20 @@
   - [鸿蒙微博SDK分享](https://juejin.cn/post/7407271112994570266)
   - [鸿蒙关键字 @Observed](https://juejin.cn/post/7406992576514670630)
   - [HarmonyOS NEXT开发，这篇文章帮你从入门到 “遥遥领先”](https://juejin.cn/post/7406900130764570676)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#鸿蒙原生应用开发项目实战: 旅游指南应用](https://ost.51cto.com/posts/29801)
+  - [#HarmonyOS NEXT体验官#鸿蒙原生应用开发项目实战: 文件管理器](https://ost.51cto.com/posts/29800)
+  - [#HarmonyOS NEXT体验官#鸿蒙原生应用开发项目实战: 图书管理系统](https://ost.51cto.com/posts/29799)
+  - [#HarmonyOS NEXT体验官#鸿蒙原生应用开发项目实战: 电子商务应用](https://ost.51cto.com/posts/29798)
+  - [#HarmonyOS NEXT体验官#鸿蒙原生应用开发项目实战: 社交聊天应用](https://ost.51cto.com/posts/29797)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [腾讯端质量监控平台 Bugly 发布华为鸿蒙 HarmonyOS NEXT 版](https://www.ithome.com/0/791/482.htm)
+- 鸿蒙官网
+  - [Swiper + Refresh 刷新导致的动画异常问题，Breakpoint相关](https://developer.huawei.com/consumer/cn/blog/topic/03160159380814265)
+  - [系统键盘和自定义键盘的切换](https://developer.huawei.com/consumer/cn/blog/topic/03160158413821278)
+  - [电话拨打](https://developer.huawei.com/consumer/cn/blog/topic/03160153674177268)
+  - [镭速助力优化大文件传输策略，突破内存瓶颈](https://developer.huawei.com/consumer/cn/blog/topic/03160134542018169)
+- 掘金社区
+  - [鸿蒙技术特性之分布式软总线](https://juejin.cn/post/7407444498802966567)
+  - [鸿蒙版本的ADB Idea (hdc tools) 来了](https://juejin.cn/post/7407374655110086667)
+  - [鸿蒙弹窗实现乱象？带你玩转正确的实现姿势](https://juejin.cn/post/7407331533609140261)
