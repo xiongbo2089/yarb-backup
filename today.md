@@ -1356,3 +1356,19 @@
   - [鸿蒙技术特性之分布式软总线](https://juejin.cn/post/7407444498802966567)
   - [鸿蒙版本的ADB Idea (hdc tools) 来了](https://juejin.cn/post/7407374655110086667)
   - [鸿蒙弹窗实现乱象？带你玩转正确的实现姿势](https://juejin.cn/post/7407331533609140261)
+- 51CTO
+  - [#在HarmonyOS星河遨游# 『江鸟中原』鸿蒙——待办清单2.0](https://ost.51cto.com/posts/29690)
+- 鸿蒙官网
+  - [镭速轻松解决医疗卫生行业跨网文件传输难题](https://developer.huawei.com/consumer/cn/blog/topic/03160307153717273)
+  - [头像裁剪圆形遮罩效果实现demo](https://developer.huawei.com/consumer/cn/blog/topic/03160245819168283)
+  - [HarmonyOS单例](https://developer.huawei.com/consumer/cn/blog/topic/03160240487192079)
+  - [镭速助力企业海量文件传输不再难](https://developer.huawei.com/consumer/cn/blog/topic/03160240416829282)
+  - [打开设置的通知管理页面](https://developer.huawei.com/consumer/cn/blog/topic/03160224747331281)
+  - [输入文字转化语音 ](https://developer.huawei.com/consumer/cn/blog/topic/03160221880978078)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称华为 FreeBuds Pro 3 耳机升级 HarmonyOS NEXT 短期会有少部分功能不支持](https://www.ithome.com/0/791/864.htm)
+  - [升级环境声音智能检测技术，华为智能眼镜 2 获推鸿蒙 HarmonyOS 4.2.0.140 更新](https://www.ithome.com/0/791/836.htm)
+  - [华为 FreeBuds Pro 3 系列无线耳机 HarmonyOS NEXT Beta 版用户招募移至开发者官网](https://www.ithome.com/0/791/832.htm)
+  - [（更新：已移至开发者官网）华为 FreeBuds Pro 3 系列无线耳机开启体验官招募：需使用 HarmonyOS NEXT 版手机](https://www.ithome.com/0/791/753.htm)
+- 掘金社区
+  - [0基础，从0到1探索鸿蒙应用，不一样的探索过程。第三篇](https://juejin.cn/post/7408062004844757032)
