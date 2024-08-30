@@ -1372,3 +1372,19 @@
   - [（更新：已移至开发者官网）华为 FreeBuds Pro 3 系列无线耳机开启体验官招募：需使用 HarmonyOS NEXT 版手机](https://www.ithome.com/0/791/753.htm)
 - 掘金社区
   - [0基础，从0到1探索鸿蒙应用，不一样的探索过程。第三篇](https://juejin.cn/post/7408062004844757032)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称华为鸿蒙 HarmonyOS NEXT 系统“自由流转”分跨端迁移、多端协同](https://www.ithome.com/0/792/129.htm)
+  - [丰富主题玩法，华为 Pura 70 系列手机获推鸿蒙 HarmonyOS 4.2.0.177 升级](https://www.ithome.com/0/792/113.htm)
+  - [综艺明星打卡华为门店挑战赛，谁是鸿蒙最强王者再迎新风潮](https://www.ithome.com/0/792/009.htm)
+- 鸿蒙官网
+  - [权限校验，图库选择上传demo](https://developer.huawei.com/consumer/cn/blog/topic/03160392199449083)
+  - [【时间盒子】-【①序言】高效人士都在用的时间管理方法。我是如何通过鸿蒙元服务APP实现？](https://developer.huawei.com/consumer/cn/blog/topic/03160334451881277)
+  - [日期格式化工具类及实现代码-存档](https://developer.huawei.com/consumer/cn/blog/topic/03160334347872276)
+  - [面包屑导航实现示例](https://developer.huawei.com/consumer/cn/blog/topic/03160331713039270)
+  - [DevEcoStudio终端执行命令时提示权限不足该怎么办？](https://developer.huawei.com/consumer/cn/blog/topic/03160325741406275)
+  - [模拟登录页，华为账号一键登录](https://developer.huawei.com/consumer/cn/blog/topic/03160325039976082)
+  - [镭速轻松解决医疗卫生行业跨网文件传输难题](https://developer.huawei.com/consumer/cn/blog/topic/03160307153717273)
+- 掘金社区
+  - [HarmonyOS开发：手把手教你获取应用备案所需信息](https://juejin.cn/post/7408226845467476008)
+  - [鸿蒙next 实战项目 Boss直聘完整版来了](https://juejin.cn/post/7408103832143167525)
+  - [Windows配置Flutter鸿蒙开发环境](https://juejin.cn/post/7408082111884607507)
