@@ -1388,3 +1388,17 @@
   - [HarmonyOS开发：手把手教你获取应用备案所需信息](https://juejin.cn/post/7408226845467476008)
   - [鸿蒙next 实战项目 Boss直聘完整版来了](https://juejin.cn/post/7408103832143167525)
   - [Windows配置Flutter鸿蒙开发环境](https://juejin.cn/post/7408082111884607507)
+- 51CTO
+  - [#HarmonyOS NEXT 体验官# 玩转 Slider 应用案例1 ：水平模式RGB三原色控制的色彩世界](https://ost.51cto.com/posts/29823)
+  - [#HarmonyOS NEXT体验官# 玩转 Progress 进度条2：色彩渐变与阴影，提升进度条的视觉魅力](https://ost.51cto.com/posts/29822)
+  - [#HarmonyOS NEXT体验官# 玩转 Progress 进度条1：任务完成度监测](https://ost.51cto.com/posts/29821)
+- 鸿蒙官网
+  - [一个FTP替代升级软件应该具备什么条件？](https://developer.huawei.com/consumer/cn/blog/topic/03160423056708085)
+  - [HarmonyOS NEXT应用开发实战-物联网应用之开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03160416959535287)
+  - [卡片数据更新](https://developer.huawei.com/consumer/cn/blog/topic/03160413616170084)
+  - [携程技术分享：亿级流量的办公IM及开放平台技术实践](https://developer.huawei.com/consumer/cn/blog/topic/03160396135499285)
+  - [权限校验，图库选择上传demo](https://developer.huawei.com/consumer/cn/blog/topic/03160392199449083)
+- 掘金社区
+  - [0基础，从0到1探索鸿蒙应用，不一样的探索过程。第四篇](https://juejin.cn/post/7408631611040972840)
+  - [【拥抱鸿蒙】基于rcp的封装与应用](https://juejin.cn/post/7408747421280550948)
+  - [HarmonyOS：数据库的创建以及数据库操作的详细用法](https://juejin.cn/post/7408481531361460260)
