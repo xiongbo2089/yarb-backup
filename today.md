@@ -1402,3 +1402,11 @@
   - [0基础，从0到1探索鸿蒙应用，不一样的探索过程。第四篇](https://juejin.cn/post/7408631611040972840)
   - [【拥抱鸿蒙】基于rcp的封装与应用](https://juejin.cn/post/7408747421280550948)
   - [HarmonyOS：数据库的创建以及数据库操作的详细用法](https://juejin.cn/post/7408481531361460260)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#梅科尔工作室HOS-打造智能服务卡片：DevEco AI CodeGenie 助力高效开发](https://ost.51cto.com/posts/29834)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称升级华为鸿蒙 HarmonyOS NEXT 系统，微信数据备份归为 "其他系统资源"、长期占用空间](https://www.ithome.com/0/792/607.htm)
+- 鸿蒙官网
+  - [自定义组件-手风琴](https://developer.huawei.com/consumer/cn/blog/topic/03160562055402090)
+  - [瀑布流布局通过手势捏合改变列数](https://developer.huawei.com/consumer/cn/blog/topic/03160484909351288)
+  - [如何判断当前应用是debug应用](https://developer.huawei.com/consumer/cn/blog/topic/03160482535316281)
