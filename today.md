@@ -1410,3 +1410,6 @@
   - [自定义组件-手风琴](https://developer.huawei.com/consumer/cn/blog/topic/03160562055402090)
   - [瀑布流布局通过手势捏合改变列数](https://developer.huawei.com/consumer/cn/blog/topic/03160484909351288)
   - [如何判断当前应用是debug应用](https://developer.huawei.com/consumer/cn/blog/topic/03160482535316281)
+- 鸿蒙官网
+  - [自定义组件-字母索引导航栏](https://developer.huawei.com/consumer/cn/blog/topic/03160588191805290)
+  - [自定义组件-手风琴](https://developer.huawei.com/consumer/cn/blog/topic/03160562055402090)
