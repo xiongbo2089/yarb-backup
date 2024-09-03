@@ -1413,3 +1413,13 @@
 - 鸿蒙官网
   - [自定义组件-字母索引导航栏](https://developer.huawei.com/consumer/cn/blog/topic/03160588191805290)
   - [自定义组件-手风琴](https://developer.huawei.com/consumer/cn/blog/topic/03160562055402090)
+- 鸿蒙官网
+  - [教育培训行业文件传输难题及解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03160738926069275)
+  - [HarmonyOS NEXT应用开发实战-赛博农场管家](https://developer.huawei.com/consumer/cn/blog/topic/03160677265432093)
+  - [http请求 + JSON转换Class](https://developer.huawei.com/consumer/cn/blog/topic/03160676971499273)
+  - [HarmonyOS NEXT未成年人模式无缝联动所有应用，过滤非适龄内容](https://developer.huawei.com/consumer/cn/blog/topic/03160671942576272)
+  - [根据router事件卡片跳转 ](https://developer.huawei.com/consumer/cn/blog/topic/03160669926496092)
+  - [从 Opa 语言出发，拓展员工上网行为监控软件的功能](https://developer.huawei.com/consumer/cn/blog/topic/03160659530419283)
+  - [IM开发者的零基础通信技术入门(十三)：为什么手机信号差？一文即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03160653326596292)
+- 掘金社区
+  - [安卓开发转做鸿蒙后-开篇](https://juejin.cn/post/7409877909999026217)
