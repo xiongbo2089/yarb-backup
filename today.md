@@ -1423,3 +1423,31 @@
   - [IM开发者的零基础通信技术入门(十三)：为什么手机信号差？一文即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03160653326596292)
 - 掘金社区
   - [安卓开发转做鸿蒙后-开篇](https://juejin.cn/post/7409877909999026217)
+- 51CTO
+  - [『牛角书』Studio解决Unable to download the HarmonyOS SDK问题](https://ost.51cto.com/posts/10846)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Pura 70 系列手机获推鸿蒙 HarmonyOS NEXT 0.0.39 Beta 版升级](https://www.ithome.com/0/793/251.htm)
+- 鸿蒙官网
+  - [如何应对汽车行业内外网文件交换挑战？](https://developer.huawei.com/consumer/cn/blog/topic/03160825363720301)
+  - [[弹幕] 使用 HarmonyOS 实现播放器弹幕](https://developer.huawei.com/consumer/cn/blog/topic/03160785534911300)
+  - [每天就进步那么一点：函数类型作为参数类型，举例说明](https://developer.huawei.com/consumer/cn/blog/topic/03160766107868283)
+  - [调用云数据库更新排行榜单](https://developer.huawei.com/consumer/cn/blog/topic/03160761001286290)
+  - [鸿蒙Next开发设置窗口是否接受触摸事件，Promise进行异步回调](https://developer.huawei.com/consumer/cn/blog/topic/03160756927532282)
+  - [鸿蒙Next开发设置窗口在点击时是否能够切换焦点，Promise进行异步回调](https://developer.huawei.com/consumer/cn/blog/topic/03160756607947280)
+  - [鸿蒙Next开发设置窗口的背景颜色](https://developer.huawei.com/consumer/cn/blog/topic/03160756349488289)
+  - [鸿蒙Next开发设置窗口的显示方向属性，并使用Promise异步回调](https://developer.huawei.com/consumer/cn/blog/topic/03160755920296299)
+  - [鸿蒙Next开发设置虚拟键盘弹出时，页面内容如何避让键盘的模式](https://developer.huawei.com/consumer/cn/blog/topic/03160755743065288)
+  - [鸿蒙Next开发获取当前应用页面在虚拟键盘弹出时的避让模式](https://developer.huawei.com/consumer/cn/blog/topic/03160755554369279)
+  - [鸿蒙Next开发拉起系统文件管理器](https://developer.huawei.com/consumer/cn/blog/topic/03160754554744097)
+  - [鸿蒙Next开发拉起应用市场对应的应用详情界面](https://developer.huawei.com/consumer/cn/blog/topic/03160754416117298)
+  - [鸿蒙Next开发拉起系统浏览器](https://developer.huawei.com/consumer/cn/blog/topic/03160754257651278)
+  - [鸿蒙Next开发跳转到应用设置页面](https://developer.huawei.com/consumer/cn/blog/topic/03160754046740297)
+  - [鸿蒙Next开发获取当前应用的应用包的信息](https://developer.huawei.com/consumer/cn/blog/topic/03160753614636277)
+  - [鸿蒙Next开发设置应用的状态栏为沉浸式状态](https://developer.huawei.com/consumer/cn/blog/topic/03160744673915296)
+  - [鸿蒙Next开发获取状态栏的高度，单位为px](https://developer.huawei.com/consumer/cn/blog/topic/03160744390914096)
+  - [鸿蒙Next开发获取底部导航条的高度，单位为px](https://developer.huawei.com/consumer/cn/blog/topic/03160744049735286)
+  - [鸿蒙Next开发设置为隐私模式的窗口，窗口内容将无法被截屏或录屏](https://developer.huawei.com/consumer/cn/blog/topic/03160743167728276)
+  - [鸿蒙Next开发设置屏幕是否为常亮状态，使用Promise异步回调。](https://developer.huawei.com/consumer/cn/blog/topic/03160742278134285)
+  - [鸿蒙Next应用开发设置屏幕亮度值，使用Promise异步回调](https://developer.huawei.com/consumer/cn/blog/topic/03160741322358284)
+- 掘金社区
+  - [鸿蒙next list组件多布局实现 IM 聊天](https://juejin.cn/post/7410224960298057778)
