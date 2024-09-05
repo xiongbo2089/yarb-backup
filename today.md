@@ -1451,3 +1451,17 @@
   - [鸿蒙Next应用开发设置屏幕亮度值，使用Promise异步回调](https://developer.huawei.com/consumer/cn/blog/topic/03160741322358284)
 - 掘金社区
   - [鸿蒙next list组件多布局实现 IM 聊天](https://juejin.cn/post/7410224960298057778)
+- 鸿蒙官网
+  - [半导体行业的FTP替代升级方案](https://developer.huawei.com/consumer/cn/blog/topic/03160911840936291)
+  - [调用云服务认证体系 ](https://developer.huawei.com/consumer/cn/blog/topic/03160911327140286)
+  - [气泡动画组件开发](https://developer.huawei.com/consumer/cn/blog/topic/03160845210686285)
+  - [结合聚言模型训练和hi3861采集环境的AI空调应用](https://developer.huawei.com/consumer/cn/blog/topic/03160826606227098)
+  - [如何应对汽车行业内外网文件交换挑战？](https://developer.huawei.com/consumer/cn/blog/topic/03160825363720301)
+  - [【时间盒子】-【4.Hello Harmony】初始程序入口和启动页面](https://developer.huawei.com/consumer/cn/blog/topic/03160822213493284)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙原生版美团、淘宝等 60 多款 App 现已接入华为账号“一键登录”](https://www.ithome.com/0/793/314.htm)
+- 51CTO
+  - [Openharmony - 基于ArkUI（TS）开发颜色选择器](https://ost.51cto.com/posts/15206)
+  - [OpenHarmony 分布式相机（中）](https://ost.51cto.com/posts/21255)
+- 掘金社区
+  - [【HarmonyOS】听说你还在用 router 做页面路由？](https://juejin.cn/post/7410420138309894159)
