@@ -1465,3 +1465,9 @@
   - [OpenHarmony 分布式相机（中）](https://ost.51cto.com/posts/21255)
 - 掘金社区
   - [【HarmonyOS】听说你还在用 router 做页面路由？](https://juejin.cn/post/7410420138309894159)
+- 鸿蒙官网
+  - [凭借 Perl 语言构建员工监控系统](https://developer.huawei.com/consumer/cn/blog/topic/03160927295488302)
+  - [0基础第一篇：从0到1探索鸿蒙应用，不一样的探索过程。](https://developer.huawei.com/consumer/cn/blog/topic/03160917622884292)
+  - [调用云服务认证体系 ](https://developer.huawei.com/consumer/cn/blog/topic/03160911327140286)
+- 掘金社区
+  - [从零开始的鸿蒙开发之旅（四）——状态管理进阶](https://juejin.cn/post/7410923898646233138)
