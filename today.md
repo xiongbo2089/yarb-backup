@@ -1471,3 +1471,13 @@
   - [调用云服务认证体系 ](https://developer.huawei.com/consumer/cn/blog/topic/03160911327140286)
 - 掘金社区
   - [从零开始的鸿蒙开发之旅（四）——状态管理进阶](https://juejin.cn/post/7410923898646233138)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [WIKO Hi 畅享 70 手机开售：天玑 700 处理器、5000mAh 电池，999 元起](https://www.ithome.com/0/793/913.htm)
+- GitHub
+  - [JSBridge-OHOS](https://github.com/ding1dingx/JSBridge-OHOS)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型Unit与Nothing类型](https://developer.huawei.com/consumer/cn/blog/topic/03161018273094102)
+  - [IM开发者的零基础通信技术入门(十四)：高铁上无线上网有多难？一文即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03161010599011288)
+  - [初接触鸿蒙的一点感受](https://developer.huawei.com/consumer/cn/blog/topic/03161004167881101)
+- 开源中国
+  - [HarmonyOS ArkUI 工程框架解析](https://my.oschina.net/u/4662964/blog/15526100)
