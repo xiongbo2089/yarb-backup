@@ -1481,3 +1481,8 @@
   - [初接触鸿蒙的一点感受](https://developer.huawei.com/consumer/cn/blog/topic/03161004167881101)
 - 开源中国
   - [HarmonyOS ArkUI 工程框架解析](https://my.oschina.net/u/4662964/blog/15526100)
+- 51CTO
+  - [从零开始搭建OpenHarmony开发环境](https://ost.51cto.com/posts/16485)
+- 鸿蒙官网
+  - [常见的性能优化场景一：应用冷启动](https://developer.huawei.com/consumer/cn/blog/topic/03161127682314104)
+  - [账号服务的使用](https://developer.huawei.com/consumer/cn/blog/topic/03161125862958289)
