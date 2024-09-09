@@ -1486,3 +1486,18 @@
 - 鸿蒙官网
   - [常见的性能优化场景一：应用冷启动](https://developer.huawei.com/consumer/cn/blog/topic/03161127682314104)
   - [账号服务的使用](https://developer.huawei.com/consumer/cn/blog/topic/03161125862958289)
+- 鸿蒙官网
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型布尔类型](https://developer.huawei.com/consumer/cn/blog/topic/03161256880942297)
+  - [富文本在输入内容之前替换要输入的内容](https://developer.huawei.com/consumer/cn/blog/topic/03161256337017304)
+  - [华为闹钟项目-继续完善UI](https://developer.huawei.com/consumer/cn/blog/topic/03161208488591296)
+  - [一多开发](https://developer.huawei.com/consumer/cn/blog/topic/03161208303133110)
+  - [常见的性能优化场景二：点击响应优化](https://developer.huawei.com/consumer/cn/blog/topic/03161207134666295)
+  - [封装一个埋点工具，提供记录单条埋点数据，上报埋点数据数组的两个方法](https://developer.huawei.com/consumer/cn/blog/topic/03161206520699294)
+  - [HarmonyOS 一次开发，多端部署](https://developer.huawei.com/consumer/cn/blog/topic/03161204414095293)
+  - [如何在APP中实现地图定位？](https://developer.huawei.com/consumer/cn/blog/topic/03161202110280292)
+  - [梳理NEXT的工程结构与应用程序包结构](https://developer.huawei.com/consumer/cn/blog/topic/03161195024442109)
+  - [华为三代星闪笔与windows系统结合使用场景连接速度慢问题](https://developer.huawei.com/consumer/cn/blog/topic/03161194418760291)
+  - [华为闹钟项目-表盘转动](https://developer.huawei.com/consumer/cn/blog/topic/03161192528411108)
+  - [华为闹钟项目-表盘绘制](https://developer.huawei.com/consumer/cn/blog/topic/03161180201244107)
+  - [华为登录的流程实现](https://developer.huawei.com/consumer/cn/blog/topic/03161174321535105)
+  - [鸿蒙原生HTTP请求](https://developer.huawei.com/consumer/cn/blog/topic/03161173936155297)
