@@ -1501,3 +1501,16 @@
   - [华为闹钟项目-表盘绘制](https://developer.huawei.com/consumer/cn/blog/topic/03161180201244107)
   - [华为登录的流程实现](https://developer.huawei.com/consumer/cn/blog/topic/03161174321535105)
   - [鸿蒙原生HTTP请求](https://developer.huawei.com/consumer/cn/blog/topic/03161173936155297)
+- 鸿蒙官网
+  - [如何解决汽车行业大文件传输难题？](https://developer.huawei.com/consumer/cn/blog/topic/03161344182503306)
+  - [一个复杂又非常简单的编译错误](https://developer.huawei.com/consumer/cn/blog/topic/03161276785281299)
+  - [医药行业跨国文件传输的挑战与解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03161273731485305)
+  - [Logo 语言在员工电脑监控软件中的探索](https://developer.huawei.com/consumer/cn/blog/topic/03161272115545299)
+  - [USB通信初尝试](https://developer.huawei.com/consumer/cn/blog/topic/03161261736565298)
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型布尔类型](https://developer.huawei.com/consumer/cn/blog/topic/03161256880942297)
+  - [富文本在输入内容之前替换要输入的内容](https://developer.huawei.com/consumer/cn/blog/topic/03161256337017304)
+- GitHub
+  - [hmdriver2](https://github.com/codematrixer/hmdriver2)
+- 开源中国
+  - [开源日报 | AI被连续否定30次；Java“上位”；开源模型之王翻车；A18芯片采用Arm最新架构；鸿蒙系统“飞天”；IBM曾经是伟大的企业](https://www.oschina.net/news/311213)
+  - [华为鸿蒙超越苹果 iOS，成为中国市场第二大移动操作系统](https://www.oschina.net/news/311183)
