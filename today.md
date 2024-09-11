@@ -1514,3 +1514,7 @@
 - 开源中国
   - [开源日报 | AI被连续否定30次；Java“上位”；开源模型之王翻车；A18芯片采用Arm最新架构；鸿蒙系统“飞天”；IBM曾经是伟大的企业](https://www.oschina.net/news/311213)
   - [华为鸿蒙超越苹果 iOS，成为中国市场第二大移动操作系统](https://www.oschina.net/news/311183)
+- 鸿蒙官网
+  - [线程间通信](https://developer.huawei.com/consumer/cn/blog/topic/03161356844385307)
+  - [鸿蒙系统(HarmonyOS)全局弹窗实现](https://developer.huawei.com/consumer/cn/blog/topic/03161351047480300)
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型浮点类型](https://developer.huawei.com/consumer/cn/blog/topic/03161344385956111)
