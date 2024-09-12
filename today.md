@@ -1518,3 +1518,17 @@
   - [线程间通信](https://developer.huawei.com/consumer/cn/blog/topic/03161356844385307)
   - [鸿蒙系统(HarmonyOS)全局弹窗实现](https://developer.huawei.com/consumer/cn/blog/topic/03161351047480300)
   - [鸿蒙原生应用元服务开发-仓颉基础数据类型浮点类型](https://developer.huawei.com/consumer/cn/blog/topic/03161344385956111)
+- 鸿蒙官网
+  - [OpenHarmony 与 HarmonyOS 的区别是什么？一篇文章你就知道了！](https://developer.huawei.com/consumer/cn/blog/topic/03161480250893303)
+  - [web前端3D CAD创建一个三维管道模型的方法](https://developer.huawei.com/consumer/cn/blog/topic/03161463003137302)
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型区间类型](https://developer.huawei.com/consumer/cn/blog/topic/03161434377292302)
+  - [端云一体化实现批量导入学生信息](https://developer.huawei.com/consumer/cn/blog/topic/03161429955653301)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [京东计划 9 月完成鸿蒙原生应用正式版上架，采用多端统一开发解决方案 Taro](https://www.ithome.com/0/795/180.htm)
+  - [华为 Mate XT 非凡大师三折叠手机预装鸿蒙 HarmonyOS 4.2 系统，不支持多设备任务流转功能](https://www.ithome.com/0/795/008.htm)
+- 开源中国
+  - [鸿蒙生态繁荣背后：WPS 全面适配 HarmonyOS NEXT 的故事](https://www.oschina.net/news/311492)
+- 掘金社区
+  - [鸿蒙对话框封装](https://juejin.cn/post/7412951456549666826)
+  - [鸿蒙next web组件和h5 交互实战来了](https://juejin.cn/post/7413196978600886299)
+  - [鸿蒙视频封面获取](https://juejin.cn/post/7412936177043701798)
