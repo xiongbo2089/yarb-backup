@@ -1572,3 +1572,27 @@
 - 掘金社区
   - [鸿蒙版 React Native 正式开源，ohos_react_native 了解一下](https://juejin.cn/post/7413617657919307826)
   - [鸿蒙ACE-V2状态分析@AppStorageV2](https://juejin.cn/post/7413663094081470501)
+- 51CTO
+  - [【开源鸿蒙】使用QEMU运行OpenHarmony轻量系统](https://ost.51cto.com/posts/29869)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用开发性能优化（二）](https://developer.huawei.com/consumer/cn/blog/topic/03161729989806326)
+  - [SAP B1 无对象表或者没有含自动增量的对象，如何通过SBO_SP_TransactionNotification控制？](https://developer.huawei.com/consumer/cn/blog/topic/03161706278616315)
+  - [SAP B1 物料主数据界面不显示计划选项卡和生产选项卡](https://developer.huawei.com/consumer/cn/blog/topic/03161705875222316)
+  - [通过HTTP长连接技术，我们应如何降低文件描述符与端口的占用？](https://developer.huawei.com/consumer/cn/blog/topic/03161705687486315)
+  - [『中工开发者』HarmonyOS应用开发者基础认证习题及答案](https://developer.huawei.com/consumer/cn/blog/topic/03161698186470324)
+  - [【时间盒子】-【8.时间选择器】自定义上下午、时分选择器组件](https://developer.huawei.com/consumer/cn/blog/topic/03161698075442314)
+  - [BOM里器件数量表格公式](https://developer.huawei.com/consumer/cn/blog/topic/03161695130389313)
+  - [IDE更新时，出现报错Error: : Install task failed: JS x.x.xx.x.的正确的处理解决方式。](https://developer.huawei.com/consumer/cn/blog/topic/03161694552436314)
+  - [鸿蒙应用启动流程及API调用总结](https://developer.huawei.com/consumer/cn/blog/topic/03161692676989313)
+  - [HarmonyOS开发：关于字典、数组、字符串等处理](https://developer.huawei.com/consumer/cn/blog/topic/03161689718460312)
+  - [HarmonyOS开发：关于签名信息配置详解](https://developer.huawei.com/consumer/cn/blog/topic/03161689121690311)
+  - [解决Scala中的隐式转换错误及类型推断问题](https://developer.huawei.com/consumer/cn/blog/topic/03161688850025323)
+  - [HarmonyOS开发：字符串专辑](https://developer.huawei.com/consumer/cn/blog/topic/03161688747310322)
+  - [量子计算与虚拟现实技术的结合应用](https://developer.huawei.com/consumer/cn/blog/topic/03161688504796321)
+- 鸿蒙开源工程更新
+  - [HarmonyOS/Samples](https://gitee.com/harmonyos/samples)
+- 开源中国
+  - [开源日报 | “纯血”鸿蒙9月底正式发布；VirtualBox 7.1；OpenAI o1的价值及意义；云计算的底色；丰田的软件危机](https://www.oschina.net/news/311972)
+- 掘金社区
+  - [鸿蒙开发，关于应用上架有个坑需要重点关注](https://juejin.cn/post/7414027978378903606)
+  - [HarmonyOS实践--Hook](https://juejin.cn/post/7414014423659446309)
