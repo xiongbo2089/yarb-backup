@@ -1596,3 +1596,8 @@
 - 掘金社区
   - [鸿蒙开发，关于应用上架有个坑需要重点关注](https://juejin.cn/post/7414027978378903606)
   - [HarmonyOS实践--Hook](https://juejin.cn/post/7414014423659446309)
+- 鸿蒙官网
+  - [十大排序算法：四、归并排序](https://developer.huawei.com/consumer/cn/blog/topic/03161813846172318)
+  - [HarmonyOS NEXT应用开发性能优化（三）](https://developer.huawei.com/consumer/cn/blog/topic/03161813245038005)
+  - [使用GestureGroup整一整图片的缩放与拖拽](https://developer.huawei.com/consumer/cn/blog/topic/03161793322500328)
+  - [优先识别双击手势而忽略单击的方式 - GestureGroup](https://developer.huawei.com/consumer/cn/blog/topic/03161784070154317)
