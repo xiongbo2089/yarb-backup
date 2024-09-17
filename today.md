@@ -1601,3 +1601,7 @@
   - [HarmonyOS NEXT应用开发性能优化（三）](https://developer.huawei.com/consumer/cn/blog/topic/03161813245038005)
   - [使用GestureGroup整一整图片的缩放与拖拽](https://developer.huawei.com/consumer/cn/blog/topic/03161793322500328)
   - [优先识别双击手势而忽略单击的方式 - GestureGroup](https://developer.huawei.com/consumer/cn/blog/topic/03161784070154317)
+- 鸿蒙官网
+  - [在 ArkTS 中集成 C 语言模块来管理文件描述符](https://developer.huawei.com/consumer/cn/blog/topic/03161911990605320)
+- 掘金社区
+  - [鸿蒙next ArkUI 带你玩转 arkts json解析](https://juejin.cn/post/7414424759227154470)
