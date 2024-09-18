@@ -1605,3 +1605,9 @@
   - [在 ArkTS 中集成 C 语言模块来管理文件描述符](https://developer.huawei.com/consumer/cn/blog/topic/03161911990605320)
 - 掘金社区
   - [鸿蒙next ArkUI 带你玩转 arkts json解析](https://juejin.cn/post/7414424759227154470)
+- GitHub
+  - [KuKuHarmony](https://github.com/turlvo/KuKuHarmony)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [9 月 20 日前可申请，华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间延长](https://www.ithome.com/0/796/400.htm)
+- 掘金社区
+  - [鸿蒙next 带你玩转鸿蒙拍照和相册获取图片](https://juejin.cn/post/7414702307810705459)
