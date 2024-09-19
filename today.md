@@ -1611,3 +1611,11 @@
   - [9 月 20 日前可申请，华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间延长](https://www.ithome.com/0/796/400.htm)
 - 掘金社区
   - [鸿蒙next 带你玩转鸿蒙拍照和相册获取图片](https://juejin.cn/post/7414702307810705459)
+- 鸿蒙官网
+  - [常见的性能优化场景九：文件上传下载性能提升指导](https://developer.huawei.com/consumer/cn/blog/topic/03162072882636008)
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型字符串类型](https://developer.huawei.com/consumer/cn/blog/topic/03162037045111318)
+- 掘金社区
+  - [从HarmonyOS升级到HarmonyOS NEXT-环信SDK数据迁移](https://juejin.cn/post/7415776780076253235)
+  - [《鸿蒙/Harmony | 开发日志》选择文件或拍照功能](https://juejin.cn/post/7415662205640900618)
+- 博客园
+  - [免弹窗、预授权，默认界面扫码能力打造系统级扫码体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18418394)
