@@ -1619,3 +1619,11 @@
   - [《鸿蒙/Harmony | 开发日志》选择文件或拍照功能](https://juejin.cn/post/7415662205640900618)
 - 博客园
   - [免弹窗、预授权，默认界面扫码能力打造系统级扫码体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18418394)
+- 鸿蒙官网
+  - [HarmonyOS NEXT 备忘提醒应用开发实战—醒事魔方](https://developer.huawei.com/consumer/cn/blog/topic/03162134620289320)
+  - [开源即时通讯IM框架MobileIMSDK的H5端技术概览](https://developer.huawei.com/consumer/cn/blog/topic/03162131686546011)
+  - [鸿蒙原生应用元服务开发-仓颉基础数据类型字符类型](https://developer.huawei.com/consumer/cn/blog/topic/03162123364663010)
+  - [【跑跑码特】HarmonyOS ArkTS用户首选项的开发及测试](https://developer.huawei.com/consumer/cn/blog/topic/03162123051556323)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [比亚迪方程豹：豹 8 全球首款同时支持鸿蒙、iOS 双系统手机 UWB 车钥匙，首发支持华为 Mate XT](https://www.ithome.com/0/796/897.htm)
+  - [消息称月底没有鸿蒙 HarmonyOS NEXT 系统，华为穿戴类新品 9 月 24 日亮相](https://www.ithome.com/0/796/824.htm)
