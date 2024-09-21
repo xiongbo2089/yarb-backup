@@ -1627,3 +1627,15 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [比亚迪方程豹：豹 8 全球首款同时支持鸿蒙、iOS 双系统手机 UWB 车钥匙，首发支持华为 Mate XT](https://www.ithome.com/0/796/897.htm)
   - [消息称月底没有鸿蒙 HarmonyOS NEXT 系统，华为穿戴类新品 9 月 24 日亮相](https://www.ithome.com/0/796/824.htm)
+- 鸿蒙官网
+  - [应用持久化之关系型数据库工具类分享](https://developer.huawei.com/consumer/cn/blog/topic/03162237959935324)
+  - [应用持久化之数据首选项工具类分享](https://developer.huawei.com/consumer/cn/blog/topic/03162233458361003)
+  - [科技云报到：有韧性才能更“任性”，云韧性构筑业务最后一道防线](https://developer.huawei.com/consumer/cn/blog/topic/03162218677110322)
+  - [即时通讯框架MobileIMSDK的H5端开发快速入门](https://developer.huawei.com/consumer/cn/blog/topic/03162212861600002)
+  - [鸿蒙开发案例](https://developer.huawei.com/consumer/cn/blog/topic/03162207749472001)
+- 开源中国
+  - [开源日报 | 实时Linux内核来了；大连思科被曝裁员；华为将发布鸿蒙PC电脑；AI未来是开源和去中心化；挑战GPT的00后清华男孩；售价高达100万的AI产品](https://www.oschina.net/news/312804)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间再次延期，9 月 27 日前可申请](https://www.ithome.com/0/797/139.htm)
+  - [华为终将放弃 Windows 笔记本，余承东称会推出搭载鸿蒙系统的 PC 产品](https://www.ithome.com/0/797/079.htm)
+  - [首款鸿蒙 HarmonyOS NEXT 系统 MOBA 游戏《曙光英雄》完成开发，正式上架华为游戏中心](https://www.ithome.com/0/797/054.htm)
