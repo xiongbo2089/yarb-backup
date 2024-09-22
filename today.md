@@ -1639,3 +1639,9 @@
   - [华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间再次延期，9 月 27 日前可申请](https://www.ithome.com/0/797/139.htm)
   - [华为终将放弃 Windows 笔记本，余承东称会推出搭载鸿蒙系统的 PC 产品](https://www.ithome.com/0/797/079.htm)
   - [首款鸿蒙 HarmonyOS NEXT 系统 MOBA 游戏《曙光英雄》完成开发，正式上架华为游戏中心](https://www.ithome.com/0/797/054.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [原生鸿蒙已有超 1 万个应用和元服务上架，华为年投入 60 亿激励开发者](https://www.ithome.com/0/797/398.htm)
+  - [华为终端云总裁朱勇刚：华为每年投入超 60 亿元激励鸿蒙创新](https://www.ithome.com/0/797/377.htm)
+- 鸿蒙官网
+  - [十大排序算法：七、桶排序](https://developer.huawei.com/consumer/cn/blog/topic/03162332318114006)
+  - [动态监听屏幕尺寸及状态改变](https://developer.huawei.com/consumer/cn/blog/topic/03162326904748004)
