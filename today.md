@@ -1645,3 +1645,8 @@
 - 鸿蒙官网
   - [十大排序算法：七、桶排序](https://developer.huawei.com/consumer/cn/blog/topic/03162332318114006)
   - [动态监听屏幕尺寸及状态改变](https://developer.huawei.com/consumer/cn/blog/topic/03162326904748004)
+- 鸿蒙官网
+  - [深度解读 UIAbility](https://developer.huawei.com/consumer/cn/blog/topic/03162420841117001)
+  - [HarmonyOS NEXT应用开发实战-super planner应用之开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03162405135875012)
+  - [升级你的HarmonyOS体验：一窥功能引导与拖拽交换的独家技巧](https://developer.huawei.com/consumer/cn/blog/topic/03162403169117326)
+  - [Windows10企业版 开启Hyper-V后依旧显示Hyper-V未开启问题](https://developer.huawei.com/consumer/cn/blog/topic/03162391244245325)
