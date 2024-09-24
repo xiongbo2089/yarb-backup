@@ -1650,3 +1650,10 @@
   - [HarmonyOS NEXT应用开发实战-super planner应用之开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03162405135875012)
   - [升级你的HarmonyOS体验：一窥功能引导与拖拽交换的独家技巧](https://developer.huawei.com/consumer/cn/blog/topic/03162403169117326)
   - [Windows10企业版 开启Hyper-V后依旧显示Hyper-V未开启问题](https://developer.huawei.com/consumer/cn/blog/topic/03162391244245325)
+- 鸿蒙官网
+  - [动静态库快速编译为鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03162553975782003)
+  - [HarmonyOS 实战项目：WanAndroidApp ](https://developer.huawei.com/consumer/cn/blog/topic/03162513262041013)
+  - [实现列表底部弹出键盘不顶起列表](https://developer.huawei.com/consumer/cn/blog/topic/03162483870530327)
+  - [【源码参考】解决SSL证书导致image组件无法加载线上url问题。](https://developer.huawei.com/consumer/cn/blog/topic/03162483132492002)
+  - [Pharo 语言在企业电脑监控中的表现](https://developer.huawei.com/consumer/cn/blog/topic/03162480305929326)
+  - [自定义键盘和系统键盘的切换](https://developer.huawei.com/consumer/cn/blog/topic/03162475185473327)
