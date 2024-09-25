@@ -1657,3 +1657,19 @@
   - [【源码参考】解决SSL证书导致image组件无法加载线上url问题。](https://developer.huawei.com/consumer/cn/blog/topic/03162483132492002)
   - [Pharo 语言在企业电脑监控中的表现](https://developer.huawei.com/consumer/cn/blog/topic/03162480305929326)
   - [自定义键盘和系统键盘的切换](https://developer.huawei.com/consumer/cn/blog/topic/03162475185473327)
+- 博客园
+  - [技术解读：华为云如何携手昇腾、鸿蒙等根生态，助力开发者技术创新 - 华为云开发者联盟](https://www.cnblogs.com/huaweiyun/p/18429576)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用开发实战-衣橱应用之开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03162588460570328)
+  - [科技云报到：以数据“价值三角”为擎，探索数据治理实践路径](https://developer.huawei.com/consumer/cn/blog/topic/03162566450358329)
+  - [华为闹钟-基本完善](https://developer.huawei.com/consumer/cn/blog/topic/03162556909233328)
+  - [动静态库快速编译为鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03162553975782003)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙智行旗下首款轿跑 SUV 智界 R7 上市：可选华为 ADS 3.0 高阶智驾，25.98 万元起](https://www.ithome.com/0/798/052.htm)
+  - [终于来啦！余承东官宣纯血鸿蒙 10 月 8 日启动公测！](https://www.ithome.com/0/798/028.htm)
+  - [华为鸿蒙 HarmonyOS NEXT 系统 10 月 8 日开启公测，首批支持 Mate 60 / X5 系列手机、MatePad Pro 13.2 英寸系列平板](https://www.ithome.com/0/797/989.htm)
+- 开源中国
+  - [开源日报 | 微软开源C++库Proxy 3；字节发布豆包视频生成大模型；开源苹果手机备份工具；腾讯发布第五代机器人；纯血鸿蒙应用适配工作量大](https://www.oschina.net/news/313341)
+- 掘金社区
+  - [鸿蒙next开发进阶 - 任务调度管理](https://juejin.cn/post/7418072992846512138)
+  - [Flutter 之 ftcon24usa 大会，创始人分享 Flutter 十年发展史，一闪而过的鸿蒙身影](https://juejin.cn/post/7418061055207178249)
