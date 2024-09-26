@@ -1673,3 +1673,20 @@
 - 掘金社区
   - [鸿蒙next开发进阶 - 任务调度管理](https://juejin.cn/post/7418072992846512138)
   - [Flutter 之 ftcon24usa 大会，创始人分享 Flutter 十年发展史，一闪而过的鸿蒙身影](https://juejin.cn/post/7418061055207178249)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [哔哩哔哩游戏《碧蓝航线》上架华为鸿蒙 HarmonyOS NEXT 应用商店](https://www.ithome.com/0/798/215.htm)
+- 鸿蒙官网
+  - [一种模拟3D效果的文字设计（使用TextShadow间接实现的文字描边）](https://developer.huawei.com/consumer/cn/blog/topic/03162669732790330)
+  - [通过简单的一个交互，阅读各类诗词](https://developer.huawei.com/consumer/cn/blog/topic/03162668952137014)
+  - [DevEco-Studio插件的OHPM插件](https://developer.huawei.com/consumer/cn/blog/topic/03162667878923332)
+  - [防截屏未完全生效问题解决](https://developer.huawei.com/consumer/cn/blog/topic/03162657402693006)
+  - [鸿蒙NEXT](https://developer.huawei.com/consumer/cn/blog/topic/03162653276216331)
+  - [微信技术总监谈架构：微信之道——大道至简(演讲全文)](https://developer.huawei.com/consumer/cn/blog/topic/03162649254134005)
+  - [(H5网页版CAD)在线CAD中实现测量圆、测量面积的方法](https://developer.huawei.com/consumer/cn/blog/topic/03162647512926330)
+- 掘金社区
+  - [HarmonyOS：分区列表的详细使用方法](https://juejin.cn/post/7418367857018781750)
+  - [鸿蒙next 带你玩转搜索框组件 Search组件](https://juejin.cn/post/7418123700165312547)
+  - [《鸿蒙/Harmony | 开发日志》预览文件](https://juejin.cn/post/7418075685825495090)
+  - [HarmonyOS Next(纯血鸿蒙)它到底像谁？](https://juejin.cn/post/7418085310896422912)
+- 开源中国
+  - [华为鸿蒙 HarmonyOS NEXT 将在国庆后公测](https://www.oschina.net/news/313414)
