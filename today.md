@@ -1690,3 +1690,13 @@
   - [HarmonyOS Next(纯血鸿蒙)它到底像谁？](https://juejin.cn/post/7418085310896422912)
 - 开源中国
   - [华为鸿蒙 HarmonyOS NEXT 将在国庆后公测](https://www.oschina.net/news/313414)
+- 鸿蒙官网
+  - [5.0.3.600版本的编译器有bug，本地模拟器无法实现将媒体图片放入回收站。--------------  Media Library Kit（媒体文件管理服务）](https://developer.huawei.com/consumer/cn/blog/topic/03162764602848335)
+  - [从“可用”到“好用”，百度智能云如何做大模型的“超级工厂”？](https://developer.huawei.com/consumer/cn/blog/topic/03162757402787334)
+  - [在使用commonEventManager公共事件模块遇到的问题](https://developer.huawei.com/consumer/cn/blog/topic/03162756345279332)
+  - [鸿蒙(HarmonyOS) - 实现省市区三级联动](https://developer.huawei.com/consumer/cn/blog/topic/03162731055992333)
+- 博客园
+  - [仅需6步，实现虚拟物体在现实世界的精准放置 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18433595)
+- 掘金社区
+  - [【最新鸿蒙开发api12】——学会瀑布流的实现和应用，这一篇就够了](https://juejin.cn/post/7418491879715651619)
+  - [鸿蒙自定义二维码扫描页面](https://juejin.cn/post/7418505553641472051)
