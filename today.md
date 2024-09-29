@@ -1706,3 +1706,9 @@
   - [在 ArkTS 中，如何有效地进行内存管理和避免内存泄漏？ - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18435162)
 - 掘金社区
   - [鸿蒙Next 利用半模态弹窗实现省市区三级联动](https://juejin.cn/post/7418893729639841811)
+- 开源中国
+  - [工信部：中国开源参与者数量、增长速度均位居世界前列](https://www.oschina.net/news/313952)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate 60 / Pura 70 系列及 Pocket 2 等手机获推鸿蒙 HarmonyOS NEXT 0.0.70 Beta 版升级](https://www.ithome.com/0/799/175.htm)
+- 掘金社区
+  - [【最新鸿蒙开发api12、DevEco5.0版本 | 逆波兰表达式】- 计算器的实现！！！](https://juejin.cn/post/7419203356521545762)
