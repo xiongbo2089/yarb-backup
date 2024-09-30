@@ -1712,3 +1712,15 @@
   - [华为 Mate 60 / Pura 70 系列及 Pocket 2 等手机获推鸿蒙 HarmonyOS NEXT 0.0.70 Beta 版升级](https://www.ithome.com/0/799/175.htm)
 - 掘金社区
   - [【最新鸿蒙开发api12、DevEco5.0版本 | 逆波兰表达式】- 计算器的实现！！！](https://juejin.cn/post/7419203356521545762)
+- 鸿蒙官网
+  - [梯子游戏技巧谈方法秘技](https://developer.huawei.com/consumer/cn/blog/topic/03163030343005012)
+  - [为什么不能隐藏状态栏](https://developer.huawei.com/consumer/cn/blog/topic/03163023262685335)
+  - [【HarmonyOS】公司鸿蒙项目收工总结之《三方库》](https://developer.huawei.com/consumer/cn/blog/topic/03163008852718011)
+  - [【HarmonyOS】公司鸿蒙项目收工总结之《API》](https://developer.huawei.com/consumer/cn/blog/topic/03162991531790333)
+- 博客园
+  - [10款好用的开源 HarmonyOS 工具库 - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18441187)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH GT 5 系列智能手表获推鸿蒙 HarmonyOS 5.0.0.100 升级：新增弦月窗、运动涂鸦等功能](https://www.ithome.com/0/799/238.htm)
+- 掘金社区
+  - [【最新鸿蒙开发api12】——公共事件和后台代理提醒的简单使用](https://juejin.cn/post/7419684634978107427)
+  - [鸿蒙状态栏控制](https://juejin.cn/post/7419636298612457510)
