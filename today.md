@@ -1724,3 +1724,13 @@
 - 掘金社区
   - [【最新鸿蒙开发api12】——公共事件和后台代理提醒的简单使用](https://juejin.cn/post/7419684634978107427)
   - [鸿蒙状态栏控制](https://juejin.cn/post/7419636298612457510)
+- 鸿蒙官网
+  - [ImageUtils](https://developer.huawei.com/consumer/cn/blog/topic/03163101271218340)
+  - [工具类分享](https://developer.huawei.com/consumer/cn/blog/topic/03163101147221014)
+- 博客园
+  - [实时语音交互，打造更加智能便捷的应用 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18441970)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [团结引擎 1.3.0 版本发布：升级开源鸿蒙 SDK 5.0 及 API 12，继续完善各功能模块](https://www.ithome.com/0/799/679.htm)
+  - [消息称华为花瓣地图 App 公交导航功能上线鸿蒙 HarmonyOS NEXT 系统](https://www.ithome.com/0/799/526.htm)
+- 开源中国
+  - [《王者荣耀》鸿蒙原生版开启限量删档测试](https://www.oschina.net/news/314286)
