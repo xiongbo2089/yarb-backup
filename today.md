@@ -1734,3 +1734,5 @@
   - [消息称华为花瓣地图 App 公交导航功能上线鸿蒙 HarmonyOS NEXT 系统](https://www.ithome.com/0/799/526.htm)
 - 开源中国
   - [《王者荣耀》鸿蒙原生版开启限量删档测试](https://www.oschina.net/news/314286)
+- 51CTO
+  - [OpenHarmony三方组件：retrofit](https://ost.51cto.com/posts/22012)
