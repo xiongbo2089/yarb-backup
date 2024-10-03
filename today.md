@@ -1736,3 +1736,5 @@
   - [《王者荣耀》鸿蒙原生版开启限量删档测试](https://www.oschina.net/news/314286)
 - 51CTO
   - [OpenHarmony三方组件：retrofit](https://ost.51cto.com/posts/22012)
+- 鸿蒙官网
+  - [风口的泼天富贵--技术英雄的权益要用知识产权保护好](https://developer.huawei.com/consumer/cn/blog/topic/03163247803481025)
