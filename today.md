@@ -1738,3 +1738,5 @@
   - [OpenHarmony三方组件：retrofit](https://ost.51cto.com/posts/22012)
 - 鸿蒙官网
   - [风口的泼天富贵--技术英雄的权益要用知识产权保护好](https://developer.huawei.com/consumer/cn/blog/topic/03163247803481025)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 部分产品与智慧屏联动相关特性正在适配开发](https://www.ithome.com/0/800/013.htm)
