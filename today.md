@@ -1740,3 +1740,6 @@
   - [风口的泼天富贵--技术英雄的权益要用知识产权保护好](https://developer.huawei.com/consumer/cn/blog/topic/03163247803481025)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为鸿蒙 HarmonyOS NEXT 部分产品与智慧屏联动相关特性正在适配开发](https://www.ithome.com/0/800/013.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统支持应用分身功能，同一 App 最多可分 5 个](https://www.ithome.com/0/800/275.htm)
+  - [消息称华为 HarmonyOS 将推 4.4 版本，问界汽车超级桌面 2.0 功能已支持鸿蒙 4.3.X 及以上系统手机](https://www.ithome.com/0/800/246.htm)
