@@ -1743,3 +1743,9 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为鸿蒙 HarmonyOS NEXT 系统支持应用分身功能，同一 App 最多可分 5 个](https://www.ithome.com/0/800/275.htm)
   - [消息称华为 HarmonyOS 将推 4.4 版本，问界汽车超级桌面 2.0 功能已支持鸿蒙 4.3.X 及以上系统手机](https://www.ithome.com/0/800/246.htm)
+- 鸿蒙官网
+  - [鸿蒙应用示例：舒尔特方格游戏实现](https://developer.huawei.com/consumer/cn/blog/topic/03163716140021036)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [不止《永劫无间》，网易《蛋仔派对》也称未完成针对鸿蒙的系统全部调试工作](https://www.ithome.com/0/800/502.htm)
+  - [《永劫无间》手游：目前还没有完成针对鸿蒙系统全部调试工作，更新 HarmonyOS NEXT 暂时无法继续游玩](https://www.ithome.com/0/800/482.htm)
+  - [华为鸿蒙 HarmonyOS NEXT.0.0.71 系统开始推送，消息称该版本即为公测版](https://www.ithome.com/0/800/445.htm)
