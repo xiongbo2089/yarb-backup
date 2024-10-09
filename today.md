@@ -1749,3 +1749,26 @@
   - [不止《永劫无间》，网易《蛋仔派对》也称未完成针对鸿蒙的系统全部调试工作](https://www.ithome.com/0/800/502.htm)
   - [《永劫无间》手游：目前还没有完成针对鸿蒙系统全部调试工作，更新 HarmonyOS NEXT 暂时无法继续游玩](https://www.ithome.com/0/800/482.htm)
   - [华为鸿蒙 HarmonyOS NEXT.0.0.71 系统开始推送，消息称该版本即为公测版](https://www.ithome.com/0/800/445.htm)
+- 博客园
+  - [打造一站式应用内支付体验，助力开发者商业增长 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18451910)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用元服务开发Accessibility（信息无障碍）介绍](https://developer.huawei.com/consumer/cn/blog/topic/03163849283098352)
+  - [鸿蒙开发案例：实现数字华容道游戏](https://developer.huawei.com/consumer/cn/blog/topic/03163845344758351)
+  - [科技云报到：云服务的中场战事，从AI应用开始](https://developer.huawei.com/consumer/cn/blog/topic/03163793066240350)
+  - [鸿蒙开发案例：一个简单的扫雷游戏应用](https://developer.huawei.com/consumer/cn/blog/topic/03163790769383350)
+  - [基于RichEditor开发的简单富文本编辑器](https://developer.huawei.com/consumer/cn/blog/topic/03163782646109348)
+  - [#微信鸿蒙原生版邀请内测#](https://developer.huawei.com/consumer/cn/blog/topic/03163781903773347)
+- 开源中国
+  - [技术引领筑生态，万物智联创未来 第三届OpenHarmony技术大会即将盛大启幕](https://www.oschina.net/news/315204)
+  - [开源日报 | “鸿蒙原生版”微信内测；开源AI代码工具Bolt.new；Python 3.13正式发布；对话Cursor团队；2024大模型之战；Tauri 2.0；开发者火冒三丈炮轰GenAI](https://www.oschina.net/news/315200)
+  - [京东金融 APP 的鸿蒙之旅：技术、挑战与实践](https://my.oschina.net/u/4090830/blog/16209571)
+  - [微信鸿蒙原生版开始内测邀请](https://www.oschina.net/news/315107)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [升级 HarmonyOS NEXT 后隐藏相册图片丢失？华为官方：照片被转移，预计 10 月底版本推送解决](https://www.ithome.com/0/800/733.htm)
+  - [消息称微信鸿蒙原生版 App“没有重大问题”本周六上线应用尝鲜](https://www.ithome.com/0/800/720.htm)
+  - [支付宝鸿蒙版 App 上线：适配小程序等功能，后续支持“碰一下”新体验](https://www.ithome.com/0/800/706.htm)
+  - [消息称鸿蒙 HarmonyOS NEXT 系统通信共享功能规划年底上线](https://www.ithome.com/0/800/651.htm)
+  - [微信员工：原生鸿蒙是一套新的技术框架，很多问题大家要对着文档边做边学](https://www.ithome.com/0/800/609.htm)
+  - [微博鸿蒙版开启公测，核心功能已在华为 HarmonyOS NEXT 系统落地](https://www.ithome.com/0/800/594.htm)
+  - [基于华为 HarmonyOS NEXT，WPS 鸿蒙版开启公测](https://www.ithome.com/0/800/575.htm)
+  - [微信华为鸿蒙原生版开始内测邀请，QQ 等超 20 款腾讯 App 陆续适配中](https://www.ithome.com/0/800/569.htm)
