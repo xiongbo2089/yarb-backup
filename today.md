@@ -1772,3 +1772,18 @@
   - [微博鸿蒙版开启公测，核心功能已在华为 HarmonyOS NEXT 系统落地](https://www.ithome.com/0/800/594.htm)
   - [基于华为 HarmonyOS NEXT，WPS 鸿蒙版开启公测](https://www.ithome.com/0/800/575.htm)
   - [微信华为鸿蒙原生版开始内测邀请，QQ 等超 20 款腾讯 App 陆续适配中](https://www.ithome.com/0/800/569.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为家庭存储、路由器产品鸿蒙 HarmonyOS NEXT 部分相关特性正适配开发](https://www.ithome.com/0/800/992.htm)
+  - [华为 Mate 60 等 4 款设备再过开源鸿蒙兼容性测评，操作系统版本号 OpenHarmony 5.0.0 Release](https://www.ithome.com/0/800/918.htm)
+  - [智谱清言鸿蒙版 App 上线：支持多轮对话、写作辅助、代码生成等功能](https://www.ithome.com/0/800/877.htm)
+- 鸿蒙官网
+  - [ArkTS接口实现和应用方案](https://developer.huawei.com/consumer/cn/blog/topic/03163874876300355)
+  - [鸿蒙 Next 实战： 电子木鱼](https://developer.huawei.com/consumer/cn/blog/topic/03163857370334354)
+  - [鸿蒙 Next 实战： 环境搭建](https://developer.huawei.com/consumer/cn/blog/topic/03163854738082353)
+  - [HarmonyOS NEXT应用元服务开发Accessibility（信息无障碍）介绍](https://developer.huawei.com/consumer/cn/blog/topic/03163849283098352)
+  - [鸿蒙开发案例：实现数字华容道游戏](https://developer.huawei.com/consumer/cn/blog/topic/03163845344758351)
+- 博客园
+  - [HarmonyOS NEXT 底部选项卡功能 - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18454731)
+- 开源中国
+  - [开源日报 | Linus向“被动语态”宣战；最懂人情世故的大语言模型；原生鸿蒙是新的技术框架；开源版彭博终端机；大模型“软饭硬吃”](https://www.oschina.net/news/315383)
+  - [微信工程师：HarmonyOS NEXT 是一套新的技术框架，编程语言是独特的 ArkTS 语言](https://www.oschina.net/news/315288)
