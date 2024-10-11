@@ -1787,3 +1787,22 @@
 - 开源中国
   - [开源日报 | Linus向“被动语态”宣战；最懂人情世故的大语言模型；原生鸿蒙是新的技术框架；开源版彭博终端机；大模型“软饭硬吃”](https://www.oschina.net/news/315383)
   - [微信工程师：HarmonyOS NEXT 是一套新的技术框架，编程语言是独特的 ArkTS 语言](https://www.oschina.net/news/315288)
+- 51CTO
+  - [基于lycium的开源c库编译与集成](https://ost.51cto.com/posts/29997)
+- 博客园
+  - [ArkTS 和仓颉的特性对比与案例 - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18457671)
+- 鸿蒙官网
+  - [SAP B1 Web Client & MS Teams App集成连载二](https://developer.huawei.com/consumer/cn/blog/topic/03163963636113005)
+  - [SAP B1 Web Client & MS Teams App集成连载一](https://developer.huawei.com/consumer/cn/blog/topic/03163962293328357)
+  - [#ArkTS语言 #导出 #export和export default的使用](https://developer.huawei.com/consumer/cn/blog/topic/03163959404440356)
+  - [HarmonyOS NEXT应用元服务开发按钮标注场景](https://developer.huawei.com/consumer/cn/blog/topic/03163958484362003)
+  - [社交软件红包技术解密(二)：解密微信摇一摇红包从0到1的技术演进](https://developer.huawei.com/consumer/cn/blog/topic/03163943093677002)
+  - [hdc工具安装、常用命令及使用技巧](https://developer.huawei.com/consumer/cn/blog/topic/03163940001973001)
+- GitHub
+  - [awesome-hdc](https://github.com/codematrixer/awesome-hdc)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为启动鸿蒙原生应用开发者激励计划，应用活跃激励最高 10 万元](https://www.ithome.com/0/801/300.htm)
+  - [微信鸿蒙原生版抢先体验，惊喜不只简洁](https://www.ithome.com/0/801/217.htm)
+  - [消息称升级至华为鸿蒙 HarmonyOS NEXT 系统微信可“本地无缝迁移聊天记录”](https://www.ithome.com/0/801/137.htm)
+- 掘金社区
+  - [鸿蒙next DevEco Studio 编辑器插件 摸鱼神器 来了](https://juejin.cn/post/7423762647781851176)
