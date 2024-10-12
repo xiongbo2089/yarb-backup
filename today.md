@@ -1806,3 +1806,23 @@
   - [消息称升级至华为鸿蒙 HarmonyOS NEXT 系统微信可“本地无缝迁移聊天记录”](https://www.ithome.com/0/801/137.htm)
 - 掘金社区
   - [鸿蒙next DevEco Studio 编辑器插件 摸鱼神器 来了](https://juejin.cn/post/7423762647781851176)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [适配鸿蒙 HarmonyOS NEXT，华为应用市场 11 月 10 日起仅允许集成 API12 Release SDK 的应用上架](https://www.ithome.com/0/801/513.htm)
+- 开源中国
+  - [华为发布鸿蒙原生应用开发者激励计划](https://www.oschina.net/news/315678)
+  - [10 · 26，北京线下，招募操作系统技术、鸿蒙系统与 App 开发者](https://my.oschina.net/u/3859945/blog/16256292)
+- 鸿蒙官网
+  - [史前大洪水](https://developer.huawei.com/consumer/cn/blog/topic/03164107230209003)
+  - [「Mac上学习仓颉28」基础篇8 - 元组类型详解](https://developer.huawei.com/consumer/cn/blog/topic/03164068581518002)
+  - [使用taskpool取消大量任务崩溃的问题](https://developer.huawei.com/consumer/cn/blog/topic/03164063349118003)
+  - [当父组件使用了flexGrow时，子组件默认宽高没有充满父组件问题](https://developer.huawei.com/consumer/cn/blog/topic/03164062537395002)
+  - [鸿蒙开发案例：HarmonyOS NEXT语法实现2048](https://developer.huawei.com/consumer/cn/blog/topic/03164048954451363)
+  - [05. 快速上手！HarmonyOS4.0 Button/Blank 基础组件详解](https://developer.huawei.com/consumer/cn/blog/topic/03164034212896007)
+  - [04. 快速上手！HarmonyOS4.0 布局组件（Column/Row）](https://developer.huawei.com/consumer/cn/blog/topic/03164034147077362)
+  - [03. 快速上手！HarmonyOS4.0 Text/Span组件详解](https://developer.huawei.com/consumer/cn/blog/topic/03164034097127006)
+  - [02. 快速上手！HarmonyOS4.0 Image组件详解](https://developer.huawei.com/consumer/cn/blog/topic/03164033952238361)
+  - [01.HarmonyOS4.0 工具安装](https://developer.huawei.com/consumer/cn/blog/topic/03164033885176360)
+- 掘金社区
+  - [鸿蒙开发：Navigation路由组件使用由繁入简](https://juejin.cn/post/7424330349860929576)
+  - [HarmonyOS：如何讲 Map 类型数据转化为valuesBucket(数据集)类型](https://juejin.cn/post/7424170467202924555)
+  - [鸿蒙开发：一文探究Navigation路由组件](https://juejin.cn/post/7424323910789316608)
