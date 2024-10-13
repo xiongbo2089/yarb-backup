@@ -1826,3 +1826,17 @@
   - [鸿蒙开发：Navigation路由组件使用由繁入简](https://juejin.cn/post/7424330349860929576)
   - [HarmonyOS：如何讲 Map 类型数据转化为valuesBucket(数据集)类型](https://juejin.cn/post/7424170467202924555)
   - [鸿蒙开发：一文探究Navigation路由组件](https://juejin.cn/post/7424323910789316608)
+- 鸿蒙官网
+  - [鸿蒙开发案例：通过三杯猜球学习显示动画](https://developer.huawei.com/consumer/cn/blog/topic/03164136846550003)
+  - [HarmonyOS NEXT应用元服务开发标注屏幕朗读内容的场景](https://developer.huawei.com/consumer/cn/blog/topic/03164126992231006)
+  - [嵌套滚动优化实践](https://developer.huawei.com/consumer/cn/blog/topic/03164112299338005)
+- 博客园
+  - [轻松构建游戏登录能力，打造玩家流畅体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18460598)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙推送 HarmonyOS NEXT.0.0.71 SP10，支持 exFAT 文件格式](https://www.ithome.com/0/801/813.htm)
+  - [微博鸿蒙客户端回应偶发打字丢字等 Bug：初步定位为系统问题，华为已在排期修复](https://www.ithome.com/0/801/758.htm)
+  - [腾讯张军：微信鸿蒙原生版最近几天每晚都会发放测试名额](https://www.ithome.com/0/801/754.htm)
+  - [微信鸿蒙原生版首批体验秒空，腾讯张军“求谅解”称还在不断 debug](https://www.ithome.com/0/801/713.htm)
+- 开源中国
+  - [开源日报 | Tesla搞机器人非常正确；AI教父Diss OpenAI；工程师在工作电脑存储64G色情内容；基于思维链的AI搜索](https://www.oschina.net/news/315872)
+  - [腾讯微信鸿蒙原生版正式上架华为商店](https://www.oschina.net/news/315835)
