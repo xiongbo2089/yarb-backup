@@ -1840,3 +1840,13 @@
 - 开源中国
   - [开源日报 | Tesla搞机器人非常正确；AI教父Diss OpenAI；工程师在工作电脑存储64G色情内容；基于思维链的AI搜索](https://www.oschina.net/news/315872)
   - [腾讯微信鸿蒙原生版正式上架华为商店](https://www.oschina.net/news/315835)
+- 鸿蒙官网
+  - [mccharts简单使用](https://developer.huawei.com/consumer/cn/blog/topic/03164248328356008)
+  - [鸿蒙开发案例：记忆翻牌](https://developer.huawei.com/consumer/cn/blog/topic/03164217601925007)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为“全新云空间”临时备份功能上线：未订阅用户每年 3 次使用机会，数据 60 天后自动删除](https://www.ithome.com/0/801/914.htm)
+  - [消息称华为商用鸿蒙系统本月发布，11 月旗舰新品上市](https://www.ithome.com/0/801/908.htm)
+  - [消息称鸿蒙 HarmonyOS NEXT 文件管理器和图库完全隔离，暂不支持华为分享传相册或大量图片 / 视频](https://www.ithome.com/0/801/877.htm)
+  - [微信员工：所有适配原生鸿蒙的第三方 App 都需从内测到应用尝鲜，再到公测](https://www.ithome.com/0/801/862.htm)
+- 掘金社区
+  - [鸿蒙开发：实现一个超简单的网格拖拽](https://juejin.cn/post/7424908830902157364)
