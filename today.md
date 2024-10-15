@@ -1850,3 +1850,10 @@
   - [微信员工：所有适配原生鸿蒙的第三方 App 都需从内测到应用尝鲜，再到公测](https://www.ithome.com/0/801/862.htm)
 - 掘金社区
   - [鸿蒙开发：实现一个超简单的网格拖拽](https://juejin.cn/post/7424908830902157364)
+- 鸿蒙官网
+  - [ArkUI自定义TabBar组件](https://developer.huawei.com/consumer/cn/blog/topic/03164311805674012)
+  - [科技云报到：大模型时代下，向量数据库的野望](https://developer.huawei.com/consumer/cn/blog/topic/03164307807079011)
+  - [鸿蒙开发案例：黑白棋](https://developer.huawei.com/consumer/cn/blog/topic/03164303167853006)
+  - [HarmonyOS NEXT应用元服务开发多维嵌套场景](https://developer.huawei.com/consumer/cn/blog/topic/03164285367103001)
+- 博客园
+  - [nicegui太香了，跨平台开发和跨平台运行--使用Python+nicegui实现系统布局界面的开发 - 伍华聪](https://www.cnblogs.com/wuhuacong/p/18463875)
