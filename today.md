@@ -1857,3 +1857,7 @@
   - [HarmonyOS NEXT应用元服务开发多维嵌套场景](https://developer.huawei.com/consumer/cn/blog/topic/03164285367103001)
 - 博客园
   - [nicegui太香了，跨平台开发和跨平台运行--使用Python+nicegui实现系统布局界面的开发 - 伍华聪](https://www.cnblogs.com/wuhuacong/p/18463875)
+- 鸿蒙官网
+  - [Deveco Studio api12下多层架构下实现跨包跳转](https://developer.huawei.com/consumer/cn/blog/topic/03164385775667014)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [这个双十一，让华为鸿蒙全家桶助你开启智慧生活新体验](https://www.ithome.com/0/802/250.htm)
