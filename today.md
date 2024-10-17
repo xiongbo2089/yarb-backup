@@ -1861,3 +1861,11 @@
   - [Deveco Studio api12下多层架构下实现跨包跳转](https://developer.huawei.com/consumer/cn/blog/topic/03164385775667014)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [这个双十一，让华为鸿蒙全家桶助你开启智慧生活新体验](https://www.ithome.com/0/802/250.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [纯血鸿蒙微信输入法 0.9.0 原生版应用上线，暂无跨设备剪切板](https://www.ithome.com/0/802/776.htm)
+- 鸿蒙官网
+  - [鸿蒙开发案例：区字棋](https://developer.huawei.com/consumer/cn/blog/topic/03164480358472009)
+  - [一多适配，重点是抛开设备的概念](https://developer.huawei.com/consumer/cn/blog/topic/03164476145833010)
+  - [HarmonyOS NEXT应用元服务开发插画/视频/动画的播报场景](https://developer.huawei.com/consumer/cn/blog/topic/03164470754568018)
+- 掘金社区
+  - [【HarmonyOS NEXT】从泄露的QQ.hap中分析QQ使用了哪些技术，为什么要用](https://juejin.cn/post/7425837623392911375)
