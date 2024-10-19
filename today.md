@@ -1902,3 +1902,13 @@
   - [【HarmonyOS】关于鸿蒙消息推送的心得体会（二）](https://juejin.cn/post/7426307140866342949)
   - [【HarmonyOS】关于鸿蒙消息推送的心得体会 （一）](https://juejin.cn/post/7426307140866293797)
   - [【HarmonyOS】应用推送使用个推SDK如何实现？](https://juejin.cn/post/7426282721545404425)
+- 51CTO
+  - [轻松上手-识图文字朗读](https://ost.51cto.com/posts/30039)
+- 鸿蒙官网
+  - [弹幕的简单实现](https://developer.huawei.com/consumer/cn/blog/topic/03164658925932046)
+  - [鸿蒙开发案例：推箱子](https://developer.huawei.com/consumer/cn/blog/topic/03164652326636045)
+  - [纯鸿蒙通过H5调用Camera拍照](https://developer.huawei.com/consumer/cn/blog/topic/03164645817807043)
+  - [HarmonyOS NEXT应用元服务开发多语种场景](https://developer.huawei.com/consumer/cn/blog/topic/03164626115962019)
+- 掘金社区
+  - [【HarmonyOS】鸿蒙应用蓝牙功能实现 （一）](https://juejin.cn/post/7426628755739836453)
+  - [【HarmonyOS】鸿蒙应用实现调用系统地图导航或路径规划](https://juejin.cn/post/7426647926590865459)
