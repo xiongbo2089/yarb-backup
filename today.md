@@ -1912,3 +1912,14 @@
 - 掘金社区
   - [【HarmonyOS】鸿蒙应用蓝牙功能实现 （一）](https://juejin.cn/post/7426628755739836453)
   - [【HarmonyOS】鸿蒙应用实现调用系统地图导航或路径规划](https://juejin.cn/post/7426647926590865459)
+- 51CTO
+  - [轻松上手-Navigation路由 H5](https://ost.51cto.com/posts/30047)
+- 鸿蒙官网
+  - [get传参数的几种形式](https://developer.huawei.com/consumer/cn/blog/topic/03164755569243036)
+  - [Naviagtion路由跳转过程](https://developer.huawei.com/consumer/cn/blog/topic/03164741770332035)
+  - [HarmonyOS Stage 模型：进程、线程与配置文件之浅析](https://developer.huawei.com/consumer/cn/blog/topic/03164739401745033)
+  - [ArkWeb页面拦截与自定义响应 - 控制加载过程](https://developer.huawei.com/consumer/cn/blog/topic/03164739353770032)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙推送 HarmonyOS NEXT.0.0.72 版本，新增一键锁屏服务卡片等功能](https://www.ithome.com/0/803/623.htm)
+  - [微信纯血鸿蒙原生版内测放量，诸多网友已在尝鲜区下载](https://www.ithome.com/0/803/582.htm)
+  - [原生鸿蒙之夜暨华为全场景新品发布会直播（视频）](https://live.ithome.com/item/803559.htm)
