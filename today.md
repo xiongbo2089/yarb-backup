@@ -1923,3 +1923,16 @@
   - [华为鸿蒙推送 HarmonyOS NEXT.0.0.72 版本，新增一键锁屏服务卡片等功能](https://www.ithome.com/0/803/623.htm)
   - [微信纯血鸿蒙原生版内测放量，诸多网友已在尝鲜区下载](https://www.ithome.com/0/803/582.htm)
   - [原生鸿蒙之夜暨华为全场景新品发布会直播（视频）](https://live.ithome.com/item/803559.htm)
+- 鸿蒙官网
+  - [onClick和onHover事件绑定统一组件时，onHover触发两次](https://developer.huawei.com/consumer/cn/blog/topic/03164884616568054)
+  - [HarmonyOS的连接艺术之六： 使用 Deep Linking，灵活定义链接规则](https://developer.huawei.com/consumer/cn/blog/topic/03164833615208053)
+  - [HarmonyOS的连接艺术之四：便捷访问系统功能](https://developer.huawei.com/consumer/cn/blog/topic/03164833569026039)
+  - [HarmonyOS的连接艺术之三：拉起指定类型的应用，打造个性化体验](https://developer.huawei.com/consumer/cn/blog/topic/03164833549104022)
+  - [HarmonyOS的连接艺术之一：让应用之间无缝协作](https://developer.huawei.com/consumer/cn/blog/topic/03164833473807038)
+  - [ArkTS组件可见区域变化监听事件：onVisibleAreaChange](https://developer.huawei.com/consumer/cn/blog/topic/03164819213041051)
+  - [ArkTS 中Tabs 页签内引入页面的 onPageShow和onPageHide 没有执行，是什么原因，如何解决这个问题](https://developer.huawei.com/consumer/cn/blog/topic/03164817640174037)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#01 - 环境搭建与初始项目](https://juejin.cn/post/7427455855971008548)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为开发者联盟生态市场上线“鸿蒙生态伙伴模板＆组件专区”：超 13 个模板、100 余个组件](https://www.ithome.com/0/803/762.htm)
+  - [华为鸿蒙 HarmonyOS NEXT 系统花粉 / 公测版本支持取消升级](https://www.ithome.com/0/803/647.htm)
