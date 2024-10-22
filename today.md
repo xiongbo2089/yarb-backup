@@ -1936,3 +1936,19 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为开发者联盟生态市场上线“鸿蒙生态伙伴模板＆组件专区”：超 13 个模板、100 余个组件](https://www.ithome.com/0/803/762.htm)
   - [华为鸿蒙 HarmonyOS NEXT 系统花粉 / 公测版本支持取消升级](https://www.ithome.com/0/803/647.htm)
+- 51CTO
+  - [测试人专属！HarmonyOS 高效测试必备HDC 命令-第一弹](https://ost.51cto.com/posts/30062)
+- 鸿蒙官网
+  - [华为慷慨捐赠欧拉开源操作系统 彰显科技巨头社会责任与民族情怀](https://developer.huawei.com/consumer/cn/blog/topic/03164970545750061)
+  - [鸿蒙开发案例：围住神经猫](https://developer.huawei.com/consumer/cn/blog/topic/03164917736595058)
+  - [HarmonyOS NEXT应用元服务开发多语种场景](https://developer.huawei.com/consumer/cn/blog/topic/03164902268936028)
+  - [华为鸿蒙嵌入式 UI 扩展组件：跨越界限的舞台](https://developer.huawei.com/consumer/cn/blog/topic/03164901138385040)
+  - [华为鸿蒙 AbilityStage 组件容器：Stage模型的舞台中心](https://developer.huawei.com/consumer/cn/blog/topic/03164901121955025)
+  - [华为鸿蒙 ExtensionAbility 组件：扩展应用功能的舞台](https://developer.huawei.com/consumer/cn/blog/topic/03164901105016056)
+  - [华为鸿蒙 UIAbility 组件：构建用户界面的舞台](https://developer.huawei.com/consumer/cn/blog/topic/03164901086548024)
+  - [华为鸿蒙Stage模型：让应用更轻量、高效、安全](https://developer.huawei.com/consumer/cn/blog/topic/03164901065914055)
+  - [onClick和onHover事件绑定统一组件时，onHover触发两次](https://developer.huawei.com/consumer/cn/blog/topic/03164884616568054)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信读书 App 纯血鸿蒙原生版上架 HarmonyOS NEXT 应用市场：首个接入微信登录的鸿蒙原生应用](https://www.ithome.com/0/804/016.htm)
+- 掘金社区
+  - [HarmonyOS多环境+多渠道+自定义路径输出+自定义名称一键打app和hap包](https://juejin.cn/post/7427050728719368202)
