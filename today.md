@@ -1952,3 +1952,31 @@
   - [微信读书 App 纯血鸿蒙原生版上架 HarmonyOS NEXT 应用市场：首个接入微信登录的鸿蒙原生应用](https://www.ithome.com/0/804/016.htm)
 - 掘金社区
   - [HarmonyOS多环境+多渠道+自定义路径输出+自定义名称一键打app和hap包](https://juejin.cn/post/7427050728719368202)
+- 51CTO
+  - [使用 ArkTs 开发 Flutter 鸿蒙平台插件](https://ost.51cto.com/posts/30106)
+  - [鸿蒙 Flutter 实战：使用第三方插件](https://ost.51cto.com/posts/30105)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [HarmonyOS NEXT 正式发布，鸿蒙版钉钉现场展示三大亮点，更多应用加速迭代](https://www.ithome.com/0/804/391.htm)
+  - [华为 HarmonyOS NEXT 发布，系统级小艺智能体无处不在，随时召唤](https://www.ithome.com/0/804/362.htm)
+  - [华为原生鸿蒙 HarmonyOS NEXT 规范隐私，App Gallery 不满足安全要求应用无法上架安装和运行](https://www.ithome.com/0/804/341.htm)
+  - [华为终端可持续发展报告（2023-2024）公布：9700 万手机收到地震预警、鸿蒙生态学堂学习人次达 435 万](https://www.ithome.com/0/804/340.htm)
+  - [华为原生鸿蒙 HarmonyOS NEXT 5.0 互联升级：跨设备互通扫描、图库，华为分享“碰一碰”等](https://www.ithome.com/0/804/339.htm)
+  - [华为 nova 12 Ultra 系列手机开启鸿蒙 HarmonyOS NEXT 花粉 Beta 尝鲜招募](https://www.ithome.com/0/804/337.htm)
+  - [华为原生鸿蒙 HarmonyOS NEXT 5.0 引入“和谐美学”设计：实况窗一镜到底、卡片背景炫彩透光](https://www.ithome.com/0/804/335.htm)
+- GitHub
+  - [node-addon-api-ohos](https://github.com/richerfu/node-addon-api-ohos)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用元服务开发禁用屏幕朗读焦点的场景](https://developer.huawei.com/consumer/cn/blog/topic/03165058194581001)
+  - [鸿蒙分布式商城应用开发探究](https://developer.huawei.com/consumer/cn/blog/topic/03164977765931064)
+  - [华为鸿蒙Stage模型综合运用：构建多设备协同的鸿蒙应用](https://developer.huawei.com/consumer/cn/blog/topic/03164977750584063)
+  - [深入理解华为鸿蒙的 Context —— 应用上下文解析](https://developer.huawei.com/consumer/cn/blog/topic/03164977734993031)
+  - [华为鸿蒙Next：应用启动框架AppStartup的解析与实战应用](https://developer.huawei.com/consumer/cn/blog/topic/03164977719999030)
+  - [华为鸿蒙开发：掌握应用包名、图标、版本及权限配置](https://developer.huawei.com/consumer/cn/blog/topic/03164977693353042)
+  - [SAP B1 Windows Server共享文件夹需要输入用户和密码](https://developer.huawei.com/consumer/cn/blog/topic/03164974462855062)
+  - [SAP B1 Web Client & MS Teams App集成连载五：支持的视图名称—Supported View Names](https://developer.huawei.com/consumer/cn/blog/topic/03164974407244029)
+  - [SAP B1 Web Client & MS Teams App集成连载四：Using This App ——Reconfiguring重新配置, Renaming重命名, Removing a Tab移除选项卡](https://developer.huawei.com/consumer/cn/blog/topic/03164974131865029)
+  - [SAP B1 Web Client & MS Teams App集成连载三：Using This App ——设置选项卡/Setting Up a Tab](https://developer.huawei.com/consumer/cn/blog/topic/03164974057144028)
+  - [华为慷慨捐赠欧拉开源操作系统 彰显科技巨头社会责任与民族情怀](https://developer.huawei.com/consumer/cn/blog/topic/03164970545750061)
+- 掘金社区
+  - [【HarmonyOS】鸿蒙目前最好用的路由管理 HMRouter （一）](https://juejin.cn/post/7428157656256659482)
+  - [鸿蒙纪·梦始卷#02 | 从计数器认识布局基础](https://juejin.cn/post/7428138325347991604)
