@@ -1980,3 +1980,24 @@
 - 掘金社区
   - [【HarmonyOS】鸿蒙目前最好用的路由管理 HMRouter （一）](https://juejin.cn/post/7428157656256659482)
   - [鸿蒙纪·梦始卷#02 | 从计数器认识布局基础](https://juejin.cn/post/7428138325347991604)
+- 51CTO
+  - [鸿蒙Flutter实战：06-使用ArkTs开发Flutter鸿蒙插件](https://ost.51cto.com/posts/30106)
+  - [鸿蒙Flutter实战：05-使用第三方插件](https://ost.51cto.com/posts/30105)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列35-通过数据包结束标志解决TCP粘包问题](https://developer.huawei.com/consumer/cn/blog/topic/03165141095668048)
+  - [鸿蒙网络编程系列34-Wifi热点扫描及连接示例](https://developer.huawei.com/consumer/cn/blog/topic/03165140952571037)
+  - [鸿蒙Next如何接入微信支付](https://developer.huawei.com/consumer/cn/blog/topic/03165091436373034)
+  - [封装一个发送验证码倒计时组件](https://developer.huawei.com/consumer/cn/blog/topic/03165084430350036)
+  - [pasteboard的使用](https://developer.huawei.com/consumer/cn/blog/topic/03165082208065047)
+  - [线程池分享](https://developer.huawei.com/consumer/cn/blog/topic/03165078713536002)
+  - [分布式文件跨设备操作文件等级权限](https://developer.huawei.com/consumer/cn/blog/topic/03165075412205033)
+  - [HarmonyOS NEXT应用元服务开发禁用屏幕朗读焦点的场景](https://developer.huawei.com/consumer/cn/blog/topic/03165058194581001)
+- 开源中国
+  - [开源日报 | Svelte 5发布；OpenJDK新提案减少JDK体积；纯血鸿蒙再造一个鸿蒙时代；英伟达不在乎市场份额；Linux内核将删除3万多行代码](https://www.oschina.net/news/317375)
+  - [华为正式发布原生鸿蒙系统](https://www.oschina.net/news/317261)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [无需安装，一触即达！元服务引领 HarmonyOS NEXT 新体验](https://www.ithome.com/0/804/635.htm)
+- 掘金社区
+  - [从0开始带你封装鸿蒙路由框架](https://juejin.cn/post/7428931574665052214)
+  - [【HarmonyOS】应用实现APP国际化多语言切换](https://juejin.cn/post/7428914271227478056)
+  - [鸿蒙纪·梦始卷#03 | 沉浸状态栏与资源使用](https://juejin.cn/post/7428827247551512611)
