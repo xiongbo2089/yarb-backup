@@ -2032,3 +2032,35 @@
 - 掘金社区
   - [鸿蒙开发：全局异常捕获和异常信息查看](https://juejin.cn/post/7429258147498622986)
   - [鸿蒙开发：走进stateStyles多态样式](https://juejin.cn/post/7429211109632671759)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [央视主播说联播：原生鸿蒙是中国科技产业的重大突破](https://www.ithome.com/0/805/121.htm)
+- 鸿蒙官网
+  - [鸿蒙案例实践：图像处理应用中多线程任务调度与性能优化](https://developer.huawei.com/consumer/cn/blog/topic/03165318044745002)
+  - [鸿蒙案例实践：高并发数据采集系统的设计与实现](https://developer.huawei.com/consumer/cn/blog/topic/03165318027485019)
+  - [鸿蒙案例实践：智能家居控制面板的并发任务与UI交互设计](https://developer.huawei.com/consumer/cn/blog/topic/03165318011793018)
+  - [鸿蒙编程江湖：ArkTS开发综合案例与最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03165317996605017)
+  - [鸿蒙编程江湖：ArkTS 的多线程与序列化支持](https://developer.huawei.com/consumer/cn/blog/topic/03165317982276064)
+  - [鸿蒙编程江湖：ArkUI 的声明式 UI 编程与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03165317967163046)
+  - [鸿蒙编程江湖：ArkTS 容器与原生容器在行为上的差异](https://developer.huawei.com/consumer/cn/blog/topic/03165317937026001)
+  - [使用图片选择器photoAccessHelper设置preselectedUris预选择无效的原因和解决办法](https://developer.huawei.com/consumer/cn/blog/topic/03165269956319041)
+  - [星河璀璨千帆起——HarmonyOS NEXT四个月Beta版本长测体验报告](https://developer.huawei.com/consumer/cn/blog/topic/03165258505368061)
+  - [微帧Per-Title编码技术：自适应码率-画质-分辨率](https://developer.huawei.com/consumer/cn/blog/topic/03165257557677015)
+  - [《探索 HarmonyOS NEXT(5.0)：开启构建模块化项目架构奇幻之旅 —— 构建基础特性层》](https://developer.huawei.com/consumer/cn/blog/topic/03165253284054045)
+  - [【时间盒子】-【12.任务时长弹窗】设置/修改任务时长](https://developer.huawei.com/consumer/cn/blog/topic/03165252241270044)
+  - [鸿蒙编程江湖：ArkTS中Sendable数据在并发实例间的传递](https://developer.huawei.com/consumer/cn/blog/topic/03165244223137013)
+  - [鸿蒙编程江湖：深入理解TaskPool和Worker的并发任务执行](https://developer.huawei.com/consumer/cn/blog/topic/03165244207123059)
+  - [鸿蒙编程江湖：异步编程的优势及 Promise的应用](https://developer.huawei.com/consumer/cn/blog/topic/03165244190864043)
+  - [鸿蒙编程江湖：并发编程基础与鸿蒙中的任务并发](https://developer.huawei.com/consumer/cn/blog/topic/03165244175456012)
+  - [鸿蒙编程江湖：HarmonyOS 和 ArkTS 基本概念](https://developer.huawei.com/consumer/cn/blog/topic/03165244160836058)
+  - [鸿蒙开发案例：垃圾分类](https://developer.huawei.com/consumer/cn/blog/topic/03165236638840011)
+  - [dynamictp学习](https://developer.huawei.com/consumer/cn/blog/topic/03165235984381010)
+  - [Android-Java转HarmonyOS系列——数据样式格式化](https://developer.huawei.com/consumer/cn/blog/topic/03165233042585057)
+  - [HarmonyOS NEXT应用元服务开发控件位置调整场景与重新设置新焦点位置的场景](https://developer.huawei.com/consumer/cn/blog/topic/03165231419295040)
+  - [开通认证服务-实现登录、销户（二）](https://developer.huawei.com/consumer/cn/blog/topic/03165229963235056)
+  - [鸿蒙网络编程系列37-基于TCP套接字的TLS通讯客户端示例](https://developer.huawei.com/consumer/cn/blog/topic/03165225782586055)
+- 博客园
+  - [鸿蒙NEXT应用上架与分发步骤详解 - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18502566)
+- GitHub
+  - [JRouterHarmonyOs](https://github.com/mufans/JRouterHarmonyOs)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#04 | 猜数字 -需求与静态界面](https://juejin.cn/post/7429545654358310947)
