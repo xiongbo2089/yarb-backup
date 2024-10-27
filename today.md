@@ -2064,3 +2064,16 @@
   - [JRouterHarmonyOs](https://github.com/mufans/JRouterHarmonyOs)
 - 掘金社区
   - [鸿蒙纪·梦始卷#04 | 猜数字 -需求与静态界面](https://juejin.cn/post/7429545654358310947)
+- 51CTO
+  - [HarmonyOS应用数据库调试工具 HarmonyOS Debug Database (debug-db)](https://ost.51cto.com/posts/30142)
+  - [HarmonyOS NEXT原生重榜发布-怎么能少了一款鸿蒙可视化代码生成器](https://ost.51cto.com/posts/30139)
+- 鸿蒙官网
+  - [鸿蒙案例实践：图像处理应用中多线程任务调度与性能优化](https://developer.huawei.com/consumer/cn/blog/topic/03165318044745002)
+  - [鸿蒙案例实践：高并发数据采集系统的设计与实现](https://developer.huawei.com/consumer/cn/blog/topic/03165318027485019)
+  - [鸿蒙案例实践：智能家居控制面板的并发任务与UI交互设计](https://developer.huawei.com/consumer/cn/blog/topic/03165318011793018)
+  - [鸿蒙编程江湖：ArkTS开发综合案例与最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03165317996605017)
+  - [鸿蒙编程江湖：ArkTS 的多线程与序列化支持](https://developer.huawei.com/consumer/cn/blog/topic/03165317982276064)
+  - [鸿蒙编程江湖：ArkUI 的声明式 UI 编程与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03165317967163046)
+  - [鸿蒙编程江湖：ArkTS 容器与原生容器在行为上的差异](https://developer.huawei.com/consumer/cn/blog/topic/03165317937026001)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [中国国航 App“纯血鸿蒙”版登陆华为应用市场，支持语音订票功能](https://www.ithome.com/0/805/503.htm)
