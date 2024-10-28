@@ -2077,3 +2077,22 @@
   - [鸿蒙编程江湖：ArkTS 容器与原生容器在行为上的差异](https://developer.huawei.com/consumer/cn/blog/topic/03165317937026001)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [中国国航 App“纯血鸿蒙”版登陆华为应用市场，支持语音订票功能](https://www.ithome.com/0/805/503.htm)
+- 51CTO
+  - [【FFH】鸿蒙应用开发实例——日历](https://ost.51cto.com/posts/30151)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称华为鸿蒙 HarmonyOS NEXT 系统当前有 3 种方式迁移微信聊天记录，暂不支持 PC 转移、云备份恢复](https://www.ithome.com/0/805/683.htm)
+  - [深圳启动鸿蒙数字技能人才专项培养计划，每年培训超 3000 人](https://www.ithome.com/0/805/567.htm)
+- 鸿蒙官网
+  - [华为 HarmonyOS 中 ArkTS 变量使用注意事项](https://developer.huawei.com/consumer/cn/blog/topic/03165491036914068)
+  - [鸿蒙网络编程系列39-Web组件打印示例](https://developer.huawei.com/consumer/cn/blog/topic/03165483604034005)
+  - [鸿蒙网络编程系列38-Web组件文件下载示例](https://developer.huawei.com/consumer/cn/blog/topic/03165483482341067)
+  - [共赴璀璨星河——怎样利用原生能力提升用户体验](https://developer.huawei.com/consumer/cn/blog/topic/03165449622927021)
+  - [节能型后台数据同步器:HarmonyOS Next的智能延迟任务管理](https://developer.huawei.com/consumer/cn/blog/topic/03165410020566004)
+  - [智能提醒助手——基于HarmonyOS Next的多场景后台任务实现](https://developer.huawei.com/consumer/cn/blog/topic/03165410001927066)
+  - [后台提醒与代理提醒：HarmonyOS Next 的智能提醒管理](https://developer.huawei.com/consumer/cn/blog/topic/03165409979252003)
+  - [延迟任务管理：HarmonyOS Next 的灵活后台调度](https://developer.huawei.com/consumer/cn/blog/topic/03165409950121049)
+  - [解析短时任务与长时任务：HarmonyOS Next 后台开发的基础](https://developer.huawei.com/consumer/cn/blog/topic/03165409926550048)
+  - [HarmonyOS Next后台任务开发入门：背景与基本任务类型](https://developer.huawei.com/consumer/cn/blog/topic/03165409903577065)
+  - [鸿蒙多环境配置(一)](https://developer.huawei.com/consumer/cn/blog/topic/03165399843088047)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#05 | 猜数字 - 交互与状态变化](https://juejin.cn/post/7430509219512909864)
