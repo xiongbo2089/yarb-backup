@@ -2174,3 +2174,23 @@
 - 掘金社区
   - [鸿蒙控制某个变量渐变从而实现动画效果的写法](https://juejin.cn/post/7431454931280019465)
   - [鸿蒙纪·梦始卷#06 | 猜数字 - 动画的使用](https://juejin.cn/post/7431371926063693824)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [百度地图纯血鸿蒙版 App 上架 HarmonyOS NEXT 版华为应用市场：支持路线查看、驾车导航等功能](https://www.ithome.com/0/806/795.htm)
+- 鸿蒙官网
+  - [鸿蒙高并发环境下的服务状态监控系统](https://developer.huawei.com/consumer/cn/blog/topic/03165838171363041)
+  - [多进程协同的实时数据采集与共享系统](https://developer.huawei.com/consumer/cn/blog/topic/03165838156523094)
+  - [HarmonyOS跨设备通信：多端协同的RPC数据传输实现](https://developer.huawei.com/consumer/cn/blog/topic/03165838140750024)
+  - [鸿蒙IPC Kit远端状态订阅：进程消亡时的资源管理机制](https://developer.huawei.com/consumer/cn/blog/topic/03165838123528040)
+  - [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://developer.huawei.com/consumer/cn/blog/topic/03165838106012039)
+  - [HarmonyOS IPC Kit进阶：客户端与服务端的基础通信](https://developer.huawei.com/consumer/cn/blog/topic/03165838086394093)
+  - [IPC Kit基础入门：理解HarmonyOS的进程间通信架构](https://developer.huawei.com/consumer/cn/blog/topic/03165838072319080)
+  - [ArkTS并发能力之异步并发](https://developer.huawei.com/consumer/cn/blog/topic/03165837057294038)
+  - [代码命名里的大学问！](https://developer.huawei.com/consumer/cn/blog/topic/03165797523436079)
+  - [如何监控员工电脑屏幕：JavaScript 实现的前端监控](https://developer.huawei.com/consumer/cn/blog/topic/03165770829637078)
+  - [鸿蒙开发案例：打地鼠](https://developer.huawei.com/consumer/cn/blog/topic/03165769864110021)
+  - [鸿蒙Navigation处理启动页跳转到首页问题](https://developer.huawei.com/consumer/cn/blog/topic/03165760923855076)
+  - [鸿蒙版flutter更新鸿蒙next系统后，不能调试flutter代码问题](https://developer.huawei.com/consumer/cn/blog/topic/03165755810928075)
+  - [热更新调试鸿蒙版flutter代码步骤(harmonyos next flutter debug)](https://developer.huawei.com/consumer/cn/blog/topic/03165755606938020)
+  - [鸿蒙网络编程系列41-仓颉版HttpRequest模拟登录示例](https://developer.huawei.com/consumer/cn/blog/topic/03165745585608019)
+- 开源中国
+  - [开启操作系统生态新篇章，共话未来挑战与机遇，鸿蒙生态创新论坛顺利举行](https://www.oschina.net/news/318470)
