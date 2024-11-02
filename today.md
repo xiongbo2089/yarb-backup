@@ -2194,3 +2194,19 @@
   - [鸿蒙网络编程系列41-仓颉版HttpRequest模拟登录示例](https://developer.huawei.com/consumer/cn/blog/topic/03165745585608019)
 - 开源中国
   - [开启操作系统生态新篇章，共话未来挑战与机遇，鸿蒙生态创新论坛顺利举行](https://www.oschina.net/news/318470)
+- 鸿蒙官网
+  - [十大排序算法：八、计数排序](https://developer.huawei.com/consumer/cn/blog/topic/03165871359457095)
+  - [鸿蒙推送服务公共信息模块指南](https://developer.huawei.com/consumer/cn/blog/topic/03165865216948081)
+  - [鸿蒙操作系统科普与开发成果展](https://developer.huawei.com/consumer/cn/blog/topic/03165858132514044)
+  - [使用无线调试连接真机](https://developer.huawei.com/consumer/cn/blog/topic/03165855534710043)
+  - [在鸿蒙5.0中使用AGC认证服务实现登录功能](https://developer.huawei.com/consumer/cn/blog/topic/03165840189844042)
+  - [鸿蒙高并发环境下的服务状态监控系统](https://developer.huawei.com/consumer/cn/blog/topic/03165838171363041)
+  - [多进程协同的实时数据采集与共享系统](https://developer.huawei.com/consumer/cn/blog/topic/03165838156523094)
+  - [HarmonyOS跨设备通信：多端协同的RPC数据传输实现](https://developer.huawei.com/consumer/cn/blog/topic/03165838140750024)
+  - [鸿蒙IPC Kit远端状态订阅：进程消亡时的资源管理机制](https://developer.huawei.com/consumer/cn/blog/topic/03165838123528040)
+  - [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://developer.huawei.com/consumer/cn/blog/topic/03165838106012039)
+  - [HarmonyOS IPC Kit进阶：客户端与服务端的基础通信](https://developer.huawei.com/consumer/cn/blog/topic/03165838086394093)
+  - [IPC Kit基础入门：理解HarmonyOS的进程间通信架构](https://developer.huawei.com/consumer/cn/blog/topic/03165838072319080)
+  - [ArkTS并发能力之异步并发](https://developer.huawei.com/consumer/cn/blog/topic/03165837057294038)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#07 | 电子木鱼 - 需求和静态界面](https://juejin.cn/post/7431972463053635599)
