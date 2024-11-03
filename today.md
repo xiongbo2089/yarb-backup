@@ -2210,3 +2210,20 @@
   - [ArkTS并发能力之异步并发](https://developer.huawei.com/consumer/cn/blog/topic/03165837057294038)
 - 掘金社区
   - [鸿蒙纪·梦始卷#07 | 电子木鱼 - 需求和静态界面](https://juejin.cn/post/7431972463053635599)
+- 51CTO
+  - [#HarmonyOS NEXT体验官# Harmony OS环境下的实用指南（1）——掌握ArkTS文档自动生成](https://ost.51cto.com/posts/30193)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统获推 5.0.0.102 新版本升级，新增碰一碰分享、多人群发等功能](https://www.ithome.com/0/807/511.htm)
+- 鸿蒙官网
+  - [鸿蒙Next应用本地化：翻译场景的重要性](https://developer.huawei.com/consumer/cn/blog/topic/03166010837960032)
+  - [鸿蒙Next应用国际化：数字与度量衡格式化](https://developer.huawei.com/consumer/cn/blog/topic/03166010757874086)
+  - [鸿蒙Next应用国际化：时区与夏令时处理](https://developer.huawei.com/consumer/cn/blog/topic/03166010724013049)
+  - [鸿蒙Next应用国际化：时间与日期格式化](https://developer.huawei.com/consumer/cn/blog/topic/03166010695595048)
+  - [鸿蒙开发案例：分贝仪](https://developer.huawei.com/consumer/cn/blog/topic/03165958983248085)
+  - [鸿蒙子窗口WindowStage](https://developer.huawei.com/consumer/cn/blog/topic/03165955052000047)
+  - [科技云报到：假开源真噱头？开源大模型和你想的不一样！](https://developer.huawei.com/consumer/cn/blog/topic/03165954135500030)
+  - [鸿蒙Next应用国际化：语言与区域设置](https://developer.huawei.com/consumer/cn/blog/topic/03165928347133046)
+  - [鸿蒙Next应用国际化：日历与历法处理](https://developer.huawei.com/consumer/cn/blog/topic/03165928329134028)
+  - [鸿蒙Next应用国际化：区域标识与文化差异](https://developer.huawei.com/consumer/cn/blog/topic/03165928311631027)
+  - [鸿蒙Next应用界面设计：国际化最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03165928294453045)
+  - [鸿蒙Next应用全球化之路：国际化与本地化](https://developer.huawei.com/consumer/cn/blog/topic/03165928277832084)
