@@ -2287,3 +2287,20 @@
 - 掘金社区
   - [鸿蒙开发：搭建属于自己的私服共享包平台](https://juejin.cn/post/7433273422879162383)
   - [鸿蒙纪·梦始卷#08 | 电子木鱼 - 音效播放与动画](https://juejin.cn/post/7433235794557435904)
+- 鸿蒙官网
+  - [鸿蒙 Next 实战：构建安全高效的在线支付应用](https://developer.huawei.com/consumer/cn/blog/topic/03166268379095111)
+  - [鸿蒙Next实战：构建社交应用新生态](https://developer.huawei.com/consumer/cn/blog/topic/03166268365277068)
+  - [鸿蒙 Next 实战：打造全能文件管理器应用](https://developer.huawei.com/consumer/cn/blog/topic/03166268351104067)
+  - [鸿蒙 Next 权限申请进阶：权限组与单次授权全解析](https://developer.huawei.com/consumer/cn/blog/topic/03166268336808066)
+  - [鸿蒙 Next 安全控件与系统 Picker 深度剖析](https://developer.huawei.com/consumer/cn/blog/topic/03166268322281047)
+  - [认识鸿蒙Context](https://developer.huawei.com/consumer/cn/blog/topic/03166228462215109)
+  - [华为HarmonyOS借助AR引擎帮助应用实现虚拟与现实交互的能力1-AR Engine简介](https://developer.huawei.com/consumer/cn/blog/topic/03166216368648045)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）本地搜索方案概述](https://developer.huawei.com/consumer/cn/blog/topic/03166212725460109)
+  - [DevEco Studio下模拟器问题记录](https://developer.huawei.com/consumer/cn/blog/topic/03166196813111108)
+  - [仓颉编程语言开发环境搭建（安装仓颉工具链）](https://developer.huawei.com/consumer/cn/blog/topic/03166181900114063)
+- 博客园
+  - [认识鸿蒙Context - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18528936)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [纯血鸿蒙版微信将接入 HarmonyOS NEXT 系统 Call Kit 通话服务，支持便捷来电接听功能](https://www.ithome.com/0/808/109.htm)
+- 掘金社区
+  - [鸿蒙开发：自定义一个车牌省份简称键盘](https://juejin.cn/post/7433665332530839593)
