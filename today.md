@@ -2329,3 +2329,32 @@
 - 掘金社区
   - [Harmony bindSheet 基本 使用](https://juejin.cn/post/7434063839996067875)
   - [鸿蒙纪·梦始卷#09 | 电子木鱼 - 弹框与切换选择](https://juejin.cn/post/7433971613429710863)
+- 博客园
+  - [鸿蒙开发案例：七巧板 - zhongcx](https://www.cnblogs.com/zhongcx/p/18534029)
+- 51CTO
+  - [HarmonyOS Developer DevEco Studio常见问题-编译构建](https://ost.51cto.com/posts/22918)
+  - [阿里云 EMAS携手开发者，共建更优质的HarmonyOS NEXT应用生态](https://ost.51cto.com/posts/30432)
+- 鸿蒙官网
+  - [UIAbility组件生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03166401578442059)
+  - [鸿蒙开发案例：水平仪](https://developer.huawei.com/consumer/cn/blog/topic/03166382925893115)
+  - [quair detail](https://developer.huawei.com/consumer/cn/blog/topic/03166381934162058)
+  - [edit quair](https://developer.huawei.com/consumer/cn/blog/topic/03166381856144057)
+  - [increase quair](https://developer.huawei.com/consumer/cn/blog/topic/03166381764781056)
+  - [athenaenm Data](https://developer.huawei.com/consumer/cn/blog/topic/03166381496177076)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）本地搜索接入方案](https://developer.huawei.com/consumer/cn/blog/topic/03166380481535118)
+  - [鸿蒙 Next 密码自动填充服务实战：构建安全登录模块](https://developer.huawei.com/consumer/cn/blog/topic/03166380189612075)
+  - [鸿蒙 Next 密码保险箱：账号密码管理全流程](https://developer.huawei.com/consumer/cn/blog/topic/03166380175146117)
+  - [鸿蒙Next安全之应用加密：保障应用代码安全](https://developer.huawei.com/consumer/cn/blog/topic/03166380158531116)
+  - [深入探索鸿蒙Next密码自动填充服务：高级功能与适配场景](https://developer.huawei.com/consumer/cn/blog/topic/03166380144348074)
+  - [鸿蒙Next密码自动填充服务：功能与应用场景全解析](https://developer.huawei.com/consumer/cn/blog/topic/03166380130696115)
+  - [about preference](https://developer.huawei.com/consumer/cn/blog/topic/03166379266252073)
+  - [clang: warning: argument unused during compilation: '--gcc-toolchain=Y:/OpenHarmony/Sdk/10/native/llvm'](https://developer.huawei.com/consumer/cn/blog/topic/03166378279013055)
+  - [华为OD机试真题 - 最长的指定瑕疵度的元音子串](https://developer.huawei.com/consumer/cn/blog/topic/03166374424737072)
+  - [鸿蒙接入Flutter3.22](https://developer.huawei.com/consumer/cn/blog/topic/03166366545421114)
+  - [微信后团队分享：微信后台基于Ray的分布式AI计算技术实践](https://developer.huawei.com/consumer/cn/blog/topic/03166363946794114)
+  - [Chrome领英客户开发扩展程序试用心得分享](https://developer.huawei.com/consumer/cn/blog/topic/03166362084363113)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [纯血鸿蒙版微信 App 获 1.0.1.36 内测版升级：完善红包功能、面对面转账等能力](https://www.ithome.com/0/808/775.htm)
+- 掘金社区
+  - [鸿蒙开发：自定义一个动态输入框](https://juejin.cn/post/7434472363640995851)
+  - [Harmony SoundPool 的初始化 加载资源 播放](https://juejin.cn/post/7434194957215596598)
