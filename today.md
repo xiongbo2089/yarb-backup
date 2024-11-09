@@ -2358,3 +2358,26 @@
 - 掘金社区
   - [鸿蒙开发：自定义一个动态输入框](https://juejin.cn/post/7434472363640995851)
   - [Harmony SoundPool 的初始化 加载资源 播放](https://juejin.cn/post/7434194957215596598)
+- GitHub
+  - [ohos-gmssl](https://github.com/harmony-contrib/ohos-gmssl)
+- 博客园
+  - [融合虚拟与现实，AR Engine为用户提供沉浸式交互体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18535270)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙推送 HarmonyOS NEXT 5.0.0.102 （SP8C00E73R4P17）版本，新增屏幕朗读等功能](https://www.ithome.com/0/809/087.htm)
+- 鸿蒙官网
+  - [407](https://developer.huawei.com/consumer/cn/blog/topic/03166495681330064)
+  - [训练日常](https://developer.huawei.com/consumer/cn/blog/topic/03166478616023120)
+  - [sqll](https://developer.huawei.com/consumer/cn/blog/topic/03166477618551122)
+  - [SiteData](https://developer.huawei.com/consumer/cn/blog/topic/03166477342220121)
+  - [ChangeSite](https://developer.huawei.com/consumer/cn/blog/topic/03166477266153119)
+  - [AddPlace](https://developer.huawei.com/consumer/cn/blog/topic/03166477212731120)
+  - [notify](https://developer.huawei.com/consumer/cn/blog/topic/03166477148716078)
+  - [Place](https://developer.huawei.com/consumer/cn/blog/topic/03166477073094062)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）技能调用方案概述](https://developer.huawei.com/consumer/cn/blog/topic/03166458716017077)
+  - [浏览器日志获取指导](https://developer.huawei.com/consumer/cn/blog/topic/03166449507637061)
+  - [ArkTS中原生SM2加解密使用](https://developer.huawei.com/consumer/cn/blog/topic/03166448207889060)
+  - [AI知识点](https://developer.huawei.com/consumer/cn/blog/topic/03166443075682118)
+- 掘金社区
+  - [HarmonyOS App 如何实现全网比价工具](https://juejin.cn/post/7434810153396256820)
+  - [纯血鸿蒙 - 图形绘制详解](https://juejin.cn/post/7434734313298296872)
+  - [HarmonyOS实战：首页多弹窗顺序弹出终极解决方案](https://juejin.cn/post/7434742587858534400)
