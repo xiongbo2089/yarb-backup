@@ -2381,3 +2381,9 @@
   - [HarmonyOS App 如何实现全网比价工具](https://juejin.cn/post/7434810153396256820)
   - [纯血鸿蒙 - 图形绘制详解](https://juejin.cn/post/7434734313298296872)
   - [HarmonyOS实战：首页多弹窗顺序弹出终极解决方案](https://juejin.cn/post/7434742587858534400)
+- 鸿蒙官网
+  - [鸿蒙NEXT开发案例：转盘](https://developer.huawei.com/consumer/cn/blog/topic/03166604980694123)
+  - [使用if和使用通用组件属性visibility对组件显示和隐藏的区别](https://developer.huawei.com/consumer/cn/blog/topic/03166557352908128)
+  - [promptAction.openCustomDialog无法使用全局builder，可通过ComponentContent封装全局弹窗来使用](https://developer.huawei.com/consumer/cn/blog/topic/03166530776106126)
+- 博客园
+  - [鸿蒙NEXT开发案例：转盘 - zhongcx](https://www.cnblogs.com/zhongcx/p/18537619)
