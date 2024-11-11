@@ -2387,3 +2387,18 @@
   - [promptAction.openCustomDialog无法使用全局builder，可通过ComponentContent封装全局弹窗来使用](https://developer.huawei.com/consumer/cn/blog/topic/03166530776106126)
 - 博客园
   - [鸿蒙NEXT开发案例：转盘 - zhongcx](https://www.cnblogs.com/zhongcx/p/18537619)
+- 鸿蒙官网
+  - [云计算：开启数字新时代的神奇力量](https://developer.huawei.com/consumer/cn/blog/topic/03166699833852067)
+  - [探索编程语言的奇妙世界](https://developer.huawei.com/consumer/cn/blog/topic/03166699115069081)
+  - [Spark 新作《循序渐进 Spark 大数据应用开发》简介](https://developer.huawei.com/consumer/cn/blog/topic/03166694118271080)
+  - [鸿蒙网络编程系列46-仓颉版Web组件加载网页的三种方式](https://developer.huawei.com/consumer/cn/blog/topic/03166692536652127)
+  - [鸿蒙网络编程系列45-仓颉版HTTPS证书自选CA校验示例](https://developer.huawei.com/consumer/cn/blog/topic/03166692420872126)
+  - [Harmony Next对HTTP的二次封装分享（自用版）](https://developer.huawei.com/consumer/cn/blog/topic/03166668258080125)
+  - [入门指南：在鸿蒙NEXT5.0中使用axios进行网络请求二次封装的实践与探讨](https://developer.huawei.com/consumer/cn/blog/topic/03166663648958132)
+  - [API9下如何实现录音转文字](https://developer.huawei.com/consumer/cn/blog/topic/03166655132698066)
+  - [鸿蒙NEXT开发案例：抛硬币](https://developer.huawei.com/consumer/cn/blog/topic/03166638468864124)
+  - [鸿蒙自定义组件生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03166638280272079)
+  - [鸿蒙Navigation页面生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03166638206366065)
+  - [原生鸿蒙路由总结](https://developer.huawei.com/consumer/cn/blog/topic/03166630172008131)
+- 博客园
+  - [鸿蒙NEXT开发案例：抛硬币 - zhongcx](https://www.cnblogs.com/zhongcx/p/18538856)
