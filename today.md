@@ -2402,3 +2402,28 @@
   - [原生鸿蒙路由总结](https://developer.huawei.com/consumer/cn/blog/topic/03166630172008131)
 - 博客园
   - [鸿蒙NEXT开发案例：抛硬币 - zhongcx](https://www.cnblogs.com/zhongcx/p/18538856)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [粤省事、浙里办、交管 12123、随申办等政务民生服务已在纯血鸿蒙可用](https://www.ithome.com/0/809/770.htm)
+- 鸿蒙官网
+  - [伸缩镜头-大底和长焦不可兼得啊](https://developer.huawei.com/consumer/cn/blog/topic/03166737447431001)
+  - [「Mac上学习仓颉50」小学奥数篇13 - 动态规划入门](https://developer.huawei.com/consumer/cn/blog/topic/03166736509866134)
+  - [鸿蒙NEXT上Web二次加载loadUrl失败的问题及解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03166728923979134)
+  - [鸿蒙NEXT开发案例：指尖轮盘](https://developer.huawei.com/consumer/cn/blog/topic/03166727508334133)
+  - [使用router跳转页面并传参后，需要转换成JSON object并解析才能读取数据](https://developer.huawei.com/consumer/cn/blog/topic/03166727338778132)
+  - [[概念总结] ArkUI的渲染流程](https://developer.huawei.com/consumer/cn/blog/topic/03166721779590133)
+  - [公司监控电脑：Elixir 构建分布式监控系统](https://developer.huawei.com/consumer/cn/blog/topic/03166717756790070)
+  - [[概念总结] ArkUI的自定义节点能力概述](https://developer.huawei.com/consumer/cn/blog/topic/03166717460970069)
+  - [使用 DevEco 一键生成 ArkTS 调用 C++ 的胶水代码](https://developer.huawei.com/consumer/cn/blog/topic/03166710440653083)
+  - [UIAbility组件与UI的数据同步](https://developer.huawei.com/consumer/cn/blog/topic/03166706336874131)
+  - [从零到一：HarmonyOS的成长轨迹与未来展望](https://developer.huawei.com/consumer/cn/blog/topic/03166706171363130)
+  - [HarmonyOS：华为的操作系统革新之旅](https://developer.huawei.com/consumer/cn/blog/topic/03166706116752129)
+  - [ArkTS介绍](https://developer.huawei.com/consumer/cn/blog/topic/03166706085666082)
+  - [ArkUI，如何方便的搞定渐变背景色？](https://developer.huawei.com/consumer/cn/blog/topic/03166705797904128)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）技能调用接入方案](https://developer.huawei.com/consumer/cn/blog/topic/03166702850298068)
+  - [云计算：开启数字新时代的神奇力量](https://developer.huawei.com/consumer/cn/blog/topic/03166699833852067)
+  - [探索编程语言的奇妙世界](https://developer.huawei.com/consumer/cn/blog/topic/03166699115069081)
+- 博客园
+  - [鸿蒙NEXT开发案例：指尖轮盘 - zhongcx](https://www.cnblogs.com/zhongcx/p/18540339)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#10 | 电子木鱼 - 功德记录列表](https://juejin.cn/post/7436047367012630580)
+  - [鸿蒙开发：切换至基于rcp的网络请求](https://juejin.cn/post/7435873914784841755)
