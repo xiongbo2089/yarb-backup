@@ -2427,3 +2427,16 @@
 - 掘金社区
   - [鸿蒙纪·梦始卷#10 | 电子木鱼 - 功德记录列表](https://juejin.cn/post/7436047367012630580)
   - [鸿蒙开发：切换至基于rcp的网络请求](https://juejin.cn/post/7435873914784841755)
+- 鸿蒙官网
+  - [网上被黑数据延迟提款审核注单异常不给出款解决方法](https://developer.huawei.com/consumer/cn/blog/topic/03166825443852004)
+  - [网站系统维护提款审核失败注单异常怎么办](https://developer.huawei.com/consumer/cn/blog/topic/03166825234479007)
+  - [网上被黑注单延迟未更新提现失败怎么办](https://developer.huawei.com/consumer/cn/blog/topic/03166824632897005)
+  - [网上平台被黑注单异常维护不给提款挽回方法](https://developer.huawei.com/consumer/cn/blog/topic/03166824516135004)
+  - [鸿蒙高质量代码静态检测200条二](https://developer.huawei.com/consumer/cn/blog/topic/03166814907867002)
+  - [鸿蒙高质量代码静态检测200条一](https://developer.huawei.com/consumer/cn/blog/topic/03166814729322003)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）上架配置指导](https://developer.huawei.com/consumer/cn/blog/topic/03166810893331136)
+  - [安装Cangjie的记录](https://developer.huawei.com/consumer/cn/blog/topic/03166804998779136)
+  - [华为手机如何关闭注视亮屏，手机上只能关闭拿起亮屏和双击亮屏](https://developer.huawei.com/consumer/cn/blog/topic/03166801828619135)
+  - [浅谈机器学习，聊聊训练过程，就酱!](https://developer.huawei.com/consumer/cn/blog/topic/03166787780368135)
+- GitHub
+  - [HarmonyOS_2048](https://github.com/amazingcoderpro/HarmonyOS_2048)
