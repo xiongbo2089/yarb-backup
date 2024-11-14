@@ -2440,3 +2440,34 @@
   - [浅谈机器学习，聊聊训练过程，就酱!](https://developer.huawei.com/consumer/cn/blog/topic/03166787780368135)
 - GitHub
   - [HarmonyOS_2048](https://github.com/amazingcoderpro/HarmonyOS_2048)
+- GitHub
+  - [fishpi-harmony](https://github.com/FishPiOffical/fishpi-harmony)
+  - [Wechat_HarmonyOS](https://github.com/ausboyue/Wechat_HarmonyOS)
+- 鸿蒙官网
+  - [元服务上架流程](https://developer.huawei.com/consumer/cn/blog/topic/03166927461520007)
+  - [微信何时能适配好 HarmonyOS NEXT](https://developer.huawei.com/consumer/cn/blog/topic/03166927134833015)
+  - [List 实现任意ListItem悬停效果](https://developer.huawei.com/consumer/cn/blog/topic/03166926968108003)
+  - [纯血鸿蒙原生安全 开启隐私保护新范式](https://developer.huawei.com/consumer/cn/blog/topic/03166926967492020)
+  - [Text实现自定义省略文本](https://developer.huawei.com/consumer/cn/blog/topic/03166926916756019)
+  - [Flutter 3.22版本开发鸿蒙NEXT](https://developer.huawei.com/consumer/cn/blog/topic/03166914512111014)
+  - [鸿蒙高质量代码静态检测200条四](https://developer.huawei.com/consumer/cn/blog/topic/03166908066242006)
+  - [鸿蒙高质量代码静态检测200条三](https://developer.huawei.com/consumer/cn/blog/topic/03166908020557005)
+  - [「Mac上学习仓颉51」基础篇13 - 高阶函数与闭包](https://developer.huawei.com/consumer/cn/blog/topic/03166907665267002)
+  - [DDos攻击小记2](https://developer.huawei.com/consumer/cn/blog/topic/03166899346951018)
+  - [探索鸿蒙开发：构建跨设备的无缝体验](https://developer.huawei.com/consumer/cn/blog/topic/03166896320501012)
+  - [在DevEco Studio上打开已有的项目](https://developer.huawei.com/consumer/cn/blog/topic/03166895610049017)
+  - [鸿蒙NEXT开发案例：光强仪](https://developer.huawei.com/consumer/cn/blog/topic/03166893322884016)
+  - [百度网盘、百度地图上架鸿蒙原生版，手机百度已开启尝鲜测试](https://developer.huawei.com/consumer/cn/blog/topic/03166892770520011)
+  - [超前瞻一下：HarmonyOS NEXT 5.0.0.106 更新了啥](https://developer.huawei.com/consumer/cn/blog/topic/03166890918931010)
+  - [即时通讯技术文集（第42期）：直播技术合集(Part2) [共13篇]](https://developer.huawei.com/consumer/cn/blog/topic/03166881280041015)
+  - [鸿蒙网络编程系列47-仓颉版UDP客户端](https://developer.huawei.com/consumer/cn/blog/topic/03166879720151013)
+  - [科技云报到：数字化转型，从不确定性到确定性的关键路径](https://developer.huawei.com/consumer/cn/blog/topic/03166878193398012)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）事件推荐方案概述](https://developer.huawei.com/consumer/cn/blog/topic/03166875572798007)
+  - [DDos攻击小记](https://developer.huawei.com/consumer/cn/blog/topic/03166875002748001)
+  - [基于ArkTS开发的雷达图组件使用指南 完全开源](https://developer.huawei.com/consumer/cn/blog/topic/03166871054995010)
+- 博客园
+  - [鸿蒙NEXT开发案例：光强仪 - zhongcx](https://www.cnblogs.com/zhongcx/p/18544030)
+- 51CTO
+  - [#打卡不停更#自制OpenHarmony标准系统开机动画](https://ost.51cto.com/posts/17565)
+- 掘金社区
+  - [鸿蒙开发：ForEach中为什么键值生成函数很重要](https://juejin.cn/post/7436586419369328666)
