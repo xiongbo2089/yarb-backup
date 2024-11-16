@@ -2501,3 +2501,31 @@
   - [鸿蒙NEXT开发案例：年龄计算 - zhongcx](https://www.cnblogs.com/zhongcx/p/18546826)
 - 51CTO
   - [【小源笔记】第十期 | OpenHarmony UiTest测试用例开发实践](https://ost.51cto.com/posts/24508)
+- 鸿蒙官网
+  - [企业IM鸿蒙客户端](https://developer.huawei.com/consumer/cn/blog/topic/03167090887082027)
+  - [UIAbility主动更新卡片信息](https://developer.huawei.com/consumer/cn/blog/topic/03167082482037020)
+  - [鸿蒙NEXT自定义组件：太极Loading](https://developer.huawei.com/consumer/cn/blog/topic/03167081464733017)
+  - [CustomDialog 相关场景开发](https://developer.huawei.com/consumer/cn/blog/topic/03167072148188024)
+  - [router跳转，画面间如何传值接值](https://developer.huawei.com/consumer/cn/blog/topic/03167068619441016)
+  - [华为HarmonyOS实现人脸活体检测](https://developer.huawei.com/consumer/cn/blog/topic/03167065893409018)
+  - [《大数据：开启信息时代新篇章》](https://developer.huawei.com/consumer/cn/blog/topic/03167061397261017)
+  - [仓颉踩坑记 （一） - Windows 11下仓颉SDK 与 Visual Code插件的使用](https://developer.huawei.com/consumer/cn/blog/topic/03167061319475015)
+  - [DevEco Studio 5.0.1 Beta3安装及配置](https://developer.huawei.com/consumer/cn/blog/topic/03167061027603023)
+  - [人工智能的机遇与挑战](https://developer.huawei.com/consumer/cn/blog/topic/03167057292108033)
+  - [鸿蒙Navigation拦截器实现页面跳转登录鉴权方案](https://developer.huawei.com/consumer/cn/blog/topic/03167055295309032)
+  - [滑动Tab-SlideAndMoreTab](https://developer.huawei.com/consumer/cn/blog/topic/03167052211154015)
+  - [Flutter开发鸿蒙地图Plugin](https://developer.huawei.com/consumer/cn/blog/topic/03167051820574022)
+  - [解决 生命周期 onPageShow，onPageHide 未触发](https://developer.huawei.com/consumer/cn/blog/topic/03167046030567014)
+- 博客园
+  - [鸿蒙NEXT自定义组件：太极Loading - zhongcx](https://www.cnblogs.com/zhongcx/p/18548639)
+  - [鸿蒙Navigation拦截器实现页面跳转登录鉴权方案 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18547701)
+- OSCHINA 社区最新软件
+  - [企业级 IM 系统 宇连通之鸿蒙客户端](https://www.oschina.net/p/ldh123_im_hm)
+- 掘金社区
+  - [Harmony AttributeUpdater 基本使用](https://juejin.cn/post/7437411485859725353)
+  - [Harmony AttributeModifier 基本使用](https://juejin.cn/post/7437411457694203958)
+  - [Harmony NavPathStack 页面跳转参数传递](https://juejin.cn/post/7437394198527410212)
+  - [HarmonyOS实战：快递信息时间轴效果实现](https://juejin.cn/post/7437388200777252899)
+  - [Harmony 页面路由基本设置](https://juejin.cn/post/7437365350728990783)
+  - [鸿蒙纪·梦始卷#11 | 画板绘制 - 认识绘制](https://juejin.cn/post/7437332158529978420)
+  - [HarmonyOs开发应用沉浸式效果](https://juejin.cn/post/7437159791397879862)
