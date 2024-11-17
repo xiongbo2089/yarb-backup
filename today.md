@@ -2529,3 +2529,10 @@
   - [Harmony 页面路由基本设置](https://juejin.cn/post/7437365350728990783)
   - [鸿蒙纪·梦始卷#11 | 画板绘制 - 认识绘制](https://juejin.cn/post/7437332158529978420)
   - [HarmonyOs开发应用沉浸式效果](https://juejin.cn/post/7437159791397879862)
+- 鸿蒙官网
+  - [鸿蒙NEXT开发案例：计数器](https://developer.huawei.com/consumer/cn/blog/topic/03167182906870029)
+  - [关于Navigation 自定义工具栏Toolbar](https://developer.huawei.com/consumer/cn/blog/topic/03167180115506019)
+  - [关于Navigation Router](https://developer.huawei.com/consumer/cn/blog/topic/03167179485032018)
+  - [时隔一年，星闪连上了吗？](https://developer.huawei.com/consumer/cn/blog/topic/03167147517450028)
+- 博客园
+  - [鸿蒙NEXT开发案例：计数器 - zhongcx](https://www.cnblogs.com/zhongcx/p/18550209)
