@@ -2536,3 +2536,17 @@
   - [时隔一年，星闪连上了吗？](https://developer.huawei.com/consumer/cn/blog/topic/03167147517450028)
 - 博客园
   - [鸿蒙NEXT开发案例：计数器 - zhongcx](https://www.cnblogs.com/zhongcx/p/18550209)
+- 博客园
+  - [如何在原生鸿蒙中进行RN热加载 - 美食家5250](https://www.cnblogs.com/foodie/p/18550836)
+- 鸿蒙官网
+  - [鸿蒙网络编程系列49-仓颉版TCP客户端](https://developer.huawei.com/consumer/cn/blog/topic/03167297407035037)
+  - [鸿蒙网络编程系列48-仓颉版UDP回声服务器示例](https://developer.huawei.com/consumer/cn/blog/topic/03167297145220024)
+  - [大家怎么看百度发布的秒哒？](https://developer.huawei.com/consumer/cn/blog/topic/03167271874532024)
+  - [Docker](https://developer.huawei.com/consumer/cn/blog/topic/03167267869062023)
+  - [相思赋（我自愿捐赠此古风词给华为音乐，希望华为能够为我谱词配乐）](https://developer.huawei.com/consumer/cn/blog/topic/03167244633186030)
+  - [花月辞（我自愿捐赠此古风词给华为音乐，希望华为能够为我谱词配乐）](https://developer.huawei.com/consumer/cn/blog/topic/03167243967107023)
+  - [如何在鸿蒙Next系统上开发一个Webview组件](https://developer.huawei.com/consumer/cn/blog/topic/03167223532574021)
+  - [第一款鸿蒙app终于上线了](https://developer.huawei.com/consumer/cn/blog/topic/03167218677166036)
+- 掘金社区
+  - [鸿蒙纪元 · 零 | 文章总集](https://juejin.cn/post/7438198594999451682)
+  - [鸿蒙开发：自定义一个简单的标题栏](https://juejin.cn/post/7438164841309700111)
