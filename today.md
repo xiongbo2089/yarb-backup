@@ -2550,3 +2550,29 @@
 - 掘金社区
   - [鸿蒙纪元 · 零 | 文章总集](https://juejin.cn/post/7438198594999451682)
   - [鸿蒙开发：自定义一个简单的标题栏](https://juejin.cn/post/7438164841309700111)
+- 鸿蒙官网
+  - [在ArkData关系型数据库中使用时间函数](https://developer.huawei.com/consumer/cn/blog/topic/03167360012550039)
+  - [关于使用Navigation进行路由跳转](https://developer.huawei.com/consumer/cn/blog/topic/03167342328761027)
+  - [鸿蒙数据序列化和反序列解决方法](https://developer.huawei.com/consumer/cn/blog/topic/03167340755516034)
+  - [鸿蒙开发Hvigor任务简介](https://developer.huawei.com/consumer/cn/blog/topic/03167340060808026)
+  - [API13Bate版来了DevEco已更新快来看新功能吧](https://developer.huawei.com/consumer/cn/blog/topic/03167340019642028)
+  - [父子组件数据通信，对象传递](https://developer.huawei.com/consumer/cn/blog/topic/03167335264404033)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）事件推荐开发者测试](https://developer.huawei.com/consumer/cn/blog/topic/03167332119802032)
+  - [聊聊原生鸿蒙上那些好用的社交应用](https://developer.huawei.com/consumer/cn/blog/topic/03167331135927031)
+  - [用 Ember.js 构建监控员工上网的软件的持久化应用](https://developer.huawei.com/consumer/cn/blog/topic/03167326089683025)
+  - [从小白到大白的心路历程](https://developer.huawei.com/consumer/cn/blog/topic/03167320092888027)
+  - [星闪，你有什么了不起？](https://developer.huawei.com/consumer/cn/blog/topic/03167318588229026)
+  - [Taro首个支持鸿蒙的 UI 库，同时还兼容 React Native、小程序、H5](https://developer.huawei.com/consumer/cn/blog/topic/03167316472391025)
+  - [内购服务激活太繁琐](https://developer.huawei.com/consumer/cn/blog/topic/03167307484402038)
+- 博客园
+  - [鸿蒙开发Hvigor任务简介 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18554252)
+  - [API13Bate版来了DevEco已更新快来看新功能吧 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18553428)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙推送 HarmonyOS NEXT 5.0.0.107 版本，相机支持连拍、熄屏快拍、笑脸抓拍等功能](https://www.ithome.com/0/811/484.htm)
+- 51CTO
+  - [Harmony Next 和 OpenHarmony 获取相机预览的刷新率、fps](https://ost.51cto.com/posts/30592)
+- 掘金社区
+  - [HarmonyOS实战：一招搞定保存图片到相册](https://juejin.cn/post/7438529369091686435)
+  - [鸿蒙纪·梦始卷#12 | 画板绘制 - 手势处理](https://juejin.cn/post/7438442651399110671)
+  - [鸿蒙原生 证书 & 打包到真机](https://juejin.cn/post/7438346298083147810)
+  - [【HarmonyOS NEXT】异步编程的神器之Promise](https://juejin.cn/post/7438295037275488296)
