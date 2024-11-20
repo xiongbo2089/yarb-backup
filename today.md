@@ -2576,3 +2576,20 @@
   - [鸿蒙纪·梦始卷#12 | 画板绘制 - 手势处理](https://juejin.cn/post/7438442651399110671)
   - [鸿蒙原生 证书 & 打包到真机](https://juejin.cn/post/7438346298083147810)
   - [【HarmonyOS NEXT】异步编程的神器之Promise](https://juejin.cn/post/7438295037275488296)
+- 鸿蒙官网
+  - [在API9中创建worker 在worker文件的onmessage函数中不能使用关系行数据库操作方法](https://developer.huawei.com/consumer/cn/blog/topic/03167477344047033)
+  - [鸿蒙NEXT开发案例：随机密码生成](https://developer.huawei.com/consumer/cn/blog/topic/03167476671389031)
+  - [深度解析HarmonyOS SDK实况窗服务源码，Get不同场景下的多种模板](https://developer.huawei.com/consumer/cn/blog/topic/03167474985961037)
+  - [为什么鸿蒙NEXT系统没有这个功能](https://developer.huawei.com/consumer/cn/blog/topic/03167443825247030)
+  - [2024-11-19《良好的工作习惯分享》](https://developer.huawei.com/consumer/cn/blog/topic/03167431954044036)
+  - [【HarmonyOS开发模板/组件分享 – ColorPicker颜色选择器】](https://developer.huawei.com/consumer/cn/blog/topic/03167420824634034)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）习惯推荐方案概述](https://developer.huawei.com/consumer/cn/blog/topic/03167419169727029)
+  - [uni-app鸿蒙化工程初探](https://developer.huawei.com/consumer/cn/blog/topic/03167415532294033)
+  - [DevEco Studio创建新ets文件一片空白的完美解决方案。](https://developer.huawei.com/consumer/cn/blog/topic/03167409440489032)
+  - [仓颉踩坑记 （二）- DevEco Studio Cangjie Plugin的使用与示例代码的编译](https://developer.huawei.com/consumer/cn/blog/topic/03167404429398042)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙向手机推送 HarmonyOS NEXT 5.0.0.107 版本，相机支持连拍、熄屏快拍、笑脸抓拍等功能](https://www.ithome.com/0/811/484.htm)
+- 博客园
+  - [鸿蒙NEXT开发案例：随机密码生成 - zhongcx](https://www.cnblogs.com/zhongcx/p/18556095)
+- 掘金社区
+  - [Harmony 应用开发常用组件介绍](https://juejin.cn/post/7438676650818584617)
