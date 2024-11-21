@@ -2593,3 +2593,37 @@
   - [鸿蒙NEXT开发案例：随机密码生成 - zhongcx](https://www.cnblogs.com/zhongcx/p/18556095)
 - 掘金社区
   - [Harmony 应用开发常用组件介绍](https://juejin.cn/post/7438676650818584617)
+- 51CTO
+  - [HarmonyOS基础：如何使tabbar/navbar背景色不能衍生到状态栏和导航栏？](https://ost.51cto.com/posts/30601)
+- 鸿蒙官网
+  - [鸿蒙NEXT开发案例：简体繁体转换器](https://developer.huawei.com/consumer/cn/blog/topic/03167565894045046)
+  - [鸿蒙网络编程系列50-仓颉版TCP回声服务器示例](https://developer.huawei.com/consumer/cn/blog/topic/03167558436754041)
+  - [Flutter编译到鸿蒙启动页闪白屏解决](https://developer.huawei.com/consumer/cn/blog/topic/03167531452024037)
+  - [鸿蒙hvigor构建任务依赖与生命周期简介](https://developer.huawei.com/consumer/cn/blog/topic/03167526164076040)
+  - [鸿蒙开发Hvigor插件动态生成代码](https://developer.huawei.com/consumer/cn/blog/topic/03167525968666045)
+  - [鸿蒙创造新的篇章](https://developer.huawei.com/consumer/cn/blog/topic/03167511487078055)
+  - [鸿蒙打包名字自定义修改](https://developer.huawei.com/consumer/cn/blog/topic/03167504712853042)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）习惯推荐方案接入流程](https://developer.huawei.com/consumer/cn/blog/topic/03167503812490038)
+  - [鸿蒙NEXT开发案例：随机数生成](https://developer.huawei.com/consumer/cn/blog/topic/03167502483118053)
+  - [变量监听@Monitor、@Computed计算](https://developer.huawei.com/consumer/cn/blog/topic/03167498941934052)
+  - [使用ComponentV2、ObservedV2、@Trace解决嵌套对象的局限性（嵌套对象属性改变页面不刷新）。](https://developer.huawei.com/consumer/cn/blog/topic/03167493675078041)
+  - [HMOS NEXT鸿蒙5.0案例:客户档案(一)登录、欢迎界面](https://developer.huawei.com/consumer/cn/blog/topic/03167489543867040)
+  - [即时通讯技术文集（第43期）：直播技术合集(Part3) [共13篇]](https://developer.huawei.com/consumer/cn/blog/topic/03167484796398051)
+  - [鸿蒙 HarmonyOS ArkTS 实现 2048 小游戏](https://developer.huawei.com/consumer/cn/blog/topic/03167481211115039)
+  - [纯血鸿蒙上架checklist](https://developer.huawei.com/consumer/cn/blog/topic/03167479032618034)
+  - [在API9中创建worker 在worker文件的onmessage函数中不能使用关系行数据库操作方法](https://developer.huawei.com/consumer/cn/blog/topic/03167477344047033)
+  - [仓颉踩坑记 （三） - 在统信UOS下安装使用cangjie](https://developer.huawei.com/consumer/cn/blog/topic/03167476738124032)
+  - [鸿蒙NEXT开发案例：随机密码生成](https://developer.huawei.com/consumer/cn/blog/topic/03167476671389031)
+  - [深度解析HarmonyOS SDK实况窗服务源码，Get不同场景下的多种模板](https://developer.huawei.com/consumer/cn/blog/topic/03167474985961037)
+- 博客园
+  - [鸿蒙NEXT开发案例：简体繁体转换器 - zhongcx](https://www.cnblogs.com/zhongcx/p/18559952)
+  - [鸿蒙开发Hvigor插件动态生成代码 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18558937)
+- 鸿蒙开源工程更新
+  - [OpenHarmony/distribution](https://gitee.com/openharmony/distribution)
+- 掘金社区
+  - [Harmony HMRouter HMLifecycle 基本使用](https://juejin.cn/post/7439258070193782825)
+  - [Harmony HMRouter 通过拦截器判断页面的进入方式(push pop replace)](https://juejin.cn/post/7439275048965652491)
+  - [Harmony HMRouter Interceptor 的基本使用](https://juejin.cn/post/7439275048965554187)
+  - [Harmony 路由框架 hmrouter 基本使用一](https://juejin.cn/post/7439250989469974539)
+  - [Harmony GridRow GridCol 之 sm md lg 的含义](https://juejin.cn/post/7439244607672959015)
+  - [纯血鸿蒙 - 数据持久化](https://juejin.cn/post/7439244607672827943)
