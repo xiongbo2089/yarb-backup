@@ -2661,3 +2661,27 @@
 - 掘金社区
   - [鸿蒙开发：沉浸式效果实现](https://juejin.cn/post/7439636293920063500)
   - [记 在Harmony 中使用 双感叹号(!!)的场景](https://juejin.cn/post/7439574390772498466)
+- 鸿蒙官网
+  - [隐私弹窗和启动页让你自定义起来，就这几个步骤直接cv，搞懂思路很重要](https://developer.huawei.com/consumer/cn/blog/topic/03167700632922080)
+  - [鸿蒙开发：走进stateStyles多态样式](https://developer.huawei.com/consumer/cn/blog/topic/03167697862245055)
+  - [带返回按钮的导航栏](https://developer.huawei.com/consumer/cn/blog/topic/03167680521398058)
+  - [鸿蒙NEXT开发案例：字数统计](https://developer.huawei.com/consumer/cn/blog/topic/03167678384665076)
+  - [人工智能基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03167675095063053)
+  - [HarmonyOS Next 安全开发实践感悟](https://developer.huawei.com/consumer/cn/blog/topic/03167674233239075)
+  - [异步编程在ArkTS中具体怎么实现？](https://developer.huawei.com/consumer/cn/blog/topic/03167671965863057)
+  - [小白的导航栏](https://developer.huawei.com/consumer/cn/blog/topic/03167671587330056)
+  - [小白的第一次尝试 tabBar](https://developer.huawei.com/consumer/cn/blog/topic/03167671417487052)
+  - [关于RSA下签名与签名恢复](https://developer.huawei.com/consumer/cn/blog/topic/03167669814107073)
+  - [评：拼多多与抖音等互联网巨头们的挑战与反思](https://developer.huawei.com/consumer/cn/blog/topic/03167664703302051)
+  - [鸿蒙NEXT开发案例：数字转中文大小写](https://developer.huawei.com/consumer/cn/blog/topic/03167659722706055)
+  - [解决Map Kit地图无法显示问题，这一篇文章绝对够了](https://developer.huawei.com/consumer/cn/blog/topic/03167659225516058)
+  - [鸿蒙系统java怎么获取ip](https://developer.huawei.com/consumer/cn/blog/topic/03167658935072057)
+  - [鸿蒙NEXT开发：绘制验证码控件](https://developer.huawei.com/consumer/cn/blog/topic/03167654539130052)
+  - [鸿蒙的AI语音03-文本合成声音](https://developer.huawei.com/consumer/cn/blog/topic/03167653980778051)
+  - [鸿蒙的AI语音02-声音文件转文本](https://developer.huawei.com/consumer/cn/blog/topic/03167653926881071)
+  - [鸿蒙安全控件之粘贴控件简介](https://developer.huawei.com/consumer/cn/blog/topic/03167652974152056)
+  - [uni-app创建uts鸿蒙插件](https://developer.huawei.com/consumer/cn/blog/topic/03167649878521070)
+- 博客园
+  - [鸿蒙NEXT开发案例：数字转中文大小写 - zhongcx](https://www.cnblogs.com/zhongcx/p/18562512)
+- 掘金社区
+  - [鸿蒙开发：自定义一个剪辑双滑块组件](https://juejin.cn/post/7440009223561691136)
