@@ -2685,3 +2685,12 @@
   - [鸿蒙NEXT开发案例：数字转中文大小写 - zhongcx](https://www.cnblogs.com/zhongcx/p/18562512)
 - 掘金社区
   - [鸿蒙开发：自定义一个剪辑双滑块组件](https://juejin.cn/post/7440009223561691136)
+- 博客园
+  - [原生鸿蒙中的RN日志系统 - 美食家5250](https://www.cnblogs.com/foodie/p/18565478)
+- 鸿蒙官网
+  - [鸿蒙开发：自定义一个车牌省份简称键盘](https://developer.huawei.com/consumer/cn/blog/topic/03167763826168061)
+  - [希尔排序和插入排序的区别](https://developer.huawei.com/consumer/cn/blog/topic/03167750861073061)
+  - [希尔排序](https://developer.huawei.com/consumer/cn/blog/topic/03167750729790059)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为轮值董事长徐直军：鸿蒙生态就是基于 OpenHarmony 共建共享的生态](https://www.ithome.com/0/812/733.htm)
+  - [华为轮值董事长徐直军谈鸿蒙生态未来半年到一年目标：拥有 10 万个应用](https://www.ithome.com/0/812/703.htm)
