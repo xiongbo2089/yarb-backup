@@ -2694,3 +2694,23 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为轮值董事长徐直军：鸿蒙生态就是基于 OpenHarmony 共建共享的生态](https://www.ithome.com/0/812/733.htm)
   - [华为轮值董事长徐直军谈鸿蒙生态未来半年到一年目标：拥有 10 万个应用](https://www.ithome.com/0/812/703.htm)
+- 博客园
+  - [鸿蒙NEXT开发案例：二维码的生成与识别 - zhongcx](https://www.cnblogs.com/zhongcx/p/18566067)
+- 鸿蒙官网
+  - [HarmonyOS 3.1/4项目在DevEco Studio 5.0（HarmonyOS NEXT）版本下使用的问题](https://developer.huawei.com/consumer/cn/blog/topic/03167908283012002)
+  - [鸿蒙网络编程系列52-仓颉版使用Request部件上传文件示例](https://developer.huawei.com/consumer/cn/blog/topic/03167905464198001)
+  - [鸿蒙网络编程系列51-仓颉版使用Request部件下载文件到本地](https://developer.huawei.com/consumer/cn/blog/topic/03167905179856069)
+  - [编程不仅是与计算机对话，更是与未来对话](https://developer.huawei.com/consumer/cn/blog/topic/03167886728168068)
+  - [源码编译避坑记录，OpenHarmony源码编译，网络原因导致的npm下载失败，显示npm install try time和npm install error](https://developer.huawei.com/consumer/cn/blog/topic/03167861015575067)
+  - [HarmonyOS Next 动画大全01-属性动画](https://developer.huawei.com/consumer/cn/blog/topic/03167860943935003)
+  - [20241112鸿蒙开发过程中的经验和问题记录](https://developer.huawei.com/consumer/cn/blog/topic/03167860506741066)
+  - [源码编译避坑记录，openharmony开机的动画的图片替换可用24位，目前不能用32位的](https://developer.huawei.com/consumer/cn/blog/topic/03167859659404059)
+  - [碰到网上平台系统稽核审查注单延迟未更新拒绝给提现怎么解决？](https://developer.huawei.com/consumer/cn/blog/topic/03167856787424065)
+  - [某开元 突然不给提显示注单延迟未同步常态稽核审查该怎么解决？](https://developer.huawei.com/consumer/cn/blog/topic/03167853440870058)
+  - [鸿蒙NEXT开发案例：二维码的生成与识别](https://developer.huawei.com/consumer/cn/blog/topic/03167852601804002)
+  - [鸿蒙ArkUI13【自定义组件】所有方式测试总结](https://developer.huawei.com/consumer/cn/blog/topic/03167850300948064)
+  - [某B体育显示注单异常数据未同步提现被拒绝怎么了？](https://developer.huawei.com/consumer/cn/blog/topic/03167844800337057)
+  - [碰到平台系统审核显示注单延迟未同步导致无法提现该怎么解决？](https://developer.huawei.com/consumer/cn/blog/topic/03167839301818062)
+  - [自定义属性动画](https://developer.huawei.com/consumer/cn/blog/topic/03167833193394056)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统游戏中心发布新游预告，含《使命召唤手游体验服》《元气骑士》等](https://www.ithome.com/0/812/822.htm)
