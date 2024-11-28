@@ -2780,3 +2780,25 @@
 - 博客园
   - [鸿蒙NEXT元服务：利用App Linking实现无缝跳转与二维码拉起 - zhongcx](https://www.cnblogs.com/zhongcx/p/18571294)
   - [鸿蒙NEXT开发案例：温度转换 - zhongcx](https://www.cnblogs.com/zhongcx/p/18570831)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）综述](https://developer.huawei.com/consumer/cn/blog/topic/03168170645417015)
+  - [鸿蒙NEXT元服务：收藏、卡片、用户协议、隐私声明、分享链接、评分与评论](https://developer.huawei.com/consumer/cn/blog/topic/03168159515083089)
+  - [游戏影视界开“卷”大模型，百度智能云押注“空间智能”](https://developer.huawei.com/consumer/cn/blog/topic/03168124787928014)
+  - [OpenHarmony像素单位详解](https://developer.huawei.com/consumer/cn/blog/topic/03168111048451079)
+  - [Unicode 字符转中文的使用](https://developer.huawei.com/consumer/cn/blog/topic/03168099556820101)
+  - [探索鸿蒙：华为的全场景分布式操作系统](https://developer.huawei.com/consumer/cn/blog/topic/03168097150200013)
+  - [纯血鸿蒙107版本110版文件无法复制？无论是u盘复制还系统内都无法复制文件！](https://developer.huawei.com/consumer/cn/blog/topic/03168091723291100)
+  - [一应用多模块多宿主工程搭建](https://developer.huawei.com/consumer/cn/blog/topic/03168087433691099)
+  - [HarmonyOS 鸿蒙开发中使用@ObservedV2装饰器和@Trace装饰器观测类属性变化](https://developer.huawei.com/consumer/cn/blog/topic/03168087411293098)
+  - [LazyForEach通用数据源](https://developer.huawei.com/consumer/cn/blog/topic/03168087178253078)
+  - [即时通讯技术文集（第44期）：微信、QQ技术精华合集(Part1) [共14篇]](https://developer.huawei.com/consumer/cn/blog/topic/03168087062518077)
+  - [RN 移植鸿蒙](https://developer.huawei.com/consumer/cn/blog/topic/03168085602188097)
+  - [@kit.NetworkKit请求如何设置resources资源文件中的CA证书](https://developer.huawei.com/consumer/cn/blog/topic/03168082841432088)
+  - [应用性能优化四板斧](https://developer.huawei.com/consumer/cn/blog/topic/03168082455614087)
+  - [基于OpenGL渲染视频画面帧](https://developer.huawei.com/consumer/cn/blog/topic/03168081153075096)
+  - [深度解析HarmonyOS SDK实况窗服务源码，Get不同场景下的多种模板（七）](https://developer.huawei.com/consumer/cn/blog/topic/03168078856672085)
+  - [仓颉踩坑记 （五） － 仓颉调用C语言共享库的尝试（Linux环境下）](https://developer.huawei.com/consumer/cn/blog/topic/03168077636930012)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙智家全新亮相：这是智慧与人居关系的一次大升阶](https://www.ithome.com/0/813/610.htm)
+- 掘金社区
+  - [鸿蒙开发：异步并发操作](https://juejin.cn/post/7441875349963194402)
