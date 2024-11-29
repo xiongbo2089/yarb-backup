@@ -2802,3 +2802,32 @@
   - [华为鸿蒙智家全新亮相：这是智慧与人居关系的一次大升阶](https://www.ithome.com/0/813/610.htm)
 - 掘金社区
   - [鸿蒙开发：异步并发操作](https://juejin.cn/post/7441875349963194402)
+- 博客园
+  - [鸿蒙NEXT元服务：论如何免费快速上架作品 - zhongcx](https://www.cnblogs.com/zhongcx/p/18575705)
+  - [鸿蒙ArkUI-X已更新适配API13啦 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18575030)
+- 鸿蒙官网
+  - [国产大模型在基础计数问题上全军覆没，真智能时代仍未来临](https://developer.huawei.com/consumer/cn/blog/topic/03168252808757024)
+  - [webSocket应用场景](https://developer.huawei.com/consumer/cn/blog/topic/03168212475321097)
+  - [鸿蒙ArkUI-X简介](https://developer.huawei.com/consumer/cn/blog/topic/03168205030527022)
+  - [鸿蒙ArkUI-X已更新适配API13啦](https://developer.huawei.com/consumer/cn/blog/topic/03168204991806021)
+  - [鸿蒙安全控件之位置控件简介](https://developer.huawei.com/consumer/cn/blog/topic/03168204956692020)
+  - [鸿蒙安全控件之保存控件简介](https://developer.huawei.com/consumer/cn/blog/topic/03168204899703084)
+  - [鸿蒙NEXT元服务：论如何免费快速上架作品（分享关键源码）](https://developer.huawei.com/consumer/cn/blog/topic/03168203564918083)
+  - [HarmonyOS 高精度数学库(数字计算)Decimal 常用的几个方法](https://developer.huawei.com/consumer/cn/blog/topic/03168202472796082)
+  - [避坑：瀑布流尾部增加数据，列表会向上顶，不能使用onDataReloaded](https://developer.huawei.com/consumer/cn/blog/topic/03168201407828095)
+  - [避坑：电脑显卡升级新版本可能导致模拟器加载一会儿就关闭，没有明确报错，需要回退驱动](https://developer.huawei.com/consumer/cn/blog/topic/03168200938630094)
+  - [Android与HarmonyOS Next开发布局组件对应关系详解](https://developer.huawei.com/consumer/cn/blog/topic/03168196736447019)
+  - [仓颉踩坑记 （五） － 仓颉调用C语言共享库的尝试 （Windows环境下）](https://developer.huawei.com/consumer/cn/blog/topic/03168195773825093)
+  - [React Native 用于局域网监控软件移动开发实践](https://developer.huawei.com/consumer/cn/blog/topic/03168189924481018)
+  - [鸿蒙原生应用上架全流程](https://developer.huawei.com/consumer/cn/blog/topic/03168186729031102)
+  - [鸿蒙开发-鸿蒙调试工具对比分析](https://developer.huawei.com/consumer/cn/blog/topic/03168183627613081)
+  - [HarmonyOS开发模板分享–招聘行业模板](https://developer.huawei.com/consumer/cn/blog/topic/03168176263676092)
+  - [HarmonyOS开发组件分享 – 图片裁剪组件](https://developer.huawei.com/consumer/cn/blog/topic/03168175253099017)
+  - [Web端IM聊天消息该不该用浏览器本地存储？一文即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03168173896830091)
+  - [Web选择相册图片或拍照](https://developer.huawei.com/consumer/cn/blog/topic/03168172527323090)
+  - [如何在HarmonyOS NEXT中处理页面间的数据传递？](https://developer.huawei.com/consumer/cn/blog/topic/03168171886659016)
+  - [HarmonyOS NEXT应用元服务开发Intents Kit（意图框架服务）综述](https://developer.huawei.com/consumer/cn/blog/topic/03168170645417015)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [生态伙伴集体呼吁升级原生鸿蒙，华为推近千元先锋权益](https://www.ithome.com/0/813/823.htm)
+- 掘金社区
+  - [鸿蒙开发：实现popup弹窗](https://juejin.cn/post/7442286074188300329)
