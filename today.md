@@ -2831,3 +2831,21 @@
   - [生态伙伴集体呼吁升级原生鸿蒙，华为推近千元先锋权益](https://www.ithome.com/0/813/823.htm)
 - 掘金社区
   - [鸿蒙开发：实现popup弹窗](https://juejin.cn/post/7442286074188300329)
+- 鸿蒙官网
+  - [自动生成 SQL 的建表语句](https://developer.huawei.com/consumer/cn/blog/topic/03168283756379026)
+  - [【招聘】智能体训练，数字人示范工程师 ](https://developer.huawei.com/consumer/cn/blog/topic/03168281089116025)
+  - [探索鸿蒙：创建第一个工程](https://developer.huawei.com/consumer/cn/blog/topic/03168279942072099)
+  - [鸿蒙arkts开发性能优化建议](https://developer.huawei.com/consumer/cn/blog/topic/03168279478390098)
+  - [HarmonyOS开发模板分享–智能物联工厂模板](https://developer.huawei.com/consumer/cn/blog/topic/03168278366007087)
+  - [模拟器快速上手，助力HarmonyOS应用/服务高效开发](https://developer.huawei.com/consumer/cn/blog/topic/03168261190827086)
+  - [使用地图Picker接入地图服务](https://developer.huawei.com/consumer/cn/blog/topic/03168257963294107)
+  - [深度解析HarmonyOS SDK实况窗服务源码，Get不同场景下的多种模板（八）](https://developer.huawei.com/consumer/cn/blog/topic/03168257588467106)
+  - [国产大模型在基础计数问题上全军覆没，真智能时代仍未来临](https://developer.huawei.com/consumer/cn/blog/topic/03168252808757024)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙推送 HarmonyOS NEXT 5.0.0.112 SP1，优化视频编辑、上网、导航等使用体验](https://www.ithome.com/0/814/298.htm)
+  - [盘点原生鸿蒙十大关键功能，哪一个最合你意？](https://www.ithome.com/0/814/229.htm)
+- 51CTO
+  - [HarmonyOS Next中实现嵌套购物车功能（下）](https://ost.51cto.com/posts/30760)
+  - [HarmonyOS Next中实现嵌套购物车功能（上）](https://ost.51cto.com/posts/30759)
+  - [模拟器快速上手，助力HarmonyOS应用/服务高效开发](https://ost.51cto.com/posts/30758)
+  - [手把手教你实用的鸿蒙小技巧](https://ost.51cto.com/posts/30752)
