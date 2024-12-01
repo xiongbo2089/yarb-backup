@@ -2849,3 +2849,14 @@
   - [HarmonyOS Next中实现嵌套购物车功能（上）](https://ost.51cto.com/posts/30759)
   - [模拟器快速上手，助力HarmonyOS应用/服务高效开发](https://ost.51cto.com/posts/30758)
   - [手把手教你实用的鸿蒙小技巧](https://ost.51cto.com/posts/30752)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [平安集团：旗下 35 款应用已全面启动纯血鸿蒙原生版开发](https://www.ithome.com/0/814/388.htm)
+- 51CTO
+  - [HarmonyOS Next 利用Core Vision Kit文本识别](https://ost.51cto.com/posts/30781)
+- 鸿蒙官网
+  - [HarmonyOS Next 图案锁组件的使用以及手势密码的设置](https://developer.huawei.com/consumer/cn/blog/topic/03168371611946035)
+  - [HarmonyOS Next 模拟器安装与探索](https://developer.huawei.com/consumer/cn/blog/topic/03168363223202090)
+- 掘金社区
+  - [手把手教你华为鸿蒙开发之第五节](https://juejin.cn/post/7442915037260496947)
+  - [手把手教你华为鸿蒙开发之第四节](https://juejin.cn/post/7442915037259907123)
+  - [手把手教你华为鸿蒙开发之第三节](https://juejin.cn/post/7442878970071613490)
