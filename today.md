@@ -2860,3 +2860,10 @@
   - [手把手教你华为鸿蒙开发之第五节](https://juejin.cn/post/7442915037260496947)
   - [手把手教你华为鸿蒙开发之第四节](https://juejin.cn/post/7442915037259907123)
   - [手把手教你华为鸿蒙开发之第三节](https://juejin.cn/post/7442878970071613490)
+- 鸿蒙官网
+  - [日常学习之循环组件](https://developer.huawei.com/consumer/cn/blog/topic/03168516535801094)
+  - [网上平台注单异常审核不让取款如何解决？](https://developer.huawei.com/consumer/cn/blog/topic/03168501076531093)
+  - [网上平台被黑提不了款风控审核怎么办？解决方法](https://developer.huawei.com/consumer/cn/blog/topic/03168500967479109)
+  - [HarmonyOS开发：HarmonyOS Next 版模拟器使用指南](https://developer.huawei.com/consumer/cn/blog/topic/03168484615417102)
+  - [HarmonyOS: 图形变换之translate](https://developer.huawei.com/consumer/cn/blog/topic/03168469057734037)
+  - [HormonyOS: 图形变换之Rotate](https://developer.huawei.com/consumer/cn/blog/topic/03168468707498092)
