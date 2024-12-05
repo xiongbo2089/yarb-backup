@@ -2931,3 +2931,29 @@
   - [手把手教你华为鸿蒙开发之第七节](https://ost.51cto.com/posts/30853)
 - 掘金社区
   - [鸿蒙开发：一文了解软键盘相关](https://juejin.cn/post/7444215159264116755)
+- 鸿蒙官网
+  - [鸿蒙相关的生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03168774382403111)
+  - [华为鸿蒙5.0系统：手机平板通信共享功能四季度即将上线](https://developer.huawei.com/consumer/cn/blog/topic/03168744532358110)
+  - [分析变量的初始化引用对状态更新的影响](https://developer.huawei.com/consumer/cn/blog/topic/03168732584761114)
+  - [用鸿蒙语言描述红色故事，对某一段历史进行描述，对学者进行加深的印象。帮助他们记忆。](https://developer.huawei.com/consumer/cn/blog/topic/03168730105476125)
+  - [[中工开发者]登录页面记录](https://developer.huawei.com/consumer/cn/blog/topic/03168726123710058)
+  - [鸿蒙ArkTS编程规范【中工开发者】](https://developer.huawei.com/consumer/cn/blog/topic/03168723729929124)
+  - [了解鸿蒙ArkTS【中工开发者】](https://developer.huawei.com/consumer/cn/blog/topic/03168723595390112)
+  - [华为HarmonyOS让您的应用拥有领先的位置服务能力 -- 2 Location Kit开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03168720671797123)
+  - [华为HarmonyOS让您的应用拥有领先的位置服务能力 -- 1 Location Kit简介](https://developer.huawei.com/consumer/cn/blog/topic/03168720364571122)
+  - [鸿蒙NEXT元服务：静态卡片](https://developer.huawei.com/consumer/cn/blog/topic/03168718828546111)
+  - [HarmonyOS NEXT元服务开发实战-【魅力佛山】元服务之开发篇](https://developer.huawei.com/consumer/cn/blog/topic/03168711970277121)
+  - [Flutter添加鸿蒙化依赖库问题](https://developer.huawei.com/consumer/cn/blog/topic/03168709598474057)
+  - [ArkUI与MVVM模式的诗和远方](https://developer.huawei.com/consumer/cn/blog/topic/03168707548807108)
+  - [鸿蒙APP应用图标配置](https://developer.huawei.com/consumer/cn/blog/topic/03168706775285056)
+  - [HarmonyOS Connect技术深度解析与代码示例](https://developer.huawei.com/consumer/cn/blog/topic/03168701151852120)
+  - [HarmonyOS Connect的详细介绍](https://developer.huawei.com/consumer/cn/blog/topic/03168701047686107)
+  - [DevEco Studio 安装与配置：Windows与macOS系统全覆盖](https://developer.huawei.com/consumer/cn/blog/topic/03168699261542119)
+  - [即时通讯技术文集（第45期）：微信、QQ技术精华合集(Part2) [共14篇]](https://developer.huawei.com/consumer/cn/blog/topic/03168695260576055)
+  - [AppGallery Connect 遇到问题整理](https://developer.huawei.com/consumer/cn/blog/topic/03168694903031110)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH FIT 3 智能手表获鸿蒙 HarmonyOS NEXT 5.0.0.12 花粉 Beta 版升级：新增微信应用、截屏功能等](https://www.ithome.com/0/815/378.htm)
+- 51CTO
+  - [[HarmonyOS Next] AppGallery Connect的配置以及Map Kit的使用](https://ost.51cto.com/posts/30873)
+- 掘金社区
+  - [鸿蒙 Next 可兼容运行 Android App，还支持出海 GMS？](https://juejin.cn/post/7444454304973635595)
