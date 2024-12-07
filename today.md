@@ -2984,3 +2984,25 @@
 - 掘金社区
   - [鸿蒙——自定义组件及页面生命周期](https://juejin.cn/post/7444566019124019210)
   - [Kotlin Multiplatform 封装鸿蒙API](https://juejin.cn/post/7444562650917142528)
+- 51CTO
+  - [【开源三方库】Aki：一行代码极简体验JS&C++跨语言交互](https://ost.51cto.com/posts/25664)
+- 鸿蒙官网
+  - [【中工开发者】基于存储空间专项清理](https://developer.huawei.com/consumer/cn/blog/topic/03168905251837010)
+  - [【中工开发者】鸿蒙——动态图案](https://developer.huawei.com/consumer/cn/blog/topic/03168902298652009)
+  - [鸿蒙NEXT开发中如何确保使用 PersistentStorage 存储的数据安全？](https://developer.huawei.com/consumer/cn/blog/topic/03168896747400125)
+  - [【中工开发者】HarmonyOS登录注册功能实现](https://developer.huawei.com/consumer/cn/blog/topic/03168896712674008)
+  - [【中工开发者】鸿蒙小项目——你的日记，何必仅仅只是日记](https://developer.huawei.com/consumer/cn/blog/topic/03168891902457006)
+  - [性能优化之——分帧加载](https://developer.huawei.com/consumer/cn/blog/topic/03168889452968003)
+  - [SAP B1 内部错误，错误代码对应的原因说明](https://developer.huawei.com/consumer/cn/blog/topic/03168889027349002)
+  - [MyWave的SAP Business One和GenAI彻底改变您的业务](https://developer.huawei.com/consumer/cn/blog/topic/03168888946818136)
+  - [【中工开发者】鸿蒙——趣味抽奖](https://developer.huawei.com/consumer/cn/blog/topic/03168887059855005)
+  - [鸿蒙中微信开放平台中需要设置Identifier不需要写代码获取](https://developer.huawei.com/consumer/cn/blog/topic/03168885985324001)
+  - [Clion配置Native编译环境](https://developer.huawei.com/consumer/cn/blog/topic/03168880992006004)
+  - [仓颉踩坑记 （九） - 仓颉调用Rust库示例 （Linux环境）](https://developer.huawei.com/consumer/cn/blog/topic/03168878389666123)
+  - [如何修改app启动时的图标和白色背景？](https://developer.huawei.com/consumer/cn/blog/topic/03168878359139135)
+  - [Progress组件特性](https://developer.huawei.com/consumer/cn/blog/topic/03168866644371134)
+  - [第一节 - 方舟开发框架介绍 ArkUI](https://developer.huawei.com/consumer/cn/blog/topic/03168865877749003)
+  - [HarmonyOS进行本地化存储-Preferences封装](https://developer.huawei.com/consumer/cn/blog/topic/03168864926809133)
+  - [HarmonyOS NEXT应用开发之服务卡片数据存储](https://developer.huawei.com/consumer/cn/blog/topic/03168858599944132)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 nova 12 Ultra 系列手机开启鸿蒙 HarmonyOS NEXT 公测](https://www.ithome.com/0/815/907.htm)
