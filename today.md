@@ -3006,3 +3006,8 @@
   - [HarmonyOS NEXT应用开发之服务卡片数据存储](https://developer.huawei.com/consumer/cn/blog/topic/03168858599944132)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 nova 12 Ultra 系列手机开启鸿蒙 HarmonyOS NEXT 公测](https://www.ithome.com/0/815/907.htm)
+- 鸿蒙官网
+  - [【中工开发者】仿QQ登录和注册功能实现](https://developer.huawei.com/consumer/cn/blog/topic/03168995224614129)
+  - [【中工开发者】鸿蒙开发案例：翻转色块](https://developer.huawei.com/consumer/cn/blog/topic/03168993350729004)
+- 51CTO
+  - [[HarmonyOS Next]一次开发多端部署的理解](https://ost.51cto.com/posts/30908)
