@@ -3011,3 +3011,23 @@
   - [【中工开发者】鸿蒙开发案例：翻转色块](https://developer.huawei.com/consumer/cn/blog/topic/03168993350729004)
 - 51CTO
   - [[HarmonyOS Next]一次开发多端部署的理解](https://ost.51cto.com/posts/30908)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为应用市场新增“鸿蒙升级”入口，支持升级 HarmonyOS NEXT 设备的机型可查看应用适配情况](https://www.ithome.com/0/816/197.htm)
+  - [华为 Pura 70 系列手机推送鸿蒙 HarmonyOS NEXT 公测版 5.0.0.113SP2，优化多项功能](https://www.ithome.com/0/816/170.htm)
+- 鸿蒙官网
+  - [记录HarmonyOS访问网络数据后，对Json数据的操作，以访问高德天气接口为例](https://developer.huawei.com/consumer/cn/blog/topic/03169084088860009)
+  - [【中工开发者】在线新闻APP实现](https://developer.huawei.com/consumer/cn/blog/topic/03169083547053008)
+  - [【中工开发者】HarmonyOS运动生活APP项目开发](https://developer.huawei.com/consumer/cn/blog/topic/03169083325033016)
+  - [JSON数据转换为对象后，无法获取对象值](https://developer.huawei.com/consumer/cn/blog/topic/03169078817534131)
+  - [【中工开发者】定时灯泡-鸿蒙开发案例](https://developer.huawei.com/consumer/cn/blog/topic/03169076960545141)
+  - [【中工开发者】目标管理](https://developer.huawei.com/consumer/cn/blog/topic/03169075449758007)
+  - [List组件特性 onScrollIndex nestedScroll](https://developer.huawei.com/consumer/cn/blog/topic/03169053740291015)
+  - [一种模拟拨号界面的代码实现（使用Grid进行键盘布局）](https://developer.huawei.com/consumer/cn/blog/topic/03169051103284140)
+  - [一种设置界面的实现代码（使用class和@Builder简化代码）](https://developer.huawei.com/consumer/cn/blog/topic/03169050030736006)
+  - [沉浸式页面开发](https://developer.huawei.com/consumer/cn/blog/topic/03169045430385139)
+  - [getWindowAvoidArea(type: AvoidAreaType): AvoidArea](https://developer.huawei.com/consumer/cn/blog/topic/03169043359558138)
+  - [ArkUI 生命周期（UIAbility、WindowStage、AbilityStage、Page、Component）](https://developer.huawei.com/consumer/cn/blog/topic/03169039557833005)
+  - [Scorll内容居中？子组件高度不够居中问题](https://developer.huawei.com/consumer/cn/blog/topic/03169036441000014)
+  - [鸿蒙原生应用-时刻助手上线了，欢迎安装体验](https://developer.huawei.com/consumer/cn/blog/topic/03169033027877130)
+- 博客园
+  - [HarmonyOS Next 入门实战 - 基础组件、页面实现 - 睡精灵s](https://www.cnblogs.com/shuijinglingsos/p/18594294)
