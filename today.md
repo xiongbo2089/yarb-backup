@@ -3031,3 +3031,26 @@
   - [鸿蒙原生应用-时刻助手上线了，欢迎安装体验](https://developer.huawei.com/consumer/cn/blog/topic/03169033027877130)
 - 博客园
   - [HarmonyOS Next 入门实战 - 基础组件、页面实现 - 睡精灵s](https://www.cnblogs.com/shuijinglingsos/p/18594294)
+- 51CTO
+  - [OpenHarmony应用编译 - 如何在源码中编译复杂应用（5.0.0-Release）](https://ost.51cto.com/posts/30909)
+  - [鸿蒙开发回溯——《伟人语录》元服务上架了！](https://ost.51cto.com/posts/30900)
+- 鸿蒙官网
+  - [使用qt基本一定要有harmony实体设备吗](https://developer.huawei.com/consumer/cn/blog/topic/03169188983174151)
+  - [【中工开发者】HarmonyOS分布式文件系统的学习](https://developer.huawei.com/consumer/cn/blog/topic/03169167433716150)
+  - [【中工开发者】鸿蒙文件管理](https://developer.huawei.com/consumer/cn/blog/topic/03169167310958136)
+  - [鸿蒙数据库可视化调试工具，支持rdbstore、preference、kvstore、AppStorage](https://developer.huawei.com/consumer/cn/blog/topic/03169163972980135)
+  - [应用开发者高级认证-编程考试](https://developer.huawei.com/consumer/cn/blog/topic/03169158656395149)
+  - [鸿蒙原生应用-时刻助手上线了，欢迎安装体验](https://developer.huawei.com/consumer/cn/blog/topic/03169148269197148)
+  - [新版本DevEco Studio的开发样例中，模拟器上下出现空白区域？#空白#模拟器#DevEco#安全区域](https://developer.huawei.com/consumer/cn/blog/topic/03169143441423017)
+  - [如何监控员工电脑屏幕：SwiftUI 框架下的尝试](https://developer.huawei.com/consumer/cn/blog/topic/03169141295495147)
+  - [【中工开发者】朋友圈](https://developer.huawei.com/consumer/cn/blog/topic/03169137209709146)
+  - [下拉刷新上拉加载更多](https://developer.huawei.com/consumer/cn/blog/topic/03169133642522134)
+  - [【中工开发者】健身app设计](https://developer.huawei.com/consumer/cn/blog/topic/03169133486773145)
+  - [劳烦大家帮忙点点元服务，元服务名称-日常生活小百科。打开纯血鸿蒙应用市场在元服务栏目下搜索即可，感谢大家，有技术支撑和其它需要支撑的都可以找我，感谢。](https://developer.huawei.com/consumer/cn/blog/topic/03169125948371143)
+  - [HarmonyNex能走多远，还得看生态全球化做得怎么样](https://developer.huawei.com/consumer/cn/blog/topic/03169123782229133)
+  - [华为鸿蒙手写ECharts](https://developer.huawei.com/consumer/cn/blog/topic/03169123054663132)
+  - [Refresh组件API](https://developer.huawei.com/consumer/cn/blog/topic/03169122787373142)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 FreeBuds Pro 3 耳机获推鸿蒙 HarmonyOS 5.0.0.232：优化空间音频效果、全场景体验](https://www.ithome.com/0/816/315.htm)
+- 掘金社区
+  - [鸿蒙纪·梦始卷#15 | 应用界面整合](https://juejin.cn/post/7446407258537721892)
