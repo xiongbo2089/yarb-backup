@@ -3054,3 +3054,34 @@
   - [华为 FreeBuds Pro 3 耳机获推鸿蒙 HarmonyOS 5.0.0.232：优化空间音频效果、全场景体验](https://www.ithome.com/0/816/315.htm)
 - 掘金社区
   - [鸿蒙纪·梦始卷#15 | 应用界面整合](https://juejin.cn/post/7446407258537721892)
+- 博客园
+  - [手把手教你华为鸿蒙开发之第十节 - The旺](https://www.cnblogs.com/Thewang/p/18598001)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH 4 系列智能手表获鸿蒙 4.2 新特性版本升级：全新界面设计、新增手表骑行联动等功能](https://www.ithome.com/0/816/708.htm)
+  - [鸿蒙 HarmonyOS NEXT 系统“华为分享”功能支持多人群发特性](https://www.ithome.com/0/816/702.htm)
+  - [企业办公神器 —— 钉钉专属版已完成鸿蒙原生开发并开放内测](https://www.ithome.com/0/816/678.htm)
+- 51CTO
+  - [手把手教你华为鸿蒙开发之第十二节](https://ost.51cto.com/posts/30940)
+  - [手把手教你华为鸿蒙开发之第十一节](https://ost.51cto.com/posts/30939)
+  - [手把手教你华为鸿蒙开发之第十节](https://ost.51cto.com/posts/30938)
+- 鸿蒙官网
+  - [openharmony 使用uvc库获取摄像头数据使用nativewindow显示](https://developer.huawei.com/consumer/cn/blog/topic/03169293335399155)
+  - [openharmony开发资料合集](https://developer.huawei.com/consumer/cn/blog/topic/03169293209308154)
+  - [西安工商学院携手鸿蒙赋能学子，专业提升成果斐然](https://developer.huawei.com/consumer/cn/blog/topic/03169293174492026)
+  - [零基础学习ArkTS：ArkTS基本语法（概述）](https://developer.huawei.com/consumer/cn/blog/topic/03169292458052141)
+  - [RN鸿蒙自定义TurboModule](https://developer.huawei.com/consumer/cn/blog/topic/03169292089068014)
+  - [【中工开发者】鸿蒙ArkTS语言项目-待办清单](https://developer.huawei.com/consumer/cn/blog/topic/03169254361471013)
+  - [警告弹窗 AlertDialog.show() || this.getUIContext().showAlertDialog()](https://developer.huawei.com/consumer/cn/blog/topic/03169247034422012)
+  - [【中工开发者】变色方块小游戏](https://developer.huawei.com/consumer/cn/blog/topic/03169244547475140)
+  - [【中工开发者】 鸿蒙HarmonyOS小项目开发---静止状态](https://developer.huawei.com/consumer/cn/blog/topic/03169244259947025)
+  - [面试通](https://developer.huawei.com/consumer/cn/blog/topic/03169244242923153)
+  - [【中工开发者】——基于鸿蒙操作系统的电子木鱼应用](https://developer.huawei.com/consumer/cn/blog/topic/03169242872242152)
+  - [二维码扫码付款功能的实现](https://developer.huawei.com/consumer/cn/blog/topic/03169241351873024)
+  - [HarmonyOS应用开发知识地图](https://developer.huawei.com/consumer/cn/blog/topic/03169233491055023)
+  - [鸿蒙项目弹幕组件的设计与实现](https://developer.huawei.com/consumer/cn/blog/topic/03169230405856022)
+  - [【中共开发者】HarmonyOS--ExtensionAbility和Worker](https://developer.huawei.com/consumer/cn/blog/topic/03169229328107139)
+  - [【中工开发者】——基于鸿蒙系统的天气查询](https://developer.huawei.com/consumer/cn/blog/topic/03169228684150138)
+  - [仓颉踩坑记 （十）- 仓颉App调用webapi](https://developer.huawei.com/consumer/cn/blog/topic/03169227729661019)
+  - [我的 2024 年终总结，持续尝试](https://developer.huawei.com/consumer/cn/blog/topic/03169227535540018)
+- 掘金社区
+  - [鸿蒙 Next 中 Prop 的用法详解](https://juejin.cn/post/7446382909424681011)
