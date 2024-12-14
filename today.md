@@ -3147,3 +3147,24 @@
   - [华为 MatePad Pro 13.2 英寸 2025 款平板开启鸿蒙 HarmonyOS NEXT 系统花粉 Beta 版招募](https://www.ithome.com/0/817/133.htm)
 - GitHub
   - [TickAuth](https://github.com/conradsheeran/TickAuth)
+- 51CTO
+  - [#物联网征文#OpenHarmony之如何实现震动](https://ost.51cto.com/posts/16135)
+  - [#jitoa#【OpenHarmony 北向应用开发】探索Arkts中结构体的排序](https://ost.51cto.com/posts/28142)
+  - [#jitoa#【OpenHarmony 北向应用开发】实现二维数组的双向数据绑定，并刷新界面](https://ost.51cto.com/posts/28123)
+  - [#星计划# 在OpenHarmony上使用网络组件axios与Spring Boot进行前后端交互](https://ost.51cto.com/posts/28261)
+- 鸿蒙官网
+  - [ArkTS你不知道的JSON秘密](https://developer.huawei.com/consumer/cn/blog/topic/03169494053830037)
+  - [Tabs 页面切换 TabContent 页面切换 @Component子组件数据更新最优解](https://developer.huawei.com/consumer/cn/blog/topic/03169490918828029)
+  - [通过Stack(){}封装有头部标题和后退的WebView页面级组件](https://developer.huawei.com/consumer/cn/blog/topic/03169490109267167)
+  - [鸿蒙NEXT开发案例：世界时间表](https://developer.huawei.com/consumer/cn/blog/topic/03169488404735166)
+  - [应用分身](https://developer.huawei.com/consumer/cn/blog/topic/03169484824644158)
+  - [零基础学习HarmonyOS原生应用开发：基础组件-Text](https://developer.huawei.com/consumer/cn/blog/topic/03169472497161157)
+  - [openharmony napi调试笔记](https://developer.huawei.com/consumer/cn/blog/topic/03169461651394156)
+- 博客园
+  - [鸿蒙NEXT开发案例：颜文字搜索器 - zhongcx](https://www.cnblogs.com/zhongcx/p/18606230)
+  - [ArkTs布局入门05——栅格布局（GridRow/GridCol） - 鸿蒙自习室](https://www.cnblogs.com/harmonyClassRoom/p/18606106)
+  - [设备间无缝互联，开启智能“对话”新时代 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18605439)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙原生版飞书大更新，全面开放登录，文档、多维表格都已上线](https://www.ithome.com/0/817/412.htm)
+- 掘金社区
+  - [HarmonyOS中那些不为人知的坑点](https://juejin.cn/post/7447709833908273192)
