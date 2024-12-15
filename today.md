@@ -3168,3 +3168,16 @@
   - [鸿蒙原生版飞书大更新，全面开放登录，文档、多维表格都已上线](https://www.ithome.com/0/817/412.htm)
 - 掘金社区
   - [HarmonyOS中那些不为人知的坑点](https://juejin.cn/post/7447709833908273192)
+- 51CTO
+  - [HarmonyOS API：应用级变量的状态管理](https://ost.51cto.com/posts/22418)
+  - [# HarmonyOS NEXT 体验官 # 原生应用&元服务开发~基础知识篇](https://ost.51cto.com/posts/29380)
+  - [OpenHarmony之跟随弹窗CustomDialog（详细代码实现+运行实例，Let Go）](https://ost.51cto.com/posts/31006)
+  - [#夏日挑战赛# HarmonyOS - 实现消息定时提醒](https://ost.51cto.com/posts/14548)
+- 鸿蒙官网
+  - [零基础学习HarmonyOS原生应用开发：容器组件-Column](https://developer.huawei.com/consumer/cn/blog/topic/03169588841790032)
+  - [鸿蒙应用开发小白系列第一期---引导页UI及基本逻辑实现](https://developer.huawei.com/consumer/cn/blog/topic/03169581241059170)
+  - [鸿蒙开发：一文探究Navigation路由组件](https://developer.huawei.com/consumer/cn/blog/topic/03169581122547031)
+  - [HarmonyOS开发模板/组件分享 – security](https://developer.huawei.com/consumer/cn/blog/topic/03169575527707160)
+  - [介绍一下HarmonyOS的发展历程](https://developer.huawei.com/consumer/cn/blog/topic/03169556099085042)
+- 掘金社区
+  - [鸿蒙开发：加密算法封装](https://juejin.cn/post/7447918750059544586)
