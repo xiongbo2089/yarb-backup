@@ -3181,3 +3181,11 @@
   - [介绍一下HarmonyOS的发展历程](https://developer.huawei.com/consumer/cn/blog/topic/03169556099085042)
 - 掘金社区
   - [鸿蒙开发：加密算法封装](https://juejin.cn/post/7447918750059544586)
+- 鸿蒙官网
+  - [Lottie动画的入门使用](https://developer.huawei.com/consumer/cn/blog/topic/03169686513327161)
+  - [方舟UI开发框架及其能力/构成](https://developer.huawei.com/consumer/cn/blog/topic/03169665529496173)
+  - [鸿蒙NEXT开发案例：经纬度距离计算](https://developer.huawei.com/consumer/cn/blog/topic/03169651135879172)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 2 选择头像Button](https://developer.huawei.com/consumer/cn/blog/topic/03169647558994034)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 1 构建快速验证手机号Button](https://developer.huawei.com/consumer/cn/blog/topic/03169647386186033)
+- 掘金社区
+  - [什么黑科技？纯血鸿蒙又可以运行Android应用了！](https://juejin.cn/post/7448576110823047202)
