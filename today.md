@@ -3189,3 +3189,24 @@
   - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 1 构建快速验证手机号Button](https://developer.huawei.com/consumer/cn/blog/topic/03169647386186033)
 - 掘金社区
   - [什么黑科技？纯血鸿蒙又可以运行Android应用了！](https://juejin.cn/post/7448576110823047202)
+- 51CTO
+  - [卡片服务开发之如何开发一个地图服务卡片](https://ost.51cto.com/posts/7375)
+- 鸿蒙官网
+  - [【HarmonyOS开发模板/组件分享 – 用户隐私政策弹窗】](https://developer.huawei.com/consumer/cn/blog/topic/03169764549234002)
+  - [智能未来，共创鸿蒙--鸿蒙硬件方面开发](https://developer.huawei.com/consumer/cn/blog/topic/03169754304641001)
+  - [关于实现图片自定义字体水印的实现](https://developer.huawei.com/consumer/cn/blog/topic/03169749541667038)
+  - [HarmonyOS开发模板/组件分享 – router](https://developer.huawei.com/consumer/cn/blog/topic/03169738444545165)
+  - [单位网络监控软件的 Crystal 语言语法糖助力代码可读性](https://developer.huawei.com/consumer/cn/blog/topic/03169731498288175)
+  - [二维码扫描能力开发——默认界面](https://developer.huawei.com/consumer/cn/blog/topic/03169729866954164)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 7 地图选点Button](https://developer.huawei.com/consumer/cn/blog/topic/03169729274931044)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 6 选择发票抬头Button](https://developer.huawei.com/consumer/cn/blog/topic/03169729110859162)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 5 选择收货地址Button](https://developer.huawei.com/consumer/cn/blog/topic/03169728930380043)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 4 设置打开App Button](https://developer.huawei.com/consumer/cn/blog/topic/03169728771303174)
+  - [华为HarmonyOS实现跨多个子系统融合的场景化服务 -- 3 打开授权设置页Button](https://developer.huawei.com/consumer/cn/blog/topic/03169728671945037)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 5.0.0.115 SP6 开启推送，适配 Mate 60 / Pura 70 系列等机型](https://www.ithome.com/0/818/042.htm)
+  - [鸿蒙原生版微信持续更新中，语音转文字、听筒模式、群红包已上线](https://www.ithome.com/0/817/986.htm)
+  - [新增耳机掉落提醒功能，华为 FreeClip 开放式耳机获 HarmonyOS 5.0.0.216 升级](https://www.ithome.com/0/817/977.htm)
+- 掘金社区
+  - [卓易通：鸿蒙Next系统的蜜糖还是毒药？](https://juejin.cn/post/7448842151700332555)
+  - [【HarmonyOS】关于鸿蒙原生实现红包雨效果的方案](https://juejin.cn/post/7448839142945194034)
