@@ -3210,3 +3210,30 @@
 - 掘金社区
   - [卓易通：鸿蒙Next系统的蜜糖还是毒药？](https://juejin.cn/post/7448842151700332555)
   - [【HarmonyOS】关于鸿蒙原生实现红包雨效果的方案](https://juejin.cn/post/7448839142945194034)
+- 踏雨歌青春，诗酒趁年华
+  - [AtomGit 开源生态应用开发赛报名开始啦](https://blog.csdn.net/weixin_41793160/article/details/144547072)
+- 鸿蒙官网
+  - [鸿蒙开发：如何上架一个元服务应用](https://developer.huawei.com/consumer/cn/blog/topic/03169897158284043)
+  - [封成控件](https://developer.huawei.com/consumer/cn/blog/topic/03169856870934003)
+  - [请教代码中的TS方法具体是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03169854985797004)
+  - [ArkTS API ](https://developer.huawei.com/consumer/cn/blog/topic/03169850702003042)
+  - [深入解析与解决便单丢帧问题——利用HarmonyOS工具的实践之旅](https://developer.huawei.com/consumer/cn/blog/topic/03169838255024041)
+  - [【代码片段】size、constraintSize、layoutWeight、calc](https://developer.huawei.com/consumer/cn/blog/topic/03169836455632040)
+  - [仓颉第三方踩坑 （一）logcj的使用](https://developer.huawei.com/consumer/cn/blog/topic/03169831715762003)
+  - [【中工开发者】鸿蒙—水果排行](https://developer.huawei.com/consumer/cn/blog/topic/03169830704733039)
+  - [端云一体化之云数据库开发报错：Failed to query , Code: 1008230009, message: Process query resp error.](https://developer.huawei.com/consumer/cn/blog/topic/03169830058186002)
+  - [Harmony Next - UI 级状态管理 LocalStorage](https://developer.huawei.com/consumer/cn/blog/topic/03169824895407001)
+  - [一文搞懂应用沙箱以及沙箱访问方式](https://developer.huawei.com/consumer/cn/blog/topic/03169819172456167)
+  - [常见应用场景-多级可折叠树形列表实现](https://developer.huawei.com/consumer/cn/blog/topic/03169817997094166)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [原生鸿蒙推送新版本，新增小艺协同唤醒、文件加密分享等功能](https://www.ithome.com/0/818/255.htm)
+  - [腾讯 qapm、百度智能云 MTC 等性能监控类 SDK 已适配原生鸿蒙](https://www.ithome.com/0/818/192.htm)
+  - [邮储银行手机银行 10.0 版本发布，适配原生鸿蒙并实现多系统同频迭代](https://www.ithome.com/0/818/189.htm)
+- GitHub
+  - [openinstall-rtn-harmony](https://github.com/wenkiwu/openinstall-rtn-harmony)
+- 鸿蒙开源工程更新
+  - [野生程序猿/HMShoubiao](https://gitee.com/oneexecom/HMShoubiao)
+- 掘金社区
+  - [Harmonyos next：持久化数据之preference（用户首选项）](https://juejin.cn/post/7449251844302290944)
+  - [鸿蒙元服务项目实战：备忘录UI页面开发](https://juejin.cn/post/7449210176648151077)
+  - [Harmonyos next:网络请求token过期自刷新 & 对比Android场景](https://juejin.cn/post/7449198262478995490)
