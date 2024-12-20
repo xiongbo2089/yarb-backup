@@ -3275,3 +3275,32 @@
 - 掘金社区
   - [鸿蒙元服务项目实战：备忘录内容编辑开发](https://juejin.cn/post/7449780605008363547)
   - [HarmonyOS-电梯导航DEMO（鸿蒙吸顶）](https://juejin.cn/post/7449649677266829362)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统内置“听歌识曲”功能，支持音乐无缝续播](https://www.ithome.com/0/818/789.htm)
+- 鸿蒙官网
+  - [鸿蒙应用开发快速入门mvvm模式练习:getRawFileContent调用失败](https://developer.huawei.com/consumer/cn/blog/topic/03170038180448057)
+  - [一文解释清楚OpenHarmony和HarmonyOS以及HarmonyOS NEXT三者联系](https://developer.huawei.com/consumer/cn/blog/topic/03170014839412015)
+  - [【HarmonyOS NEXT】ArkTS 中Json 转Class](https://developer.huawei.com/consumer/cn/blog/topic/03170012275122056)
+  - [【HarmonyOS NEXT】鸿蒙忽略证书验证抓包https请求](https://developer.huawei.com/consumer/cn/blog/topic/03170012221219001)
+  - [【HarmonyOS NEXT】手把手教你自定义装饰器实现Android中的Lifecycle组件](https://developer.huawei.com/consumer/cn/blog/topic/03170012188388178)
+  - [【HarmonyOS NEXT】鸿蒙中实现组件化通信解耦](https://developer.huawei.com/consumer/cn/blog/topic/03170012148557055)
+  - [【HarmonyOS NEXT】鸿蒙中实现团队代码格式化风格一致性](https://developer.huawei.com/consumer/cn/blog/topic/03170012112007014)
+  - [【HarmonyOS NEXT】ArkTs函数、类、接口、泛型、装饰器解析与使用](https://developer.huawei.com/consumer/cn/blog/topic/03170011400039013)
+  - [【HarmonyOS NEXT】ArkTs数据类型解析与使用](https://developer.huawei.com/consumer/cn/blog/topic/03170011363199020)
+  - [【HarmonyOS NEXT】异步编程的神器之Promise](https://developer.huawei.com/consumer/cn/blog/topic/03170011308418012)
+  - [鸿蒙 NEXT 开发之后台任务开发服务框架学习笔记](https://developer.huawei.com/consumer/cn/blog/topic/03170009750063011)
+  - [公司网络监控软件：ABAP 企业资源规划集成的全方位监控方案](https://developer.huawei.com/consumer/cn/blog/topic/03170002290840019)
+  - [仓颉与Kotlin、Swift的多方面代码对比](https://developer.huawei.com/consumer/cn/blog/topic/03169991115406177)
+  - [不为人知的网络编程(十九)：能Ping通，TCP就一定能连接和通信吗？](https://developer.huawei.com/consumer/cn/blog/topic/03169990680186054)
+  - [使用原生CustomDialogController自定义封装遮罩层加载弹窗组件](https://developer.huawei.com/consumer/cn/blog/topic/03169988169921018)
+  - [首款开发鸿蒙原生应用的AI辅助编程工具正式上线了](https://developer.huawei.com/consumer/cn/blog/topic/03169987595076017)
+  - [利用translate实现手指长按完成元素跟随手指移动](https://developer.huawei.com/consumer/cn/blog/topic/03169987177815050)
+- 博客园
+  - [跨平台交叉编译 Native AOT - 张善友](https://www.cnblogs.com/shanyou/p/18618066)
+  - [手把手教你华为鸿蒙开发之第十三节 - The旺](https://www.cnblogs.com/Thewang/p/18617939)
+- 掘金社区
+  - [鸿蒙元服务项目实战：备忘录实现列表展示](https://juejin.cn/post/7450114063537438756)
+  - [HarmonyOS NEXT】ArkTs 模块的导出和引入](https://juejin.cn/post/7450109485907050496)
+  - [HarmonyOS开发-实现文件没有默认导出，也可以默认导入](https://juejin.cn/post/7450065538411413523)
+  - [Kotlin Multiplatform 的春天， klibs.io 发布，还有官方支持鸿蒙的想法](https://juejin.cn/post/7449965819360411685)
+  - [【HarmonyOS NEXT】ArkTs函数、类、接口、泛型、装饰器解析与使用](https://juejin.cn/post/7449934443065344052)
