@@ -3304,3 +3304,20 @@
   - [HarmonyOS开发-实现文件没有默认导出，也可以默认导入](https://juejin.cn/post/7450065538411413523)
   - [Kotlin Multiplatform 的春天， klibs.io 发布，还有官方支持鸿蒙的想法](https://juejin.cn/post/7449965819360411685)
   - [【HarmonyOS NEXT】ArkTs函数、类、接口、泛型、装饰器解析与使用](https://juejin.cn/post/7449934443065344052)
+- 51CTO
+  - [【8月5日公开课】HarmonyOS服务卡片开发指南](https://ost.51cto.com/posts/7452)
+- 鸿蒙官网
+  - [【应用推荐】跨时空小程序AppID查询：您的智能小程序探索助手](https://developer.huawei.com/consumer/cn/blog/topic/03170121776961184)
+  - [一文解释清楚OpenHarmony面向全场景的分布式操作系统](https://developer.huawei.com/consumer/cn/blog/topic/03170118098988183)
+  - [四天开发5个鸿蒙原生应用，我做对了什么？【HarmonyOS星光故事征集】](https://developer.huawei.com/consumer/cn/blog/topic/03170117271501182)
+  - [仓颉LazyForEach通用数据源](https://developer.huawei.com/consumer/cn/blog/topic/03170103354149181)
+  - [在项目中定义常量](https://developer.huawei.com/consumer/cn/blog/topic/03170088773778058)
+  - [【代码片段】requestImageUrl](https://developer.huawei.com/consumer/cn/blog/topic/03170087949571180)
+  - [cursor使用心得](https://developer.huawei.com/consumer/cn/blog/topic/03170080460807017)
+  - [强烈建议版主公布各种手机（尤其是华为）当前API版本，DevEco Studio可运行的API版本](https://developer.huawei.com/consumer/cn/blog/topic/03170073956510179)
+  - [【HarmonyOS NEXT】ArkTs 模块的导出和引入](https://developer.huawei.com/consumer/cn/blog/topic/03170072712346016)
+  - [原生鸿蒙带给个人开发者的机遇与挑战思考【HarmonyOS星光故事征集】](https://developer.huawei.com/consumer/cn/blog/topic/03170072551931003)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [“鸿蒙有礼”先锋权益礼包上新，新增腾讯视频、酷狗音乐会员季卡](https://www.ithome.com/0/819/079.htm)
+- 掘金社区
+  - [【HarmonyOS NEXT】ArkTs 模块的导出和引入](https://juejin.cn/post/7450109485907050496)
