@@ -3321,3 +3321,14 @@
   - [“鸿蒙有礼”先锋权益礼包上新，新增腾讯视频、酷狗音乐会员季卡](https://www.ithome.com/0/819/079.htm)
 - 掘金社区
   - [【HarmonyOS NEXT】ArkTs 模块的导出和引入](https://juejin.cn/post/7450109485907050496)
+- 鸿蒙官网
+  - [环信的 im_flutter_sdk 为什么还没有支持鸿蒙](https://developer.huawei.com/consumer/cn/blog/topic/03170242512599062)
+  - [常用utils工具类](https://developer.huawei.com/consumer/cn/blog/topic/03170201632625187)
+  - [零基础学习HarmonyOS原生应用开发：页面和自定义组件生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03170201195500060)
+  - [鸿蒙HarmonyOS应用开发 | 「鸿蒙技术分享」HarmonyOS NEXT元服务卡片实战体验](https://developer.huawei.com/consumer/cn/blog/topic/03170194690507186)
+  - [鸿蒙HarmonyOS应用开发 |鸿蒙技术分享HarmonyOS Next 深度解析：分布式能力与跨设备协作实战](https://developer.huawei.com/consumer/cn/blog/topic/03170180626902185)
+  - [鸿蒙HarmonyOS应用开发 | HarmonyOS Next-从应用开发到上架全流程解析](https://developer.huawei.com/consumer/cn/blog/topic/03170176250679059)
+- 51CTO
+  - [#夏日挑战赛#【FFH】曲线救国，JS表情包卡片！](https://ost.51cto.com/posts/14940)
+- 掘金社区
+  - [鸿蒙元服务项目实战：终结篇之备忘录搜索功能实现](https://juejin.cn/post/7450516215972790298)
