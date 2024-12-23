@@ -3332,3 +3332,20 @@
   - [#夏日挑战赛#【FFH】曲线救国，JS表情包卡片！](https://ost.51cto.com/posts/14940)
 - 掘金社区
   - [鸿蒙元服务项目实战：终结篇之备忘录搜索功能实现](https://juejin.cn/post/7450516215972790298)
+- 踏雨歌青春，诗酒趁年华
+  - [HarmonyOS NEXT 技术实践-实现音乐服务卡片](https://blog.csdn.net/weixin_41793160/article/details/144647051)
+  - [HarmonyOS NEXT 技术实践-基于基础视觉服务实现骨骼点识别](https://blog.csdn.net/weixin_41793160/article/details/144646491)
+  - [HarmonyOS NEXT 技术实践-基于意图框架服务实现智能分发](https://blog.csdn.net/weixin_41793160/article/details/144645675)
+  - [HarmonyOS NEXT 技术实践-基于基础视觉服务的多目标识别](https://blog.csdn.net/weixin_41793160/article/details/144644884)
+  - [HarmonyOS NEXT 的技术发展和市场趋势：打造1+8+N的万物互联新世界](https://blog.csdn.net/weixin_41793160/article/details/144644283)
+- 鸿蒙官网
+  - [DevEco Studio的快捷功能](https://developer.huawei.com/consumer/cn/blog/topic/03170321137674063)
+  - [HDC常用命令](https://developer.huawei.com/consumer/cn/blog/topic/03170268097774190)
+  - [基于HarmonyOS 5.0 (Next)技术的渐变模糊效果技术实现【代码实战】](https://developer.huawei.com/consumer/cn/blog/topic/03170264495426189)
+  - [使用动画的代码示例](https://developer.huawei.com/consumer/cn/blog/topic/03170261765473006)
+  - [基于HarmonyOS 5.0 (Next)的一种面向多设备跨平台的高性能自适应布局能力研究和实现](https://developer.huawei.com/consumer/cn/blog/topic/03170261503735005)
+  - [同花顺使用价格更新的太慢了](https://developer.huawei.com/consumer/cn/blog/topic/03170254650809004)
+  - [环信的 im_flutter_sdk 为什么还没有支持鸿蒙](https://developer.huawei.com/consumer/cn/blog/topic/03170242512599062)
+- 掘金社区
+  - [鸿蒙开发：简单了解属性动画](https://juejin.cn/post/7451227184311566363)
+  - [【OpenHarmony】 鸿蒙 UI开发之banner](https://juejin.cn/post/7451120955798454281)
