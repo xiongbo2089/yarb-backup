@@ -3349,3 +3349,43 @@
 - 掘金社区
   - [鸿蒙开发：简单了解属性动画](https://juejin.cn/post/7451227184311566363)
   - [【OpenHarmony】 鸿蒙 UI开发之banner](https://juejin.cn/post/7451120955798454281)
+- 51CTO
+  - [OpenHarmony之自定义Tabs--------涂刀乐](https://ost.51cto.com/posts/31082)
+- 鸿蒙官网
+  - [组件导航（Navigation）](https://developer.huawei.com/consumer/cn/blog/topic/03170365745856074)
+  - [注单延迟一般多久解除《华为推荐》](https://developer.huawei.com/consumer/cn/blog/topic/03170364650304026)
+  - [网上提款系统审核注单异常数据未同步提不了款怎么办？](https://developer.huawei.com/consumer/cn/blog/topic/03170362342456073)
+  - [我是这样参加开发者激励计划，搞到钱的](https://developer.huawei.com/consumer/cn/blog/topic/03170359473931024)
+  - [从零开始带你实现APP隐私协议弹框功能](https://developer.huawei.com/consumer/cn/blog/topic/03170358643288015)
+  - [HarmonyOS Next 应用元服务开发-分布式数据对象迁移数据权限与基础数据](https://developer.huawei.com/consumer/cn/blog/topic/03170356823425199)
+  - [鸿蒙系统文字识别和提取](https://developer.huawei.com/consumer/cn/blog/topic/03170355004517070)
+  - [鸿蒙如何实现颜色选取（ColorPicker）？](https://developer.huawei.com/consumer/cn/blog/topic/03170354826357198)
+  - [Flutter到鸿蒙,不是有手就行吗? (列表加载更多)](https://developer.huawei.com/consumer/cn/blog/topic/03170354788617023)
+  - [Flutter到鸿蒙,不是有手就行吗? (下拉刷新)](https://developer.huawei.com/consumer/cn/blog/topic/03170354253263013)
+  - [鸿蒙登录页面好看的样式设计-HarmonyOS应用开发实战与ArkTS代码解析【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170353126216012)
+  - [HarmonyOS 5.0 （Next）应用开发实战：使用ArkTS构建开箱即用的登录页面【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170352771643069)
+  - [开箱即用的个人主页页面开发实战—基于HarmonyOS 5.0 （Next）和ArkTS的实现【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170351710643068)
+  - [R 语言统计分析挖掘公司监控员工电脑数据深层价值](https://developer.huawei.com/consumer/cn/blog/topic/03170351599070197)
+  - [探索HarmonyOS开发：用ArkTS构建个人主页和活动管理系统【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170351282452067)
+  - [HarmonyOS应用开发实战-开箱即用的首页页面构建与ArkTS解析【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170350710829011)
+  - [HarmonyOS应用开发实战：基于ArkTS的开箱即用登录页面实现【样式方式实现①】【HarmonyOS 5.0（Next）】](https://developer.huawei.com/consumer/cn/blog/topic/03170350644146066)
+  - [移动端企业开发三方框架选型](https://developer.huawei.com/consumer/cn/blog/topic/03170350314231196)
+  - [基于HarmonyOS 5.0的元服务：技术架构、应用场景与未来发展【探讨】](https://developer.huawei.com/consumer/cn/blog/topic/03170350229473195)
+  - [HarmonyOS开发组件分享–省市区组件](https://developer.huawei.com/consumer/cn/blog/topic/03170349358368194)
+  - [HarmonyOS开发模板分享–餐饮行业模板](https://developer.huawei.com/consumer/cn/blog/topic/03170348046586022)
+  - [自适应布局之Grid网格布局](https://developer.huawei.com/consumer/cn/blog/topic/03170347481110010)
+  - [开源轻量级IM框架MobileIMSDK的鸿蒙NEXT客户端库已发布](https://developer.huawei.com/consumer/cn/blog/topic/03170335995239008)
+  - [鸿蒙(HarmonyOS)原生AI能力之文本识别](https://developer.huawei.com/consumer/cn/blog/topic/03170334141640064)
+- 博客园
+  - [HarmonyOS Next 入门实战 - 关系型数据库、smartdb - 睡精灵s](https://www.cnblogs.com/shuijinglingsos/p/18626518)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [腾讯企业微信纯血鸿蒙版 App 上架华为 HarmonyOS NEXT 应用市场](https://www.ithome.com/0/819/496.htm)
+- OSCHINA 社区最新软件
+  - [开源 IM 聊天程序 HarmonyChat](https://www.oschina.net/p/harmonychat)
+- 掘金社区
+  - [鸿蒙开发：了解显式动画animateTo](https://juejin.cn/post/7451639546359644187)
+  - [【OpenHarmony】 鸿蒙 UI开发之滚动组件overscroll-decor](https://juejin.cn/post/7451508196945805322)
+  - [【OpenHarmony】 鸿蒙 UI开发之 TextLayoutBuilder](https://juejin.cn/post/7451447576372297737)
+  - [鸿蒙Next ArkTS高性能编程实战](https://juejin.cn/post/7451447576371281929)
+  - [【OpenHarmony】 鸿蒙 UI开发之 PullToRefresh组件](https://juejin.cn/post/7451441007542157349)
+  - [鸿蒙Next ArkTS编程规范总结](https://juejin.cn/post/7451421682387910706)
