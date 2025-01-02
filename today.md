@@ -3665,3 +3665,15 @@
   - [【OpenHarmony】 鸿蒙 UI动画开发之box2d](https://juejin.cn/post/7454467235342450725)
   - [【OpenHarmony】 鸿蒙 UI动画开发之rebound](https://juejin.cn/post/7454452201659662346)
   - [【OpenHarmony】 鸿蒙 UI动画开发之recyclerview_animators](https://juejin.cn/post/7454403792320888858)
+- 鸿蒙官网
+  - [原生鸿蒙应用自定义：PTZ 摇杆view(适配折叠，pad,phone)](https://developer.huawei.com/consumer/cn/blog/topic/03171192943252130)
+  - [SliderCustomDialog](https://developer.huawei.com/consumer/cn/blog/topic/03171151683113119)
+  - [《如何从相册中选择照片上传》](https://developer.huawei.com/consumer/cn/blog/topic/03171148222556067)
+  - [应用上下文 Context](https://developer.huawei.com/consumer/cn/blog/topic/03171131728893066)
+  - [用户登录状态工具类 UserPreferences.ets](https://developer.huawei.com/consumer/cn/blog/topic/03171130055019051)
+  - [如何将文件保存到用户指定的路径下](https://developer.huawei.com/consumer/cn/blog/topic/03171122214555118)
+  - [尝鲜版通过审核，多久能够收到推送？](https://developer.huawei.com/consumer/cn/blog/topic/03171121408696117)
+  - [Harmony OS开发-ArkTS语言速成二](https://developer.huawei.com/consumer/cn/blog/topic/03171115146702064)
+  - [从静态到动态，JVS-智能BI的联动、钻取与跳转功能实战演示](https://developer.huawei.com/consumer/cn/blog/topic/03171114379110063)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为应用市场“鸿蒙升级”入口仅当前设备支持升级鸿蒙 HarmonyOS 5.0 可见](https://www.ithome.com/0/821/652.htm)
