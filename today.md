@@ -3741,3 +3741,13 @@
   - [【OpenHarmony】 鸿蒙网络请求库之Mars](https://juejin.cn/post/7455564642560835635)
   - [OpenHarmony多媒体-OhosVideoCache](https://juejin.cn/post/7455512640232816677)
   - [【OpenHarmony】 鸿蒙事件通信：socket-io](https://juejin.cn/post/7455510991108784155)
+- 鸿蒙官网
+  - [让图片某块区域逐渐透明，能看到下一层的效果](https://developer.huawei.com/consumer/cn/blog/topic/03171377334043143)
+  - [ArkTS 面向对象编程：发现奇妙的代码世界](https://developer.huawei.com/consumer/cn/blog/topic/03171373173112142)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate X6 折叠屏手机推送鸿蒙 Harmony NEXT 5.0.0.123 版本，新增应用锁功能等](https://www.ithome.com/0/822/329.htm)
+  - [微信纯血鸿蒙版 App 获 1.0.3.37 邀测升级，聊天支持群接龙、查看引用的图片等](https://www.ithome.com/0/822/279.htm)
+- 掘金社区
+  - [【OpenHarmony】 鸿蒙网络请求库之ohos_ntp](https://juejin.cn/post/7455961306300727334)
+  - [【OpenHarmony】 鸿蒙网络请求库之eventsource](https://juejin.cn/post/7455955218049859635)
+  - [鸿蒙next团结引擎适配轻松上手](https://juejin.cn/post/7455701562838548517)
