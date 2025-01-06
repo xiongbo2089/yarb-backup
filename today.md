@@ -3751,3 +3751,15 @@
   - [【OpenHarmony】 鸿蒙网络请求库之ohos_ntp](https://juejin.cn/post/7455961306300727334)
   - [【OpenHarmony】 鸿蒙网络请求库之eventsource](https://juejin.cn/post/7455955218049859635)
   - [鸿蒙next团结引擎适配轻松上手](https://juejin.cn/post/7455701562838548517)
+- 鸿蒙官网
+  - [《鸿蒙HarmonyOS应用开发从入门到精通（第2版）》学习笔记——HarmonyOS纯血鸿蒙新特性](https://developer.huawei.com/consumer/cn/blog/topic/03171533416927072)
+  - [搞定了soundPool，有了音效。做了小封装。开心。](https://developer.huawei.com/consumer/cn/blog/topic/03171496464074132)
+  - [Image组件加载本地图片](https://developer.huawei.com/consumer/cn/blog/topic/03171495932784090)
+  - [【HarmonyOS】鸿蒙应用实现屏幕录制详解和源码](https://developer.huawei.com/consumer/cn/blog/topic/03171495888265146)
+  - [http put上传文件到云服务器](https://developer.huawei.com/consumer/cn/blog/topic/03171495858430131)
+  - [隐私弹窗 可以不用那么复杂](https://developer.huawei.com/consumer/cn/blog/topic/03171495789432089)
+  - [request.downloadFile 新手踩坑](https://developer.huawei.com/consumer/cn/blog/topic/03171495657490130)
+  - [分享一组鸿蒙贪吃蛇开发附加源码放以社区进行交流](https://developer.huawei.com/consumer/cn/blog/topic/03171459352139071)
+- 掘金社区
+  - [【OpenHarmony】 鸿蒙图片加载库之ImageKnife](https://juejin.cn/post/7456326516760264741)
+  - [【OpenHarmony】 鸿蒙网络请求库之@xmpp/client](https://juejin.cn/post/7456274119128809481)
