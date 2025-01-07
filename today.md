@@ -3763,3 +3763,26 @@
 - 掘金社区
   - [【OpenHarmony】 鸿蒙图片加载库之ImageKnife](https://juejin.cn/post/7456326516760264741)
   - [【OpenHarmony】 鸿蒙网络请求库之@xmpp/client](https://juejin.cn/post/7456274119128809481)
+- 鸿蒙官网
+  - [无聊之余来画个脑图解解闷吧](https://developer.huawei.com/consumer/cn/blog/topic/03171625466628093)
+  - [鸿蒙应用中实现上拉刷新与下拉加载功能](https://developer.huawei.com/consumer/cn/blog/topic/03171623169905151)
+  - [鸿蒙Next如何实现打开相册选图片功能？](https://developer.huawei.com/consumer/cn/blog/topic/03171622732149092)
+  - [Devecostudio中的基础动画效果实现](https://developer.huawei.com/consumer/cn/blog/topic/03171573233068091)
+  - [Devecostudio中的动画效果实现](https://developer.huawei.com/consumer/cn/blog/topic/03171570320766135)
+  - [封装SoundPool，方便管理多个音效。痛并快乐着。](https://developer.huawei.com/consumer/cn/blog/topic/03171570284608074)
+  - [auth工具的封装与使用](https://developer.huawei.com/consumer/cn/blog/topic/03171569082121150)
+  - [HarmonyOS NEXT 应用开发练习：AI智能语音播报](https://developer.huawei.com/consumer/cn/blog/topic/03171555804202147)
+  - [【HarmonyOS】解决自定义弹框遮挡气泡提示的问题](https://developer.huawei.com/consumer/cn/blog/topic/03171543478409133)
+  - [【HarmonyOS】获取通讯录信息](https://developer.huawei.com/consumer/cn/blog/topic/03171543286270073)
+  - [《鸿蒙HarmonyOS应用开发从入门到精通（第2版）》学习笔记——HarmonyOS纯血鸿蒙新特性](https://developer.huawei.com/consumer/cn/blog/topic/03171533416927072)
+- 博客园
+  - [多样化消息通知样式，帮助应用提升日活跃度 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18655779)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信纯血鸿蒙版 App 获 1.0.3.38 邀测升级，支持点击聊天中的电话号码跳转呼叫](https://www.ithome.com/0/822/753.htm)
+- 掘金社区
+  - [【OpenHarmony】 鸿蒙视图缩放组件subsampling-scale-image-view](https://juejin.cn/post/7456735488210550811)
+  - [【OpenHarmony】 鸿蒙GIF图像渲染库之ohos-gif-drawable](https://juejin.cn/post/7456692438804561958)
+  - [【HarmonyOS】鸿蒙应用使用后台任务之长时任务，解决屏幕录制音乐播放等操作不被挂起](https://juejin.cn/post/7456657233918853171)
+  - [鸿蒙音视频开发：AVSession Kit 简介](https://juejin.cn/post/7456657233917935667)
+  - [OpenHarmony 关系映射数据库—dataORM](https://juejin.cn/post/7456626384431595547)
+  - [【OpenHarmony】 鸿蒙矢量图形（SVG）之XmlGraphicsBatik](https://juejin.cn/post/7456629148213821490)
