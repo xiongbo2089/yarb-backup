@@ -3786,3 +3786,22 @@
   - [鸿蒙音视频开发：AVSession Kit 简介](https://juejin.cn/post/7456657233917935667)
   - [OpenHarmony 关系映射数据库—dataORM](https://juejin.cn/post/7456626384431595547)
   - [【OpenHarmony】 鸿蒙矢量图形（SVG）之XmlGraphicsBatik](https://juejin.cn/post/7456629148213821490)
+- 鸿蒙官网
+  - [Harmony OS开发-ArkTS语言速成四面向对象](https://developer.huawei.com/consumer/cn/blog/topic/03171711644575077)
+  - [Harmony OS开发-ArkTS框架速成三常量数组和函数](https://developer.huawei.com/consumer/cn/blog/topic/03171711530673139)
+  - [学习例程5.1：屏幕旋转后调整页面，及避开前置摄像头等](https://developer.huawei.com/consumer/cn/blog/topic/03171656105403137)
+  - [Flutter中的高德地图适配鸿蒙](https://developer.huawei.com/consumer/cn/blog/topic/03171655363400152)
+  - [this.webController.accessBackward()失效问题](https://developer.huawei.com/consumer/cn/blog/topic/03171654885870076)
+  - [原生应用中自定义弹框的2种方式 ](https://developer.huawei.com/consumer/cn/blog/topic/03171651373850095)
+  - [科技云报到：从大模型到云端，“AI+云计算”还能讲出什么新故事](https://developer.huawei.com/consumer/cn/blog/topic/03171638441912075)
+  - [数字乐器突破后为音乐体系带来的大变革](https://developer.huawei.com/consumer/cn/blog/topic/03171629205847094)
+  - [HarmonyOS NEXT 原生应用开发：社交聊天对话过程实现](https://developer.huawei.com/consumer/cn/blog/topic/03171628246918136)
+  - [无聊之余来画个脑图解解闷吧](https://developer.huawei.com/consumer/cn/blog/topic/03171625466628093)
+  - [鸿蒙应用中实现上拉刷新与下拉加载功能](https://developer.huawei.com/consumer/cn/blog/topic/03171623169905151)
+  - [鸿蒙Next如何实现打开相册选图片功能？](https://developer.huawei.com/consumer/cn/blog/topic/03171622732149092)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [腾讯《和平精英》手游正式上线华为鸿蒙 HarmonyOS NEXT 应用市场](https://www.ithome.com/0/822/920.htm)
+- 开源中国
+  - [鸿蒙应用签名实操及机制探究](https://my.oschina.net/meituantech/blog/17091011)
+- 掘金社区
+  - [OpenHarmony（数据）通信协议、数据存储—protobuf](https://juejin.cn/post/7457026988303237157)
