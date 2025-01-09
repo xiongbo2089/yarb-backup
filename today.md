@@ -3805,3 +3805,22 @@
   - [鸿蒙应用签名实操及机制探究](https://my.oschina.net/meituantech/blog/17091011)
 - 掘金社区
   - [OpenHarmony（数据）通信协议、数据存储—protobuf](https://juejin.cn/post/7457026988303237157)
+- 鸿蒙官网
+  - [Music示例首页不参考官网的代码自己实现使用栅格自适应的方式以及简单组件导航实现](https://developer.huawei.com/consumer/cn/blog/topic/03171756732389083)
+  - [人脸 识别](https://developer.huawei.com/consumer/cn/blog/topic/03171746142163100)
+  - [Music示例首页不参考官网的代码不考虑栅格的实现方式](https://developer.huawei.com/consumer/cn/blog/topic/03171744744359099)
+  - [使用子窗口来实现悬浮窗功能](https://developer.huawei.com/consumer/cn/blog/topic/03171728894341158)
+  - [使用Display实现屏幕属性查询及状态监听 (ArkTS)](https://developer.huawei.com/consumer/cn/blog/topic/03171728108577097)
+  - [ArkWeb（方舟Web）属性功能 API 合集](https://developer.huawei.com/consumer/cn/blog/topic/03171720129169157)
+  - [onAttach和onAppear的触发时机](https://developer.huawei.com/consumer/cn/blog/topic/03171717585791079)
+  - [昇思打卡营第五期(MindNLP特辑）第二课--RoBERTa-Large的IA3微调](https://developer.huawei.com/consumer/cn/blog/topic/03171716953961156)
+  - [年度重磅 |《2024华为开发者宝典》免费下载，多维度解读华为根生态技术](https://developer.huawei.com/consumer/cn/blog/topic/03171716668216155)
+  - [HarmonyOS NEXT 原生应用开发：社交通讯发现界面实现](https://developer.huawei.com/consumer/cn/blog/topic/03171715695010141)
+  - [Harmony OS Next应用“丁斗口算”开发记录 (10)](https://developer.huawei.com/consumer/cn/blog/topic/03171713759317096)
+  - [异步编程（Promise、async/await）](https://developer.huawei.com/consumer/cn/blog/topic/03171712730380140)
+  - [Harmony OS开发-ArkTS语言速成五导入导出](https://developer.huawei.com/consumer/cn/blog/topic/03171711850931078)
+  - [Harmony OS开发-ArkTS语言速成四面向对象](https://developer.huawei.com/consumer/cn/blog/topic/03171711644575077)
+  - [Harmony OS开发-ArkTS框架速成三常量数组和函数](https://developer.huawei.com/consumer/cn/blog/topic/03171711530673139)
+  - [仓颉实践（一） 创建一个上下文类](https://developer.huawei.com/consumer/cn/blog/topic/03171710279619138)
+- 掘金社区
+  - [OpenHarmony编解码器—libogg [GN编译]](https://juejin.cn/post/7457434182563971123)
