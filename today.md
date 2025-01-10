@@ -3824,3 +3824,23 @@
   - [仓颉实践（一） 创建一个上下文类](https://developer.huawei.com/consumer/cn/blog/topic/03171710279619138)
 - 掘金社区
   - [OpenHarmony编解码器—libogg [GN编译]](https://juejin.cn/post/7457434182563971123)
+- 鸿蒙官网
+  - [应用框架开发-多场景不同效果](https://developer.huawei.com/consumer/cn/blog/topic/03171847718772004)
+  - [状态管理V1 && V2](https://developer.huawei.com/consumer/cn/blog/topic/03171821823467106)
+  - [Harmony OS Next应用“丁斗口算”开发记录 (14)](https://developer.huawei.com/consumer/cn/blog/topic/03171815921365088)
+  - [Flex布局差异](https://developer.huawei.com/consumer/cn/blog/topic/03171815577043105)
+  - [HarmonyOS NEXT 原生应用开发：社交通讯录界面实现](https://developer.huawei.com/consumer/cn/blog/topic/03171815086438087)
+  - [Harmony OS Next应用“丁斗口算”开发记录 (13)](https://developer.huawei.com/consumer/cn/blog/topic/03171813208608086)
+  - [Harmony OS Next应用“丁斗口算”开发记录 (12)](https://developer.huawei.com/consumer/cn/blog/topic/03171812078371104)
+  - [Harmony OS Next应用“丁斗口算”开发记录 (11)](https://developer.huawei.com/consumer/cn/blog/topic/03171811067347103)
+  - [转转平台IM系统架构设计与实践(一)：整体架构设计](https://developer.huawei.com/consumer/cn/blog/topic/03171809217906085)
+- GitHub
+  - [MIA](https://github.com/arhcoder/MIA)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [优化与手机协同操作逻辑，华为家庭存储获鸿蒙 HarmonyOS 4.2.0.39 升级](https://www.ithome.com/0/823/632.htm)
+- 掘金社区
+  - [OpenHarmony网络协议通信—nanopb](https://juejin.cn/post/7457753401826918426)
+  - [OpenHarmony图形处理库—pyclipper [GN编译]](https://juejin.cn/post/7457753401825706010)
+  - [鸿蒙接入微信支付](https://juejin.cn/post/7457744174403452963)
+  - [OpenHarmony图像解码库—stb-image [GN编译]](https://juejin.cn/post/7457576723430342682)
+  - [Harmony NEXT：组件化SDK本地打包脚本--Windows PowerShell脚本](https://juejin.cn/post/7457570392674598947)
