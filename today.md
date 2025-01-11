@@ -3844,3 +3844,18 @@
   - [鸿蒙接入微信支付](https://juejin.cn/post/7457744174403452963)
   - [OpenHarmony图像解码库—stb-image [GN编译]](https://juejin.cn/post/7457576723430342682)
   - [Harmony NEXT：组件化SDK本地打包脚本--Windows PowerShell脚本](https://juejin.cn/post/7457570392674598947)
+- 51CTO
+  - [啃论文俱乐部——移植speexdsp到OpenHarmony标准系统④](https://ost.51cto.com/posts/16848)
+- GitHub
+  - [HA_harmony_climate_component](https://github.com/nickneos/HA_harmony_climate_component)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [原生鸿蒙一周新闻汇总：微信迎正式版、支付宝上线集五福](https://www.ithome.com/0/823/830.htm)
+  - [腾讯微信官网上架华为纯血鸿蒙 HarmonyOS 版客户端](https://www.ithome.com/0/823/816.htm)
+- 鸿蒙官网
+  - [详解GaussDB事务和并发控制机制，提升事务并发处理效率](https://developer.huawei.com/consumer/cn/blog/topic/03171891534165005)
+  - [通过url链接来跳转华为鸿蒙应用市场  &&  通过图片uri压缩图片](https://developer.huawei.com/consumer/cn/blog/topic/03171889450267004)
+- 博客园
+  - [主体分割技术，提升图像信息提取能力 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18664022)
+- 开源中国
+  - [开源日报 | 16GB内存版树莓派5售价120美元；鸿蒙原生版微信正式上架；RAG的未来；AI眼镜在CES井喷](https://www.oschina.net/news/329186)
+  - [鸿蒙原生版微信正式上架鸿蒙应用市场](https://www.oschina.net/news/329080)
