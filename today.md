@@ -3859,3 +3859,5 @@
 - 开源中国
   - [开源日报 | 16GB内存版树莓派5售价120美元；鸿蒙原生版微信正式上架；RAG的未来；AI眼镜在CES井喷](https://www.oschina.net/news/329186)
   - [鸿蒙原生版微信正式上架鸿蒙应用市场](https://www.oschina.net/news/329080)
+- 鸿蒙官网
+  - [emitter的简单使用](https://developer.huawei.com/consumer/cn/blog/topic/03172009169271002)
