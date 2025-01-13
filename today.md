@@ -3861,3 +3861,15 @@
   - [鸿蒙原生版微信正式上架鸿蒙应用市场](https://www.oschina.net/news/329080)
 - 鸿蒙官网
   - [emitter的简单使用](https://developer.huawei.com/consumer/cn/blog/topic/03172009169271002)
+- 鸿蒙官网
+  - [《鸿蒙 HarmonyOS 应用开发从入门到精通（第 2 版）》学习笔记 ——HarmonyOS 环境搭建之注册华为开发者联盟帐号](https://developer.huawei.com/consumer/cn/blog/topic/03172141895055008)
+  - [PersistenceV2 / AppStorageV2 的简单使用](https://developer.huawei.com/consumer/cn/blog/topic/03172102549274004)
+  - [AppStorageV2 / PersistenceV2  API简述](https://developer.huawei.com/consumer/cn/blog/topic/03172101854318008)
+  - [HarmonyOS NEXT应用开发实战(一)：边学边玩，从零开发一款影视APP](https://developer.huawei.com/consumer/cn/blog/topic/03172089660804007)
+  - [鸿蒙系统集成开发工具能不能实现手机端的应用与探讨。](https://developer.huawei.com/consumer/cn/blog/topic/03172087183645007)
+  - [鸿蒙okhttp+retrofit网络请求库介绍及封装（一）](https://developer.huawei.com/consumer/cn/blog/topic/03172076157194003)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [周末两连更：微信纯血鸿蒙版 App 获 1.0.3.50 测试版尝鲜升级](https://www.ithome.com/0/824/096.htm)
+  - [色彩更真实：华为 Mate 70 系列手机获鸿蒙 HarmonyOS 4.3.0.150 升级，优化拍摄效果](https://www.ithome.com/0/824/086.htm)
+- 掘金社区
+  - [OpenHarmony其他工具类—lua](https://juejin.cn/post/7458677094223642634)
