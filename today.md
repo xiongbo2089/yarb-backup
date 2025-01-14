@@ -3873,3 +3873,23 @@
   - [色彩更真实：华为 Mate 70 系列手机获鸿蒙 HarmonyOS 4.3.0.150 升级，优化拍摄效果](https://www.ithome.com/0/824/086.htm)
 - 掘金社区
   - [OpenHarmony其他工具类—lua](https://juejin.cn/post/7458677094223642634)
+- 51CTO
+  - [鸿蒙 Flutter 实战：现有 Flutter 项目支持鸿蒙 II](https://ost.51cto.com/posts/31050)
+- 开源中国
+  - [开源日报 | DeepSeek推出移动版APP；开源古汉语模型；论文的标题越来越花里胡哨；“AGI预言”突然增多只是炒作吗？](https://www.oschina.net/news/329528)
+  - [华为余承东 2025 全员信：鸿蒙三分天下有其一，10 万个原生应用是未来半年到一年关键目标](https://www.oschina.net/news/329444)
+- 鸿蒙官网
+  - [自定义密码输入框和数字键盘](https://developer.huawei.com/consumer/cn/blog/topic/03172177117926014)
+  - [使用 UIUtils.getTarget(proxyObj)接口获取状态管理框架代理前的原始对象](https://developer.huawei.com/consumer/cn/blog/topic/03172165604357012)
+  - [自定义组件冻结功能 freezeWhenInactive 的使用示例](https://developer.huawei.com/consumer/cn/blog/topic/03172161205818009)
+  - [定义一个单例](https://developer.huawei.com/consumer/cn/blog/topic/03172160519984011)
+  - [Harmony OS 开发-ArkUI框架速成一ArkUI概述和特点](https://developer.huawei.com/consumer/cn/blog/topic/03172158749778005)
+  - [Harmony OS开发-ArkTS语言速成六分支语句](https://developer.huawei.com/consumer/cn/blog/topic/03172158473622010)
+  - [社交软件红包技术解密(四)：微信红包系统是如何应对高并发的](https://developer.huawei.com/consumer/cn/blog/topic/03172151154058009)
+  - [@Param、@Event 和 !! 的使用](https://developer.huawei.com/consumer/cn/blog/topic/03172149707915005)
+  - [对话4位技术大咖，探秘华为开发者空间打破壁垒，实现跨平台协作](https://developer.huawei.com/consumer/cn/blog/topic/03172149516065004)
+  - [《鸿蒙 HarmonyOS 应用开发从入门到精通（第 2 版）》学习笔记 ——HarmonyOS 环境搭建之注册华为开发者联盟帐号](https://developer.huawei.com/consumer/cn/blog/topic/03172141895055008)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为，纯血鸿蒙，三分天下有其一](https://www.ithome.com/0/824/410.htm)
+- 掘金社区
+  - [OpenHarmony 视频播放开发指南~](https://juejin.cn/post/7459286862832025651)
