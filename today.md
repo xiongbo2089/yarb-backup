@@ -3893,3 +3893,27 @@
   - [华为，纯血鸿蒙，三分天下有其一](https://www.ithome.com/0/824/410.htm)
 - 掘金社区
   - [OpenHarmony 视频播放开发指南~](https://juejin.cn/post/7459286862832025651)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙原生版百度地图新版上线，支持导航语音包、HiCar 互联等重要功能！](https://www.ithome.com/0/824/664.htm)
+  - [华为举办鸿蒙生态视听行业峰会，携手伙伴共探视听新体验、新增长](https://www.ithome.com/0/824/663.htm)
+- 51CTO
+  - [《初探鸿蒙：书写技术之旅的忐忑与期待》](https://ost.51cto.com/posts/31314)
+- 鸿蒙官网
+  - [将 Next.js 应用部署到 自定义服务器（如 VPS 或 IaaS 平台）的 GitHub Actions 配置](https://developer.huawei.com/consumer/cn/blog/topic/03172316389169015)
+  - [HarmonyOS如何分别监听设备屏幕翻转和屏幕大小变化](https://developer.huawei.com/consumer/cn/blog/topic/03172315223018008)
+  - [PHP进阶-在Ubuntu上搭建LAMP环境教程](https://developer.huawei.com/consumer/cn/blog/topic/03172274439625014)
+  - [用DevEco Studio模拟器这些能力 没真机也能高效调测鸿蒙原生应用](https://developer.huawei.com/consumer/cn/blog/topic/03172264037769007)
+  - [火山引擎上线鸿蒙原生智能美化解决方案 轻松提升图形视频美化体验](https://developer.huawei.com/consumer/cn/blog/topic/03172263716642010)
+  - [Tabs中tabBar动态更新](https://developer.huawei.com/consumer/cn/blog/topic/03172262222097013)
+  - [文本转语音服务](https://developer.huawei.com/consumer/cn/blog/topic/03172259777795012)
+  - [ApplicationContext 接口](https://developer.huawei.com/consumer/cn/blog/topic/03172257830333007)
+  - [【HarmonyOS NEXT】鸿蒙跳转华为应用市场目标APP下载页](https://developer.huawei.com/consumer/cn/blog/topic/03172256750189006)
+  - [HarmonyOS NEXT边学边玩，从零开发一款影视APP(二、首页轮播图懒加载的实现)](https://developer.huawei.com/consumer/cn/blog/topic/03172253554575015)
+  - [HarmonyOS ArkTS中视频播放Video组件实现竖屏到横屏切换](https://developer.huawei.com/consumer/cn/blog/topic/03172253253846011)
+  - [记录@Provider和@Consumer vs @Provide和@Consume能力对比](https://developer.huawei.com/consumer/cn/blog/topic/03172245619579010)
+  - [鸿蒙NEXT开发-不申请权限写入图片到相册](https://developer.huawei.com/consumer/cn/blog/topic/03172234710270006)
+- 博客园
+  - [意图框架习惯推荐方案，为用户提供个性化内容分发 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18670931)
+  - [鸿蒙开发 - 自定义组件 和 组件通信的方法 （15:02 刚刚更新了动图，嘿嘿） - 时光凉忆](https://www.cnblogs.com/naturl/p/18668909)
+- 掘金社区
+  - [如何编译OpenHarmony SDK API](https://juejin.cn/post/7459588760667832329)
