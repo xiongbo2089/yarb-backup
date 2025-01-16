@@ -3917,3 +3917,23 @@
   - [鸿蒙开发 - 自定义组件 和 组件通信的方法 （15:02 刚刚更新了动图，嘿嘿） - 时光凉忆](https://www.cnblogs.com/naturl/p/18668909)
 - 掘金社区
   - [如何编译OpenHarmony SDK API](https://juejin.cn/post/7459588760667832329)
+- 踏雨歌青春，诗酒趁年华
+  - [【宠粉赠书】鸿蒙之光HarmonyOS NEXT原生应用开发入门](https://blog.csdn.net/weixin_41793160/article/details/145171685)
+- 鸿蒙官网
+  - [Tabs 嵌套 Tabs 引起的滑动冲突](https://developer.huawei.com/consumer/cn/blog/topic/03172346278900012)
+  - [组件显示隐藏回调：onVisibleAreaChange](https://developer.huawei.com/consumer/cn/blog/topic/03172336802347016)
+  - [什么是音频格式？](https://developer.huawei.com/consumer/cn/blog/topic/03172332412792011)
+  - [音频流简介](https://developer.huawei.com/consumer/cn/blog/topic/03172331091446011)
+  - [鸿蒙 HarmonyOS PullToRefresh下拉刷新二次封装](https://developer.huawei.com/consumer/cn/blog/topic/03172324746054017)
+  - [社交软件红包技术解密(五)：微信红包系统是如何实现高可用性的](https://developer.huawei.com/consumer/cn/blog/topic/03172322290561010)
+  - [基于云主机搭建Termgraph绘图工具，将数据转化为可视化图形](https://developer.huawei.com/consumer/cn/blog/topic/03172320109401009)
+  - [将 Next.js 应用部署到 自定义服务器（如 VPS 或 IaaS 平台）的 GitHub Actions 配置](https://developer.huawei.com/consumer/cn/blog/topic/03172316389169015)
+  - [HarmonyOS如何分别监听设备屏幕翻转和屏幕大小变化](https://developer.huawei.com/consumer/cn/blog/topic/03172315223018008)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [《王者荣耀》纯血鸿蒙 HarmonyOS NEXT 版明日 10 点正式上线，支持 120 帧刷新率、跨平台匹配、账号互通与继承](https://www.ithome.com/0/824/927.htm)
+  - [华为 MatePad Pro 12.2 英寸等平板开启鸿蒙 HarmonyOS NEXT Beta 版用户招募](https://www.ithome.com/0/824/864.htm)
+  - [春运抢票即将进入高峰期！鸿蒙原生版铁路 12306 迎来春运首秀](https://www.ithome.com/0/824/758.htm)
+- 鸿蒙开源工程更新
+  - [阿强：HarmonyOS/鸿蒙TV](https://gitee.com/licq_workspace/hongmeng-tv)
+  - [Minzhang/HarmonyComponent](https://gitee.com/weimin20171202/HarmonyComponent)
+  - [ISRC_OHOS/JodaTime_ohos](https://gitee.com/isrc_ohos/joda-time_ohos)
