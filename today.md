@@ -3937,3 +3937,20 @@
   - [阿强：HarmonyOS/鸿蒙TV](https://gitee.com/licq_workspace/hongmeng-tv)
   - [Minzhang/HarmonyComponent](https://gitee.com/weimin20171202/HarmonyComponent)
   - [ISRC_OHOS/JodaTime_ohos](https://gitee.com/isrc_ohos/joda-time_ohos)
+- 51CTO
+  - [自学记录HarmonyOS Next DRM API 13：构建安全的数字内容保护系统](https://ost.51cto.com/posts/31344)
+  - [Harmony OS Next应用“丁斗口算”开发记录 （1）](https://ost.51cto.com/posts/31329)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信纯血鸿蒙版 App 获 1.0.3.52 邀测升级，支持朋友圈图片和视频转发给朋友](https://www.ithome.com/0/825/232.htm)
+  - [旗舰特性下放：华为 FreeClip 耳夹式耳机获鸿蒙 HarmonyOS 5.0.0.236 升级，新增头部控制功能](https://www.ithome.com/0/825/122.htm)
+  - [华为智慧屏 S / V / Vision 系列获鸿蒙 HarmonyOS 4.3 升级，新增我的手机、儿童报告等功能](https://www.ithome.com/0/825/034.htm)
+- 鸿蒙官网
+  - [惨痛教训中积累的“端云一体化”入门经验要点](https://developer.huawei.com/consumer/cn/blog/topic/03172450492459023)
+  - [BasicLibray——项目简介](https://developer.huawei.com/consumer/cn/blog/topic/03172433349214019)
+  - [科普HDR视频](https://developer.huawei.com/consumer/cn/blog/topic/03172430450188018)
+  - [Media Kit简介](https://developer.huawei.com/consumer/cn/blog/topic/03172428752490018)
+  - [使用AVRecorder录制音频(ArkTS)](https://developer.huawei.com/consumer/cn/blog/topic/03172422142167015)
+  - [媒体查询](https://developer.huawei.com/consumer/cn/blog/topic/03172408333511014)
+  - [科技云报到：要算力更要“算利”，“精装算力”触发大模型产业新变局？](https://developer.huawei.com/consumer/cn/blog/topic/03172405630243013)
+- 掘金社区
+  - [鸿蒙开发——进程模型](https://juejin.cn/post/7460395298403074058)
