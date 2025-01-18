@@ -3954,3 +3954,18 @@
   - [科技云报到：要算力更要“算利”，“精装算力”触发大模型产业新变局？](https://developer.huawei.com/consumer/cn/blog/topic/03172405630243013)
 - 掘金社区
   - [鸿蒙开发——进程模型](https://juejin.cn/post/7460395298403074058)
+- 鸿蒙官网
+  - [语音转文本的工具类封装与使用](https://developer.huawei.com/consumer/cn/blog/topic/03172523098431018)
+  - [中国信通院栗蔚：云计算与AI加速融合，如何开启智算时代新纪元？](https://developer.huawei.com/consumer/cn/blog/topic/03172522479793024)
+  - [华为Mate XT 非凡大师上手评测：不止有面更是未来](https://developer.huawei.com/consumer/cn/blog/topic/03172517860008026)
+  - [在开发鸿蒙智联产品过程中，困难重重，阻碍不断，鸿蒙智联生态成长道阻且长](https://developer.huawei.com/consumer/cn/blog/topic/03172511943808020)
+  - [解读TaurusDB字段压缩：减少存储成本，避免语句大量修改](https://developer.huawei.com/consumer/cn/blog/topic/03172507745627025)
+  - [Serverless 学习路径（二）](https://developer.huawei.com/consumer/cn/blog/topic/03172503687873019)
+  - [Serverless 学习路径（一）](https://developer.huawei.com/consumer/cn/blog/topic/03172503622812017)
+  - [DevEco Studio 汉化](https://developer.huawei.com/consumer/cn/blog/topic/03172491274600016)
+  - [CodeArts 盘古助手](https://developer.huawei.com/consumer/cn/blog/topic/03172490952730024)
+  - [主机防护如何更安全、高效? HSS新增多种特性，让你少走弯路](https://developer.huawei.com/consumer/cn/blog/topic/03172490308623018)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [原生鸿蒙（1.11-1.17）大事件汇总：《王者荣耀》正式上架，小红书等百款应用更新](https://www.ithome.com/0/825/450.htm)
+  - [鸿蒙原生版 QQ 已上架原生鸿蒙平板，微信正式上架平板端指日可待](https://www.ithome.com/0/825/392.htm)
+  - [鸿蒙生态跃上新台阶：25 年华为智能穿戴新品将全部搭载原生鸿蒙操作系统](https://www.ithome.com/0/825/378.htm)
