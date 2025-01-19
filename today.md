@@ -3969,3 +3969,7 @@
   - [原生鸿蒙（1.11-1.17）大事件汇总：《王者荣耀》正式上架，小红书等百款应用更新](https://www.ithome.com/0/825/450.htm)
   - [鸿蒙原生版 QQ 已上架原生鸿蒙平板，微信正式上架平板端指日可待](https://www.ithome.com/0/825/392.htm)
   - [鸿蒙生态跃上新台阶：25 年华为智能穿戴新品将全部搭载原生鸿蒙操作系统](https://www.ithome.com/0/825/378.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [QQ 纯血鸿蒙版 App 获 9.1.20 升级，支持平板安装使用](https://www.ithome.com/0/825/659.htm)
+  - [API 14 首个 Beta 版本，华为鸿蒙 HarmonyOS 5.0.2 Beta 1 新增和增强特性公布](https://www.ithome.com/0/825/656.htm)
+  - [API 14，华为 MatePad Pro 12.2 英寸平板获鸿蒙 HarmonyOS NEXT 5.0.0.103 Beta 版升级](https://www.ithome.com/0/825/653.htm)
