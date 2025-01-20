@@ -3973,3 +3973,7 @@
   - [QQ 纯血鸿蒙版 App 获 9.1.20 升级，支持平板安装使用](https://www.ithome.com/0/825/659.htm)
   - [API 14 首个 Beta 版本，华为鸿蒙 HarmonyOS 5.0.2 Beta 1 新增和增强特性公布](https://www.ithome.com/0/825/656.htm)
   - [API 14，华为 MatePad Pro 12.2 英寸平板获鸿蒙 HarmonyOS NEXT 5.0.0.103 Beta 版升级](https://www.ithome.com/0/825/653.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [优化主题动效、系统稳定性，华为 nova 12 / Pro 手机获鸿蒙 HarmonyOS NEXT 5.0.0.105 升级](https://www.ithome.com/0/825/785.htm)
+  - [华为小艺助手纯血鸿蒙版 App 获 11.2.10.310 升级，新增智能体广场等功能](https://www.ithome.com/0/825/781.htm)
+  - [华为支付纯血鸿蒙版 App 获 1.0.21.361 版本升级，支持碰一碰收发红包功能](https://www.ithome.com/0/825/725.htm)
