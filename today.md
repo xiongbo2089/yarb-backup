@@ -3988,3 +3988,22 @@
   - [用DevEco Studio性能分析工具 高效解决鸿蒙原生应用内存问题](https://developer.huawei.com/consumer/cn/blog/topic/03172752812212021)
   - [《鸿蒙 HarmonyOS 应用开发从入门到精通（第 2 版）》学习笔记 ——HarmonyOS 环境搭建之安装DevEco Studio](https://developer.huawei.com/consumer/cn/blog/topic/03172750822896026)
   - [async/await和Promise的关系](https://developer.huawei.com/consumer/cn/blog/topic/03172749310692028)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 5.0.0.123 SP19 陆续推送：新增蛇年新春水印、多设备移动通信网络共享等功能](https://www.ithome.com/0/826/198.htm)
+- 鸿蒙官网
+  - [华为支付接入规范](https://developer.huawei.com/consumer/cn/blog/topic/03172921261553026)
+  - [2025江西省计算机用户协会新春联谊会在南昌举行](https://developer.huawei.com/consumer/cn/blog/topic/03172881523378025)
+  - [HarmonyOS快速入门](https://developer.huawei.com/consumer/cn/blog/topic/03172875191764035)
+  - [使用@ohos/pulltorefresh下载网络图片，通过photoAccessHelper保存到相册](https://developer.huawei.com/consumer/cn/blog/topic/03172860628255029)
+  - [QQ设计团队分享：手Q语音消息改版背后的功能设计思路](https://developer.huawei.com/consumer/cn/blog/topic/03172857968822025)
+  - [华为：以科技力量重塑市场格局](https://developer.huawei.com/consumer/cn/blog/topic/03172856263398024)
+  - [华为Mate 70 Pro+体验报告：Mate60用户值得换吗？](https://developer.huawei.com/consumer/cn/blog/topic/03172855878316033)
+  - [Mac系统下Scrcpy投屏真机到电脑并集成DevEco真机调试 ](https://developer.huawei.com/consumer/cn/blog/topic/03172844227966032)
+  - [HarmonyOS开发模板分享 –莓创图表为各个行业提供了模版案例，快来领取吧](https://developer.huawei.com/consumer/cn/blog/topic/03172836999433024)
+  - [华为支付-（可选）特定场景配置操作](https://developer.huawei.com/consumer/cn/blog/topic/03172835922146031)
+- 51CTO
+  - [基于国产鸿蒙系统的先进身份识别技术：原理、应用与实现](https://ost.51cto.com/posts/31394)
+  - [华为鸿蒙自己家的“AI”编辑器插件用起来到底怎么样？](https://ost.51cto.com/posts/31393)
+- 掘金社区
+  - [如何让鸿蒙 Axios 网络请求像诗一样优雅](https://juejin.cn/post/7462210906966474761)
+  - [鸿蒙开发仿微信长按录音效果](https://juejin.cn/post/7461993842502467622)
