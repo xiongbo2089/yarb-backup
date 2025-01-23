@@ -4007,3 +4007,21 @@
 - 掘金社区
   - [如何让鸿蒙 Axios 网络请求像诗一样优雅](https://juejin.cn/post/7462210906966474761)
   - [鸿蒙开发仿微信长按录音效果](https://juejin.cn/post/7461993842502467622)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 系统 Call Kit 来电场景指南发布，支持音 / 视频通话](https://www.ithome.com/0/826/632.htm)
+  - [华为鸿蒙 HarmonyOS 5.0.2 Release 发布，API 升至 14 Release](https://www.ithome.com/0/826/620.htm)
+- 鸿蒙官网
+  - [华为支付-商户入网和获取商户号](https://developer.huawei.com/consumer/cn/blog/topic/03173007696566031)
+  - [973计划的内容是什么](https://developer.huawei.com/consumer/cn/blog/topic/03172967810653037)
+  - [实现子容器比父容器缩小10](https://developer.huawei.com/consumer/cn/blog/topic/03172966880209030)
+  - [HCIP是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03172965559193029)
+  - [ 【HarmonyOS NEXT】鸿蒙三方应用跳转到系统浏览器](https://developer.huawei.com/consumer/cn/blog/topic/03172946522325027)
+  - [华为Pura 70 Ultra全新配色登场 先锋美学喜迎新春](https://developer.huawei.com/consumer/cn/blog/topic/03172928859880037)
+  - [如何迅速并识别处理MDL锁阻塞问题](https://developer.huawei.com/consumer/cn/blog/topic/03172925886887026)
+  - [华为支付接入规范](https://developer.huawei.com/consumer/cn/blog/topic/03172921261553026)
+- GitHub
+  - [rdbStore](https://github.com/bytedance/rdbStore)
+- 掘金社区
+  - [Harmony Next 跨平台开发入门](https://juejin.cn/post/7462554388265271331)
+  - [鸿蒙开发——并发之异步与线程](https://juejin.cn/post/7462544306026446884)
+  - [Harmony Next 使用 AVPlayer 播放音频](https://juejin.cn/post/7462340490433888291)
