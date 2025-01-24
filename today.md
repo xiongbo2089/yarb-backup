@@ -4025,3 +4025,16 @@
   - [Harmony Next 跨平台开发入门](https://juejin.cn/post/7462554388265271331)
   - [鸿蒙开发——并发之异步与线程](https://juejin.cn/post/7462544306026446884)
   - [Harmony Next 使用 AVPlayer 播放音频](https://juejin.cn/post/7462340490433888291)
+- 51CTO
+  - [【FFH】如何配置横屏PageAbility，开发横屏应用](https://ost.51cto.com/posts/10485)
+- 鸿蒙官网
+  - [大模型进化论：AI产业落地将卷向何方？](https://developer.huawei.com/consumer/cn/blog/topic/03173093893218040)
+  - [曾经的屠龙少年，已经脱离了群众，鸿蒙智联生态现已死气沉沉，鸿蒙智联的未来又在哪里？](https://developer.huawei.com/consumer/cn/blog/topic/03173038958549048)
+  - [ARKTS的内存管理机制](https://developer.huawei.com/consumer/cn/blog/topic/03173034093188032)
+  - [蓝牙鼠标无法连接故障的修复一例](https://developer.huawei.com/consumer/cn/blog/topic/03173027555167031)
+  - [Kmesh v1.0正式发布！7大特性提升网络流量管理效率和安全性](https://developer.huawei.com/consumer/cn/blog/topic/03173027053958034)
+  - [Hypium+python自动化安装配置](https://developer.huawei.com/consumer/cn/blog/topic/03173026610932033)
+  - [HCIA是什么](https://developer.huawei.com/consumer/cn/blog/topic/03173011694975045)
+  - [华为支付-商户入网和获取商户号](https://developer.huawei.com/consumer/cn/blog/topic/03173007696566031)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [锁屏一键接听，华为纯血鸿蒙把 CallKit 安排上了](https://www.ithome.com/0/826/829.htm)
