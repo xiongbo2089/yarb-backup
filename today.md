@@ -4038,3 +4038,10 @@
   - [华为支付-商户入网和获取商户号](https://developer.huawei.com/consumer/cn/blog/topic/03173007696566031)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [锁屏一键接听，华为纯血鸿蒙把 CallKit 安排上了](https://www.ithome.com/0/826/829.htm)
+- 鸿蒙官网
+  - [社交软件红包技术解密(六)：微信红包系统的存储层架构演进实践](https://developer.huawei.com/consumer/cn/blog/topic/03173118448503036)
+  - [初学关于鸿蒙next中遇到的问题及解决方法-------模拟器初始页面的调整](https://developer.huawei.com/consumer/cn/blog/topic/03173108493133053)
+  - [大模型进化论：AI产业落地将卷向何方？](https://developer.huawei.com/consumer/cn/blog/topic/03173093893218040)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 HarmonyOS NEXT 系统“鸿蒙新春有礼”活动开启：可领视频、主题、阅读、音乐等 App 会员权益](https://www.ithome.com/0/827/007.htm)
+  - [华为鸿蒙 HarmonyOS NEXT“碰一碰发红包”玩法公布，支持语音发起操作](https://www.ithome.com/0/826/931.htm)
