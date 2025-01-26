@@ -4045,3 +4045,5 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 HarmonyOS NEXT 系统“鸿蒙新春有礼”活动开启：可领视频、主题、阅读、音乐等 App 会员权益](https://www.ithome.com/0/827/007.htm)
   - [华为鸿蒙 HarmonyOS NEXT“碰一碰发红包”玩法公布，支持语音发起操作](https://www.ithome.com/0/826/931.htm)
+- 鸿蒙官网
+  - [常见的垃圾回收算法](https://developer.huawei.com/consumer/cn/blog/topic/03173218407318039)
