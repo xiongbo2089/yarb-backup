@@ -4047,3 +4047,16 @@
   - [华为鸿蒙 HarmonyOS NEXT“碰一碰发红包”玩法公布，支持语音发起操作](https://www.ithome.com/0/826/931.htm)
 - 鸿蒙官网
   - [常见的垃圾回收算法](https://developer.huawei.com/consumer/cn/blog/topic/03173218407318039)
+- 鸿蒙官网
+  - [视频播放器Codelab](https://developer.huawei.com/consumer/cn/blog/topic/03173312836307045)
+  - [VideoPlayer](https://developer.huawei.com/consumer/cn/blog/topic/03173311108818054)
+  - [学习例程6.1:竖排文字动画效果，适用于诗文展示](https://developer.huawei.com/consumer/cn/blog/topic/03173293480171049)
+  - [HarmonyOS 应用开发者高级认证考试部分题目 25-1-26](https://developer.huawei.com/consumer/cn/blog/topic/03173292865195048)
+  - [微信小程序-Docker+Nginx环境配置业务域名验证文件](https://developer.huawei.com/consumer/cn/blog/topic/03173278276914061)
+  - [自动切换[调试]&[正式]签名签名.](https://developer.huawei.com/consumer/cn/blog/topic/03173277714234045)
+  - [Linux系统中解决端口占用问题](https://developer.huawei.com/consumer/cn/blog/topic/03173277409082060)
+  - [Java进阶-在Ubuntu上部署SpringBoot应用](https://developer.huawei.com/consumer/cn/blog/topic/03173276314199044)
+  - [Python进阶-在Ubuntu上部署Flask应用](https://developer.huawei.com/consumer/cn/blog/topic/03173275326171049)
+  - [C#进阶-在Ubuntu上部署ASP.NET Core Web API应用](https://developer.huawei.com/consumer/cn/blog/topic/03173274133177043)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [交管 12123 纯血鸿蒙版 App 上架华为 HarmonyOS NEXT 市场应用尝鲜](https://www.ithome.com/0/827/362.htm)
