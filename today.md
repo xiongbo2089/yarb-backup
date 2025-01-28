@@ -4060,3 +4060,7 @@
   - [C#进阶-在Ubuntu上部署ASP.NET Core Web API应用](https://developer.huawei.com/consumer/cn/blog/topic/03173274133177043)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [交管 12123 纯血鸿蒙版 App 上架华为 HarmonyOS NEXT 市场应用尝鲜](https://www.ithome.com/0/827/362.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为余承东：今年会出一个全国人民都买得起且意想不到的新品，预装原生鸿蒙系统](https://www.ithome.com/0/827/525.htm)
+- GitHub
+  - [negative_harmony](https://github.com/Chimera-Studio/negative_harmony)
