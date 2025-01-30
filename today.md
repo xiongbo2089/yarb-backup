@@ -4064,3 +4064,5 @@
   - [华为余承东：今年会出一个全国人民都买得起且意想不到的新品，预装原生鸿蒙系统](https://www.ithome.com/0/827/525.htm)
 - GitHub
   - [negative_harmony](https://github.com/Chimera-Studio/negative_harmony)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Sound 智能音箱适配鸿蒙 HarmonyOS NEXT 系统“超级终端”](https://www.ithome.com/0/827/848.htm)
