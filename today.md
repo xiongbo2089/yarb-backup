@@ -4066,3 +4066,6 @@
   - [negative_harmony](https://github.com/Chimera-Studio/negative_harmony)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 Sound 智能音箱适配鸿蒙 HarmonyOS NEXT 系统“超级终端”](https://www.ithome.com/0/827/848.htm)
+- 掘金社区
+  - [鸿蒙3.0设置视频播放速度](https://juejin.cn/post/7465990409061105674)
+  - [鸿蒙视频窗体播放界面分屏显示变形](https://juejin.cn/post/7465990409060859914)
