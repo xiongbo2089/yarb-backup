@@ -4073,3 +4073,10 @@
   - [向日葵定位系统|||户外运动必备神器](https://developer.huawei.com/consumer/cn/blog/topic/03174130597280066)
 - 掘金社区
   - [鸿蒙开发——应用程序包及模块化设计](https://juejin.cn/post/7467164101136859155)
+- 鸿蒙官网
+  - [DeepSeek火出圈，国货当自强！HarmonyOS就是原生智能系统](https://developer.huawei.com/consumer/cn/blog/topic/03174137093552056)
+  - [向日葵定位系统|||户外运动必备神器](https://developer.huawei.com/consumer/cn/blog/topic/03174130597280066)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙生态新进展：小艺 App 接入 DeepSeek-R1，微博、支付宝、钉钉等多款主流应用功能更新](https://www.ithome.com/0/828/781.htm)
+- 51CTO
+  - [【闲谈鸿蒙三方库】网络库@ohos/axios](https://ost.51cto.com/posts/31521)
