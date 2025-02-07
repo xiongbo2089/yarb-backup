@@ -4080,3 +4080,14 @@
   - [华为鸿蒙生态新进展：小艺 App 接入 DeepSeek-R1，微博、支付宝、钉钉等多款主流应用功能更新](https://www.ithome.com/0/828/781.htm)
 - 51CTO
   - [【闲谈鸿蒙三方库】网络库@ohos/axios](https://ost.51cto.com/posts/31521)
+- 鸿蒙官网
+  - [Musl libc 简介](https://developer.huawei.com/consumer/cn/blog/topic/03174257580622070)
+  - [GaussDB高级压缩，破解业务数据激增难题](https://developer.huawei.com/consumer/cn/blog/topic/03174234261116053)
+  - [开发往事：微信千年不变的那张闪屏图片的由来](https://developer.huawei.com/consumer/cn/blog/topic/03174225012627058)
+  - [华为支付-免密支付接入免密代扣说明](https://developer.huawei.com/consumer/cn/blog/topic/03174219935260057)
+  - [蛇年开工送大礼，邀您一键体验DeepSeek系列新模型](https://developer.huawei.com/consumer/cn/blog/topic/03174218688177068)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙生态新进展：淘宝、中国国航等多款重点应用功能更新](https://www.ithome.com/0/829/025.htm)
+  - [华为 MatePad Pro 12.2 英寸平板开启鸿蒙 HarmonyOS NEXT 花粉 Beta 版升级招募](https://www.ithome.com/0/828/983.htm)
+- 掘金社区
+  - [鸿蒙开发——Stage模型之Ability组件](https://juejin.cn/post/7468203211724636214)
