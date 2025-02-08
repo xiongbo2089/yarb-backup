@@ -4091,3 +4091,14 @@
   - [华为 MatePad Pro 12.2 英寸平板开启鸿蒙 HarmonyOS NEXT 花粉 Beta 版升级招募](https://www.ithome.com/0/828/983.htm)
 - 掘金社区
   - [鸿蒙开发——Stage模型之Ability组件](https://juejin.cn/post/7468203211724636214)
+- 鸿蒙官网
+  - [鸿蒙版WPS office如何插入DeepSeek大模型](https://developer.huawei.com/consumer/cn/blog/topic/03174343958433060)
+  - [【HarmonyOS NEXT】systemDateTime 时间戳转换为时间格式 Date，DateTimeFormat](https://developer.huawei.com/consumer/cn/blog/topic/03174333086246059)
+  - [【HarmonyOS NEXT】设备显示白屏 syswarning happended in XXX](https://developer.huawei.com/consumer/cn/blog/topic/03174332798421060)
+  - [鸿蒙NEXT系统中语音识别的关键流程及实现](https://developer.huawei.com/consumer/cn/blog/topic/03174322990610057)
+  - [Navigation路由跳转/数据传输](https://developer.huawei.com/consumer/cn/blog/topic/03174322639733071)
+  - [华为支付-免密支付接入签约代扣场景开发步骤](https://developer.huawei.com/consumer/cn/blog/topic/03174307042982059)
+- 博客园
+  - [鸿蒙页面开发 -  组件复用样式 @Styles - 时光凉忆](https://www.cnblogs.com/naturl/p/18702230)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为花瓣地图 1.7.0.301 版本揭示 Mate XT 三折叠手机将获鸿蒙 HarmonyOS NEXT 升级](https://www.ithome.com/0/829/190.htm)
