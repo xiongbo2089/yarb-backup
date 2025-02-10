@@ -4108,3 +4108,7 @@
   - [HarmonyOS 应用开发者高级认证考试部分答案 25-1-26(仅供参考)](https://developer.huawei.com/consumer/cn/blog/topic/03174408725015075)
   - [Volcano v1.11发布，显著提升AI训练与推理任务的性能](https://developer.huawei.com/consumer/cn/blog/topic/03174396651584074)
   - [华为支付-免密支付接入签约代扣场景准备](https://developer.huawei.com/consumer/cn/blog/topic/03174396638826061)
+- 博客园
+  - [.NET适配HarmonyOS进展 - 布布(CeSun)](https://www.cnblogs.com/CeSun/p/18706813)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为小艺助手 DeepSeek-R1 智能体升级至正式版，支持联网搜索](https://www.ithome.com/0/829/613.htm)
