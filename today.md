@@ -4147,3 +4147,15 @@
   - [鸿蒙开发——AbilityStage、WindowStage、Context](https://juejin.cn/post/7469673851070136346)
   - [【鸿蒙HarmonyOS】新手入门必看-避坑总结](https://juejin.cn/post/7469652497721049098)
   - [鸿蒙 IM 开发 - Protobuf 使用与编译](https://juejin.cn/post/7469422957594525705)
+- 鸿蒙官网
+  - [loadImageWithUrl && saveImageToAlbum](https://developer.huawei.com/consumer/cn/blog/topic/03174678713129060)
+  - [ts 中 interface 和 class 的区别](https://developer.huawei.com/consumer/cn/blog/topic/03174666968552059)
+  - [华为支付-平台类商户合单支付场景准备](https://developer.huawei.com/consumer/cn/blog/topic/03174650462839071)
+  - [鸿蒙微内核架构与传统宏内核架构相比，在系统稳定性和安全性上有哪些独特优势？  其 IPC（进程间通信）机制是如何实现高效数据传输的？](https://developer.huawei.com/consumer/cn/blog/topic/03174647197133070)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持朋友圈图片视频转发、保存，鸿蒙原生版微信 App 获 1.0.3.53 邀测升级](https://www.ithome.com/0/830/110.htm)
+  - [鸿蒙原生版“腾讯文档”App 正式上架华为 HarmonyOS NEXT 市场](https://www.ithome.com/0/830/090.htm)
+  - [钉钉原生鸿蒙版 App 正式上架华为 HarmonyOS NEXT 市场](https://www.ithome.com/0/829/741.htm)
+- 51CTO
+  - [OpenBrother开源大师兄上手体验&时间信息、温度曲线样例开发](https://ost.51cto.com/posts/23798)
+  - [基于OpenHarmony的自定义日历组件实现----详细的自定义日历组件-Bond！](https://ost.51cto.com/posts/31573)
