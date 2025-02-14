@@ -4183,3 +4183,17 @@
   - [后台任务之长时任务、短时任务技术交流](https://developer.huawei.com/consumer/cn/blog/topic/03174738869991061)
 - 51CTO
   - [【闲谈鸿蒙三方库】图片库@ohos/imageknife](https://ost.51cto.com/posts/31593)
+- 鸿蒙官网
+  - [Tabs组件的简单使用](https://developer.huawei.com/consumer/cn/blog/topic/03174846842278003)
+  - [鸿蒙Flutter实战：17-无痛上架审核指南](https://developer.huawei.com/consumer/cn/blog/topic/03174843164050002)
+  - [鸿蒙Flutter实战：16-无痛开发指南（适合新手）](https://developer.huawei.com/consumer/cn/blog/topic/03174842867181082)
+  - [canvasContext.getPixelMap(0, 0, this.context.width, this.context.height)   drawImage   drawText   createAsset    ](https://developer.huawei.com/consumer/cn/blog/topic/03174842691969086)
+  - [华为支付-商户基础支付场景准备](https://developer.huawei.com/consumer/cn/blog/topic/03174838933268001)
+  - [ArkTS验证网络连接情况](https://developer.huawei.com/consumer/cn/blog/topic/03174836945817081)
+  - [转转平台IM系统架构设计与实践(二)：详细设计与实现](https://developer.huawei.com/consumer/cn/blog/topic/03174832281878085)
+  - [DeepSeek V3/R1满血版，上线华为云](https://developer.huawei.com/consumer/cn/blog/topic/03174829126757084)
+  - [HarmonyOS应用软件架构设计思想与实施细则及标准案例](https://developer.huawei.com/consumer/cn/blog/topic/03174828796892072)
+  - [发者福音！TinyEngine开启新篇章，服务端Java版本正式开源](https://developer.huawei.com/consumer/cn/blog/topic/03174823316600083)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持腕部跑姿监测，华为 WATCH 4 系列智能手表获鸿蒙 HarmonyOS 4.3.0.588 升级](https://www.ithome.com/0/830/741.htm)
+  - [支持识别图片二维码，鸿蒙原生版微信 App 获 1.0.3.53 应用尝鲜升级](https://www.ithome.com/0/830/628.htm)
