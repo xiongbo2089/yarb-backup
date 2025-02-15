@@ -4197,3 +4197,21 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [支持腕部跑姿监测，华为 WATCH 4 系列智能手表获鸿蒙 HarmonyOS 4.3.0.588 升级](https://www.ithome.com/0/830/741.htm)
   - [支持识别图片二维码，鸿蒙原生版微信 App 获 1.0.3.53 应用尝鲜升级](https://www.ithome.com/0/830/628.htm)
+- 51CTO
+  - [HarmonyOS NEXT开发 --- 1、ArkTS验证网络连接情况](https://ost.51cto.com/posts/31595)
+- 鸿蒙官网
+  - [【总奖金高达10万元】华为算法精英实战营“软切片调度时延隔离”来啦！](https://developer.huawei.com/consumer/cn/blog/topic/03174934575760005)
+  - [自定义TabBar案例](https://developer.huawei.com/consumer/cn/blog/topic/03174931702915088)
+  - [华为Mate X6：情人节送礼佳选，足够体面又足够浪漫](https://developer.huawei.com/consumer/cn/blog/topic/03174929532198076)
+  - [当华为开学焕新季遇上国补，现在选购智慧PC更实惠了](https://developer.huawei.com/consumer/cn/blog/topic/03174929160145075)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler性能调优概述](https://developer.huawei.com/consumer/cn/blog/topic/03174928098939087)
+  - [属性动画 Animation](https://developer.huawei.com/consumer/cn/blog/topic/03174926570135086)
+  - [HarmonyOS 5.0应用开发——Canvas制作个人签名](https://developer.huawei.com/consumer/cn/blog/topic/03174925475703085)
+  - [分享一个简单自用的代码统计](https://developer.huawei.com/consumer/cn/blog/topic/03174924142828004)
+  - [申请智慧生活App云端服务流程介绍](https://developer.huawei.com/consumer/cn/blog/topic/03174924067770084)
+  - [智慧生活App公版卡片设计规范，一看就懂！](https://developer.huawei.com/consumer/cn/blog/topic/03174914597646083)
+  - [鸿蒙智联产品如何接入智慧生活APP？](https://developer.huawei.com/consumer/cn/blog/topic/03174912309485074)
+  - [Canvas的transform方法使用示例 context.transform(a: number, b: number, c: number, d: number, e: number, f: number)](https://developer.huawei.com/consumer/cn/blog/topic/03174909359423087)
+- 掘金社区
+  - [鸿蒙开发：熟知@BuilderParam装饰器](https://juejin.cn/post/7471164516454498304)
+  - [鸿蒙开发：了解@Builder装饰器](https://juejin.cn/post/7471079652883808296)
