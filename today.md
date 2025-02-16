@@ -4215,3 +4215,5 @@
 - 掘金社区
   - [鸿蒙开发：熟知@BuilderParam装饰器](https://juejin.cn/post/7471164516454498304)
   - [鸿蒙开发：了解@Builder装饰器](https://juejin.cn/post/7471079652883808296)
+- 鸿蒙官网
+  - [如何在鸿蒙手机上安装 DevEco Studio 开发的应用？](https://developer.huawei.com/consumer/cn/blog/topic/03175074742448088)
