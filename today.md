@@ -4217,3 +4217,8 @@
   - [鸿蒙开发：了解@Builder装饰器](https://juejin.cn/post/7471079652883808296)
 - 鸿蒙官网
   - [如何在鸿蒙手机上安装 DevEco Studio 开发的应用？](https://developer.huawei.com/consumer/cn/blog/topic/03175074742448088)
+- 鸿蒙官网
+  - [使用 terminateSelf( ) 停止 Ability](https://developer.huawei.com/consumer/cn/blog/topic/03175119045076091)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [补齐通信共享功能，华为 MatePad 平板获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://www.ithome.com/0/831/318.htm)
+  - [隔空传送等功能上线，华为手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 版本升级](https://www.ithome.com/0/831/308.htm)
