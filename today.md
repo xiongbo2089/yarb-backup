@@ -4222,3 +4222,18 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [补齐通信共享功能，华为 MatePad 平板获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://www.ithome.com/0/831/318.htm)
   - [隔空传送等功能上线，华为手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 版本升级](https://www.ithome.com/0/831/308.htm)
+- 鸿蒙官网
+  - [DevEco Studio构建分析工具Build Analyzer 为原生鸿蒙应用开发提速](https://developer.huawei.com/consumer/cn/blog/topic/03175197369726097)
+  - [HarmonyOS官网上线“稳定性”专栏 助力更稳定流畅的鸿蒙原生应用开发](https://developer.huawei.com/consumer/cn/blog/topic/03175194349164096)
+  - [鸿蒙ArkUI-X跨平台路漫漫其修远兮](https://developer.huawei.com/consumer/cn/blog/topic/03175193539859095)
+  - [HarmonyOS 应用开发赋能套件：鸿蒙原生应用开发的 “神助攻”](https://developer.huawei.com/consumer/cn/blog/topic/03175191162682094)
+  - [华为Pura 70 Ultra影像实测](https://developer.huawei.com/consumer/cn/blog/topic/03175191028819095)
+  - [nova 13系列学习娱乐两不误，记录青春每一帧](https://developer.huawei.com/consumer/cn/blog/topic/03175190025553094)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler整体界面布局及概念](https://developer.huawei.com/consumer/cn/blog/topic/03175184827632092)
+  - [科技云报到：科技普惠潮流渐起，“开源”将带我们走向何方？](https://developer.huawei.com/consumer/cn/blog/topic/03175178380615091)
+  - [在华为开发者空间，使用鲲鹏BoostKit数学库优化程序性能](https://developer.huawei.com/consumer/cn/blog/topic/03175173880682079)
+  - [CalendarPickerDialog](https://developer.huawei.com/consumer/cn/blog/topic/03175172947175007)
+  - [Flex布局](https://developer.huawei.com/consumer/cn/blog/topic/03175172178425078)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持离线 / 关机状态定位设备，华为 Mate 70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://www.ithome.com/0/831/602.htm)
+  - [华为鸿蒙 HarmonyOS NEXT 系统小艺助手支持一句话发起钉钉会议](https://www.ithome.com/0/831/580.htm)
