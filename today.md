@@ -4237,3 +4237,21 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [支持离线 / 关机状态定位设备，华为 Mate 70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://www.ithome.com/0/831/602.htm)
   - [华为鸿蒙 HarmonyOS NEXT 系统小艺助手支持一句话发起钉钉会议](https://www.ithome.com/0/831/580.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [全景多窗模式新增手势操控，华为 Mate X6 / X5 折叠屏手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://www.ithome.com/0/831/877.htm)
+- 鸿蒙官网
+  - [开学季不容错过的硬核新装备，华为Mate 70让学习效率“起飞”](https://developer.huawei.com/consumer/cn/blog/topic/03175282565280017)
+  - [【组件】分享一个可折叠列表组件ExpandableList](https://developer.huawei.com/consumer/cn/blog/topic/03175279672008016)
+  - [【总结】分享一个拉起系统应用的DEMO](https://developer.huawei.com/consumer/cn/blog/topic/03175278465195080)
+  - [DevEco Studio的安装与基础配置（小白自学记录）](https://developer.huawei.com/consumer/cn/blog/topic/03175276526761015)
+  - [新一代 Cron-Job 分布式任务调度平台 正式发布！](https://developer.huawei.com/consumer/cn/blog/topic/03175276440294014)
+  - [数据持久化（二）：分布式键值数据库-distributedKVStore](https://developer.huawei.com/consumer/cn/blog/topic/03175273344299002)
+  - [Native C++ 开发时遇到的Crash](https://developer.huawei.com/consumer/cn/blog/topic/03175271401130103)
+  - [应用性能优化与调试](https://developer.huawei.com/consumer/cn/blog/topic/03175262997917001)
+  - [Flutter调用HarmonyOS NEXT原生相机拍摄&相册选择照片视频](https://developer.huawei.com/consumer/cn/blog/topic/03175260719412012)
+  - [使用LoadingProgress实现简单的遮罩层，笔记一下](https://developer.huawei.com/consumer/cn/blog/topic/03175260302635102)
+  - [华为云技术专家分享4大举措，助力开发者开启鸿蒙原生应用开发](https://developer.huawei.com/consumer/cn/blog/topic/03175259900804011)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler会话区](https://developer.huawei.com/consumer/cn/blog/topic/03175259114587101)
+  - [KubeEdge 1.20.0发布！ 6大新特性提升边缘管理能力](https://developer.huawei.com/consumer/cn/blog/topic/03175258900641100)
+- 掘金社区
+  - [鸿蒙开发：V2版本装饰器@Once](https://juejin.cn/post/7472666325137653800)
