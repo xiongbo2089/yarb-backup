@@ -4255,3 +4255,9 @@
   - [KubeEdge 1.20.0发布！ 6大新特性提升边缘管理能力](https://developer.huawei.com/consumer/cn/blog/topic/03175258900641100)
 - 掘金社区
   - [鸿蒙开发：V2版本装饰器@Once](https://juejin.cn/post/7472666325137653800)
+- 鸿蒙官网
+  - [谈谈「web性能优化」](https://developer.huawei.com/consumer/cn/blog/topic/03175422019632088)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler性能优化过程](https://developer.huawei.com/consumer/cn/blog/topic/03175357058392085)
+  - [【HarmonyOS】关于鸿蒙原生实现红包雨效果的方案设计](https://developer.huawei.com/consumer/cn/blog/topic/03175353451041104)
+  - [即时通讯安全篇（一）：正确地理解和使用Android端加密算法](https://developer.huawei.com/consumer/cn/blog/topic/03175350636054004)
+  - [解读TaurusDB二级分区，如何提高查询性能和管理效率](https://developer.huawei.com/consumer/cn/blog/topic/03175346684667082)
