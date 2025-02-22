@@ -4285,3 +4285,13 @@
   - [鸿蒙-状态管理V1](https://ost.51cto.com/posts/31674)
   - [鸿蒙-状态管理V2](https://ost.51cto.com/posts/31673)
   - [鸿蒙Next如何处理相机在全屏预览的时候，画面会有变形和拉伸的问题？](https://ost.51cto.com/posts/31665)
+- 鸿蒙官网
+  - [鸿蒙Next-Canvas教程-基本使用（一）](https://developer.huawei.com/consumer/cn/blog/topic/03175523002989023)
+  - [单页面防截屏](https://developer.huawei.com/consumer/cn/blog/topic/03175520671322014)
+  - [鸿蒙开发个人学习过程中遇到的小坑坑记录](https://developer.huawei.com/consumer/cn/blog/topic/03175520581211022)
+  - [LiveEventBus（一）：使用篇](https://developer.huawei.com/consumer/cn/blog/topic/03175518510008112)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler性能问题定界实时监控](https://developer.huawei.com/consumer/cn/blog/topic/03175518071990013)
+  - [挑战数据传输路由规划，与DeepSeek共探大模型算法优化](https://developer.huawei.com/consumer/cn/blog/topic/03175516961815011)
+  - [透明子窗口创建与页面参数传递](https://developer.huawei.com/consumer/cn/blog/topic/03175514764077095)
+- 博客园
+  - [智能网络感知，打造极致流畅的鸿蒙原生版中国移动云盘图文体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18729597)
