@@ -4295,3 +4295,16 @@
   - [透明子窗口创建与页面参数传递](https://developer.huawei.com/consumer/cn/blog/topic/03175514764077095)
 - 博客园
   - [智能网络感知，打造极致流畅的鸿蒙原生版中国移动云盘图文体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18729597)
+- 鸿蒙官网
+  - [子窗口LocalStorage传递Function](https://developer.huawei.com/consumer/cn/blog/topic/03175802263325025)
+  - [关于裁剪矫正图片的抛砖引玉](https://developer.huawei.com/consumer/cn/blog/topic/03175797682767119)
+  - [HarmonyOS NEXT 原生应用/元服务-DevEco Profiler性能问题定位深度录制](https://developer.huawei.com/consumer/cn/blog/topic/03175793980369097)
+  - [【HarmonyOS Next】鸿蒙状态管理V2装饰器详解](https://developer.huawei.com/consumer/cn/blog/topic/03175791109302118)
+  - [【HarmonyOS Next】拒绝权限二次申请授权处理](https://developer.huawei.com/consumer/cn/blog/topic/03175790984112117)
+  - [【HarmonyOS Next】鸿蒙循环渲染ForEach，LazyForEach，Repeat使用心得体会](https://developer.huawei.com/consumer/cn/blog/topic/03175790597089096)
+  - [HarmonyOS使用系统图标](https://developer.huawei.com/consumer/cn/blog/topic/03175778118834116)
+- 开源中国
+  - [【赠书】京东图书热销榜前四，鸿蒙开发竟然这么火？](https://my.oschina.net/u/3936705/blog/17752894)
+- 掘金社区
+  - [解锁鸿蒙装饰器：应用、原理与优势全解析](https://juejin.cn/post/7474642997486927908)
+  - [【HarmonyOS Next】关系型数据库封装DBHelper](https://juejin.cn/post/7474532273326243874)
