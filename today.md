@@ -4342,3 +4342,19 @@
   - [一文彻底搞清楚C语言中的表达式和语句](https://developer.huawei.com/consumer/cn/blog/topic/03175867579344038)
 - 开源中国
   - [深圳：支持鸿蒙原生应用发展](https://www.oschina.net/news/335649)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙原生版钉钉 App 下载量破百万，创第三方智能办公应用首例](https://www.ithome.com/0/833/711.htm)
+- 鸿蒙官网
+  - [数字增加时，进行翻转动画](https://developer.huawei.com/consumer/cn/blog/topic/03175966955959017)
+  - [C++工程目录结构（Stage模型）](https://developer.huawei.com/consumer/cn/blog/topic/03175966639760047)
+  - [鸿蒙开发-从命令式到声明式UI](https://developer.huawei.com/consumer/cn/blog/topic/03175958517562136)
+  - [快速上手！HarmonyOS4.0 Image组件详解](https://developer.huawei.com/consumer/cn/blog/topic/03175951953601135)
+  - [探讨组合加密算法在IM中的应用](https://developer.huawei.com/consumer/cn/blog/topic/03175951843670044)
+  - [(ERP集成CAD）在线CAD插件通过上下文对象MxPluginContext修改UI界面](https://developer.huawei.com/consumer/cn/blog/topic/03175950233416025)
+  - [HarmonyOS NEXT 原生应用/元服务调试概述](https://developer.huawei.com/consumer/cn/blog/topic/03175948807705024)
+  - [智慧生活APP线下开发H5教程（第2篇）](https://developer.huawei.com/consumer/cn/blog/topic/03175947512159134)
+  - [智慧生活APP线下开发H5教程（第1篇）](https://developer.huawei.com/consumer/cn/blog/topic/03175947345938016)
+  - [HarmonyOS NEXT实战：高仿墨迹天气开发手记(附源码)](https://developer.huawei.com/consumer/cn/blog/topic/03175944770465133)
+- 掘金社区
+  - [鸿蒙-状态管理V2其他方法](https://juejin.cn/post/7475590145958412329)
+  - [鸿蒙开发：console日志输出](https://juejin.cn/post/7475575836706160677)
