@@ -4358,3 +4358,21 @@
 - 掘金社区
   - [鸿蒙-状态管理V2其他方法](https://juejin.cn/post/7475590145958412329)
   - [鸿蒙开发：console日志输出](https://juejin.cn/post/7475575836706160677)
+- 鸿蒙官网
+  - [上海卓易科技股份有限公司的发展历程是怎样的？](https://developer.huawei.com/consumer/cn/blog/topic/03176074879977056)
+  - [【Harmony OS Next】封装时间选择按钮](https://developer.huawei.com/consumer/cn/blog/topic/03176054037995141)
+  - [DevEco Studio中如何下载Device模拟器](https://developer.huawei.com/consumer/cn/blog/topic/03176048288992020)
+  - [【HarmonyOS Next】鸿蒙应用公钥和证书MD5指纹的获取](https://developer.huawei.com/consumer/cn/blog/topic/03176047837719051)
+  - [【HarmonyOS Next】 鸿蒙应用useNormalizedOHMUrl详解](https://developer.huawei.com/consumer/cn/blog/topic/03176047684853019)
+  - [【HarmonyOS Next】鸿蒙TaskPool和Worker详解 （一）](https://developer.huawei.com/consumer/cn/blog/topic/03176047487780018)
+  - [DevEco Studio 5.0.2 API14版本安装后创建项目报错无法运行](https://developer.huawei.com/consumer/cn/blog/topic/03176047177944050)
+  - [【HarmonyOS Next】鸿蒙应用折叠屏设备适配方案](https://developer.huawei.com/consumer/cn/blog/topic/03176047079442028)
+  - [【HarmonyOS Next】鸿蒙状态管理装饰器V1和V2混用方案](https://developer.huawei.com/consumer/cn/blog/topic/03176046781556140)
+  - [用DeepSeek来开发应用初体验](https://developer.huawei.com/consumer/cn/blog/topic/03176045896960027)
+  - [即时通讯初学者必知必会的20个网络编程和通信安全知识点](https://developer.huawei.com/consumer/cn/blog/topic/03176044081578139)
+  - [多线程TaskPool与@Sendable的使用](https://developer.huawei.com/consumer/cn/blog/topic/03176038419998138)
+- 51CTO
+  - [HarmonyOS NEXT-杰理SDK对接流程](https://ost.51cto.com/posts/31747)
+  - [HarmonyOS NEXT-蓝牙(Ble)开发流程](https://ost.51cto.com/posts/31746)
+- 掘金社区
+  - [鸿蒙开发：实现AOP代码插桩能力](https://juejin.cn/post/7475722487734435849)
