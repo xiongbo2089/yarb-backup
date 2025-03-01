@@ -4376,3 +4376,30 @@
   - [HarmonyOS NEXT-蓝牙(Ble)开发流程](https://ost.51cto.com/posts/31746)
 - 掘金社区
   - [鸿蒙开发：实现AOP代码插桩能力](https://juejin.cn/post/7475722487734435849)
+- 鸿蒙官网
+  - [ 创建第一个鸿蒙应用](https://developer.huawei.com/consumer/cn/blog/topic/03176165136622065)
+  - [鸿蒙开发中BindSheet应用 打造半模态转场效果](https://developer.huawei.com/consumer/cn/blog/topic/03176147014392028)
+  - [HarmonyOS开发中断点续传的简单实现](https://developer.huawei.com/consumer/cn/blog/topic/03176146670905039)
+  - [鸿蒙开发中的 RawFile：功能、特性与使用示例](https://developer.huawei.com/consumer/cn/blog/topic/03176143682711038)
+  - [HarmonyOS开发，遇到 Object.assign(this, source)报错怎么解决？](https://developer.huawei.com/consumer/cn/blog/topic/03176143209188063)
+  - [HarmonyOS开发中的色调/色温修改](https://developer.huawei.com/consumer/cn/blog/topic/03176141644403027)
+  - [华为Mate 70 Pro优享版定档3月5日](https://developer.huawei.com/consumer/cn/blog/topic/03176140871147062)
+  - [花开正当时，华为学习全家桶年轻人的高效拍档，让热爱绽放](https://developer.huawei.com/consumer/cn/blog/topic/03176140684547003)
+  - [春季甩肉大作战：HUAWEI WATCH FIT 3【活力BUFF】加载成功！](https://developer.huawei.com/consumer/cn/blog/topic/03176139094479061)
+  - [Laya引擎游戏适配FAQ](https://developer.huawei.com/consumer/cn/blog/topic/03176137829283037)
+  - [HarmonyOS NEXT 原生应用/元服务-ArkTS代码调试attach启动调试](https://developer.huawei.com/consumer/cn/blog/topic/03176136255318036)
+  - [使用Laya引擎构建鸿蒙原生游戏](https://developer.huawei.com/consumer/cn/blog/topic/03176135585443060)
+  - [Cocos Creator引擎游戏适配FAQ](https://developer.huawei.com/consumer/cn/blog/topic/03176134763365035)
+  - [鸿蒙开发入门](https://developer.huawei.com/consumer/cn/blog/topic/03176131287242026)
+  - [鸿蒙开发第一步【开发工具安装及使用】](https://developer.huawei.com/consumer/cn/blog/topic/03176128515253025)
+  - [DevEco Studio 开发环境的避坑指南 - 无法连接真机进行调试](https://developer.huawei.com/consumer/cn/blog/topic/03176128193844002)
+  - [鸿蒙preference数据缓存进阶用法实现增删改查](https://developer.huawei.com/consumer/cn/blog/topic/03176124836601034)
+  - [游戏与 ArkTS 接口交互（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176120896060024)
+  - [使用Cocos Creator引擎构建鸿蒙原生游戏](https://developer.huawei.com/consumer/cn/blog/topic/03176120152473057)
+- 博客园
+  - [Blazor Hybrid适配到HarmonyOS系统 - 布布(CeSun)](https://www.cnblogs.com/CeSun/p/18743730)
+- 51CTO
+  - [鸿蒙H5离线包技术分享](https://ost.51cto.com/posts/31801)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [修复群新消息无法跳转等问题，鸿蒙原生版微信 App 获 1.0.4.34 邀测升级](https://www.ithome.com/0/834/503.htm)
+  - [华为申请注册“兼容鸿蒙电脑”等商标，目前处于“等待实质审查”阶段](https://www.ithome.com/0/834/357.htm)
