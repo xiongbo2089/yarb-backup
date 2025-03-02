@@ -4403,3 +4403,9 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [修复群新消息无法跳转等问题，鸿蒙原生版微信 App 获 1.0.4.34 邀测升级](https://www.ithome.com/0/834/503.htm)
   - [华为申请注册“兼容鸿蒙电脑”等商标，目前处于“等待实质审查”阶段](https://www.ithome.com/0/834/357.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙原生版微博迎 15.2.0 版本大更新，微信支付和自定义机型小尾巴来了](https://www.ithome.com/0/834/564.htm)
+- 鸿蒙官网
+  - [元应用无法分屏和悬浮窗问题](https://developer.huawei.com/consumer/cn/blog/topic/03176247529555004)
+  - [最简单的自定义弹窗，可传入自定义布局](https://developer.huawei.com/consumer/cn/blog/topic/03176231864431043)
+  - [鸿蒙好用的图片预览弹框，全屏预览图片，图片全屏预览，可滑动，有下标，鸿蒙图片按宽度放大缩小](https://developer.huawei.com/consumer/cn/blog/topic/03176206942100029)
