@@ -4409,3 +4409,13 @@
   - [元应用无法分屏和悬浮窗问题](https://developer.huawei.com/consumer/cn/blog/topic/03176247529555004)
   - [最简单的自定义弹窗，可传入自定义布局](https://developer.huawei.com/consumer/cn/blog/topic/03176231864431043)
   - [鸿蒙好用的图片预览弹框，全屏预览图片，图片全屏预览，可滑动，有下标，鸿蒙图片按宽度放大缩小](https://developer.huawei.com/consumer/cn/blog/topic/03176206942100029)
+- 踏雨歌青春，诗酒趁年华
+  - [【宠粉赠书】极速探索 HarmonyOS NEXT：国产操作系统的未来之光](https://blog.csdn.net/weixin_41793160/article/details/145975519)
+- 鸿蒙官网
+  - [HarmonayOS 通过应用链接拉起指定应用](https://developer.huawei.com/consumer/cn/blog/topic/03176375021385006)
+  - [Cocos 2d-x引擎游戏适配FAQ](https://developer.huawei.com/consumer/cn/blog/topic/03176342465593068)
+  - [后台任务开发服务-短时任务（一）规格粗解读](https://developer.huawei.com/consumer/cn/blog/topic/03176331458986005)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙原生版微信 App 暂不支持手机、平板同时登录，腾讯员工称后续版本改进](https://www.ithome.com/0/834/785.htm)
+- 掘金社区
+  - [【鸿蒙开发】第8课，PatternLock九宫格图案锁组件、QRCode组件、Radio单选组件](https://juejin.cn/post/7476780955920629814)
