@@ -4419,3 +4419,32 @@
   - [鸿蒙原生版微信 App 暂不支持手机、平板同时登录，腾讯员工称后续版本改进](https://www.ithome.com/0/834/785.htm)
 - 掘金社区
   - [【鸿蒙开发】第8课，PatternLock九宫格图案锁组件、QRCode组件、Radio单选组件](https://juejin.cn/post/7476780955920629814)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 5.0.0.130 版本更多细节曝光：新版游戏模式、自动亮度开关等](https://www.ithome.com/0/835/135.htm)
+  - [底部 Tab 模糊回归，鸿蒙原生版微信 App 获 1.0.4.35 邀测升级](https://www.ithome.com/0/835/127.htm)
+  - [支持发表图片／视频说说，鸿蒙原生版 QQ 应用获 9.1.30 邀测升级](https://www.ithome.com/0/835/119.htm)
+  - [新增小艺接听功能等，华为 Mate 70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.130 升级](https://www.ithome.com/0/835/113.htm)
+  - [API 15 首个 Beta 版本，华为鸿蒙 HarmonyOS 5.0.3 Beta1 新增和增强特性公布](https://www.ithome.com/0/834/938.htm)
+- 鸿蒙官网
+  - [HarmonyOS 应用生命周期优化经验与技巧](https://developer.huawei.com/consumer/cn/blog/topic/03176430929848034)
+  - [HarmonyOS 应用生命周期全解析](https://developer.huawei.com/consumer/cn/blog/topic/03176430392477047)
+  - [一文轻松拿下HarmonyOS NEXT的自定义组件](https://developer.huawei.com/consumer/cn/blog/topic/03176428865261012)
+  - [一文彻底搞定HarmonyOS NEXT中的属性动画](https://developer.huawei.com/consumer/cn/blog/topic/03176427668755011)
+  - [03 HarmonyOS Next仪表盘案例详解（二）：进阶篇](https://developer.huawei.com/consumer/cn/blog/topic/03176423680362010)
+  - [02   HarmonyOS Next仪表盘案例详解（一）：基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03176420111020046)
+  - [鸿蒙APP跳转设置权限页面实现](https://developer.huawei.com/consumer/cn/blog/topic/03176403345728033)
+  - [HarmonyOS在2in1设备上实现弹出拾色器](https://developer.huawei.com/consumer/cn/blog/topic/03176402473665009)
+  - [让更多人轻松入手，华为Mate 70 Pro 优享版即将上市](https://developer.huawei.com/consumer/cn/blog/topic/03176400905987071)
+  - [Web组件嵌入H5页面，通过左滑返回上一个页面](https://developer.huawei.com/consumer/cn/blog/topic/03176399431310008)
+  - [鸿蒙HarmonyOS系统相机Camera相关API使用](https://developer.huawei.com/consumer/cn/blog/topic/03176398486667070)
+  - [Web组件嵌入H5页面跳转第三方应用（百度地图）](https://developer.huawei.com/consumer/cn/blog/topic/03176397943815032)
+  - [Web组件嵌入H5使用语音录入的能力](https://developer.huawei.com/consumer/cn/blog/topic/03176396365563031)
+  - [HarmonyOS NEXT 原生应用/元服务-ArkTS代码调试等待调试](https://developer.huawei.com/consumer/cn/blog/topic/03176396168481069)
+  - [01. HarmonyOS应用开发实践与技术解析](https://developer.huawei.com/consumer/cn/blog/topic/03176389115399044)
+  - [位置服务](https://developer.huawei.com/consumer/cn/blog/topic/03176379765450030)
+  - [HarmonayOS 通过应用链接拉起指定应用](https://developer.huawei.com/consumer/cn/blog/topic/03176375021385006)
+- 51CTO
+  - [RISC-V+OpenHarmony5.0平板电脑：MUSE Paper开箱体验](https://ost.51cto.com/posts/31868)
+  - [#DAYU200体验官#在开发板上，使用OpenGL相关API绘制基本图形流程](https://ost.51cto.com/posts/13384)
+- 掘金社区
+  - [鸿蒙开发：wrapBuilder来封装全局@Builder](https://juejin.cn/post/7477038619168030759)
