@@ -4533,3 +4533,32 @@
   - [科技云报到：“小力出奇迹”的DeepSeek，也难逃大模型安全短板？](https://developer.huawei.com/consumer/cn/blog/topic/03176639009992045)
 - 掘金社区
   - [鸿蒙开发父组件调用子组件方法](https://juejin.cn/post/7478504097394917395)
+- 51CTO
+  - [探秘鸿蒙 HarmonyOS NEXT：沉浸式页面开发实战攻略](https://ost.51cto.com/posts/31973)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [余承东在线组局冲刺原生鸿蒙适配，鸿蒙生态发展进入“超车道”](https://www.ithome.com/0/836/040.htm)
+- 鸿蒙官网
+  - [华为Mate XT 非凡大师亮相MWC 2025，全球目光聚焦中国智造](https://developer.huawei.com/consumer/cn/blog/topic/03176751492654041)
+  - [支持页面嵌套路由，TinyEngine v2.2让开发者构建复杂应用更高效](https://developer.huawei.com/consumer/cn/blog/topic/03176747356556076)
+  - [上拉加载和下拉刷新功能，更美观容易理解的代码](https://developer.huawei.com/consumer/cn/blog/topic/03176746017675075)
+  - [有氧健身器材接入运动健康App：如何进行蓝牙模块功能开发（Native方案）](https://developer.huawei.com/consumer/cn/blog/topic/03176742187834074)
+  - [GT 4 贴心相伴，解锁女性健康生活新方式](https://developer.huawei.com/consumer/cn/blog/topic/03176740753280040)
+  - [HarmonyOS NEXT开发实战：DevEco Studio中DeepSeek的使用](https://developer.huawei.com/consumer/cn/blog/topic/03176740494547098)
+  - [有哪些在线工具可以帮助分析 Vue 项目中的错误？](https://developer.huawei.com/consumer/cn/blog/topic/03176739757035039)
+  - [多设备适配（ Laya ）](https://developer.huawei.com/consumer/cn/blog/topic/03176731856514038)
+  - [开源三方库HarmonyOS NEXT适配指导（ Laya ）](https://developer.huawei.com/consumer/cn/blog/topic/03176731729735037)
+  - [音频模块适配（Laya）](https://developer.huawei.com/consumer/cn/blog/topic/03176731484184036)
+  - [应用权限申请（ Laya）](https://developer.huawei.com/consumer/cn/blog/topic/03176731175137073)
+  - [应用生命周期适配（ Laya）](https://developer.huawei.com/consumer/cn/blog/topic/03176730813620072)
+  - [应用生命周期适配（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176730530344097)
+  - [应用权限申请（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176730156208035)
+  - [音频模块适配（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176728449341033)
+  - [HarmonyOS NEXT-Flutter混合开发之鸿蒙-代码实践](https://developer.huawei.com/consumer/cn/blog/topic/03176727624774096)
+  - [开源三方库HarmonyOS NEXT适配指导（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176727089384095)
+  - [HarmonyOS Next 将ArrayBuffer压缩到指定大小并转化为base64返回](https://developer.huawei.com/consumer/cn/blog/topic/03176726957035070)
+  - [有氧健身器材接入运动健康App的使用体验](https://developer.huawei.com/consumer/cn/blog/topic/03176726947857053)
+  - [多设备适配（ Cocos Creator ）](https://developer.huawei.com/consumer/cn/blog/topic/03176725947540052)
+  - [HarmonyOS Next 保存图片数据到系统文件](https://developer.huawei.com/consumer/cn/blog/topic/03176723710774094)
+  - [深入HarmonyOS NEXT开发中的ArkData操作SQLite数据库](https://developer.huawei.com/consumer/cn/blog/topic/03176721032796068)
+- 掘金社区
+  - [鸿蒙开发：弹性布局Flex](https://juejin.cn/post/7478888679232110629)
