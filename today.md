@@ -4562,3 +4562,7 @@
   - [深入HarmonyOS NEXT开发中的ArkData操作SQLite数据库](https://developer.huawei.com/consumer/cn/blog/topic/03176721032796068)
 - 掘金社区
   - [鸿蒙开发：弹性布局Flex](https://juejin.cn/post/7478888679232110629)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 5.0.3 Beta2 版本发布：新增智慧数据平台、获取分布式相机设备类型等特性](https://www.ithome.com/0/836/427.htm)
+- 掘金社区
+  - [鸿蒙开发笔记-10-其他状态管理：@Watch装饰器，$$语法，@Track装饰器](https://juejin.cn/post/7478940561846124544)
