@@ -4566,3 +4566,16 @@
   - [华为鸿蒙 HarmonyOS 5.0.3 Beta2 版本发布：新增智慧数据平台、获取分布式相机设备类型等特性](https://www.ithome.com/0/836/427.htm)
 - 掘金社区
   - [鸿蒙开发笔记-10-其他状态管理：@Watch装饰器，$$语法，@Track装饰器](https://juejin.cn/post/7478940561846124544)
+- 鸿蒙官网
+  - [Harmony Next鸿蒙Next上动画实战-弹窗动画](https://developer.huawei.com/consumer/cn/blog/topic/03176943032648059)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-shake](https://developer.huawei.com/consumer/cn/blog/topic/03176941235683084)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Flip系列 ](https://developer.huawei.com/consumer/cn/blog/topic/03176940192211083)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Rotate系列](https://developer.huawei.com/consumer/cn/blog/topic/03176938325900058)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Slide系列](https://developer.huawei.com/consumer/cn/blog/topic/03176937497425082)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Bounce系列](https://developer.huawei.com/consumer/cn/blog/topic/03176936803797103)
+  - [ArkUI布局初探](https://developer.huawei.com/consumer/cn/blog/topic/03176919303932079)
+  - [ MySQL中的脏读与幻读](https://developer.huawei.com/consumer/cn/blog/topic/03176917153058048)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Fade系列](https://developer.huawei.com/consumer/cn/blog/topic/03176904805505047)
+  - [Harmony Next鸿蒙Next上实现那些有趣的动画-Zoom系列](https://developer.huawei.com/consumer/cn/blog/topic/03176904724286046)
+- 掘金社区
+  - [【HarmonyOS Next】鸿蒙应用故障处理思路详解](https://juejin.cn/post/7479318133480620041)
