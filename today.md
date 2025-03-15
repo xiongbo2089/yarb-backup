@@ -4713,3 +4713,33 @@
   - [鸿蒙开发：自定义一个搜索模版](https://juejin.cn/post/7481116406744678454)
   - [鸿蒙（HarmonyOS）性能优化实战-HiDumper命令行工具优化性能](https://juejin.cn/post/7481089032988016676)
   - [鸿蒙（HarmonyOS）性能优化实战-性能测试工具SmartPerf Editor](https://juejin.cn/post/7480811072264618023)
+- 51CTO
+  - [ArkTs之状态管理](https://ost.51cto.com/posts/32204)
+  - [【HarmonyOS】鸿蒙原生分享之“碰一碰”分享（APP内实现）](https://ost.51cto.com/posts/32212)
+  - [【HarmonyOS】鸿蒙原生实现应用间跳转之App Linking](https://ost.51cto.com/posts/32206)
+  - [【HarmonyOS】鸿蒙原生实现应用间跳转之Deep Linking](https://ost.51cto.com/posts/32205)
+- 博客园
+  - [如何让你的应用在市场中脱颖而出？ - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18772468)
+- 鸿蒙官网
+  - [利用本地沙盒存储网络任意文件，包括图片并且支持检测是否存储成功以及页面手动展示路径](https://developer.huawei.com/consumer/cn/blog/topic/03177352260477020)
+  - [.so包通过NAPI调用ArkTS代码](https://developer.huawei.com/consumer/cn/blog/topic/03177351052344021)
+  - [HarmonyOS NEXT 使用AppStorageV2实现全屏展示](https://developer.huawei.com/consumer/cn/blog/topic/03177350299459019)
+  - [从零到一搭建上架鸿蒙应用](https://developer.huawei.com/consumer/cn/blog/topic/03177350164909020)
+  - [华为开发者空间：基于DeepSeek+Cherry Studio构建模拟面试助手](https://developer.huawei.com/consumer/cn/blog/topic/03177346532301012)
+  - [HarmonyOS NEXT 原生应用/元服务-ArkTS代码调试Evaluate and log](https://developer.huawei.com/consumer/cn/blog/topic/03177344661464024)
+  - [测试推送python代码](https://developer.huawei.com/consumer/cn/blog/topic/03177336168741019)
+  - [鸿蒙应用中，通过NAPI相关配置引入.so包的具体步骤是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03177333244730018)
+  - [AI“算命”，人类的赛博安慰剂](https://developer.huawei.com/consumer/cn/blog/topic/03177331807461011)
+  - [腾讯元宝靠DeepSeek登顶，但豆包不能跟风](https://developer.huawei.com/consumer/cn/blog/topic/03177331736999022)
+  - [HarmonyOS NEXT 添加地理围栏](https://developer.huawei.com/consumer/cn/blog/topic/03177329314137017)
+  - [HarmonyOS NEXT 设置持续定位和后台持续定位](https://developer.huawei.com/consumer/cn/blog/topic/03177328278263016)
+  - [HarmonyOS NEXT 获取AAID并保存到Asset中，避免卸载重装后改变](https://developer.huawei.com/consumer/cn/blog/topic/03177327363667010)
+- 开源中国
+  - [全链路赋能游戏鸿蒙化适配，鸿蒙游戏开发者服务焕新升级](https://www.oschina.net/news/338871)
+  - [鸿蒙连续四季度超 iOS，稳居中国第二大手机系统](https://www.oschina.net/news/338848)
+- 掘金社区
+  - [鸿蒙开发：了解应用级配置信息](https://juejin.cn/post/7481533769054535691)
+  - [鸿蒙开发：自定义一个Toast](https://juejin.cn/post/7481499652127932455)
+  - [鸿蒙（HarmonyOS）性能优化实战-状态变量组件定位工具实践](https://juejin.cn/post/7481469546383294500)
+  - [Flutter应用开发：鸿蒙 HarmonyOS NEXT Beta 移植](https://juejin.cn/post/7481217307647836187)
+  - [【Flutter+鸿蒙】从Flutter开发者视角来看鸿蒙是怎么样的？](https://juejin.cn/post/7481291950034288690)
