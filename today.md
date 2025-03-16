@@ -4743,3 +4743,17 @@
   - [鸿蒙（HarmonyOS）性能优化实战-状态变量组件定位工具实践](https://juejin.cn/post/7481469546383294500)
   - [Flutter应用开发：鸿蒙 HarmonyOS NEXT Beta 移植](https://juejin.cn/post/7481217307647836187)
   - [【Flutter+鸿蒙】从Flutter开发者视角来看鸿蒙是怎么样的？](https://juejin.cn/post/7481291950034288690)
+- 鸿蒙官网
+  - [鸿蒙Next封装一个状态栏工具](https://developer.huawei.com/consumer/cn/blog/topic/03177465704193032)
+  - [鸿蒙特效教程03-水波纹动画效果实现教程](https://developer.huawei.com/consumer/cn/blog/topic/03177459453442020)
+  - [鸿蒙特效教程02-微信语音录制动画效果实现教程](https://developer.huawei.com/consumer/cn/blog/topic/03177459346748028)
+  - [JavaScript和Java在线程方面有什么不同？](https://developer.huawei.com/consumer/cn/blog/topic/03177431388221027)
+  - [ECMAScript的版本演进过程](https://developer.huawei.com/consumer/cn/blog/topic/03177421606790018)
+  - [解决安卓集成HMS Core时出现的问题：Plugin [id: 'com.huawei.agconnect'] was not found in any of the following sources](https://developer.huawei.com/consumer/cn/blog/topic/03177418012610027)
+  - [HarmonyOS应用程序包概述](https://developer.huawei.com/consumer/cn/blog/topic/03177416314617026)
+- 博客园
+  - [鸿蒙特效教程01-哔哩哔哩点赞与一键三连效果实现教程 - 苏杰豪](https://www.cnblogs.com/Megasu/p/18774264)
+- 掘金社区
+  - [鸿蒙开发：权限管理之权限声明](https://juejin.cn/post/7481581787406991399)
+  - [HarmonyOS架构详解](https://juejin.cn/post/7481548443858354216)
+  - [HarmonyOS应用程序包概述](https://juejin.cn/post/7481542643748192306)
