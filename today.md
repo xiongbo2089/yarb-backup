@@ -4858,3 +4858,27 @@
 - 掘金社区
   - [鸿蒙开发：ArkTs语言注释](https://juejin.cn/post/7482993860877484059)
   - [鸿蒙开发：权限授权封装](https://juejin.cn/post/7482993860877467675)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [新增应用锁等功能，华为 MatePad 平板产品获鸿蒙 HarmonyOS NEXT 5.0.0.135 升级](https://www.ithome.com/0/839/155.htm)
+  - [原生鸿蒙版微信修复小程序、网页应用“需更新微信版本”提示](https://www.ithome.com/0/839/072.htm)
+  - [新增少量 ArkUI 组件能力，华为鸿蒙 HarmonyOS 5.0.3 Release 版本发布](https://www.ithome.com/0/839/066.htm)
+- 鸿蒙官网
+  - [HarmonyOS SDK让小红书鸿蒙用户尽享拍摄之美](https://developer.huawei.com/consumer/cn/blog/topic/03177847441380069)
+  - [HarmonyOS TEXT 使用ResourceManager同步转换字符串的最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03177844342569068)
+  - [鸿蒙特效教程06-可拖拽网格实现教程](https://developer.huawei.com/consumer/cn/blog/topic/03177805559087059)
+  - [鸿蒙特效教程05-鸿蒙很开门](https://developer.huawei.com/consumer/cn/blog/topic/03177805490386058)
+  - [产品建议吐糟](https://developer.huawei.com/consumer/cn/blog/topic/03177797658946066)
+  - [HarmonyOS TEXT 语音搜索场景学习和总结](https://developer.huawei.com/consumer/cn/blog/topic/03177776015607066)
+  - [【HarmonyOS Next】鸿蒙应用弹框和提示气泡详解（一）](https://developer.huawei.com/consumer/cn/blog/topic/03177775603205055)
+  - [【HarmonyOS Next】鸿蒙应用常规面试题和答辩思路参考](https://developer.huawei.com/consumer/cn/blog/topic/03177775301350054)
+  - [HarmonyOS NEXT ArkTS与H5的交互详解](https://developer.huawei.com/consumer/cn/blog/topic/03177766543984065)
+  - [斗鱼的2024：韧性依旧，新风渐起](https://developer.huawei.com/consumer/cn/blog/topic/03177766118834054)
+  - [获取App版本号，版本名，屏幕分辨率等信息](https://developer.huawei.com/consumer/cn/blog/topic/03177765722537065)
+  - [【HarmonyOS Next】鸿蒙应用实现弹框DialogHub详解](https://developer.huawei.com/consumer/cn/blog/topic/03177765408776053)
+  - [【HarmonyOS Next】鸿蒙中自定义弹框OpenCustomDialog、CustomDialog与DialogHub的区别详解](https://developer.huawei.com/consumer/cn/blog/topic/03177765178051064)
+  - [HarmonyOS Next 用户认证应用](https://developer.huawei.com/consumer/cn/blog/topic/03177765136179063)
+  - [大无语：swiper的 index设置 没生效居然是因为它。场景为页面需要根据导航传入的参数直接跳转至对应的页面，而设置 swiper 的 index 却没有生效跳转](https://developer.huawei.com/consumer/cn/blog/topic/03177762491639062)
+  - [ArkTS获取设备信息及OpenID](https://developer.huawei.com/consumer/cn/blog/topic/03177759666015064)
+- 掘金社区
+  - [HarmonyOS NEXT ArkTS与H5的交互详解](https://juejin.cn/post/7483329722517307402)
+  - [【HarmonyOS Next】鸿蒙中自定义弹框OpenCustomDialog、CustomDialog与DialogHub的区别详解](https://juejin.cn/post/7483076076119457829)
