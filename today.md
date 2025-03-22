@@ -4923,3 +4923,32 @@
   - [华为将于 5 月发布鸿蒙电脑](https://www.oschina.net/news/340052)
 - 掘金社区
   - [鸿蒙开发：远场通信服务rcp会话问题](https://juejin.cn/post/7483714111441928242)
+- 51CTO
+  - [HarmonyOS应用状态](https://ost.51cto.com/posts/32449)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [在 2025 AWE 华为鸿蒙智家展区，我感受到 AI 智家的终极答案](https://www.ithome.com/0/839/789.htm)
+  - [华为 Pura X 发布，鸿蒙电脑蓄势待发，HarmonyOS 生态版图拓展正当时](https://www.ithome.com/0/839/751.htm)
+  - [华为余承东：鸿蒙有望成为全球前三大电脑操作系统](https://www.ithome.com/0/839/748.htm)
+- 鸿蒙官网
+  - [鸿蒙特效教程09-深入学习animateTo动画](https://developer.huawei.com/consumer/cn/blog/topic/03177986738477080)
+  - [HarmonyOS AI开放能力（一）——智能系统架构和基础控件AI化](https://developer.huawei.com/consumer/cn/blog/topic/03177986527943076)
+  - [教你快速上手ArkTs](https://developer.huawei.com/consumer/cn/blog/topic/03177963807072081)
+  - [鸿蒙如何上传用户头像](https://developer.huawei.com/consumer/cn/blog/topic/03177959781755074)
+  - [《深度剖析HarmonyOS：革新科技，重塑全场景智能生态》](https://developer.huawei.com/consumer/cn/blog/topic/03177955527060078)
+  - [第四节 - ArKUI样式相关补充+像素单位说明](https://developer.huawei.com/consumer/cn/blog/topic/03177953988313073)
+  - [第三节 - @Styles+@Extend](https://developer.huawei.com/consumer/cn/blog/topic/03177952660396072)
+  - [HarmonyOS Next音乐播放器组件开发实践](https://developer.huawei.com/consumer/cn/blog/topic/03177943908966072)
+  - [UNI-APP跨平台应用开发](https://developer.huawei.com/consumer/cn/blog/topic/03177940230499071)
+  - [接入运动健康AppH5方案（第3篇）：接入准备之联盟网站准备工作](https://developer.huawei.com/consumer/cn/blog/topic/03177939313281070)
+  - [Karmada v1.13 版本发布！新增应用优先级调度能力](https://developer.huawei.com/consumer/cn/blog/topic/03177938376481068)
+  - [接入运动健康AppH5方案（第2篇）：接入准备之合作伙伴平台准备工作](https://developer.huawei.com/consumer/cn/blog/topic/03177936690646071)
+  - [接入运动健康AppH5方案（第1篇）：接入流程](https://developer.huawei.com/consumer/cn/blog/topic/03177936487974070)
+  - [悬浮球](https://developer.huawei.com/consumer/cn/blog/topic/03177934128310080)
+  - [世界睡眠日特辑 | 华为手环10：科学助眠，让每一晚都“睡”出满分健康](https://developer.huawei.com/consumer/cn/blog/topic/03177930334182067)
+- 开源中国
+  - [《AppGallery 版本升级，好用小妙招请查收》](https://www.oschina.net/news/340252)
+  - [鸿蒙游戏开发者服务全新升级，鸿蒙游戏开发者服务官网惊喜上线！](https://www.oschina.net/news/340163)
+- 掘金社区
+  - [鸿蒙开发：了解分割线](https://juejin.cn/post/7484083122000822326)
+  - [鸿蒙开发：远场通信服务rcp拦截器问题](https://juejin.cn/post/7483942620903161871)
+  - [鸿蒙开发：填充剩余空间](https://juejin.cn/post/7483748701846405172)
