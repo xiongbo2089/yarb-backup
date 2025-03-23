@@ -4952,3 +4952,22 @@
   - [鸿蒙开发：了解分割线](https://juejin.cn/post/7484083122000822326)
   - [鸿蒙开发：远场通信服务rcp拦截器问题](https://juejin.cn/post/7483942620903161871)
   - [鸿蒙开发：填充剩余空间](https://juejin.cn/post/7483748701846405172)
+- 博客园
+  - [鸿蒙NEXT开发案例：程序员计算器 - zhongcx](https://www.cnblogs.com/zhongcx/p/18786652)
+- GitHub
+  - [WanHarmony](https://github.com/JeffersonHuang/WanHarmony)
+- 51CTO
+  - [鸿蒙NEXT开发案例：程序员计算器](https://ost.51cto.com/posts/32489)
+  - [HarmonyOS页面路由](https://ost.51cto.com/posts/32483)
+  - [HarmonyOS网络管理](https://ost.51cto.com/posts/32482)
+- 鸿蒙官网
+  - [HarmonyOS 项目中使用 npm 包 marked](https://developer.huawei.com/consumer/cn/blog/topic/03178106504853079)
+  - [HarmonyOS NEXT 技术特性：分布式软总线技术架构](https://developer.huawei.com/consumer/cn/blog/topic/03178063647560078)
+  - [深圳有哪些来自异地的双一流大学？](https://developer.huawei.com/consumer/cn/blog/topic/03178059979778082)
+  - [纯血鸿蒙系统为什么能够存在？](https://developer.huawei.com/consumer/cn/blog/topic/03178058692330082)
+  - [横空出世:新一代高端荧光屏——超空立体显像荧屏技术寻求合作](https://developer.huawei.com/consumer/cn/blog/topic/03178039941037078)
+  - [鸿蒙NEXT：从分布式架构到原生智能，重构未来操作系统范式](https://developer.huawei.com/consumer/cn/blog/topic/03178037899367077)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [上海海思将推出“一站式”鸿蒙蜂窝表芯方案，手表变独立轻智能终端](https://www.ithome.com/0/839/901.htm)
+- 掘金社区
+  - [HarmonyOS：基于axios实现文件的下载以及下载进度的监听](https://juejin.cn/post/7484148683438669859)
