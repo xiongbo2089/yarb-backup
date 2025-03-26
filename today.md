@@ -5031,3 +5031,27 @@
 - 掘金社区
   - [鸿蒙开发：正则中的match和matchAll](https://juejin.cn/post/7484992785952817163)
   - [鸿蒙如何显示临时数据？在预览(@Preview)时](https://juejin.cn/post/7484638486995681314)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 FreeBuds 6 / Pro 4 等耳机支持楼层定位功能，HarmonyOS 4.4 及以上版本手机可显示相关信息](https://www.ithome.com/0/840/763.htm)
+- 鸿蒙官网
+  - [鸿蒙OS架构设计探秘：从分层设计到多端部署](https://developer.huawei.com/consumer/cn/blog/topic/03178331155495106)
+  - [HarmonyOS 之 @Require 装饰器自学指南](https://developer.huawei.com/consumer/cn/blog/topic/03178330450024105)
+  - [flutter版鸿蒙踩坑之运行报错code:9568347](https://developer.huawei.com/consumer/cn/blog/topic/03178318022930103)
+  - [HarmonyOS 隐私工程实践：重构人机互信的技术革命](https://developer.huawei.com/consumer/cn/blog/topic/03178312910732097)
+  - [HarmonyOS NEXT - 列表滚动收起输入键盘 ](https://developer.huawei.com/consumer/cn/blog/topic/03178300207875104)
+  - [HarmonyOS从文件加载瀑布流数据实践——以像素匠绘画作品历史项目瀑布流实现为例](https://developer.huawei.com/consumer/cn/blog/topic/03178299057619111)
+  - [华为开发者空间新体验：一站式开发工具Notebook正式上线！](https://developer.huawei.com/consumer/cn/blog/topic/03178295566628110)
+  - [鸿蒙应用开发之——动画特效（十二星座之星空环绕）](https://developer.huawei.com/consumer/cn/blog/topic/03178294821355103)
+  - [鸿蒙应用开发之“一次开发，多端部署”](https://developer.huawei.com/consumer/cn/blog/topic/03178294756521102)
+  - [HarmonyOS NEXT：开启全场景智能新时代的技术引擎](https://developer.huawei.com/consumer/cn/blog/topic/03178285844956101)
+  - [【HarmonyOS NEXT】鸿蒙三方应用跳转到系统浏览器](https://developer.huawei.com/consumer/cn/blog/topic/03178284158634100)
+  - [鸿蒙开发之ArkTS并发技术制作中国象棋小游戏](https://developer.huawei.com/consumer/cn/blog/topic/03178275823549095)
+  - [HarmonyOS：@AnimatableExtend 装饰器自学指南](https://developer.huawei.com/consumer/cn/blog/topic/03178275521842109)
+- 51CTO
+  - [HarmonyOS 之 @Require 装饰器自学指南](https://ost.51cto.com/posts/32619)
+  - [鸿蒙ArkWeb深度解析：核心功能与隐藏技巧揭秘](https://ost.51cto.com/posts/32601)
+  - [鸿蒙开发：ArkTs界面跳转详细介绍](https://ost.51cto.com/posts/32600)
+- 掘金社区
+  - [鸿蒙开发：父组件如何调用子组件中的方法？](https://juejin.cn/post/7485598788985651212)
+  - [鸿蒙开发笔记-14-应用上下文Context](https://juejin.cn/post/7485562167670390838)
+  - [鸿蒙开发：openCustomDialog关闭指定Dialog](https://juejin.cn/post/7485566651662647350)
