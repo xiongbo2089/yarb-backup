@@ -5244,3 +5244,20 @@
   - [鸿蒙NEXT小游戏开发：打地鼠](https://juejin.cn/post/7487574488382177319)
   - [鸿蒙NEXT小游戏开发：垃圾分类](https://juejin.cn/post/7487619086512701452)
   - [鸿蒙NEXT小游戏开发：推箱子](https://juejin.cn/post/7487600796738093067)
+- 51CTO
+  - [【04】优雅草星云物联网AI智控系统从0开发鸿蒙端适配-deveco studio-自定义一个设置输入小部件组件-完成所](https://ost.51cto.com/posts/32843)
+  - [《HarmonyOS Next开发进阶：打造功能完备的Todo应用华章》](https://ost.51cto.com/posts/32837)
+  - [《HarmonyOS Next开发实战：从零构建响应式Todo应用的基石》](https://ost.51cto.com/posts/32836)
+- 鸿蒙官网
+  - [CMakeLists.txt 详解](https://developer.huawei.com/consumer/cn/blog/topic/03178967375048178)
+  - [taskpool在使用过程中最容易碰见的一个坑点](https://developer.huawei.com/consumer/cn/blog/topic/03178945454345001)
+  - [3D图片轮播组件使用指南](https://developer.huawei.com/consumer/cn/blog/topic/03178906712554189)
+  - [清华社新书《仓颉语言网络编程》出版](https://developer.huawei.com/consumer/cn/blog/topic/03178902919292166)
+  - [鸿蒙应用元服务开发-Account Kit获发票抬头](https://developer.huawei.com/consumer/cn/blog/topic/03178902810096188)
+  - [鸿蒙系统为C/C++提供了哪些接口？](https://developer.huawei.com/consumer/cn/blog/topic/03178902486381165)
+  - [《华为云确定性运维专刊》第六期正式发布！](https://developer.huawei.com/consumer/cn/blog/topic/03178891271608165)
+  - [hvigor更改打包产物文件名](https://developer.huawei.com/consumer/cn/blog/topic/03178883255743187)
+  - [Android项目里怎么使用.so？](https://developer.huawei.com/consumer/cn/blog/topic/03178883104128164)
+  - [华为2024年报：鸿蒙生态正在取得历史性突破](https://developer.huawei.com/consumer/cn/blog/topic/03178880935258177)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持长按识别网页中的二维码图片，微信鸿蒙版 App 获 1.0.5.35 尝鲜升级](https://www.ithome.com/0/842/435.htm)
