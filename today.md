@@ -5261,3 +5261,21 @@
   - [华为2024年报：鸿蒙生态正在取得历史性突破](https://developer.huawei.com/consumer/cn/blog/topic/03178880935258177)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [支持长按识别网页中的二维码图片，微信鸿蒙版 App 获 1.0.5.35 尝鲜升级](https://www.ithome.com/0/842/435.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 1.0.5.35 正式版本升级，部分用户支持指纹、面容支付](https://www.ithome.com/0/842/663.htm)
+- 鸿蒙官网
+  - [测试连接数据库 后端调试 封装](https://developer.huawei.com/consumer/cn/blog/topic/03179055079893182)
+  - [鸿蒙ArkTS，证书校验](https://developer.huawei.com/consumer/cn/blog/topic/03179007079183172)
+  - [科技云报到：企业级AI“脱虚向实”，落地还有几道槛？](https://developer.huawei.com/consumer/cn/blog/topic/03179002007242171)
+  - [使用AVPlayer播放视频(C/C++) 如何将视频显示到ArkTs侧Xcomponent上](https://developer.huawei.com/consumer/cn/blog/topic/03178991490895006)
+  - [在HarmonyOS NEXT 开发中，如何指定一个号码，拉起系统拨号页面](https://developer.huawei.com/consumer/cn/blog/topic/03178987160994168)
+  - [小红花大语言模型（LLM）排行榜（2025年3月）：DeepSeek即将登顶](https://developer.huawei.com/consumer/cn/blog/topic/03178986523207181)
+  - [接入运动健康AppH5方案（第12篇）：错误码](https://developer.huawei.com/consumer/cn/blog/topic/03178985652951180)
+  - [接入运动健康AppH5方案（第11篇）：如何提交翻译](https://developer.huawei.com/consumer/cn/blog/topic/03178985554896003)
+  - [【AGI-Eval行业动态 NO.1】大模型行业太卷了，两周多了20+的模型](https://developer.huawei.com/consumer/cn/blog/topic/03178976819477179)
+  - [【HarmonyOS NEXT】鸿蒙目前最好用的路由管理 HMRouter （一）](https://developer.huawei.com/consumer/cn/blog/topic/03178974064706166)
+  - [鸿蒙应用元服务开发-Account Kit获取华为账号用户信息概述](https://developer.huawei.com/consumer/cn/blog/topic/03178973801951002)
+  - [【HarmonyOS NEXT】关于官方推荐的组件级路由Navigation的心得体会](https://developer.huawei.com/consumer/cn/blog/topic/03178973241308167)
+  - [CMakeLists.txt 详解](https://developer.huawei.com/consumer/cn/blog/topic/03178967375048178)
+- 51CTO
+  - [鸿蒙React Native知识地图](https://ost.51cto.com/posts/32861)
