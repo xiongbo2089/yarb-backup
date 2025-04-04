@@ -5279,3 +5279,10 @@
   - [CMakeLists.txt 详解](https://developer.huawei.com/consumer/cn/blog/topic/03178967375048178)
 - 51CTO
   - [鸿蒙React Native知识地图](https://ost.51cto.com/posts/32861)
+- 鸿蒙官网
+  - [DialogHub上线OpenHarmony开源社区，高效开发鸿蒙应用弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03179083019592168)
+  - [小红花集成开发环境（IDE）排行榜（2025年3月）：Java 家族荣耀时刻](https://developer.huawei.com/consumer/cn/blog/topic/03179079031588167)
+  - [HarmonyOS 5 Cocos Creator知识地图](https://developer.huawei.com/consumer/cn/blog/topic/03179062398889174)
+  - [HarmonyOS 5 React Native知识地图](https://developer.huawei.com/consumer/cn/blog/topic/03179062240869007)
+  - [昇腾CANN算子共建仓CANN-Ops正式上线Gitee，首批算子已合入](https://developer.huawei.com/consumer/cn/blog/topic/03179061625844173)
+  - [测试连接数据库 后端调试 封装](https://developer.huawei.com/consumer/cn/blog/topic/03179055079893182)
