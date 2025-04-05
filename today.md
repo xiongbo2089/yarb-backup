@@ -5286,3 +5286,5 @@
   - [HarmonyOS 5 React Native知识地图](https://developer.huawei.com/consumer/cn/blog/topic/03179062240869007)
   - [昇腾CANN算子共建仓CANN-Ops正式上线Gitee，首批算子已合入](https://developer.huawei.com/consumer/cn/blog/topic/03179061625844173)
   - [测试连接数据库 后端调试 封装](https://developer.huawei.com/consumer/cn/blog/topic/03179055079893182)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（1）：框架简介](https://developer.huawei.com/consumer/cn/blog/topic/03179181806351169)
