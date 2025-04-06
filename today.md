@@ -5288,3 +5288,6 @@
   - [测试连接数据库 后端调试 封装](https://developer.huawei.com/consumer/cn/blog/topic/03179055079893182)
 - 鸿蒙官网
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（1）：框架简介](https://developer.huawei.com/consumer/cn/blog/topic/03179181806351169)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（2）：Agent接口](https://developer.huawei.com/consumer/cn/blog/topic/03179261736840013)
+  - [跨平台全屏效果实现方案：HarmonyOS、Android与iOS实践总结](https://developer.huawei.com/consumer/cn/blog/topic/03179261706421174)
