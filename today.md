@@ -5291,3 +5291,8 @@
 - 鸿蒙官网
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（2）：Agent接口](https://developer.huawei.com/consumer/cn/blog/topic/03179261736840013)
   - [跨平台全屏效果实现方案：HarmonyOS、Android与iOS实践总结](https://developer.huawei.com/consumer/cn/blog/topic/03179261706421174)
+- 鸿蒙官网
+  - [鸿蒙接入音视频播放器SDK](https://developer.huawei.com/consumer/cn/blog/topic/03179330466751176)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（3）：Agent请求和响应](https://developer.huawei.com/consumer/cn/blog/topic/03179329260097175)
+- 掘金社区
+  - [Flutter 与 HarmonyOS NEXT | IAPKit(应用内支付服务)避坑指南](https://juejin.cn/post/7489315969318961163)
