@@ -5296,3 +5296,18 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（3）：Agent请求和响应](https://developer.huawei.com/consumer/cn/blog/topic/03179329260097175)
 - 掘金社区
   - [Flutter 与 HarmonyOS NEXT | IAPKit(应用内支付服务)避坑指南](https://juejin.cn/post/7489315969318961163)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（5）：Agent执行信息](https://developer.huawei.com/consumer/cn/blog/topic/03179485871045189)
+  - [鸿蒙生态日日新：“郑好办”鸿蒙版上线，今日头条、人民日报等更新](https://developer.huawei.com/consumer/cn/blog/topic/03179484239808023)
+  - [HUAWEI Care+：解锁无忧用机新体验](https://developer.huawei.com/consumer/cn/blog/topic/03179429474958202)
+  - [华为Pura X全面评测：什么是为内容而生的手机](https://developer.huawei.com/consumer/cn/blog/topic/03179429210300021)
+  - [避雷！！！@Component和@ComponentV2区别一定要牢记！](https://developer.huawei.com/consumer/cn/blog/topic/03179424143482201)
+  - [鸿蒙应用元服务开发-Account Kit获取收货地址](https://developer.huawei.com/consumer/cn/blog/topic/03179423967468185)
+  - [鸿蒙女孩的成长日记之学习笔记2（努力更新ing...）](https://developer.huawei.com/consumer/cn/blog/topic/03179422498441020)
+  - [后台长时任务WebSocket保活方法探索](https://developer.huawei.com/consumer/cn/blog/topic/03179418270222018)
+  - [鸿蒙女孩的成长日记之学习笔记1（努力更新ing...）](https://developer.huawei.com/consumer/cn/blog/topic/03179413293626184)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（4）：异步Agent响应](https://developer.huawei.com/consumer/cn/blog/topic/03179407482620022)
+  - [鸿蒙版小红书如何让图库访问完全由“你”掌控](https://developer.huawei.com/consumer/cn/blog/topic/03179405075445021)
+  - [鸿蒙APMS：全天候性能急诊室，崩溃/卡顿/耗电秒级捕捉！](https://developer.huawei.com/consumer/cn/blog/topic/03179403535401017)
+  - [云测试助力开发者效率成本双优化](https://developer.huawei.com/consumer/cn/blog/topic/03179403491533183)
+  - [文旅行业元服务组件模板上线](https://developer.huawei.com/consumer/cn/blog/topic/03179403425628020)
