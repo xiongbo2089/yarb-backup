@@ -5334,3 +5334,29 @@
   - [【AGI-Eval行业动态】OpenAI 语音模型三连发，AI 语音进入“声优”时代](https://developer.huawei.com/consumer/cn/blog/topic/03179489902877024)
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（5）：Agent执行信息](https://developer.huawei.com/consumer/cn/blog/topic/03179485871045189)
   - [鸿蒙生态日日新：“郑好办”鸿蒙版上线，今日头条、人民日报等更新](https://developer.huawei.com/consumer/cn/blog/topic/03179484239808023)
+- 51CTO
+  - [【HarmonyOS 5】使用openCustomDialog如何禁止手势关闭的方案](https://ost.51cto.com/posts/32909)
+- 鸿蒙官网
+  - [鸿蒙NEXT开发浅进阶到精通02:鸿蒙ASCF框架适配](https://developer.huawei.com/consumer/cn/blog/topic/03179618455413210)
+  - [科技云报到：鏖战企业级市场，AI Agent如何重塑智能商业未来？](https://developer.huawei.com/consumer/cn/blog/topic/03179604386506036)
+  - [鸿蒙智联原子化服务开发接入准备](https://developer.huawei.com/consumer/cn/blog/topic/03179600926226216)
+  - [鸿蒙智联原子化服务及流程介绍](https://developer.huawei.com/consumer/cn/blog/topic/03179600645582209)
+  - [接入运动健康App，如何认证上线？](https://developer.huawei.com/consumer/cn/blog/topic/03179600332435208)
+  - [接入运动健康App，如何部署二维码和NFC标签？](https://developer.huawei.com/consumer/cn/blog/topic/03179600235740215)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（6）：拦截器](https://developer.huawei.com/consumer/cn/blog/topic/03179593559386038)
+  - [HarmonyOS Next实践：mobpush应用总结](https://developer.huawei.com/consumer/cn/blog/topic/03179593359051035)
+  - [对于HarmonyOS的建设的想法](https://developer.huawei.com/consumer/cn/blog/topic/03179587659344206)
+  - [鸿蒙NEXT如何保证应用安全：详解鸿蒙NEXT数字签名和证书机制](https://developer.huawei.com/consumer/cn/blog/topic/03179581745484037)
+  - [【AGI-Eval评测报告NO.4】多模态开箱评测，五大厂商跨模态 battle 谁更强？](https://developer.huawei.com/consumer/cn/blog/topic/03179581197683205)
+  - [祝贺！华为云GES完成中国信通院图数据库产品测试](https://developer.huawei.com/consumer/cn/blog/topic/03179579827557204)
+  - [【HarmonyOS 5】鸿蒙中如何使用MQTT](https://developer.huawei.com/consumer/cn/blog/topic/03179578284465203)
+  - [【HarmonyOS 5】使用openCustomDialog如何禁止手势关闭的方案](https://developer.huawei.com/consumer/cn/blog/topic/03179577361356036)
+  - [OpenHarmony12 无法支持@kit.PDFKit](https://developer.huawei.com/consumer/cn/blog/topic/03179574468113214)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙 5 系统公测半年，你提交的 App 心愿单都实现了吗？](https://www.ithome.com/0/843/967.htm)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙中@State的原理详解](https://juejin.cn/post/7491169787700690944)
+  - [鸿蒙-状态管理V1和V2在ForEach循环渲染的表现](https://juejin.cn/post/7491155793128439871)
+  - [【HarmonyOS 5】鸿蒙的装饰器原理和自定义装饰器](https://juejin.cn/post/7490989659033468962)
+- 开源中国
+  - [深开鸿发布基于开源鸿蒙的机器人操作系统 M-Robots OS](https://www.oschina.net/news/343568)
