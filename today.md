@@ -5360,3 +5360,18 @@
   - [【HarmonyOS 5】鸿蒙的装饰器原理和自定义装饰器](https://juejin.cn/post/7490989659033468962)
 - 开源中国
   - [深开鸿发布基于开源鸿蒙的机器人操作系统 M-Robots OS](https://www.oschina.net/news/343568)
+- 鸿蒙官网
+  - [关于子页面与父页面数据同步的问题](https://developer.huawei.com/consumer/cn/blog/topic/03179706264578044)
+  - [Scrum敏捷开发框架](https://developer.huawei.com/consumer/cn/blog/topic/03179683623383214)
+  - [HarmonyOS：组件布局保存至相册](https://developer.huawei.com/consumer/cn/blog/topic/03179682773321043)
+  - [从付费到免费，短剧离“上桌”还有多远？](https://developer.huawei.com/consumer/cn/blog/topic/03179680071492042)
+  - [HarmonyOS NEXT 实现滑动拼图验证码功能](https://developer.huawei.com/consumer/cn/blog/topic/03179678654712041)
+  - [鸿蒙应用元服务开发-Account Kit配置Client ID](https://developer.huawei.com/consumer/cn/blog/topic/03179677822655041)
+  - [【HarmonyOS 5】鸿蒙中@State的原理详解](https://developer.huawei.com/consumer/cn/blog/topic/03179668433688212)
+  - [【HarmonyOS 5】鸿蒙的装饰器原理和自定义装饰器](https://developer.huawei.com/consumer/cn/blog/topic/03179668012556040)
+  - [科技巨头加倍押注生成式 AI](https://developer.huawei.com/consumer/cn/blog/topic/03179667513542040)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（7）：AbsAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179665079110211)
+  - [【重磅来袭】DeepSeek-R1昇腾满血版入驻华为开发者空间！互动体验，瓜分福利！](https://developer.huawei.com/consumer/cn/blog/topic/03179664513031218)
+  - [AGI-Eval 独家托管 RM-Bench：给大模型的“打分能力”打个分](https://developer.huawei.com/consumer/cn/blog/topic/03179663651838039)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持群发助手，微信鸿蒙版 App 获 1.0.5.39 邀测升级](https://www.ithome.com/0/844/392.htm)
