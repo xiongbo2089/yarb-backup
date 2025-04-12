@@ -5375,3 +5375,14 @@
   - [AGI-Eval 独家托管 RM-Bench：给大模型的“打分能力”打个分](https://developer.huawei.com/consumer/cn/blog/topic/03179663651838039)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [支持群发助手，微信鸿蒙版 App 获 1.0.5.39 邀测升级](https://www.ithome.com/0/844/392.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [你的鸿蒙 5 系统 App 心愿单都实现了吗？看看IT之家网友们的回答](https://www.ithome.com/0/844/709.htm)
+  - [华为 Pura X 手机推送鸿蒙 HarmonyOS NEXT 5.0.1.110 升级，外屏搭载全新小艺智能体](https://www.ithome.com/0/844/648.htm)
+- 鸿蒙官网
+  - [HarmonyOS 5.0 USB应用开发Demo](https://developer.huawei.com/consumer/cn/blog/topic/03179775020493048)
+  - [DeepSeek大模型Prompt工程深度实践（开发者空间Notebook版）](https://developer.huawei.com/consumer/cn/blog/topic/03179774988154043)
+  - [鸿蒙应用元服务开发-Account Kit配置scope权限](https://developer.huawei.com/consumer/cn/blog/topic/03179767205065222)
+  - [如何在编译时添加对C库的链接？](https://developer.huawei.com/consumer/cn/blog/topic/03179765307151047)
+  - [【AGI-Eval评测报告 NO.5】主观评测 R1 vs o1 vs o3-mini，全视角报告输出](https://developer.huawei.com/consumer/cn/blog/topic/03179764825197218)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（8）：BaseAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179752863559221)
+  - [【HarmonyOS NEXT+AI】问答02：有一点编程基础，可以学不？](https://developer.huawei.com/consumer/cn/blog/topic/03179750539661217)
