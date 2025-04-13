@@ -5386,3 +5386,6 @@
   - [【AGI-Eval评测报告 NO.5】主观评测 R1 vs o1 vs o3-mini，全视角报告输出](https://developer.huawei.com/consumer/cn/blog/topic/03179764825197218)
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（8）：BaseAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179752863559221)
   - [【HarmonyOS NEXT+AI】问答02：有一点编程基础，可以学不？](https://developer.huawei.com/consumer/cn/blog/topic/03179750539661217)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（10）：DispatchAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179913726187051)
+  - [【HarmonyOS 5】鸿蒙实现手写板](https://developer.huawei.com/consumer/cn/blog/topic/03179867251282044)
