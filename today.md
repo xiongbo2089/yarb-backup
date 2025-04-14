@@ -5389,3 +5389,11 @@
 - 鸿蒙官网
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（10）：DispatchAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179913726187051)
   - [【HarmonyOS 5】鸿蒙实现手写板](https://developer.huawei.com/consumer/cn/blog/topic/03179867251282044)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持分享公众号文章到朋友圈，微信鸿蒙版 App 开启 1.0.5.40 尝鲜升级](https://www.ithome.com/0/844/941.htm)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（11）：HumanAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180005364881227)
+  - [【HarmonyOS 5】敏感信息本地存储详解](https://developer.huawei.com/consumer/cn/blog/topic/03179928018272045)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（10）：DispatchAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179913726187051)
+- 掘金社区
+  - [【HarmonyOS 5】敏感信息本地存储详解](https://juejin.cn/post/7492221099745755199)
