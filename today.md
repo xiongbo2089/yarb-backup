@@ -5397,3 +5397,19 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（10）：DispatchAgent](https://developer.huawei.com/consumer/cn/blog/topic/03179913726187051)
 - 掘金社区
   - [【HarmonyOS 5】敏感信息本地存储详解](https://juejin.cn/post/7492221099745755199)
+- 51CTO
+  - [【闲谈鸿蒙三方库】图表库@ohos/mpchart](https://ost.51cto.com/posts/32974)
+  - [【木棉花】HarmonyOS电量卡片](https://ost.51cto.com/posts/27299)
+- 鸿蒙官网
+  - [HarmonyOS Next实践：带进度的加载中对话框实现](https://developer.huawei.com/consumer/cn/blog/topic/03180091088784049)
+  - [上架FAQ（Cocos Creator）](https://developer.huawei.com/consumer/cn/blog/topic/03180045272543048)
+  - [【开发笔记】分词与涂抹选择功能](https://developer.huawei.com/consumer/cn/blog/topic/03180042932339229)
+  - [采用端云一体化开发模式，开发工作量减少60%](https://developer.huawei.com/consumer/cn/blog/topic/03180031205595054)
+  - [解锁HarmonyOS预加载，让应用加载快人一步](https://developer.huawei.com/consumer/cn/blog/topic/03180031057516223)
+  - [Pura X阔折叠适配：解锁超视觉与高效交互的全新体验](https://developer.huawei.com/consumer/cn/blog/topic/03180026333628222)
+  - [用DevEco Studio增量补丁修复功能，让鸿蒙应用的调试效率大增](https://developer.huawei.com/consumer/cn/blog/topic/03180023692846228)
+  - [Native侧日志打印功能](https://developer.huawei.com/consumer/cn/blog/topic/03180011965468047)
+  - [ArcScroll: 弧形滑动控件](https://developer.huawei.com/consumer/cn/blog/topic/03180006752725046)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（11）：HumanAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180005364881227)
+- 掘金社区
+  - [【HarmonyOS 5】AttributeModifier和AttributeUpdater详解](https://juejin.cn/post/7492990918701908004)
