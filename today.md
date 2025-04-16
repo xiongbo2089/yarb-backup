@@ -5413,3 +5413,18 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（11）：HumanAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180005364881227)
 - 掘金社区
   - [【HarmonyOS 5】AttributeModifier和AttributeUpdater详解](https://juejin.cn/post/7492990918701908004)
+- 51CTO
+  - [HarmonyOS NEXT uniapp鸿蒙化，微信和qq分享图片怎么做](https://ost.51cto.com/posts/32975)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Vision 智慧屏 5 开售：“三个首次”重新定义 "巨幕手机" 智慧新高度](https://www.ithome.com/0/845/563.htm)
+- 鸿蒙官网
+  - [关于JSON字符串在云数据库中的使用](https://developer.huawei.com/consumer/cn/blog/topic/03180141561941051)
+  - [鸿蒙应用元服务开发-Account Kit配置登录权限](https://developer.huawei.com/consumer/cn/blog/topic/03180114432525232)
+  - [【HarmonyOS 5】如何开启DevEco Studio热更新调试应用模式](https://developer.huawei.com/consumer/cn/blog/topic/03180104151024225)
+  - [【HarmonyOS 5】AttributeModifier和AttributeUpdater详解](https://developer.huawei.com/consumer/cn/blog/topic/03180101408806055)
+  - [基于DeepSeek+Dify构建财务报表分析模型](https://developer.huawei.com/consumer/cn/blog/topic/03180098818014050)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（12）：ConversationAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180095187071224)
+  - [HarmonyOS Next实践：带进度的加载中对话框实现](https://developer.huawei.com/consumer/cn/blog/topic/03180091088784049)
+- 掘金社区
+  - [鸿蒙应用开发—数据持久化之SQLite](https://juejin.cn/post/7493381287874084903)
+  - [Flutter 与 uni-app 的深度对比：鸿蒙开发的最佳选择竟是原生开发](https://juejin.cn/post/7493389842504613923)
