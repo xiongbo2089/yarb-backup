@@ -5455,3 +5455,21 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（13）：ToolAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180178109241052)
 - 51CTO
   - [【HarmonyOS NEXT+AI】问答03：找不到DevEco Studio Cangjie Plugin下载链接？](https://ost.51cto.com/posts/33004)
+- 鸿蒙官网
+  - [画布后退一步？](https://developer.huawei.com/consumer/cn/blog/topic/03180351882428017)
+  - [CCC打包的鸿蒙适配异形屏](https://developer.huawei.com/consumer/cn/blog/topic/03180351445117238)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（15）：NaiveExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180349296670016)
+  - [鸿蒙加解密算法库，AES解密报错17630001分析](https://developer.huawei.com/consumer/cn/blog/topic/03180302297427015)
+  - [【HarmonyOS 5】应用振动效果实现](https://developer.huawei.com/consumer/cn/blog/topic/03180289594777065)
+  - [【HarmonyOS 5】鸿蒙应用子模块module资源如何获取](https://developer.huawei.com/consumer/cn/blog/topic/03180289358463238)
+  - [人脸识别demo--仅供参考](https://developer.huawei.com/consumer/cn/blog/topic/03180284748042233)
+  - [IAP应用内支付FAQ（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03180268271196011)
+  - [游戏服务FAQ（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03180267313403237)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（14）：ToolSelectAgent](https://developer.huawei.com/consumer/cn/blog/topic/03180266884790063)
+  - [游戏上架审核高频驳回项（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03180266460952010)
+  - [常用的Web漏洞检测工具](https://developer.huawei.com/consumer/cn/blog/topic/03180265952130009)
+  - [【HarmonyOS NEXT+AI】问答03：找不到DevEco Studio Cangjie Plugin下载链接？](https://developer.huawei.com/consumer/cn/blog/topic/03180265045792008)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [优化小艺建议模块推荐策略，华为 MatePad 平板产品获鸿蒙 HarmonyOS NEXT 5.0.0.155 升级](https://www.ithome.com/0/846/106.htm)
+- 掘金社区
+  - [【HarmonyOS NEXT】解决微信浏览器无法唤起APP的问题](https://juejin.cn/post/7493840646949699636)
