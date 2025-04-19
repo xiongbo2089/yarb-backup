@@ -5473,3 +5473,24 @@
   - [优化小艺建议模块推荐策略，华为 MatePad 平板产品获鸿蒙 HarmonyOS NEXT 5.0.0.155 升级](https://www.ithome.com/0/846/106.htm)
 - 掘金社区
   - [【HarmonyOS NEXT】解决微信浏览器无法唤起APP的问题](https://juejin.cn/post/7493840646949699636)
+- 51CTO
+  - [OpenHarmony 4.0 Release Pad Launcher 编译替换无法启动的解决方案](https://ost.51cto.com/posts/28104)
+  - [HarmonyOS Next 教你两步超简单实现鸿蒙沉侵状态栏导航](https://ost.51cto.com/posts/32377)
+  - [打造鸿蒙系统中最好用的加载动画和提示弹窗](https://ost.51cto.com/posts/33008)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [工信部：推动更多 App 上架华为鸿蒙应用商店，满足群众多样化需求](https://www.ithome.com/0/846/289.htm)
+- 鸿蒙官网
+  - [【HarmonyOS 5】实现键盘动态显隐和入页面默认弹出键盘获取焦点设置](https://developer.huawei.com/consumer/cn/blog/topic/03180397728435019)
+  - [【HarmonyOS 5】View点击穿透，层叠View点击事件控制](https://developer.huawei.com/consumer/cn/blog/topic/03180397550310018)
+  - [使用 convertxml.ConvertXML 解析xml字符串出现问题](https://developer.huawei.com/consumer/cn/blog/topic/03180381398133072)
+  - [鸿蒙动画与交互设计：ArkUI 3D变换与手势事件详解](https://developer.huawei.com/consumer/cn/blog/topic/03180375831577242)
+  - [利用DevEco Profiler定位性能瓶颈，优化资源占用](https://developer.huawei.com/consumer/cn/blog/topic/03180375756152071)
+  - [DevEco Studio AI辅助开发工具两大升级功能 鸿蒙应用开发效率再提升](https://developer.huawei.com/consumer/cn/blog/topic/03180368570433240)
+  - [【Harmony】如何根据uri生成带水印的图片base64](https://developer.huawei.com/consumer/cn/blog/topic/03180354323758241)
+  - [画布后退一步？](https://developer.huawei.com/consumer/cn/blog/topic/03180351882428017)
+  - [CCC打包的鸿蒙适配异形屏](https://developer.huawei.com/consumer/cn/blog/topic/03180351445117238)
+  - [访问设备文件](https://developer.huawei.com/consumer/cn/blog/topic/03180350041823237)
+  - [推送场景方案选取](https://developer.huawei.com/consumer/cn/blog/topic/03180349370576236)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（15）：NaiveExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180349296670016)
+- 掘金社区
+  - [鸿蒙-http 和 rcp 抓包，应该如何配置？](https://juejin.cn/post/7494448379180515367)
