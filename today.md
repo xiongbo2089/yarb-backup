@@ -5494,3 +5494,13 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（15）：NaiveExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180349296670016)
 - 掘金社区
   - [鸿蒙-http 和 rcp 抓包，应该如何配置？](https://juejin.cn/post/7494448379180515367)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [米家，华为鸿蒙 HarmonyOS 5，6 月安排](https://www.ithome.com/0/846/517.htm)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（17）：PlanReactExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180519242436073)
+  - [【HarmonyOS 5】鸿蒙应用架构原则参考](https://developer.huawei.com/consumer/cn/blog/topic/03180471207418243)
+  - [【HarmonyOS 5】鸿蒙应用模块化详解](https://developer.huawei.com/consumer/cn/blog/topic/03180471096206243)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（16）：ReactExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180448289565242)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#智能健康监护系统开发分享](https://ost.51cto.com/posts/33024)
+  - [鸿蒙 Web 组件调试流程优化](https://ost.51cto.com/posts/33017)
