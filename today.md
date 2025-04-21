@@ -5504,3 +5504,14 @@
 - 51CTO
   - [#HarmonyOS NEXT体验官#智能健康监护系统开发分享](https://ost.51cto.com/posts/33024)
   - [鸿蒙 Web 组件调试流程优化](https://ost.51cto.com/posts/33017)
+- 鸿蒙官网
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（18）：AgentExecutorManager](https://developer.huawei.com/consumer/cn/blog/topic/03180611495038244)
+  - [【HarmonyOS 5】VisionKit人脸活体检测详解](https://developer.huawei.com/consumer/cn/blog/topic/03180559100672245)
+  - [开发组件分享---拍照裁剪，并涂抹编辑，生成新的图片（一张图片裁剪可同时裁剪成多个图片）](https://developer.huawei.com/consumer/cn/blog/topic/03180552793612075)
+  - [【HarmonyOS 5】鸿蒙应用如何进行页面横竖屏切换以及注意事项，自动切换横竖屏，监听横竖屏](https://developer.huawei.com/consumer/cn/blog/topic/03180543739918244)
+  - [MCP详解及手把手实战](https://developer.huawei.com/consumer/cn/blog/topic/03180540268583022)
+  - [【HarmonyOS 5】鸿蒙应用使用后台任务之长时任务，解决屏幕录制音乐播放等操作不被挂起](https://developer.huawei.com/consumer/cn/blog/topic/03180533931041021)
+  - [不要只用@Extend和@Style了，这个库对全局属性使用的AttributeUpdater进行扩展！错过后悔一辈子！！！](https://developer.huawei.com/consumer/cn/blog/topic/03180525604740074)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（17）：PlanReactExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180519242436073)
+- 掘金社区
+  - [【HarmonyOS 5】VisionKit人脸活体检测详解](https://juejin.cn/post/7494836126655987747)
