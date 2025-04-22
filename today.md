@@ -5515,3 +5515,15 @@
   - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（17）：PlanReactExecutor](https://developer.huawei.com/consumer/cn/blog/topic/03180519242436073)
 - 掘金社区
   - [【HarmonyOS 5】VisionKit人脸活体检测详解](https://juejin.cn/post/7494836126655987747)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 1.0.6.16 邀测升级：可设置聊天背景、添加黑名单，支持账号解封](https://www.ithome.com/0/847/894.htm)
+- 鸿蒙官网
+  - [云图说｜HSS新版‘反黑三件套’，全方位守护主机与容器安全！](https://developer.huawei.com/consumer/cn/blog/topic/03180644985741250)
+  - [上架FAQ（Cocos Creator）](https://developer.huawei.com/consumer/cn/blog/topic/03180628357077076)
+  - [【HarmonyOS 5】滑动选中放大卡片效果](https://developer.huawei.com/consumer/cn/blog/topic/03180615312397023)
+  - [【HarmonyOS 5】makeObserved接口详解](https://developer.huawei.com/consumer/cn/blog/topic/03180615121324246)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（18）：AgentExecutorManager](https://developer.huawei.com/consumer/cn/blog/topic/03180611495038244)
+- 鸿蒙开源工程更新
+  - [esirong/Harmony Best Practices](https://gitee.com/esir/harmony-best-practices)
+- 掘金社区
+  - [鸿蒙next 获取验证码输入框 重磅来袭](https://juejin.cn/post/7495414240360022053)
