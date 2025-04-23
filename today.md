@@ -5527,3 +5527,19 @@
   - [esirong/Harmony Best Practices](https://gitee.com/esir/harmony-best-practices)
 - 掘金社区
   - [鸿蒙next 获取验证码输入框 重磅来袭](https://juejin.cn/post/7495414240360022053)
+- 鸿蒙官网
+  - [NavDestination的自定义标题居中与右侧自定义区域](https://developer.huawei.com/consumer/cn/blog/topic/03180784139275254)
+  - [【HarmonyOS 5】应用设置隐私窗口，屏蔽用户截屏和录屏操作](https://developer.huawei.com/consumer/cn/blog/topic/03180782527722253)
+  - [【HarmonyOS 5】代码规范参考](https://developer.huawei.com/consumer/cn/blog/topic/03180782323061035)
+  - [HarmonyOS Next：在同一个项目使用多目标产物构建不同包名应用](https://developer.huawei.com/consumer/cn/blog/topic/03180714883268079)
+  - [【HarmonyOS 5】一键扫码功能](https://developer.huawei.com/consumer/cn/blog/topic/03180712195809033)
+  - [【HarmonyOS 5】相册Picker过滤二维码/条码失效，不显示该图片](https://developer.huawei.com/consumer/cn/blog/topic/03180711888770032)
+  - [上架FAQ（Cocos 2d-x）](https://developer.huawei.com/consumer/cn/blog/topic/03180711682862031)
+  - [《仿盒马》app开发技术分享《十二》-- 新人专享券（端云一体）](https://developer.huawei.com/consumer/cn/blog/topic/03180710187846247)
+  - [纯血鸿蒙系统相比其他系统有哪些优势？](https://developer.huawei.com/consumer/cn/blog/topic/03180702022491029)
+  - [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（19）：knowledgeExtract](https://developer.huawei.com/consumer/cn/blog/topic/03180701834327252)
+  - [如何下载和安装纯血鸿蒙系统？](https://developer.huawei.com/consumer/cn/blog/topic/03180700859723251)
+- 51CTO
+  - [HarmonyOS Next：在同一个项目使用多目标产物构建不同包名应用](https://ost.51cto.com/posts/33045)
+- 开源中国
+  - [“HarmonyOS 协同・创新” 即将启幕，开发者携手共创新未来](https://my.oschina.net/u/3859945/blog/18219336)
