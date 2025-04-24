@@ -5543,3 +5543,25 @@
   - [HarmonyOS Next：在同一个项目使用多目标产物构建不同包名应用](https://ost.51cto.com/posts/33045)
 - 开源中国
   - [“HarmonyOS 协同・创新” 即将启幕，开发者携手共创新未来](https://my.oschina.net/u/3859945/blog/18219336)
+- 鸿蒙官网
+  - [我发现了一个能写进工程管理历史的成果！！](https://developer.huawei.com/consumer/cn/blog/topic/03180835484503259)
+  - [渐变色折线图](https://developer.huawei.com/consumer/cn/blog/topic/03180821948593258)
+  - [Image自适应窗口与手势缩放和旋转](https://developer.huawei.com/consumer/cn/blog/topic/03180807434837257)
+  - [游戏上架审核高频驳回项（Cocos Creator）](https://developer.huawei.com/consumer/cn/blog/topic/03180804072259037)
+  - [游戏上架审核高频驳回项（Cocos 2d-x）](https://developer.huawei.com/consumer/cn/blog/topic/03180802221778083)
+  - [IAP应用内支付FAQ（Cocos 2d-x）](https://developer.huawei.com/consumer/cn/blog/topic/03180801090539255)
+  - [关于使用router进行getParams传参时判断是否有传参的问题](https://developer.huawei.com/consumer/cn/blog/topic/03180798800752036)
+  - [拥抱国产化：转转APP的鸿蒙NEXT端开发尝鲜之旅](https://developer.huawei.com/consumer/cn/blog/topic/03180787685771081)
+  - [DatePicker从屏幕下方滑出与触控效果](https://developer.huawei.com/consumer/cn/blog/topic/03180786939175251)
+  - [游戏服务FAQ（Cocos Creator）](https://developer.huawei.com/consumer/cn/blog/topic/03180786760643250)
+  - [NavDestination自定义标题居中与右侧自定义区域](https://developer.huawei.com/consumer/cn/blog/topic/03180784139275254)
+  - [【HarmonyOS 5】应用设置隐私窗口，屏蔽用户截屏和录屏操作](https://developer.huawei.com/consumer/cn/blog/topic/03180782527722253)
+  - [【HarmonyOS 5】代码规范参考](https://developer.huawei.com/consumer/cn/blog/topic/03180782323061035)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持将小程序添加到桌面，微信鸿蒙版 App 获 1.0.6.32 邀测升级](https://www.ithome.com/0/848/484.htm)
+- 博客园
+  - [Harmony 动态路由框架：TheRouter 开源 - 德帅路](https://www.cnblogs.com/ludeshuai/p/18844101)
+- 51CTO
+  - [OpenHarmony ArkUI - ets_runtime启动流程源码解读](https://ost.51cto.com/posts/21743)
+- 掘金社区
+  - [OpenHarmony声明为系统应用和系统签名文件](https://juejin.cn/post/7496338587501461538)
