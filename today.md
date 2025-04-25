@@ -5565,3 +5565,30 @@
   - [OpenHarmony ArkUI - ets_runtime启动流程源码解读](https://ost.51cto.com/posts/21743)
 - 掘金社区
   - [OpenHarmony声明为系统应用和系统签名文件](https://juejin.cn/post/7496338587501461538)
+- GitHub
+  - [hpack](https://github.com/iHongRen/hpack)
+- 鸿蒙官网
+  - [开发函数之Node.js](https://developer.huawei.com/consumer/cn/blog/topic/03180954606612089)
+  - [创建端云一体化开发工程](https://developer.huawei.com/consumer/cn/blog/topic/03180953925371266)
+  - [【HarmonyOS 5】error: failed to install bundle. code:9568322...](https://developer.huawei.com/consumer/cn/blog/topic/03180919038279268)
+  - [【HarmonyOS 5】鸿蒙应用推送使用个推SDK如何实现？](https://developer.huawei.com/consumer/cn/blog/topic/03180918443455267)
+  - [【HarmonyOS 5】自动签名报错，The signature does not take effect or has expired.It may be the current system...](https://developer.huawei.com/consumer/cn/blog/topic/03180917618661266)
+  - [har包如何在工程里引用](https://developer.huawei.com/consumer/cn/blog/topic/03180899314936265)
+  - [【华为云MySQL技术专栏】MySQL的WriteSet并行复制介绍](https://developer.huawei.com/consumer/cn/blog/topic/03180899013160088)
+  - [《重塑AI应用架构》系列： Serverless与MCP融合创新，构建AI应用全新智能中枢](https://developer.huawei.com/consumer/cn/blog/topic/03180894921409264)
+  - [华为云调试：一键解决设备缺失难题，高效调试省成本！](https://developer.huawei.com/consumer/cn/blog/topic/03180890302688087)
+  - [近场服务（一）：扩展私域流量，HarmonyOS近场能力激发服务找人新价值](https://developer.huawei.com/consumer/cn/blog/topic/03180890192315263)
+  - [近场服务（二）：一触即达，HarmonyOS近场能力让交互效率不止翻倍](https://developer.huawei.com/consumer/cn/blog/topic/03180890112237086)
+  - [鸿蒙开发者必备！华为AGC URL检测实时拦截恶意链接](https://developer.huawei.com/consumer/cn/blog/topic/03180890021044262)
+  - [鸿蒙开发者必备！设备状态检测拦截“羊毛党”，助力业务精准营销](https://developer.huawei.com/consumer/cn/blog/topic/03180889938113085)
+  - [鸿蒙开发者必备！系统完整性检测守护应用安全](https://developer.huawei.com/consumer/cn/blog/topic/03180889859532260)
+  - [一图看懂鸿蒙生态](https://developer.huawei.com/consumer/cn/blog/topic/03180889507108261)
+  - [鸿蒙产业洞察：鸿蒙及开源生态相关产业政策洞察分享-第一期](https://developer.huawei.com/consumer/cn/blog/topic/03180887803253084)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持大折叠手机作为平板设备登录，微信鸿蒙版 App 获 1.0.6.33 邀测升级](https://www.ithome.com/0/848/774.htm)
+- 博客园
+  - [意图框架事件推荐方案，精准匹配用户需求 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18844943)
+- 51CTO
+  - [一键多环境构建——用 Hvigor 玩转 HarmonyOS Next](https://ost.51cto.com/posts/33056)
+- 开源中国
+  - [Harmony 鸿蒙路由框架：TheRouter 开源](https://my.oschina.net/kymjs/blog/18230924)
