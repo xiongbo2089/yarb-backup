@@ -5592,3 +5592,17 @@
   - [一键多环境构建——用 Hvigor 玩转 HarmonyOS Next](https://ost.51cto.com/posts/33056)
 - 开源中国
   - [Harmony 鸿蒙路由框架：TheRouter 开源](https://my.oschina.net/kymjs/blog/18230924)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙版华为钱包 App 上线“畅行无忧卡”交通卡：引入“乘车额度”概念、支持全国 330+ 城先乘后付](https://www.ithome.com/0/848/998.htm)
+  - [华为 Mate XT 非凡大师三折叠屏手机开启鸿蒙 HarmonyOS 5 花粉 Beta 尝鲜招募](https://www.ithome.com/0/848/986.htm)
+  - [鸿蒙生态建设再提速！工信部倡议：推动更多 App 上架鸿蒙应用商店](https://www.ithome.com/0/848/871.htm)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.addSlot](https://developer.huawei.com/consumer/cn/blog/topic/03180976267303270)
+  - [【HarmonyOS 5】Unable to create the profile due to a lack of a device. Connect a device via lP or USB...](https://developer.huawei.com/consumer/cn/blog/topic/03180975540880267)
+  - [【HarmonyOS 5 】Decryption failed. Verify the encryption password, or delete the material folder wher...](https://developer.huawei.com/consumer/cn/blog/topic/03180975414962040)
+  - ['"node.exe"' 不是内部或外部命令，也不是可运行的程序 或批处理文件？](https://developer.huawei.com/consumer/cn/blog/topic/03180974398782090)
+  - [AVPlayer播放OSS音频出现5400102错误](https://developer.huawei.com/consumer/cn/blog/topic/03180972478040269)
+  - [开发函数之Node.js](https://developer.huawei.com/consumer/cn/blog/topic/03180954606612089)
+  - [创建端云一体化开发工程](https://developer.huawei.com/consumer/cn/blog/topic/03180953925371266)
+- 掘金社区
+  - [HarmonyOS - 嵌套类属性状态管理装饰器：ObservedV2 和 Trace](https://juejin.cn/post/7496823747955441691)
