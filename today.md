@@ -5606,3 +5606,10 @@
   - [创建端云一体化开发工程](https://developer.huawei.com/consumer/cn/blog/topic/03180953925371266)
 - 掘金社区
   - [HarmonyOS - 嵌套类属性状态管理装饰器：ObservedV2 和 Trace](https://juejin.cn/post/7496823747955441691)
+- 鸿蒙官网
+  - [构建LuaJIT鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03181129057065041)
+  - [HarmonyOS 自定义RenderNode 绘图实战](https://developer.huawei.com/consumer/cn/blog/topic/03181086790985092)
+  - [搜索引擎](https://developer.huawei.com/consumer/cn/blog/topic/03181056754494272)
+  - [《NZ驾照考试AllPass》- 新增用户注册功能](https://developer.huawei.com/consumer/cn/blog/topic/03181047189438270)
+  - [《NZ驾照考试AllPass》- 新增用户登录功能](https://developer.huawei.com/consumer/cn/blog/topic/03181044775609271)
+  - [《NZ驾照考试AllPass》-新增实践路试功能](https://developer.huawei.com/consumer/cn/blog/topic/03181038106599269)
