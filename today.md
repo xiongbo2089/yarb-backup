@@ -5613,3 +5613,14 @@
   - [《NZ驾照考试AllPass》- 新增用户注册功能](https://developer.huawei.com/consumer/cn/blog/topic/03181047189438270)
   - [《NZ驾照考试AllPass》- 新增用户登录功能](https://developer.huawei.com/consumer/cn/blog/topic/03181044775609271)
   - [《NZ驾照考试AllPass》-新增实践路试功能](https://developer.huawei.com/consumer/cn/blog/topic/03181038106599269)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [增强多屏协同能力，华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS NEXT 5.0.1.115 升级](https://www.ithome.com/0/849/390.htm)
+  - [微信鸿蒙版 App 获 1.0.6.35 尝鲜升级](https://www.ithome.com/0/849/387.htm)
+  - [IT之家征集：4 月份，你最想点赞哪一个鸿蒙 5 应用？](https://www.ithome.com/0/849/339.htm)
+  - [人脸 / 指纹支付继续开放，微信鸿蒙版 App 获 1.0.6.34 尝鲜升级](https://www.ithome.com/0/849/278.htm)
+- 鸿蒙官网
+  - [U-Boot（Universal Boot Loader）简介](https://developer.huawei.com/consumer/cn/blog/topic/03181167258562272)
+  - [【HarmonyOS NEXT+AI】问答04：仓颉编程语言适合毕业设计吗？](https://developer.huawei.com/consumer/cn/blog/topic/03181154098524094)
+  - [【HarmonyOS 5】鸿蒙检测系统完整性](https://developer.huawei.com/consumer/cn/blog/topic/03181149214297271)
+  - [【HarmonyOS 5】鸿蒙检测URL是否为恶意地址](https://developer.huawei.com/consumer/cn/blog/topic/03181146397044042)
+  - [构建LuaJIT鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03181129057065041)
