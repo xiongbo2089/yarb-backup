@@ -5624,3 +5624,26 @@
   - [【HarmonyOS 5】鸿蒙检测系统完整性](https://developer.huawei.com/consumer/cn/blog/topic/03181149214297271)
   - [【HarmonyOS 5】鸿蒙检测URL是否为恶意地址](https://developer.huawei.com/consumer/cn/blog/topic/03181146397044042)
   - [构建LuaJIT鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03181129057065041)
+- 51CTO
+  - [OpenHarmony的allinone.bin固件格式解析](https://ost.51cto.com/posts/10816)
+- GitHub
+  - [Xray-for-HarmonyOS](https://github.com/arror/Xray-for-HarmonyOS)
+  - [libohos](https://github.com/arror/libohos)
+- 鸿蒙官网
+  - [如何在ArkTS侧引用其他三方so库](https://developer.huawei.com/consumer/cn/blog/topic/03181253293935275)
+  - [低级虚拟机 LLVM（Low Level Virtual Machine）简介](https://developer.huawei.com/consumer/cn/blog/topic/03181234709184274)
+  - [对比Lycium框架和其他类似框架的优缺点](https://developer.huawei.com/consumer/cn/blog/topic/03181233574785273)
+  - [【HarmonyOS 5】鸿蒙应用低功耗蓝牙BLE的使用心得 （一）](https://developer.huawei.com/consumer/cn/blog/topic/03181232096496043)
+  - [HarmonyOS SDK助力鸿蒙版今日水印相机，真实地址防护再升级](https://developer.huawei.com/consumer/cn/blog/topic/03181232057552276)
+  - [【HarmonyOS 5】解决自定义弹框和键盘之间安全距离的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181230791102275)
+  - [HarmonyOS - 线性布局组件：Row 和 Column](https://developer.huawei.com/consumer/cn/blog/topic/03181220828719274)
+  - [ArkTS 装饰器全解析：组件化开发的核心工具](https://developer.huawei.com/consumer/cn/blog/topic/03181220627941095)
+  - [手机应用数据存储位置全解析](https://developer.huawei.com/consumer/cn/blog/topic/03181219971901273)
+- 博客园
+  - [DevEco Studio AI辅助开发工具两大升级功能 鸿蒙应用开发效率再提升 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18851911)
+  - [HarmonyOS运动开发：如何监听用户运动步数数据 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18853004)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [钱包功能完善，微信鸿蒙版 App 获 1.0.6.36 尝鲜升级](https://www.ithome.com/0/849/714.htm)
+  - [QQ 鸿蒙版 App 获 9.1.50 版本更新，支持语音转文字、密码修改等](https://www.ithome.com/0/849/595.htm)
+- 开源中国
+  - [腾讯正式开源跨端框架 Kuikly：基于 Kotlin 创建 Android、iOS、鸿蒙、Web、小程序应用](https://www.oschina.net/news/347077/tencent-tds-kuikly)
