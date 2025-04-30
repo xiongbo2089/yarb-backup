@@ -5647,3 +5647,28 @@
   - [QQ 鸿蒙版 App 获 9.1.50 版本更新，支持语音转文字、密码修改等](https://www.ithome.com/0/849/595.htm)
 - 开源中国
   - [腾讯正式开源跨端框架 Kuikly：基于 Kotlin 创建 Android、iOS、鸿蒙、Web、小程序应用](https://www.oschina.net/news/347077/tencent-tds-kuikly)
+- 博客园
+  - [如何用DevEco Studio的ArkUI Inspector轻松搞定鸿蒙应用UI布局 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18852191)
+- 鸿蒙官网
+  - [Text子组件](https://developer.huawei.com/consumer/cn/blog/topic/03181388910141101)
+  - [开源三方库HarmonyOS NEXT适配指导（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03181387788941100)
+  - [鸿蒙NEXT开发浅进阶到精通03:活用setTimeout延时器让代码飞一会，问题迎刃而解](https://developer.huawei.com/consumer/cn/blog/topic/03181353670170284)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.cancel](https://developer.huawei.com/consumer/cn/blog/topic/03181327169357283)
+  - [HarmonyOS应用开发实战指南：从分布式架构到跨设备协同实现](https://developer.huawei.com/consumer/cn/blog/topic/03181326552001005)
+  - [鸿蒙分布式应用开发实战指南：从架构设计到跨设备协同](https://developer.huawei.com/consumer/cn/blog/topic/03181326506239004)
+  - [鸿蒙HarmonyOS应用开发全流程解析与实战案例](https://developer.huawei.com/consumer/cn/blog/topic/03181326384356003)
+  - [HarmonyOS应用开发实战指南从环境搭建到多端部署全解析](https://developer.huawei.com/consumer/cn/blog/topic/03181326311601002)
+  - [HarmonyOS应用开发入门指南：从环境搭建到首个分布式应用实践](https://developer.huawei.com/consumer/cn/blog/topic/03181326136770282)
+  - [屏幕适配](https://developer.huawei.com/consumer/cn/blog/topic/03181323443555280)
+  - [【HarmonyOS】鸿蒙应用蓝牙功能实现 （二）](https://developer.huawei.com/consumer/cn/blog/topic/03181317631457001)
+  - [【HarmonyOS 5】鸿蒙应用蓝牙功能实现 （一）](https://developer.huawei.com/consumer/cn/blog/topic/03181317109161048)
+  - [鸿蒙NEXT开发字符工具类CharUtil（ArkTs）](https://developer.huawei.com/consumer/cn/blog/topic/03181316735890047)
+  - [数据库技术：现状、挑战与未来展望](https://developer.huawei.com/consumer/cn/blog/topic/03181313856292279)
+  - [探索 HarmonyOS 开发：机遇与实践（个人观点仅供参考）](https://developer.huawei.com/consumer/cn/blog/topic/03181313356754099)
+  - [DevEco Studio常见的字体单位](https://developer.huawei.com/consumer/cn/blog/topic/03181306363271098)
+- 51CTO
+  - [#我的鸿蒙开发手记# HarmonyOS Next智能聊天助手开发实践](https://ost.51cto.com/posts/33052)
+  - [由浅入深学习新模块之window_manager（二)](https://ost.51cto.com/posts/21782)
+  - [HarmonyOS Next 弹窗系列教程（1）](https://ost.51cto.com/posts/33085)
+- 开源中国
+  - [携手创未来，“HarmonyOS 协同・创新” 技术沙龙在济南顺利举办](https://my.oschina.net/u/3859945/blog/18268969)
