@@ -5672,3 +5672,14 @@
   - [HarmonyOS Next 弹窗系列教程（1）](https://ost.51cto.com/posts/33085)
 - 开源中国
   - [携手创未来，“HarmonyOS 协同・创新” 技术沙龙在济南顺利举办](https://my.oschina.net/u/3859945/blog/18268969)
+- 鸿蒙官网
+  - [@ohos/hypium 和 @ohos/hamock 的作用是什么](https://developer.huawei.com/consumer/cn/blog/topic/03181422385290103)
+  - [如何在模块下的oh-package.json5中添加本地依赖？](https://developer.huawei.com/consumer/cn/blog/topic/03181422154944285)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.cancelAll](https://developer.huawei.com/consumer/cn/blog/topic/03181415612482282)
+  - [【HarmonyOS 5】鸿蒙应用设置设备唯一标识](https://developer.huawei.com/consumer/cn/blog/topic/03181411620624006)
+  - [全平台开源即时通讯IM框架MobileIMSDK：7端+TCP/UDP/WebSocket协议，鸿蒙NEXT端已发布，5.7K Stars](https://developer.huawei.com/consumer/cn/blog/topic/03181406306998102)
+  - [【HarmonyOS 5】鸿蒙应用蓝牙功能实现 （三）](https://developer.huawei.com/consumer/cn/blog/topic/03181403868739281)
+  - [Text子组件](https://developer.huawei.com/consumer/cn/blog/topic/03181388910141101)
+  - [开源三方库HarmonyOS NEXT适配指导（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03181387788941100)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [IT之家鸿蒙生态 4 月“星”榜单发布，有没有你最中意的那一款？](https://www.ithome.com/0/850/038.htm)
