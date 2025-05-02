@@ -5683,3 +5683,5 @@
   - [开源三方库HarmonyOS NEXT适配指导（通用引擎）](https://developer.huawei.com/consumer/cn/blog/topic/03181387788941100)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [IT之家鸿蒙生态 4 月“星”榜单发布，有没有你最中意的那一款？](https://www.ithome.com/0/850/038.htm)
+- 掘金社区
+  - [鸿蒙开发：如何解决软键盘弹出后的间距](https://juejin.cn/post/7498939442080563215)
