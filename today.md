@@ -5685,3 +5685,6 @@
   - [IT之家鸿蒙生态 4 月“星”榜单发布，有没有你最中意的那一款？](https://www.ithome.com/0/850/038.htm)
 - 掘金社区
   - [鸿蒙开发：如何解决软键盘弹出后的间距](https://juejin.cn/post/7498939442080563215)
+- 鸿蒙官网
+  - [解决“Windows 10 家庭中文版无法启用 Hyper-V”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181603212580283)
+  - [解决“下载 DevEco Studio 后用 7Zip 解压时提示文件末端错误” 的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181603051056286)
