@@ -5688,3 +5688,5 @@
 - 鸿蒙官网
   - [解决“Windows 10 家庭中文版无法启用 Hyper-V”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181603212580283)
   - [解决“下载 DevEco Studio 后用 7Zip 解压时提示文件末端错误” 的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181603051056286)
+- 博客园
+  - [待到山花烂漫时：鸿蒙开发者的个人感悟 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18855843)
