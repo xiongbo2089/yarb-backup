@@ -5690,3 +5690,8 @@
   - [解决“下载 DevEco Studio 后用 7Zip 解压时提示文件末端错误” 的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181603051056286)
 - 博客园
   - [待到山花烂漫时：鸿蒙开发者的个人感悟 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18855843)
+- 鸿蒙官网
+  - [解决“In an '@Entny' decorated component, the "build' funcion can have ony one root node…… a container  component.”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181822699071285)
+  - [如何在实际项目中实施持续集成？](https://developer.huawei.com/consumer/cn/blog/topic/03181773774654288)
+  - [持续集成和持续部署](https://developer.huawei.com/consumer/cn/blog/topic/03181773241985104)
+  - [孵化两个上线项目-谈一谈最近的近况](https://developer.huawei.com/consumer/cn/blog/topic/03181738767330287)
