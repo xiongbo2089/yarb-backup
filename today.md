@@ -5695,3 +5695,16 @@
   - [如何在实际项目中实施持续集成？](https://developer.huawei.com/consumer/cn/blog/topic/03181773774654288)
   - [持续集成和持续部署](https://developer.huawei.com/consumer/cn/blog/topic/03181773241985104)
   - [孵化两个上线项目-谈一谈最近的近况](https://developer.huawei.com/consumer/cn/blog/topic/03181738767330287)
+- 博客园
+  - [从写代码到写Prompt，解锁鸿蒙原生应用高效开发秘籍 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18855867)
+- 鸿蒙官网
+  - [鸿蒙沉浸式开发实例](https://developer.huawei.com/consumer/cn/blog/topic/03181906090885106)
+  - [鸿蒙悬浮窗开发实例](https://developer.huawei.com/consumer/cn/blog/topic/03181905819800290)
+  - [ArkUI List实现一划一个ListItem效果](https://developer.huawei.com/consumer/cn/blog/topic/03181849437507289)
+  - [ArkUI List组件限位模式如何调整限位位置](https://developer.huawei.com/consumer/cn/blog/topic/03181847973562289)
+  - [ List 组件下lazyforeach跟foreach如何使用displaySync实现分帧渲染](https://developer.huawei.com/consumer/cn/blog/topic/03181842279781010)
+  - [ArkUI ListItem横划菜单使用常见问题和解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03181827527592288)
+  - [解决“Property 'accout' does not exist on type 'LoginPage' ”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181826924536287)
+  - [解决“Unknown resource name 'login_page' ”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181825374948286)
+  - [解决“Unknown resource name 'logo' ”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181823845310009)
+  - [解决“In an '@Entny' decorated component, the "build' funcion can have ony one root node…… a container  component.”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181822699071285)
