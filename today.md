@@ -5708,3 +5708,23 @@
   - [解决“Unknown resource name 'login_page' ”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181825374948286)
   - [解决“Unknown resource name 'logo' ”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181823845310009)
   - [解决“In an '@Entny' decorated component, the "build' funcion can have ony one root node…… a container  component.”的问题](https://developer.huawei.com/consumer/cn/blog/topic/03181822699071285)
+- GitHub
+  - [omni-ui](https://github.com/wuba/omni-ui)
+- 博客园
+  - [HarmonyOS运动开发：如何集成百度地图SDK、运动跟随与运动公里数记录 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18863616)
+  - [鸿蒙原生开源库 ViewPool 在 OpenHarmony 社区正式上线 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18855845)
+- 鸿蒙官网
+  - [【HarmonyOS 5】鸿蒙发展历程](https://developer.huawei.com/consumer/cn/blog/topic/03181952038730014)
+  - [关于NAVIGATION参数传递和获取的记录](https://developer.huawei.com/consumer/cn/blog/topic/03181947604666291)
+  - [HarmonyOS 5.0 分布式数据协同与跨设备同步​​](https://developer.huawei.com/consumer/cn/blog/topic/03181946794903013)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.getActiveNotificationCount](https://developer.huawei.com/consumer/cn/blog/topic/03181933057439110)
+  - [【HarmonyOS 5】鸿蒙应用数据安全详解](https://developer.huawei.com/consumer/cn/blog/topic/03181923819765108)
+  - [【HarmonyOS 5】鸿蒙应用隐私保护详解](https://developer.huawei.com/consumer/cn/blog/topic/03181922545765107)
+  - [鸿蒙沉浸式开发实例](https://developer.huawei.com/consumer/cn/blog/topic/03181906090885106)
+  - [鸿蒙悬浮窗开发实例](https://developer.huawei.com/consumer/cn/blog/topic/03181905819800290)
+- 51CTO
+  - [#我的鸿蒙开发手记#鸿蒙原生编程语言仓颉与AI融合擦出新火花](https://ost.51cto.com/posts/33231)
+  - [#我的鸿蒙开发手记# 从踏上HarmonyOS到持续创造价值——陪伴HarmonyOS成长](https://ost.51cto.com/posts/33223)
+  - [#我的鸿蒙开发手记#从0到1如何踏上HarmonyOS之旅](https://ost.51cto.com/posts/33218)
+  - [#我的鸿蒙开发手记# 开发“爱影家app”：从想法到行动的鸿蒙之旅](https://ost.51cto.com/posts/33217)
+  - [#我的鸿蒙开发手记# HarmonyOS之 使用RenderNode](https://ost.51cto.com/posts/33215)
