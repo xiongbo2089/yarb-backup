@@ -5728,3 +5728,23 @@
   - [#我的鸿蒙开发手记#从0到1如何踏上HarmonyOS之旅](https://ost.51cto.com/posts/33218)
   - [#我的鸿蒙开发手记# 开发“爱影家app”：从想法到行动的鸿蒙之旅](https://ost.51cto.com/posts/33217)
   - [#我的鸿蒙开发手记# HarmonyOS之 使用RenderNode](https://ost.51cto.com/posts/33215)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为首款鸿蒙电脑正式亮相](https://www.ithome.com/0/851/386.htm)
+  - [华为首款鸿蒙电脑将亮相](https://www.ithome.com/0/851/378.htm)
+- 博客园
+  - [深度解析用户意图，让设备真正听懂需求 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18863939)
+- 鸿蒙官网
+  - [检查当前权限](https://developer.huawei.com/consumer/cn/blog/topic/03182081759227295)
+  - [查询麦克风状态](https://developer.huawei.com/consumer/cn/blog/topic/03182081573029294)
+  - [纪念加入鸿蒙开发者](https://developer.huawei.com/consumer/cn/blog/topic/03182039197734016)
+  - [【HarmonyOS 5】鸿蒙Web组件和内嵌网页双向通信DEMO示例](https://developer.huawei.com/consumer/cn/blog/topic/03182020481964291)
+  - [【HarmonyOS 5】鸿蒙中常见的标题栏布局方案](https://developer.huawei.com/consumer/cn/blog/topic/03182020260020015)
+  - [注入JavaScript对象在window对象中调用，获取返回值](https://developer.huawei.com/consumer/cn/blog/topic/03182007954060290)
+- 51CTO
+  - [#我的鸿蒙开发手记# 哪些鸿蒙原生应用在使用Flutter](https://ost.51cto.com/posts/33281)
+  - [#我的鸿蒙开发手记# 云数据库VS本地数据库终极避坑指南 【基础】](https://ost.51cto.com/posts/33251)
+- 开源中国
+  - [首款鸿蒙电脑正式亮相](https://www.oschina.net/news/348690)
+  - [华为鸿蒙PC发布在即，将是首个从操作系统内核开始重构的国产电脑](https://www.oschina.net/news/348596)
+- 掘金社区
+  - [深入浅出鸿蒙ArkTS特性](https://juejin.cn/post/7501482679340089354)
