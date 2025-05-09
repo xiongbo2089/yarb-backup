@@ -5748,3 +5748,27 @@
   - [华为鸿蒙PC发布在即，将是首个从操作系统内核开始重构的国产电脑](https://www.oschina.net/news/348596)
 - 掘金社区
   - [深入浅出鸿蒙ArkTS特性](https://juejin.cn/post/7501482679340089354)
+- 博客园
+  - [uniapp跨平台开发HarmonyOS NEXT应用初体验 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18867637)
+  - [用 DevEco Studio 模拟器这些能力 没真机也能高效调测鸿蒙原生应用 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/18866394)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [【视频】首款鸿蒙电脑首发开箱上手体验，970g！超轻超快超流畅](https://www.ithome.com/0/851/616.htm)
+- 鸿蒙官网
+  - [科技云报到：释放数字生产力，天翼云息壤开启AI基础设施的轰鸣引擎](https://developer.huawei.com/consumer/cn/blog/topic/03182132308619116)
+  - [UIAbility的生命周期在APP中具体应该实现哪些逻辑](https://developer.huawei.com/consumer/cn/blog/topic/03182119018266115)
+  - [《华为仓颉编程语言初探：设计理念与核心优势解析》](https://developer.huawei.com/consumer/cn/blog/topic/03182110615442114)
+  - [【HarmonyOS 5】鸿蒙页面和组件生命周期函数](https://developer.huawei.com/consumer/cn/blog/topic/03182109022485300)
+  - [【HarmonyOS 5】鸿蒙中进度条的使用详解](https://developer.huawei.com/consumer/cn/blog/topic/03182108308130299)
+  - [实时演化算符与拓扑编码的量子计算数学模型](https://developer.huawei.com/consumer/cn/blog/topic/03182104293977298)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.getActiveNotifications](https://developer.huawei.com/consumer/cn/blog/topic/03182102682123292)
+  - [使用Cherry Studio+deepseek搭建鸿蒙HarmonyOS 个人知识库](https://developer.huawei.com/consumer/cn/blog/topic/03182100743949018)
+  - [华为首款鸿蒙电脑正式亮相](https://developer.huawei.com/consumer/cn/blog/topic/03182086311812017)
+  - [如何自定义一个二次弹窗外加滚动条?](https://developer.huawei.com/consumer/cn/blog/topic/03182084584588113)
+  - [webView拉起H5应用](https://developer.huawei.com/consumer/cn/blog/topic/03182084549831297)
+  - [OpenHarmony版Flutter环境搭建](https://developer.huawei.com/consumer/cn/blog/topic/03182083562965296)
+  - [检查当前权限](https://developer.huawei.com/consumer/cn/blog/topic/03182081759227295)
+  - [查询麦克风状态](https://developer.huawei.com/consumer/cn/blog/topic/03182081573029294)
+  - [沉浸式导航模式的开启与关闭](https://developer.huawei.com/consumer/cn/blog/topic/03182081268078293)
+- 掘金社区
+  - [鸿蒙next 实现获取验证码倒计时功能](https://juejin.cn/post/7501893116208300059)
+  - [鸿蒙开发：dialog库做了一些优化](https://juejin.cn/post/7501963430637010983)
