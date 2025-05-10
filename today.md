@@ -5772,3 +5772,12 @@
 - 掘金社区
   - [鸿蒙next 实现获取验证码倒计时功能](https://juejin.cn/post/7501893116208300059)
   - [鸿蒙开发：dialog库做了一些优化](https://juejin.cn/post/7501963430637010983)
+- 鸿蒙官网
+  - [《仓颉函数与模块化编程：从基础到实践》](https://developer.huawei.com/consumer/cn/blog/topic/03182250481776304)
+  - [《仓颉语法快速入门:变量、数据类型与基础运算符》](https://developer.huawei.com/consumer/cn/blog/topic/03182249790898022)
+  - [axios拦截器中间件](https://developer.huawei.com/consumer/cn/blog/topic/03182204200984303)
+  - [axios拦截器封装](https://developer.huawei.com/consumer/cn/blog/topic/03182204152744119)
+  - [构建libiconv鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03182184467684302)
+  - [绝对存在与绝对不存在的集合：跨范式本体论框架](https://developer.huawei.com/consumer/cn/blog/topic/03182178491788020)
+  - [【HarmonyOS 5】not supported when useNormalizedOHMUrl is not true.](https://developer.huawei.com/consumer/cn/blog/topic/03182169211876301)
+  - [【HarmonyOS 5】鸿蒙应用实现调用系统地图导航或路径规划](https://developer.huawei.com/consumer/cn/blog/topic/03182168588858019)
