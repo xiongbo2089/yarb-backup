@@ -5781,3 +5781,16 @@
   - [绝对存在与绝对不存在的集合：跨范式本体论框架](https://developer.huawei.com/consumer/cn/blog/topic/03182178491788020)
   - [【HarmonyOS 5】not supported when useNormalizedOHMUrl is not true.](https://developer.huawei.com/consumer/cn/blog/topic/03182169211876301)
   - [【HarmonyOS 5】鸿蒙应用实现调用系统地图导航或路径规划](https://developer.huawei.com/consumer/cn/blog/topic/03182168588858019)
+- 鸿蒙官网
+  - [关于鸿蒙系统的认可绝症](https://developer.huawei.com/consumer/cn/blog/topic/03182282399230024)
+  - [封装http方法](https://developer.huawei.com/consumer/cn/blog/topic/03182263870754023)
+  - [《仓颉函数与模块化编程：从基础到实践》](https://developer.huawei.com/consumer/cn/blog/topic/03182250481776304)
+  - [《仓颉语法快速入门:变量、数据类型与基础运算符》](https://developer.huawei.com/consumer/cn/blog/topic/03182249790898022)
+- 博客园
+  - [uniapp开发HarmonyOS NEXT应用之项目结构详细解读 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18869698)
+- 51CTO
+  - [【HarmonyOS NEXT+AI】问答05：ArkTS和仓颉编程语言怎么选？](https://ost.51cto.com/posts/33331)
+  - [#我的鸿蒙开发手记#HarmonyOS：@AnimatableExtend 装饰器自学指南](https://ost.51cto.com/posts/33329)
+  - [#我的鸿蒙开发手记#HarmonyOS：ArkTS 显式动画 animateTo 自学指南](https://ost.51cto.com/posts/33328)
+  - [#我的鸿蒙开发手记#鸿蒙开发：从分布式到多设备协同特性解读与技术感悟](https://ost.51cto.com/posts/33315)
+  - [#我的鸿蒙开发手记#Atomgit 客户端实战，开启鸿蒙开发新旅程！](https://ost.51cto.com/posts/33313)
