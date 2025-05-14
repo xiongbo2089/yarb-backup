@@ -5831,3 +5831,37 @@
   - [AppStorage和LocalStorage学习](https://developer.huawei.com/consumer/cn/blog/topic/03182422637880035)
 - 开源中国
   - [开源 | Omni-UI：开箱即用的鸿蒙组件库](https://my.oschina.net/u/5359019/blog/18349040)
+- 51CTO
+  - [DevEco Studio新特性分享-跨语言调试，让调试更便捷高效](https://ost.51cto.com/posts/20420)
+  - [#我的鸿蒙开发手记#HarmonyOS NEXT 头像制作项目系列教程之 --- 组件快照与头像保存](https://ost.51cto.com/posts/33365)
+  - [#我的鸿蒙开发手记# HarmonyOS NEXT 头像制作项目系列教程之 --- 项目架构讲解](https://ost.51cto.com/posts/33349)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持小艺翻译功能，华为智能眼镜 2 获鸿蒙 HarmonyOS 5.0.0.160 升级](https://www.ithome.com/0/852/814.htm)
+  - [华为 nova 14 系列手机外观公布，5 月 19 日发布](https://www.ithome.com/0/852/529.htm)
+- 鸿蒙官网
+  - [从零接入鸿蒙路由TheRouter](https://developer.huawei.com/consumer/cn/blog/topic/03182599211336004)
+  - [Uniapp开发鸿蒙购物项目实战教程：实现首页轮播图](https://developer.huawei.com/consumer/cn/blog/topic/03182598340267013)
+  - [鸿蒙应用开发实战：天气应用构建](https://developer.huawei.com/consumer/cn/blog/topic/03182560522789003)
+  - [【HarmonyOS 5】鸿蒙碰一碰分享功能开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03182560384500003)
+  - [【HarmonyOS 5】鸿蒙App Linking详解](https://developer.huawei.com/consumer/cn/blog/topic/03182560245126002)
+  - [HarmonyOS NEXT+AI打造智能助手APP（适配DeepSeek）](https://developer.huawei.com/consumer/cn/blog/topic/03182544759801012)
+  - [uniapp跨平台开发HarmonyOS NEXT应用初体验](https://developer.huawei.com/consumer/cn/blog/topic/03182541897706012)
+  - [鸿蒙4.0专属环境部署：教你驯服华为Mate30这匹"鸿蒙神兽"​​](https://developer.huawei.com/consumer/cn/blog/topic/03182540147645010)
+  - [HarmonyNEXT/Flutter 混合开发](https://developer.huawei.com/consumer/cn/blog/topic/03182538286994011)
+  - [跟我一起学“仓颉”编程语言—仓颉语言介绍及Hello World](https://developer.huawei.com/consumer/cn/blog/topic/03182536036377009)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.getSlots](https://developer.huawei.com/consumer/cn/blog/topic/03182530969013007)
+  - [多人开发签名覆盖导致签名错误](https://developer.huawei.com/consumer/cn/blog/topic/03182527152277006)
+  - [吞噬混沌：CodeBuddy与流程利刃，斩破游戏开发的蛮荒时代(二）](https://developer.huawei.com/consumer/cn/blog/topic/03182523017727009)
+  - [司空2： 机场Docker简化上云平台](https://developer.huawei.com/consumer/cn/blog/topic/03182517250960008)
+  - [这款鸿蒙开发智能体真好用！！！](https://developer.huawei.com/consumer/cn/blog/topic/03182514148461005)
+  - [HarmonyOS 5.0 低时延音视频开发​​](https://developer.huawei.com/consumer/cn/blog/topic/03182512861111007)
+  - [吞噬混沌：CodeBuddy与流程利刃，斩破游戏开发的蛮荒时代(一）](https://developer.huawei.com/consumer/cn/blog/topic/03182510402787006)
+  - [仿微信的编辑图片开源库发布](https://developer.huawei.com/consumer/cn/blog/topic/03182509222350004)
+  - [科技云报到：算力狂潮下的“冷思考”：解码服务器赛道“隐形冠军”的崛起逻辑](https://developer.huawei.com/consumer/cn/blog/topic/03182508462102003)
+- 开源中国
+  - [OpenHarmony 5.1.0 发布](https://www.oschina.net/news/349677/openharmony-v5-1-release)
+- OSCHINA 社区最新软件
+  - [鸿蒙组件库 Omni-UI](https://www.oschina.net/p/omni-ui)
+- 掘金社区
+  - [[HarmonyOS]鸿蒙如何在Axios基础上扩展rcp？](https://juejin.cn/post/7503478335463014435)
+  - [鸿蒙 PC 发布之后，想在技术上聊聊它的未来可能](https://juejin.cn/post/7503450078159470646)
