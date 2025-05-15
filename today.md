@@ -5865,3 +5865,28 @@
 - 掘金社区
   - [[HarmonyOS]鸿蒙如何在Axios基础上扩展rcp？](https://juejin.cn/post/7503478335463014435)
   - [鸿蒙 PC 发布之后，想在技术上聊聊它的未来可能](https://juejin.cn/post/7503450078159470646)
+- 鸿蒙官网
+  - [快手上线鸿蒙应用高性能解决方案：数据反序列化性能提升90%](https://developer.huawei.com/consumer/cn/blog/topic/03182685329234016)
+  - [Uniapp开发鸿蒙购物项目教程之样式选择器](https://developer.huawei.com/consumer/cn/blog/topic/03182683648468009)
+  - [跟我一起学“仓颉”编程语言—顺序结构和分支结构的练习题](https://developer.huawei.com/consumer/cn/blog/topic/03182638950665007)
+  - [跟我一起学“仓颉”编程语言—顺序结构和分支结构](https://developer.huawei.com/consumer/cn/blog/topic/03182638729441015)
+  - [跟我一起学“仓颉”编程语言—变量、数据类型和操作符的练习题](https://developer.huawei.com/consumer/cn/blog/topic/03182638428034016)
+  - [跟我一起学“仓颉”编程语言—操作符](https://developer.huawei.com/consumer/cn/blog/topic/03182638171080006)
+  - [跟我一起学“仓颉”编程语言—基本数据类型](https://developer.huawei.com/consumer/cn/blog/topic/03182637719616014)
+  - [权限矩阵全开攻略：让你的冰狐在鸿蒙系统里"为所欲为"​](https://developer.huawei.com/consumer/cn/blog/topic/03182631020910013)
+  - [鸿蒙 父传子传参](https://developer.huawei.com/consumer/cn/blog/topic/03182626536899006)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.isDistributedEnabled](https://developer.huawei.com/consumer/cn/blog/topic/03182618574286005)
+  - [跟我一起学“仓颉”编程语言—变量和注释](https://developer.huawei.com/consumer/cn/blog/topic/03182603108195005)
+  - [微信小程序生活服务平台：基于CodeBuddy的现代化开发实践](https://developer.huawei.com/consumer/cn/blog/topic/03182602316527004)
+  - [从零接入鸿蒙路由TheRouter](https://developer.huawei.com/consumer/cn/blog/topic/03182599211336004)
+  - [Uniapp开发鸿蒙购物项目实战教程：实现首页轮播图](https://developer.huawei.com/consumer/cn/blog/topic/03182598340267013)
+- 51CTO
+  - [鸿蒙 NEXT：API12 带来的变革与创新#我的鸿蒙开发手记#](https://ost.51cto.com/posts/33452)
+  - [浅析鸿蒙(ark runtime)执行动态代码#我的鸿蒙开发手记#](https://ost.51cto.com/posts/33451)
+  - [#我的鸿蒙开发手记#开发心得与自我成长：通过 HarmonyOS 开发，实现了技术突破或个人职业发展](https://ost.51cto.com/posts/33439)
+- 开源中国
+  - [华为将推出鸿蒙折叠电脑](https://www.oschina.net/news/349974)
+  - [uni-app x 正式支持鸿蒙原生应用开发](https://www.oschina.net/news/349777)
+- 掘金社区
+  - [鸿蒙原生开发从入门到遥遥领先](https://juejin.cn/post/7504117153676034048)
+  - [uni-app x 正式支持鸿蒙，又一个原生级全平台框架落地](https://juejin.cn/post/7503974160264069156)
