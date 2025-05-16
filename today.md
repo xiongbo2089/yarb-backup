@@ -5890,3 +5890,31 @@
 - 掘金社区
   - [鸿蒙原生开发从入门到遥遥领先](https://juejin.cn/post/7504117153676034048)
   - [uni-app x 正式支持鸿蒙，又一个原生级全平台框架落地](https://juejin.cn/post/7503974160264069156)
+- GitHub
+  - [hll-wp-therouter-harmony](https://github.com/HuolalaTech/hll-wp-therouter-harmony)
+- 鸿蒙官网
+  - [AI+服务重塑智能客服，但价值永远是关键所在](https://developer.huawei.com/consumer/cn/blog/topic/03182768527506010)
+  - [深度学习手势交互——虚拟摇杆 UI](https://developer.huawei.com/consumer/cn/blog/topic/03182737490793018)
+  - [手表穿戴如何实现组件绑定表冠事件、表冠滚动](https://developer.huawei.com/consumer/cn/blog/topic/03182732173189018)
+  - [添加点击态、普通态、禁用态效果](https://developer.huawei.com/consumer/cn/blog/topic/03182727413578017)
+  - [在button按钮上识别双击](https://developer.huawei.com/consumer/cn/blog/topic/03182722285695017)
+  - [防杀后台终极方案：让你的冰狐在鸿蒙系统里"死皮赖脸"​](https://developer.huawei.com/consumer/cn/blog/topic/03182716187815009)
+  - [折叠屏手机，触摸事件down后折叠，没触发up，无法再次触发](https://developer.huawei.com/consumer/cn/blog/topic/03182709837958015)
+  - [自定义组件获得焦点](https://developer.huawei.com/consumer/cn/blog/topic/03182704770293021)
+  - [文本添加复制能力copyOptions后阻断了点击onClick](https://developer.huawei.com/consumer/cn/blog/topic/03182703243878020)
+  - [如何实现安卓view转图片的效果 ](https://developer.huawei.com/consumer/cn/blog/topic/03182702328191019)
+  - [腾讯云CodeBuddy：重构AI编程范式的"全栈协作者"——深度技术解析与产业影响报告](https://developer.huawei.com/consumer/cn/blog/topic/03182702243298018)
+  - [焦点切换时，系统总是打开关闭输入法，影响性能](https://developer.huawei.com/consumer/cn/blog/topic/03182702205322013)
+  - [hpack - 鸿蒙 HarmonyOS 内测打包分发工具](https://developer.huawei.com/consumer/cn/blog/topic/03182701303527012)
+  - [基于SM4的文件加密解密功能实现（ECB模式）](https://developer.huawei.com/consumer/cn/blog/topic/03182691071171011)
+  - [【HarmonyOS Next之旅】HarmonyOS概述(二)](https://developer.huawei.com/consumer/cn/blog/topic/03182690707553008)
+  - [uniapp开发HarmonyOS NEXT应用之项目结构详细解读](https://developer.huawei.com/consumer/cn/blog/topic/03182690092890010)
+  - [HarmonyOS应用闪屏问题性能优化一](https://developer.huawei.com/consumer/cn/blog/topic/03182689164385017)
+  - [快手上线鸿蒙应用高性能解决方案：数据反序列化性能提升90%](https://developer.huawei.com/consumer/cn/blog/topic/03182685329234016)
+  - [Uniapp开发鸿蒙购物项目教程之样式选择器](https://developer.huawei.com/consumer/cn/blog/topic/03182683648468009)
+- OSCHINA 社区最新软件
+  - [移动端模块化解决方案 TheRouter-HarmonyOS](https://www.oschina.net/p/therouter-harmonyos)
+- 掘金社区
+  - [鸿蒙纪·Flutter卷#01 | 环境搭建 3.22.0 版](https://juejin.cn/post/7504492019777224743)
+  - [鸿蒙开发：自定义一个联系人模版](https://juejin.cn/post/7504461689749307431)
+  - [鸿蒙开发：那些常用的资源管理方法](https://juejin.cn/post/7504247651576922124)
