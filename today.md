@@ -5918,3 +5918,22 @@
   - [鸿蒙纪·Flutter卷#01 | 环境搭建 3.22.0 版](https://juejin.cn/post/7504492019777224743)
   - [鸿蒙开发：自定义一个联系人模版](https://juejin.cn/post/7504461689749307431)
   - [鸿蒙开发：那些常用的资源管理方法](https://juejin.cn/post/7504247651576922124)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [多屏协同能力增强，华为 Mate 60 / Pura 70 系列等手机获鸿蒙 HarmonyOS NEXT 5.0.1.120 升级](https://www.ithome.com/0/853/366.htm)
+  - [软件性能和稳定性提升，华为鸿蒙 HarmonyOS 5.0.5 (17) Release 版本发布](https://www.ithome.com/0/853/173.htm)
+- 鸿蒙官网
+  - [Java并发编程中的ABA问题解析](https://developer.huawei.com/consumer/cn/blog/topic/03182855851405026)
+  - [鸿蒙ArkTS，基于Crypto Architecture Kit实现PBEWithMD5AndDES算法](https://developer.huawei.com/consumer/cn/blog/topic/03182802096756026)
+  - [鸿蒙ArkTS，基于Crypto Architecture Kit实现pbkdf1算法](https://developer.huawei.com/consumer/cn/blog/topic/03182801664663013)
+  - [Q-learning算法的原理与过程：强化学习中的价值迭代方法](https://developer.huawei.com/consumer/cn/blog/topic/03182801023163022)
+  - [如何解决 华为账号一键登录开发集成过程中 （1001500001）失败的情况？请看这里](https://developer.huawei.com/consumer/cn/blog/topic/03182792156157020)
+  - [你的活体检测安全吗？华为鸿蒙安全摄像头硬核防御恶意篡改攻击！](https://developer.huawei.com/consumer/cn/blog/topic/03182791213232025)
+  - [华为鸿蒙应用性能管理神器来了！无需申请，一键监测](https://developer.huawei.com/consumer/cn/blog/topic/03182791105607012)
+  - [华为鸿蒙安全地理位置服务：TEE硬核防御，杜绝位置数据篡改](https://developer.huawei.com/consumer/cn/blog/topic/03182790926881011)
+  - [构建FFMPEG鸿蒙版本](https://developer.huawei.com/consumer/cn/blog/topic/03182790496283021)
+  - [HarmonyOS应用闪屏问题性能优化二](https://developer.huawei.com/consumer/cn/blog/topic/03182789872300020)
+  - [Uniapp开发鸿蒙购物应用教程之商品列表](https://developer.huawei.com/consumer/cn/blog/topic/03182788837722019)
+  - [鸿蒙跨平台开发教程之Uniapp布局基础](https://developer.huawei.com/consumer/cn/blog/topic/03182782841520019)
+  - [AI+服务重塑智能客服，但价值永远是关键所在](https://developer.huawei.com/consumer/cn/blog/topic/03182768527506010)
+- 掘金社区
+  - [HarmonyOS实战：快速实现一个上下滚动的广告控件](https://juejin.cn/post/7504850500526227491)
