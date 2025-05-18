@@ -5937,3 +5937,22 @@
   - [AI+服务重塑智能客服，但价值永远是关键所在](https://developer.huawei.com/consumer/cn/blog/topic/03182768527506010)
 - 掘金社区
   - [HarmonyOS实战：快速实现一个上下滚动的广告控件](https://juejin.cn/post/7504850500526227491)
+- 博客园
+  - [DevEco重大更新快来体验吧 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18881191)
+- 鸿蒙官网
+  - [Dop主线程程器依赖优化：提升复杂工作流执行效率的专业方案](https://developer.huawei.com/consumer/cn/blog/topic/03182938768373033)
+  - [Uniapp开发鸿蒙应用时如何运行和调试项目](https://developer.huawei.com/consumer/cn/blog/topic/03182934041115017)
+  - [跟我一起学“仓颉”编程语言—结构体和标准库练习题](https://developer.huawei.com/consumer/cn/blog/topic/03182884315726023)
+  - [跟我一起学“仓颉”编程语言—字符串操作库的使用](https://developer.huawei.com/consumer/cn/blog/topic/03182883803250031)
+  - [跟我一起学“仓颉”编程语言—随机数库、数学库和格式化库的使用](https://developer.huawei.com/consumer/cn/blog/topic/03182883315700016)
+  - [跟我一起学“仓颉”编程语言—结构体](https://developer.huawei.com/consumer/cn/blog/topic/03182882609049030)
+  - [跟我一起学“仓颉”编程语言—函数的练习题](https://developer.huawei.com/consumer/cn/blog/topic/03182882033241029)
+  - [ 跟我一起学“仓颉”编程语言—作用域、函数重载和递归函数](https://developer.huawei.com/consumer/cn/blog/topic/03182881625818015)
+  - [跟我一起学“仓颉”编程语言—函数的定义、调用和执行](https://developer.huawei.com/consumer/cn/blog/topic/03182881280386028)
+  - [跟我一起学“仓颉”编程语言—循环结构的练习题](https://developer.huawei.com/consumer/cn/blog/topic/03182871425923027)
+  - [跟我一起学“仓颉”编程语言—循环结构](https://developer.huawei.com/consumer/cn/blog/topic/03182871304731014)
+  - [Java并发编程中的ABA问题解析](https://developer.huawei.com/consumer/cn/blog/topic/03182855851405026)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信员工回应鸿蒙版 App 人脸 / 指纹灰度进展慢：支付功能对安全要求高，放量比较谨慎](https://www.ithome.com/0/853/895.htm)
+- 掘金社区
+  - [鸿蒙开发：使用nestedScroll解决滑动冲突](https://juejin.cn/post/7504926961627594771)
