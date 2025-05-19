@@ -5956,3 +5956,23 @@
   - [微信员工回应鸿蒙版 App 人脸 / 指纹灰度进展慢：支付功能对安全要求高，放量比较谨慎](https://www.ithome.com/0/853/895.htm)
 - 掘金社区
   - [鸿蒙开发：使用nestedScroll解决滑动冲突](https://juejin.cn/post/7504926961627594771)
+- GitHub
+  - [Dompet.harmony](https://github.com/DompetApp/Dompet.harmony)
+- 博客园
+  - [【FAQ】HarmonyOS SDK 闭源开放能力 —Vision Kit (3) - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18883370)
+  - [.NET外挂系列：2. 了解强大的 harmony 注解特性 - 一线码农](https://www.cnblogs.com/huangxincheng/p/18883360)
+- 鸿蒙官网
+  - [Vue 3的Tree-shaking特性及其作用](https://developer.huawei.com/consumer/cn/blog/topic/03183023268821032)
+  - [鸿蒙开发实现图片上传（上传用户头像）](https://developer.huawei.com/consumer/cn/blog/topic/03182991887414003)
+  - [API9 到 API12，有哪些不同](https://developer.huawei.com/consumer/cn/blog/topic/03182985894890019)
+  - [跟我一起学“仓颉”编程语言—多态](https://developer.huawei.com/consumer/cn/blog/topic/03182984799483002)
+  - [跟我一起学“仓颉”编程语言—继承](https://developer.huawei.com/consumer/cn/blog/topic/03182984420379036)
+  - [跟我一起学“仓颉”编程语言—类的定义和封装](https://developer.huawei.com/consumer/cn/blog/topic/03182984215459035)
+  - [借助CodeBuddy打造《部落争霸》：移动战略游戏开发全流程优化](https://developer.huawei.com/consumer/cn/blog/topic/03182982212001034)
+  - [CodeBuddy助力创新：打造高效可扩展的现代应用架构](https://developer.huawei.com/consumer/cn/blog/topic/03182978225547001)
+  - [ArkUI-X跨平台框架接入指南](https://developer.huawei.com/consumer/cn/blog/topic/03182957447276031)
+  - [构建现代交互式平台：CodeBuddy如何简化复杂系统开发](https://developer.huawei.com/consumer/cn/blog/topic/03182941815291030)
+  - [Dop主线程程器依赖优化：提升复杂工作流执行效率的专业方案](https://developer.huawei.com/consumer/cn/blog/topic/03182938768373033)
+- 掘金社区
+  - [鸿蒙开发：应用上架第一篇，生成密钥和证书请求文件](https://juejin.cn/post/7505335283991199755)
+  - [鸿蒙开发：平移动画时间为啥没了？](https://juejin.cn/post/7504915376902045759)
