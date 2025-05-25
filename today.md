@@ -6132,3 +6132,24 @@
 - 掘金社区
   - [鸿蒙开发：AI工具CodeGenie，让开发者如虎添翼！](https://juejin.cn/post/7507292818852675603)
   - [HarmonyOS实战：Tab顶部滑动悬停功能实现](https://juejin.cn/post/7507193016643780634)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [实现自主可控，华为鸿蒙电脑搭载 5nm 工艺麒麟 X90 芯片](https://www.ithome.com/0/855/758.htm)
+- 鸿蒙官网
+  - [【HarmonyOS Next之旅】ArkTS语法(三) -＞ 渲染控制](https://developer.huawei.com/consumer/cn/blog/topic/03183501868676026)
+  - [【HarmonyOS Next之旅】ArkTS语法(二) -＞ 动态构建UI元素](https://developer.huawei.com/consumer/cn/blog/topic/03183501832398081)
+  - [鸿蒙NEXT开发浅进阶到精通07：给列表结构增加半模态弹框避免bug复杂数据不用ObjectLink也可监听刷新页面](https://developer.huawei.com/consumer/cn/blog/topic/03183498207483025)
+  - [鸿蒙NEXT开发浅进阶到精通06：数组处理在实际开发业务场景的主要方法foreach，contact，push，filter，map总结](https://developer.huawei.com/consumer/cn/blog/topic/03183497771534042)
+  - [HarmonyOS优化应用内存占用问题性能优化四](https://developer.huawei.com/consumer/cn/blog/topic/03183489002037080)
+  - [跟我一起学“仓颉”编程语言-扩展练习题](https://developer.huawei.com/consumer/cn/blog/topic/03183486189367063)
+  - [跟我一起学“仓颉”编程语言-扩展导入导出](https://developer.huawei.com/consumer/cn/blog/topic/03183486046150024)
+  - [跟我一起学“仓颉”编程语言-扩展](https://developer.huawei.com/consumer/cn/blog/topic/03183485790581023)
+  - [跟我一起学“仓颉”编程语言-Collection练习题](https://developer.huawei.com/consumer/cn/blog/topic/03183485615340079)
+  - [跟我一起学“仓颉”编程语言-Collection高级操作](https://developer.huawei.com/consumer/cn/blog/topic/03183485430059078)
+  - [鸿蒙IPv6子网计算器开发笔记](https://developer.huawei.com/consumer/cn/blog/topic/03183467973804041)
+  - [开发者工具箱-鸿蒙电池监控功能开发实践](https://developer.huawei.com/consumer/cn/blog/topic/03183465749864022)
+  - [Harmony OS Next里的DevEco Studio编码妙技](https://developer.huawei.com/consumer/cn/blog/topic/03183465369059040)
+  - [网络基础建设（工业设计类）](https://developer.huawei.com/consumer/cn/blog/topic/03183462924164061)
+  - [使用Universal Keystore Kit（密钥管理服务）加解密字符串实现方案](https://developer.huawei.com/consumer/cn/blog/topic/03183459696870021)
+- 掘金社区
+  - [HarmonyOS实战：高德地图定位功能完整流程详解](https://juejin.cn/post/7507554057238708243)
+  - [鸿蒙开发：如何实现列表吸顶](https://juejin.cn/post/7507509613581041676)
