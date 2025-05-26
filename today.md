@@ -6153,3 +6153,25 @@
 - 掘金社区
   - [HarmonyOS实战：高德地图定位功能完整流程详解](https://juejin.cn/post/7507554057238708243)
   - [鸿蒙开发：如何实现列表吸顶](https://juejin.cn/post/7507509613581041676)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [软硬件都实现自主可控，华为鸿蒙电脑搭载麒麟 X90 芯片](https://www.ithome.com/0/855/758.htm)
+- 博客园
+  - [鸿蒙仓颉开发语言实战教程：页面跳转和传参 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18895769)
+- 鸿蒙官网
+  - [针对“您的应用使用了HarmonyOS beta版本的API”的解决方法##HarmonyOS应用上架##](https://developer.huawei.com/consumer/cn/blog/topic/03183596720915032)
+  - [初步认识 HarmonyOS NEXT 端云一体化开发](https://developer.huawei.com/consumer/cn/blog/topic/03183593030618047)
+  - [跟我一起学“仓颉”编程语言-基本输入输出流](https://developer.huawei.com/consumer/cn/blog/topic/03183588304423029)
+  - [跟我一起学“仓颉”编程语言-文件操作](https://developer.huawei.com/consumer/cn/blog/topic/03183588037674085)
+  - [跟我一起学“仓颉”编程语言-异常处理练习题](https://developer.huawei.com/consumer/cn/blog/topic/03183587736467028)
+  - [跟我一起学“仓颉”编程语言-try-with-resources表达式](https://developer.huawei.com/consumer/cn/blog/topic/03183587651123065)
+  - [跟我一起学“仓颉”编程语言-try表达式](https://developer.huawei.com/consumer/cn/blog/topic/03183587512794046)
+  - [鸿蒙仓颉开发语言实战教程：页面跳转和传参](https://developer.huawei.com/consumer/cn/blog/topic/03183583599465084)
+  - [ArkUI预览器使用说明书  ](https://developer.huawei.com/consumer/cn/blog/topic/03183583205893083)
+  - [Spark惰性计算机制：原理、实现与价值](https://developer.huawei.com/consumer/cn/blog/topic/03183551452760044)
+- 掘金社区
+  - [鸿蒙开发：DevEcoStudio中那些实用的小功能](https://juejin.cn/post/7507626836908277814)
+  - [【HarmonyOS ArkUI】手机通讯录 -Case案例分享](https://juejin.cn/post/7507982656685637658)
+  - [鸿蒙开发：了解$$运算符](https://juejin.cn/post/7507832220347236404)
+  - [【HarmonyOS ArkTS】 下拉刷新和上拉加载实现](https://juejin.cn/post/7507982656669253670)
+  - [【HarmonyOS ArkUI】自助取款机 - Demo分享](https://juejin.cn/post/7507616917789573147)
+  - [【HarmonyOS ArkTS】 Axios 图片上传](https://juejin.cn/post/7507562669682409509)
