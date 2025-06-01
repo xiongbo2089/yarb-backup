@@ -6335,3 +6335,19 @@
   - [鸿蒙仓颉语言开发教程：网络请求和数据解析](https://developer.huawei.com/consumer/cn/blog/topic/03183978861334077)
 - 掘金社区
   - [HarmonyOS实战：腾讯IM之聊天详情页面搭建（二）](https://juejin.cn/post/7509891489691320383)
+- 博客园
+  - [鸿蒙仓颉语言开发教程：自定义弹窗 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18905818)
+  - [鸿蒙仓颉语言开发实战教程：实现商品分类页 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18905310)
+- 鸿蒙官网
+  - [鸿蒙仓颉语言开发教程：自定义弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03184144580089095)
+  - [【HarmonyOS 5】鸿蒙中的UIAbility详解（二）](https://developer.huawei.com/consumer/cn/blog/topic/03184123287850076)
+  - [【HarmonyOS 5】鸿蒙中的UIAbility详解（三）](https://developer.huawei.com/consumer/cn/blog/topic/03184123190606094)
+  - [鸿蒙NEXT开发浅进阶到精通08：我的开发项目中遇到的问题及解决笔记01](https://developer.huawei.com/consumer/cn/blog/topic/03184114880066016)
+  - [跟我一起学“仓颉”编程语言-跨语言互操作](https://developer.huawei.com/consumer/cn/blog/topic/03184114145342101)
+  - [跟我一起学“仓颉”编程语言-反射和注解](https://developer.huawei.com/consumer/cn/blog/topic/03184113750659013)
+  - [鸿蒙仓颉语言开发实战教程：实现商品分类页](https://developer.huawei.com/consumer/cn/blog/topic/03184082040682096)
+  - [组件截图sdk -- screenshot_hm介绍 ##三方SDK##](https://developer.huawei.com/consumer/cn/blog/topic/03184071414251010)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙中的UIAbility详解（二）](https://juejin.cn/post/7510183947650154547)
+  - [【HarmonyOS 5】鸿蒙中的UIAbility详解（三）](https://juejin.cn/post/7510183947650138163)
+  - [【HarmonyOS 5】Laya游戏如何鸿蒙构建发布详解](https://juejin.cn/post/7510152144550920229)
