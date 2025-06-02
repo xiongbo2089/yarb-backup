@@ -6351,3 +6351,17 @@
   - [【HarmonyOS 5】鸿蒙中的UIAbility详解（二）](https://juejin.cn/post/7510183947650154547)
   - [【HarmonyOS 5】鸿蒙中的UIAbility详解（三）](https://juejin.cn/post/7510183947650138163)
   - [【HarmonyOS 5】Laya游戏如何鸿蒙构建发布详解](https://juejin.cn/post/7510152144550920229)
+- 博客园
+  - [详解鸿蒙开发如何上传三方库到ohpm仓库 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18906187)
+- 鸿蒙官网
+  - [【HarmonyOS 5】鸿蒙中如何获取用户相册图片？photoAccessHelper.PhotoViewPicker](https://developer.huawei.com/consumer/cn/blog/topic/03184207809852107)
+  - [【HarmonyOS 5】鸿蒙应用实现发票扫描、文档扫描输出PDF图片或者表格的功能](https://developer.huawei.com/consumer/cn/blog/topic/03184206580417079)
+  - [如何导出Excel文件 -- excel_hm介绍 ##三方SDK##](https://developer.huawei.com/consumer/cn/blog/topic/03184199123832098)
+  - [跟我一起学“仓颉”设计模式-工厂方法模式练习题](https://developer.huawei.com/consumer/cn/blog/topic/03184180163583106)
+  - [跟我一起学“仓颉”设计模式-工厂方法模式](https://developer.huawei.com/consumer/cn/blog/topic/03184179924505077)
+  - [跟我一起学“仓颉”设计模式-简单工厂模式练习题](https://developer.huawei.com/consumer/cn/blog/topic/03184179682821105)
+  - [跟我一起学“仓颉”设计模式-简单工厂模式](https://developer.huawei.com/consumer/cn/blog/topic/03184179280335097)
+  - [跟我一起学“仓颉”设计模式-面向对象设计原则](https://developer.huawei.com/consumer/cn/blog/topic/03184179034940096)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙应用实现发票扫描、文档扫描输出PDF图片或者表格的功能](https://juejin.cn/post/7510185619794411557)
+  - [鸿蒙开发：应用内如何做更新](https://juejin.cn/post/7510185619794100261)
