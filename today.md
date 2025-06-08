@@ -6506,3 +6506,26 @@
   - [Brew 设置本地源地址，加速安装](https://developer.huawei.com/consumer/cn/blog/topic/03184546363336153)
 - 掘金社区
   - [鸿蒙开发：loading动画的几种实现方式](https://juejin.cn/post/7512288606095474727)
+- 博客园
+  - [华为MAAS、阿里云PAI、亚马逊AWS SageMaker、微软Azure ML各大模型深度分析对比 - Johny_Zhao](https://www.cnblogs.com/Johny-zhao/p/18919080)
+  - [鸿蒙仓颉语言开发实战教程：商城应用个人中心页面 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18916815)
+- 鸿蒙官网
+  - [鸿蒙Next Grid实现拖动排序踩坑](https://developer.huawei.com/consumer/cn/blog/topic/03184721544953159)
+  - [鸿蒙Next文本输入TextInput事件回调总结](https://developer.huawei.com/consumer/cn/blog/topic/03184718261131198)
+  - [鸿蒙ArkTS+ArkUI仿微信通讯录页面制作【1】](https://developer.huawei.com/consumer/cn/blog/topic/03184717184607197)
+  - [【HarmonyOS 5】桌面快捷方式功能实现详解](https://developer.huawei.com/consumer/cn/blog/topic/03184716329451157)
+  - [鸿蒙仓颉语言开发实战教程：商城应用个人中心页面](https://developer.huawei.com/consumer/cn/blog/topic/03184698039176156)
+  - [跟我一起学“仓颉”设计模式-迭代器模式练习题](https://developer.huawei.com/consumer/cn/blog/topic/03184697217563195)
+  - [跟我一起学“仓颉”设计模式-迭代器模式](https://developer.huawei.com/consumer/cn/blog/topic/03184697083847155)
+  - [跟我一起学“仓颉”设计模式-解释器模式练习题](https://developer.huawei.com/consumer/cn/blog/topic/03184696925321194)
+  - [跟我一起学“仓颉”设计模式-解释器模式](https://developer.huawei.com/consumer/cn/blog/topic/03184696784116193)
+  - [跟我一起学“仓颉”设计模式-命令模式练习题](https://developer.huawei.com/consumer/cn/blog/topic/03184696637383192)
+  - [鸿蒙ArkTS+ArkUI仿微信消息列表页制作](https://developer.huawei.com/consumer/cn/blog/topic/03184693731898154)
+  - [鸿蒙NEXT开发浅进阶到精通10：鸿蒙开发项目中遇到的问题及解决笔记03](https://developer.huawei.com/consumer/cn/blog/topic/03184677204255153)
+  - [ArkWeb加载Vue3打包后的静态文件](https://developer.huawei.com/consumer/cn/blog/topic/03184670200772191)
+  - [  《HarmonyOSNext终极UIAbility手册：从启动模式到页面跳转，一网打尽！》](https://developer.huawei.com/consumer/cn/blog/topic/03184668020408152)
+  - [HarmonyOSNext全栈数据存储双星解析：轻量级VS关系型存储终极指南](https://developer.huawei.com/consumer/cn/blog/topic/03184667985387151)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙电脑版微信开启邀测报名](https://www.ithome.com/0/858/928.htm)
+- 掘金社区
+  - [【HarmonyOS 5】桌面快捷方式功能实现详解](https://juejin.cn/post/7512811440953901065)
