@@ -6632,3 +6632,38 @@
 - 掘金社区
   - [【HarmonyOS 5】鸿蒙CodeGenie AI辅助编程工具详解](https://juejin.cn/post/7514261639303725095)
   - [鸿蒙开发：DevEcoTesting中的稳定性测试](https://juejin.cn/post/7514250027024564262)
+- GitHub
+  - [perfect-harmony](https://github.com/tschw/perfect-harmony)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH 5 系列鸿蒙 AI 智能手表功能兼容性清单发布，46mm 款支持 UWB 车钥匙](https://www.ithome.com/0/860/145.htm)
+  - [华为 WATCH 5 系列鸿蒙 AI 智能手表发布：HarmonyOS 5.1、X-TAP 智感窗、5A 速度，2699 元起](https://www.ithome.com/0/860/041.htm)
+- 博客园
+  - [ArkUI-X平台差异化 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18922900)
+- 鸿蒙官网
+  - [我们又来啦 又又上架了一个鸿蒙项目-萤火故事屋](https://developer.huawei.com/consumer/cn/blog/topic/03185101608936019)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(三)](https://developer.huawei.com/consumer/cn/blog/topic/03185073896598207)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(二)](https://developer.huawei.com/consumer/cn/blog/topic/03185073770689245)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(一)](https://developer.huawei.com/consumer/cn/blog/topic/03185073582598153)
+  - [初学鸿蒙开发感受。](https://developer.huawei.com/consumer/cn/blog/topic/03185070509375244)
+  - [跟我一起学“仓颉”算法-双向循环链表](https://developer.huawei.com/consumer/cn/blog/topic/03185064545798152)
+  - [跟我一起学“仓颉”算法-单向循环链表](https://developer.huawei.com/consumer/cn/blog/topic/03185062517817018)
+  - [跟我一起学“仓颉”算法-双向链表](https://developer.huawei.com/consumer/cn/blog/topic/03185059811339017)
+  - [跟我一起学“仓颉”算法-单链表](https://developer.huawei.com/consumer/cn/blog/topic/03185059697663016)
+  - [跟我一起学“仓颉”算法-顺序表](https://developer.huawei.com/consumer/cn/blog/topic/03185059594111243)
+  - [如何遍历一个被判断为对象的未知入参](https://developer.huawei.com/consumer/cn/blog/topic/03185055338948242)
+  - [使用DevEcoStudio 开发、编译鸿蒙 NEXT_APP 以及使用中文插件](https://developer.huawei.com/consumer/cn/blog/topic/03185044416436241)
+  - [在HarmonyOS ArkUI框架中基于Canvas实现非对称圆角组件的方案](https://developer.huawei.com/consumer/cn/blog/topic/03185042711277205)
+  - [希望找到合作伙伴，超越苹果iPad的捏屏操作技术](https://developer.huawei.com/consumer/cn/blog/topic/03185040715302015)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）notificationManager.requestEnableNotification(deprecated)](https://developer.huawei.com/consumer/cn/blog/topic/03185037683492204)
+  - [鸿蒙Next仓颉语言开发实战教程：订单列表](https://developer.huawei.com/consumer/cn/blog/topic/03185032628993240)
+  - [ 鸿蒙-flutter-使用FlutterEntry的路由管理和参数传递_上](https://developer.huawei.com/consumer/cn/blog/topic/03185023633009014)
+  - [鸿蒙-flutter-如何向现有鸿蒙项目中添加flutter模块](https://developer.huawei.com/consumer/cn/blog/topic/03185023578799239)
+  - [鸿蒙-flutter-使用PlatformView](https://developer.huawei.com/consumer/cn/blog/topic/03185021739260203)
+  - [鸿蒙-flutter-环境搭建和第一个HelloWorld](https://developer.huawei.com/consumer/cn/blog/topic/03185021640162202)
+  - [【ModelArts】ModelArts一站式AI开发平台详解（一）](https://developer.huawei.com/consumer/cn/blog/topic/03185020949575238)
+  - [【HarmonyOS 5】鸿蒙CodeGenie AI辅助编程工具详解](https://developer.huawei.com/consumer/cn/blog/topic/03185020523037151)
+  - [九年逐梦，童心同行 | 咕泡科技与百万学员共赴AI时代未来！](https://developer.huawei.com/consumer/cn/blog/topic/03185018438064237)
+  - [鸿蒙开发新姿势：FA卡片开发速成，让你的服务“一键直达”！](https://developer.huawei.com/consumer/cn/blog/topic/03185016556457201)
+- 掘金社区
+  - [鸿蒙开发：一文了解桌面卡片](https://juejin.cn/post/7514481210664878080)
+  - [鸿蒙next 带你玩转Web组件拉起相机进行拍照](https://juejin.cn/post/7514344092768796710)
