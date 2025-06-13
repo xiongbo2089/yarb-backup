@@ -6667,3 +6667,38 @@
 - 掘金社区
   - [鸿蒙开发：一文了解桌面卡片](https://juejin.cn/post/7514481210664878080)
   - [鸿蒙next 带你玩转Web组件拉起相机进行拍照](https://juejin.cn/post/7514344092768796710)
+- 博客园
+  - [HarmonyOS运动开发：深度解析文件预览的正确姿势 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18926451)
+  - [详解HarmonyOS NEXT系统中ArkTS和仓颉的混合开发 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18925620)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [文字消息支持长按翻译，微信鸿蒙版 App 获 1.0.7.37 邀测升级](https://www.ithome.com/0/860/456.htm)
+- 鸿蒙官网
+  - [HarmonyOS运动开发：深度解析文件预览的正确姿势](https://developer.huawei.com/consumer/cn/blog/topic/03185188486625164)
+  - [HBuilderX 4.71+ 版本更新详解：鸿蒙开发体验全面升级](https://developer.huawei.com/consumer/cn/blog/topic/03185187264435035)
+  - [130. [HarmonyOS NEXT 实战案例四:SideBarContainer] 侧边栏容器实战：音乐播放器侧边栏 - 播放列表与歌单管理 进阶篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154439477264)
+  - [129.[HarmonyOS NEXT 实战案例四:SideBarContainer] 侧边栏容器实战：音乐播放器侧边栏 - 播放列表与歌单管理 基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154398566163)
+  - [128.[HarmonyOS NEXT 实战案例三:SideBarContainer] 侧边栏容器实战：社交应用联系人列表 进阶篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154342298263)
+  - [127.[HarmonyOS NEXT 实战案例三:SideBarContainer] 侧边栏容器实战：社交应用联系人列表 基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154309192162)
+  - [126.[HarmonyOS NEXT 实战案例二:SideBarContainer] 侧边栏容器实战：电商应用商品筛选侧边栏 进阶篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154256861034)
+  - [125.[HarmonyOS NEXT 实战案例二:SideBarContainer] 侧边栏容器实战：电商应用商品筛选侧边栏 基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154219043033)
+  - [124.[HarmonyOS NEXT 实战案例一:SideBarContainer] 侧边栏容器实战：新闻阅读应用侧边栏布局 进阶篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154078443032)
+  - [123.[HarmonyOS NEXT 实战案例一:SideBarContainer] 侧边栏容器实战：新闻阅读应用侧边栏布局 基础篇](https://developer.huawei.com/consumer/cn/blog/topic/03185154052494222)
+  - [122. [HarmonyOS NEXT 实战案例：教育应用] 高级篇 - 课程学习平台的高级布局与自适应设计](https://developer.huawei.com/consumer/cn/blog/topic/03185153887231262)
+  - [121.[HarmonyOS NEXT 实战案例：教育应用] 进阶篇 - 课程学习平台的交互功能与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03185153858927031)
+  - [120.[HarmonyOS NEXT 实战案例：教育应用] 基础篇 - 垂直分割布局打造课程学习平台](https://developer.huawei.com/consumer/cn/blog/topic/03185153831549221)
+  - [119.[HarmonyOS NEXT 实战案例：旅行应用] 进阶篇 - 旅行规划应用的交互功能与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03185153772151261)
+  - [118.[HarmonyOS NEXT 实战案例：旅行应用] 基础篇 - 水平分割布局打造旅行规划应用](https://developer.huawei.com/consumer/cn/blog/topic/03185153729283161)
+  - [117.[HarmonyOS NEXT 实战案例：健康应用] 高级篇 - 健康数据仪表盘的高级布局与自适应设计](https://developer.huawei.com/consumer/cn/blog/topic/03185153693346220)
+  - [116.[HarmonyOS NEXT 实战案例：健康应用] 进阶篇 - 健康数据仪表盘的交互功能与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03185153663127160)
+  - [115. [HarmonyOS NEXT 实战案例：健康应用] 基础篇 - 水平分割布局打造健康数据仪表盘](https://developer.huawei.com/consumer/cn/blog/topic/03185153629777159)
+  - [114.  [HarmonyOS NEXT 实战案例：电商应用] 进阶篇 - 交互功能与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03185153595064030)
+  - [鸿蒙 UI 开发基础语法与组件复用全解析：从装饰器到工程化实践指南](https://developer.huawei.com/consumer/cn/blog/topic/03185153577595029)
+  - [113.[HarmonyOS NEXT 实战案例：电商应用] 基础篇 - 垂直分割布局打造商品详情页](https://developer.huawei.com/consumer/cn/blog/topic/03185153539621260)
+  - [112.[HarmonyOS NEXT 实战案例：文件管理器] 高级篇 - 高级布局技巧与组件封装](https://developer.huawei.com/consumer/cn/blog/topic/03185153507596158)
+  - [111. [HarmonyOS NEXT 实战案例：文件管理器] 进阶篇 - 交互功能与状态管理](https://developer.huawei.com/consumer/cn/blog/topic/03185153469000259)
+  - [commondb通用数据库管理模块及UMI全栈模型同构理念简介](https://developer.huawei.com/consumer/cn/blog/topic/03185150320845157)
+- 开源中国
+  - [香橙派开发板成功适配开源鸿蒙 OpenHarmony 5.0](https://www.oschina.net/news/354959)
+- 掘金社区
+  - [鸿蒙开发：简单实现一个服务卡片](https://juejin.cn/post/7514858513442177058)
+  - [鸿蒙开发面试真题：鸿蒙操作系统的微内核架构有哪些优势?](https://juejin.cn/post/7514872155977908265)
