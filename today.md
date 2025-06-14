@@ -6702,3 +6702,27 @@
 - 掘金社区
   - [鸿蒙开发：简单实现一个服务卡片](https://juejin.cn/post/7514858513442177058)
   - [鸿蒙开发面试真题：鸿蒙操作系统的微内核架构有哪些优势?](https://juejin.cn/post/7514872155977908265)
+- 鸿蒙官网
+  - [鸿蒙性能优化四板斧，一目了然](https://developer.huawei.com/consumer/cn/blog/topic/03185244361050232)
+  - [鸿蒙如何上传图片？](https://developer.huawei.com/consumer/cn/blog/topic/03185243978270170)
+  - [鸿蒙组件通信方式？](https://developer.huawei.com/consumer/cn/blog/topic/03185240871258169)
+  - [鸿蒙当中怎么快速集成JSBrige使得前端页面调用鸿蒙侧封装的方法？在鸿蒙(HarmonyOS)应用中如何快速集成JSBridge实现前端页面调用原生能力？](https://developer.huawei.com/consumer/cn/blog/topic/03185240541625168)
+  - [鸿蒙开发：如何解决软键盘弹出后的间距](https://developer.huawei.com/consumer/cn/blog/topic/03185236689930230)
+  - [跟我一起学“仓颉”算法-图的遍历](https://developer.huawei.com/consumer/cn/blog/topic/03185219407490001)
+  - [跟我一起学“仓颉”算法-图](https://developer.huawei.com/consumer/cn/blog/topic/03185219230130167)
+  - [跟我一起学“仓颉”算法-二叉树练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185219057119229)
+  - [跟我一起学“仓颉”算法-二叉树](https://developer.huawei.com/consumer/cn/blog/topic/03185218599055166)
+  - [跟我一起学“仓颉”算法-栈和队列练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185218309853228)
+  - [鸿蒙Next仓颉语言开发实战教程：订单详情](https://developer.huawei.com/consumer/cn/blog/topic/03185211051536227)
+  - [ArkTS 并行线程间通信测试实验报告](https://developer.huawei.com/consumer/cn/blog/topic/03185209727685165)
+  - [HarmonyOS NEXT应用开发-Notification Kit（用户通知服务）概述与notificationManager.publish](https://developer.huawei.com/consumer/cn/blog/topic/03185208923267226)
+  - [Harmony OS Next里的Web组件：网页加载的全流程掌控手册](https://developer.huawei.com/consumer/cn/blog/topic/03185204513572225)
+  - [   Harmony OS Next玩转多层级手势事件：当组件遇上“套娃”，触摸该怎么分家？](https://developer.huawei.com/consumer/cn/blog/topic/03185204476219036)
+  - [ 解决Windows ARM64虚拟机中DevEco Studio崩溃的问题](https://developer.huawei.com/consumer/cn/blog/topic/03185193998268223)
+  - [将应用加入系统分享面板](https://developer.huawei.com/consumer/cn/blog/topic/03185192090269266)
+  - [HarmonyOS运动开发：深度解析文件预览的正确姿势](https://developer.huawei.com/consumer/cn/blog/topic/03185188486625164)
+  - [HBuilderX 4.71+ 版本更新详解：鸿蒙开发体验全面升级](https://developer.huawei.com/consumer/cn/blog/topic/03185187264435035)
+- 博客园
+  - [鸿蒙Next仓颉语言开发实战教程：订单详情 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18927115)
+- 掘金社区
+  - [鸿蒙开发：绘制服务卡片](https://juejin.cn/post/7515372102712131636)
