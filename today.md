@@ -6726,3 +6726,22 @@
   - [鸿蒙Next仓颉语言开发实战教程：订单详情 - 幽蓝计划](https://www.cnblogs.com/youlanjihua/p/18927115)
 - 掘金社区
   - [鸿蒙开发：绘制服务卡片](https://juejin.cn/post/7515372102712131636)
+- GitHub
+  - [Painter2OH](https://github.com/WIN2OH/Painter2OH)
+- 鸿蒙官网
+  - [【AI大模型入门指南】概念与专有名词详解 （二）](https://developer.huawei.com/consumer/cn/blog/topic/03185321349773275)
+  - [【AI大模型入门指南】概念与专有名词详解 （一）](https://developer.huawei.com/consumer/cn/blog/topic/03185321186835005)
+  - [跟我一起学“仓颉”算法-弗洛伊德算法](https://developer.huawei.com/consumer/cn/blog/topic/03185315120725234)
+  - [跟我一起学“仓颉”算法-迪杰斯特拉算法](https://developer.huawei.com/consumer/cn/blog/topic/03185314953257233)
+  - [跟我一起学“仓颉”算法-哈夫曼树练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185314872427172)
+  - [跟我一起学“仓颉”算法-哈夫曼树](https://developer.huawei.com/consumer/cn/blog/topic/03185314799163274)
+  - [跟我一起学“仓颉”算法-图练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185314357162273)
+  - [《HarmonyOSNext全链路通知开发指南：从基础通知到智能跳转的超详细实战》](https://developer.huawei.com/consumer/cn/blog/topic/03185289501949272)
+  - [《HarmonyOSNext Web组件双向通信开发指南：JavaScript互调+动态注册+跨端数据流转实战》](https://developer.huawei.com/consumer/cn/blog/topic/03185289441207171)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙组件&模板服务详解 - 助力高效开发的利器](https://juejin.cn/post/7515503402241130506)
+  - [鸿蒙开发：CodeGenie万能卡片生成](https://juejin.cn/post/7515396214885089315)
+- 51CTO
+  - [ArkUI-X在Android上使用Fragment开发指南](https://ost.51cto.com/posts/34408)
+  - [鸿蒙-flutter-使用FlutterEntry的路由管理和参数传递_下_页面返回时透传数据](https://ost.51cto.com/posts/34356)
+  - [鸿蒙-flutter-使用FlutterEntry的路由管理和参数传递_中_flutter打开native页面传递参数](https://ost.51cto.com/posts/34355)
