@@ -6774,3 +6774,36 @@
 - 掘金社区
   - [从“备胎”到领航者，鸿蒙操作系统的传奇进化](https://juejin.cn/post/7515584483498180660)
   - [鸿蒙开发：DevEcoStudio中的代码提取](https://juejin.cn/post/7515707680926367795)
+- 51CTO
+  - [鸿蒙声明式 UI 开发：从范式革新到工程实践全指南](https://ost.51cto.com/posts/34427)
+- 博客园
+  - [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（上）—— 请求参数封装，类型转化器与日志记录篇 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18932269)
+- 鸿蒙官网
+  - [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（上）—— 请求参数封装，类型转化器与日志记录篇](https://developer.huawei.com/consumer/cn/blog/topic/03185533798878012)
+  - [HarmonyOS API 15 新晋导航点组件Indicator详解](https://developer.huawei.com/consumer/cn/blog/topic/03185529964604284)
+  - [鸿蒙系统的微信发到邮箱内测邀请打开不能下载](https://developer.huawei.com/consumer/cn/blog/topic/03185520960506245)
+  - [鸿蒙组件通用事件开发全攻略：从基础交互到工程实践](https://developer.huawei.com/consumer/cn/blog/topic/03185499672587185)
+  - [ArkUI-X跨平台应用改造指南](https://developer.huawei.com/consumer/cn/blog/topic/03185495802023011)
+  - [ArkUI-X与Android联动编译开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03185495730105184)
+  - [关于鸿蒙App上架中“AI文本生成模块的资质证明文件”的情况说明](https://developer.huawei.com/consumer/cn/blog/topic/03185491114122183)
+  - [H5页面唤起App实现方案](https://developer.huawei.com/consumer/cn/blog/topic/03185487907322010)
+  - [鸿蒙最佳实践之组件动态创建](https://developer.huawei.com/consumer/cn/blog/topic/03185479511216283)
+  - [HarmonyOS实战：List拖拽位置交换的多种实现方式](https://developer.huawei.com/consumer/cn/blog/topic/03185476206056181)
+  - [跟我一起学“仓颉”算法-拓扑排序练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185468570664180)
+  - [跟我一起学“仓颉”算法-拓扑排序](https://developer.huawei.com/consumer/cn/blog/topic/03185468428254282)
+  - [跟我一起学“仓颉”算法-最小生成树练习题](https://developer.huawei.com/consumer/cn/blog/topic/03185468224937244)
+  - [跟我一起学“仓颉”算法-克鲁斯卡尔算法](https://developer.huawei.com/consumer/cn/blog/topic/03185468100474281)
+  - [跟我一起学“仓颉”算法-普里姆算法](https://developer.huawei.com/consumer/cn/blog/topic/03185468014246280)
+  - [鸿蒙Next仓颉语言开发实战教程：消息列表](https://developer.huawei.com/consumer/cn/blog/topic/03185466086731243)
+  - [鸿蒙网络编程系列54-仓颉版实现Smtp邮件发送客户端](https://developer.huawei.com/consumer/cn/blog/topic/03185459082791242)
+  - [Promise 如何使用，以及使用场景？](https://developer.huawei.com/consumer/cn/blog/topic/03185452366221279)
+  - [鸿蒙 Native API 的封装库 h2lib_arkbinder](https://developer.huawei.com/consumer/cn/blog/topic/03185452068170009)
+  - [鸿蒙中主线程与子线程通信机制详解，Emitter，Worker，EventHandler和EventRunner。](https://developer.huawei.com/consumer/cn/blog/topic/03185451858771179)
+  - [《HarmonyOSNext三方库神装手册：一网打尽炫酷动效开发》](https://developer.huawei.com/consumer/cn/blog/topic/03185445631331008)
+  - [《HarmonyOSNext性能暴增秘籍：Node-API多线程通信从阻塞到丝滑的4大方案实战》](https://developer.huawei.com/consumer/cn/blog/topic/03185445591305241)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 1.0.7.39 邀测升级，支持预览 QQ 邮箱提醒](https://www.ithome.com/0/861/308.htm)
+- 掘金社区
+  - [鸿蒙列表新的实现方式](https://juejin.cn/post/7516330190861369398)
+  - [鸿蒙开发：资讯项目实战之项目框架设计](https://juejin.cn/post/7516369217768767528)
+  - [HarmonyOS实战：List拖拽位置交换的多种实现方式](https://juejin.cn/post/7516194405834063883)
