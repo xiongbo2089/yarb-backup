@@ -6949,3 +6949,22 @@
   - [《鸿蒙编程语言白皮书》发布](https://www.oschina.net/news/356477)
   - [华为自研仓颉编程语言将于 7 月 30 日开源](https://www.oschina.net/news/356470)
   - [开源鸿蒙 OpenHarmony 6.0 Beta1 发布](https://www.oschina.net/news/356411/openharmony-v6-beta1)
+- 鸿蒙官网
+  - [鸿蒙运动项目开发：项目运行环境切换器](https://developer.huawei.com/consumer/cn/blog/topic/03185969930328007)
+  - [如何实现桌面快捷方式【2】--ArkTS开发](https://developer.huawei.com/consumer/cn/blog/topic/03185931965054019)
+  - [如何实现桌面快捷方式【1】--ArkTS开发](https://developer.huawei.com/consumer/cn/blog/topic/03185921710336002)
+  - [Harmony os6.0](https://developer.huawei.com/consumer/cn/blog/topic/03185915371229096)
+  - [鸿蒙 6.0 引爆 AI 智能体革命：从交互重构到全场景智能觉醒，未来已至](https://developer.huawei.com/consumer/cn/blog/topic/03185908229482018)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [新合作伙伴加入共创鸿蒙生态，这背后意义不凡](https://www.ithome.com/0/862/677.htm)
+  - [华为 HarmonyOS 6 鸿蒙智能体框架强化 AI Agent 体验，开放插件市场支持第三方上传](https://www.ithome.com/0/862/594.htm)
+- 51CTO
+  - [HarmonyOS 5时空套利：相对论效应驱动跨星系交易，GPS钟差模型解锁“时间差经济”](https://ost.51cto.com/posts/35268)
+  - [【鸿蒙开发】关系型数据库](https://ost.51cto.com/posts/35265)
+  - [HarmonyOS 5绿能wk：光伏发电量兑换游戏资源的"能源-数字"双链革命](https://ost.51cto.com/posts/35242)
+  - [HarmonyOS 5动物行为：大熊猫行为库驱动Godot NPC——500+种真实动作，让虚拟动物“活”起来](https://ost.51cto.com/posts/35228)
+  - [HarmonyOS 5量子脑机接口：意念操控Godot量子角色分身——Neuro头环+HiQ量子模拟器突破多宇宙协同延迟极限](https://ost.51cto.com/posts/35205)
+- 博客园
+  - [鸿蒙运动项目开发：项目运行环境切换器 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18942240)
+- 掘金社区
+  - [鸿蒙 6.0 引爆 AI 智能体革命：从交互重构到全场景智能觉醒，未来已至](https://juejin.cn/post/7517873103114141707)
