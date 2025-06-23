@@ -6968,3 +6968,19 @@
   - [鸿蒙运动项目开发：项目运行环境切换器 - 王二蛋和他的狗](https://www.cnblogs.com/wangerdan115/p/18942240)
 - 掘金社区
   - [鸿蒙 6.0 引爆 AI 智能体革命：从交互重构到全场景智能觉醒，未来已至](https://juejin.cn/post/7517873103114141707)
+- 博客园
+  - [鸿蒙云函数与云数据库开发实践 - 在人间耕耘](https://www.cnblogs.com/zhaoylhm/p/18943067)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS NEXT 5.0.1.130 版本游戏场景新增“高性能”模式](https://www.ithome.com/0/862/872.htm)
+- 鸿蒙官网
+  - [弥合 AI 学习与实践鸿沟：咕泡科技九年演进中的专家团服务体系升级](https://developer.huawei.com/consumer/cn/blog/topic/03186056650122009)
+  - [HarmonyOS NEXT应用元服务布局优化ArkUI框架执行流程](https://developer.huawei.com/consumer/cn/blog/topic/03186053533574006)
+  - [鸿蒙OS高级技巧：打造个性化动态Swiper效果](https://developer.huawei.com/consumer/cn/blog/topic/03186052015417008)
+  - [HarmonyOS API 15 Swiper动效模式SwiperAnimationMode应用展示](https://developer.huawei.com/consumer/cn/blog/topic/03186048512495021)
+  - [鸿蒙 Column 组件指南：垂直布局核心技术与场景化实践](https://developer.huawei.com/consumer/cn/blog/topic/03186017733634098)
+  - [【HarmonyOS 5】鸿蒙应用实现截屏，截图(组件截图，流媒体截图)](https://developer.huawei.com/consumer/cn/blog/topic/03186004227561005)
+  - [【HarmonyOS 5】应用更新功能详解](https://developer.huawei.com/consumer/cn/blog/topic/03186001960008020)
+  - [HDC2025开发者盛会，深度体验技术革新](https://developer.huawei.com/consumer/cn/blog/topic/03185984091689004)
+  - [HarmonyOS 左右抽屉Drawer组件](https://developer.huawei.com/consumer/cn/blog/topic/03185973715419097)
+  - [鸿蒙OS创新实践：动态声控话筒开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03185973398511003)
+  - [鸿蒙运动项目开发：项目运行环境切换器](https://developer.huawei.com/consumer/cn/blog/topic/03185969930328007)
