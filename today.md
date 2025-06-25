@@ -7022,3 +7022,42 @@
 - 开源中国
   - [开源鸿蒙代码规模突破 1.3 亿行](https://www.oschina.net/news/356872)
   - [《鸿蒙智能体框架白皮书》发布](https://www.oschina.net/news/356864)
+- 51CTO
+  - [HarmonyOS SDK AI开发实战：图像识别极简集成](https://ost.51cto.com/posts/35603)
+  - [ArkUI-X通过Stage模型开发Android端应用指南(一)](https://ost.51cto.com/posts/35599)
+  - [HDC2025开发者大会：共筑代码新纪元的创新熔炉](https://ost.51cto.com/posts/35586)
+- 博客园
+  - [ArkUI-X通过Stage模型开发Android端应用指南(一) - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18946862)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH 5 鸿蒙 AI 智能手表获 HarmonyOS 5.1.0.111 升级，新增微信 App](https://www.ithome.com/0/863/261.htm)
+  - [通控中心支持左右横划切换，华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS NEXT 5.0.1.130 升级](https://www.ithome.com/0/863/254.htm)
+- 鸿蒙官网
+  - [HarmonyOS NEXT实战：加载弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03186228914754055)
+  - [鸿蒙Next实现通讯录索引条AlphabetIndexer](https://developer.huawei.com/consumer/cn/blog/topic/03186228762588072)
+  - [鸿蒙Next并发线程TaskPool使用](https://developer.huawei.com/consumer/cn/blog/topic/03186228665645045)
+  - [车间管理者必读：7款项目管理工具全面解析，助力生产效率提升](https://developer.huawei.com/consumer/cn/blog/topic/03186228239889044)
+  - [HarmonyOSNext性能调优圣典可视化分析+命令行实战避坑指南](https://developer.huawei.com/consumer/cn/blog/topic/03186228036763043)
+  - [  「HarmonyOSNext性能调优秘籍：HiTraceMeter全场景追踪指南」](https://developer.huawei.com/consumer/cn/blog/topic/03186228001341071)
+  - [HarmonyOS NEXT开发实战：打造高效上拉刷新与下拉加载组件（一）空页面的设计与实现](https://developer.huawei.com/consumer/cn/blog/topic/03186224945580149)
+  - [鸿蒙HarmonyOS ArkTS共享元素动画详解【3】](https://developer.huawei.com/consumer/cn/blog/topic/03186219796111148)
+  - [鸿蒙HarmonyOS ArkTS共享元素动画详解【2】](https://developer.huawei.com/consumer/cn/blog/topic/03186218116574147)
+  - [鸿蒙HarmonyOS ArkTS共享元素动画详解【1】](https://developer.huawei.com/consumer/cn/blog/topic/03186199046718146)
+  - [harmony-utils之ArrayUtil，集合工具类](https://developer.huawei.com/consumer/cn/blog/topic/03186187178848133)
+  - [harmony-utils之AppUtil，APP相关工具类](https://developer.huawei.com/consumer/cn/blog/topic/03186187042570132)
+  - [HarmonyOS应用一键置灰指南](https://developer.huawei.com/consumer/cn/blog/topic/03186186925395033)
+  - [鸿蒙 FolderStack 组件全解析：折叠屏悬停布局开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03186185802732036)
+  - [鸿蒙 Stack 组件深度解析：层叠布局的核心应用与实战技巧](https://developer.huawei.com/consumer/cn/blog/topic/03186185340147057)
+  - [ArkUI-X通过Stage模型开发Android端应用指南(二)](https://developer.huawei.com/consumer/cn/blog/topic/03186184630977032)
+  - [ArkUI-X通过Stage模型开发Android端应用指南(一)](https://developer.huawei.com/consumer/cn/blog/topic/03186184590580032)
+  - [最受欢迎的三方库之harmony-dialog](https://developer.huawei.com/consumer/cn/blog/topic/03186184215093129)
+  - [重磅推出 HarmonyOS AI助手  CodeGenie V6的使用教程](https://developer.huawei.com/consumer/cn/blog/topic/03186182024274055)
+  - [鸿蒙HarmonyOS ArkTS视频播放器组件详解](https://developer.huawei.com/consumer/cn/blog/topic/03186179360198126)
+  - [用仓颉实现身份证号码校验和字段值提取](https://developer.huawei.com/consumer/cn/blog/topic/03186177515527125)
+  - [鸿蒙HarmonyOS ArkTS沉浸式效果开发详解](https://developer.huawei.com/consumer/cn/blog/topic/03186176827784124)
+  - [HarmonyOS Next快速入门：RelationalStore关系型数据库](https://developer.huawei.com/consumer/cn/blog/topic/03186170322808031)
+  - [HarmonyOS Next快速入门：Preferences用户首选项](https://developer.huawei.com/consumer/cn/blog/topic/03186169594025123)
+- 开源中国
+  - [【直播预告】三步上手鸿蒙开发：工具・能力・进阶](https://my.oschina.net/u/3859945/blog/18635616)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙跨平台开发方案详解（一）](https://juejin.cn/post/7519351263438290944)
+  - [鸿蒙开发：基于node脚本实现组件化运行](https://juejin.cn/post/7519324496742924323)
