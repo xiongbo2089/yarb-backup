@@ -7265,3 +7265,24 @@
   - [《HarmonyOSNext全流程订阅开发指南：从配置到挽留的终极方案》](https://developer.huawei.com/consumer/cn/blog/topic/03186654890953137)
 - 掘金社区
   - [HarmonyOS5/ArkTs 超简单的对接DeepSeekAPI步骤](https://juejin.cn/post/7521544963974594570)
+- 51CTO
+  - [鸿蒙开发：DevEco Studio中截屏和录屏功能](https://ost.51cto.com/posts/35974)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持华为耳机免配对使用，MateBook Fold 非凡大师折叠笔记本获鸿蒙 HarmonyOS 5.0.1.315 升级](https://www.ithome.com/0/865/074.htm)
+  - [API19：华为鸿蒙 HarmonyOS 5.1.1 (19) Release 版本发布，提供更多组件调用细节](https://www.ithome.com/0/864/996.htm)
+  - [河南省汽车协会：购买鸿蒙车机系统及华为途灵平台新能源车，补贴 3000 元 / 台](https://www.ithome.com/0/864/968.htm)
+- 鸿蒙官网
+  - [HarmonyOS NEXT应用元服务常见列表操作二级联动](https://developer.huawei.com/consumer/cn/blog/topic/03186833347134248)
+  - [对HarmonyOS通话设备切换功能开发的核心机制、关键接口、开发步骤及注意事项：](https://developer.huawei.com/consumer/cn/blog/topic/03186790762396244)
+  - [对HarmonyOS应用/元服务签名与发布流程的详细核心概念、操作步骤及注意事项：](https://developer.huawei.com/consumer/cn/blog/topic/03186790383988145)
+  - [应用开发 修改APP名称和APP图标替换第一坑](https://developer.huawei.com/consumer/cn/blog/topic/03186765530318136)
+  - [鸿蒙应用Q&A：开发工具（CodeGenie）](https://developer.huawei.com/consumer/cn/blog/topic/03186765054125143)
+  - [鸿蒙应用Q&A：开发工具DevEco Testing](https://developer.huawei.com/consumer/cn/blog/topic/03186764965106241)
+  - [鸿蒙应用Q&A：开发工具DevEco Studio](https://developer.huawei.com/consumer/cn/blog/topic/03186764894245240)
+  - [鸿蒙应用Q&A：应用测试系列（二）](https://developer.huawei.com/consumer/cn/blog/topic/03186764817836145)
+  - [鸿蒙应用Q&A：应用测试系列（一）](https://developer.huawei.com/consumer/cn/blog/topic/03186764743229239)
+  - [怎么创建自己的全局弹窗？](https://developer.huawei.com/consumer/cn/blog/topic/03186752337573135)
+  - [2025年PMO必备的项目管理工具类软件功能介绍与推荐](https://developer.huawei.com/consumer/cn/blog/topic/03186746428022134)
+- 掘金社区
+  - [【HarmonyOS】鸿蒙使用仓颉编程入门](https://juejin.cn/post/7522090635908431910)
+  - [简单聊聊 Flutter 在鸿蒙上为什么可以 hotload ？](https://juejin.cn/post/7521708544724844583)
