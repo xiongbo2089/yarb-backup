@@ -7286,3 +7286,30 @@
 - 掘金社区
   - [【HarmonyOS】鸿蒙使用仓颉编程入门](https://juejin.cn/post/7522090635908431910)
   - [简单聊聊 Flutter 在鸿蒙上为什么可以 hotload ？](https://juejin.cn/post/7521708544724844583)
+- 鸿蒙官网
+  - [除了PersistentStorage和Preferences，ArkTS中还有哪些存储方式？](https://developer.huawei.com/consumer/cn/blog/topic/03186919727638161)
+  - [互联网公司质量管理升级：15款高效工具实战解析与选型指南](https://developer.huawei.com/consumer/cn/blog/topic/03186919023240154)
+  - [构建元服务的第一个页面](https://developer.huawei.com/consumer/cn/blog/topic/03186917901946160)
+  - [生成元服务图标](https://developer.huawei.com/consumer/cn/blog/topic/03186915971436258)
+  - [创建元服务工程](https://developer.huawei.com/consumer/cn/blog/topic/03186915740380257)
+  - [java数据类型转换](https://developer.huawei.com/consumer/cn/blog/topic/03186912386264146)
+  - [鸿蒙中@Entry 装饰的页面，A 页面跳到 B 页面后再跳回 A 页面，如何获取 B 页面的返回值？](https://developer.huawei.com/consumer/cn/blog/topic/03186879708192145)
+  - [【干货】【鸿蒙next】鸿蒙中如何实现垂直的三栏布局？](https://developer.huawei.com/consumer/cn/blog/topic/03186879567118256)
+  - [开发第一个元服务概述](https://developer.huawei.com/consumer/cn/blog/topic/03186856429073158)
+  - [2025年必备的质量管理软件推荐](https://developer.huawei.com/consumer/cn/blog/topic/03186855255893157)
+  - [ArkTS语言介绍](https://developer.huawei.com/consumer/cn/blog/topic/03186854628854143)
+  - [2025年技术团队必看：10款提升研发效率的知识管理工具深度评测](https://developer.huawei.com/consumer/cn/blog/topic/03186851851366254)
+  - [HarmonyOS与微信小程序：融合与创新](https://developer.huawei.com/consumer/cn/blog/topic/03186850244811156)
+  - [HarmonyOS 6.0.0(20) Beta1正式发布：多维度能力升级助力开发者高效创新](https://developer.huawei.com/consumer/cn/blog/topic/03186849649071155)
+  - [大学生用HarmonyOS能干啥？手把手教你玩转鸿蒙开发！](https://developer.huawei.com/consumer/cn/blog/topic/03186849339860154)
+  - [HDC 2025“碰一碰”火出圈！App Linking解锁酷炫链接新玩法](https://developer.huawei.com/consumer/cn/blog/topic/03186836287115251)
+  - [华为账号头像昵称获取开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03186835379335250)
+  - [HarmonyOS NEXT应用元服务常见列表操作二级联动](https://developer.huawei.com/consumer/cn/blog/topic/03186833347134248)
+  - [2025年必备的任务跟踪管理工具深度解析：10款提升团队协作效率的专业平台](https://developer.huawei.com/consumer/cn/blog/topic/03186832856125142)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 1.0.8.35 正式版更新，支持扫一扫翻译等功能](https://www.ithome.com/0/865/393.htm)
+  - [华为 WATCH D2 智能手表获鸿蒙 HarmonyOS 5.1.0.16 升级，支持同步手机实况窗信息](https://www.ithome.com/0/865/310.htm)
+- 51CTO
+  - [HarmonyOS NEXT-蓝牙(Ble)开发流程(基础)](https://ost.51cto.com/posts/31746)
+- 掘金社区
+  - [Flutter + 鸿蒙 | 服务卡片开发干货（一）](https://juejin.cn/post/7522321917048864802)
