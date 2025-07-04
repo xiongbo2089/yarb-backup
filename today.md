@@ -7313,3 +7313,25 @@
   - [HarmonyOS NEXT-蓝牙(Ble)开发流程(基础)](https://ost.51cto.com/posts/31746)
 - 掘金社区
   - [Flutter + 鸿蒙 | 服务卡片开发干货（一）](https://juejin.cn/post/7522321917048864802)
+- 鸿蒙官网
+  - [鸿蒙web组件属性总结：](https://developer.huawei.com/consumer/cn/blog/topic/03186969608356261)
+  - [HarmonyOS ArkTS Web组件功能总结：](https://developer.huawei.com/consumer/cn/blog/topic/03186969512098164)
+  - [鸿蒙从UI 角度的优化](https://developer.huawei.com/consumer/cn/blog/topic/03186962342195163)
+  - [【HarmonyOS】HAR和HSP循环依赖和依赖传递问题详解](https://developer.huawei.com/consumer/cn/blog/topic/03186958827528162)
+  - [【HarmonyOS】鸿蒙使用仓颉编程入门](https://developer.huawei.com/consumer/cn/blog/topic/03186958717252260)
+  - [HarmonyOS NEXT应用元服务常见列表操作分组吸顶场景](https://developer.huawei.com/consumer/cn/blog/topic/03186939735426157)
+  - [arkts镜像语言适配总结](https://developer.huawei.com/consumer/cn/blog/topic/03186937420929156)
+  - [构建互联网公司人才引擎：深度解析10款绩效管理工具的应用场景与选型策略](https://developer.huawei.com/consumer/cn/blog/topic/03186936656048148)
+  - [Flutter视频压缩插件video_compress&ffmpeg_kit_flutter](https://developer.huawei.com/consumer/cn/blog/topic/03186925577367147)
+  - [鸿蒙关系型数据库完全指南：@ohos.data.relationalStore实战详解​](https://developer.huawei.com/consumer/cn/blog/topic/03186925159537259)
+  - [除了PersistentStorage和Preferences，ArkTS中还有哪些存储方式？](https://developer.huawei.com/consumer/cn/blog/topic/03186919727638161)
+  - [PersistentStorage和Preferences的存储容量有什么限制？](https://developer.huawei.com/consumer/cn/blog/topic/03186919618404155)
+  - [互联网公司质量管理升级：15款高效工具实战解析与选型指南](https://developer.huawei.com/consumer/cn/blog/topic/03186919023240154)
+  - [构建元服务的第一个页面](https://developer.huawei.com/consumer/cn/blog/topic/03186917901946160)
+  - [生成元服务图标](https://developer.huawei.com/consumer/cn/blog/topic/03186915971436258)
+  - [创建元服务工程](https://developer.huawei.com/consumer/cn/blog/topic/03186915740380257)
+  - [java数据类型转换](https://developer.huawei.com/consumer/cn/blog/topic/03186912386264146)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [腾讯官方公布微信鸿蒙版开发细节：从头做微信是什么体验？](https://www.ithome.com/0/865/490.htm)
+- 掘金社区
+  - [【HarmonyOS】HAR和HSP循环依赖和依赖传递问题详解](https://juejin.cn/post/7522658844990160937)
