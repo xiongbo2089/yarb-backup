@@ -7335,3 +7335,17 @@
   - [腾讯官方公布微信鸿蒙版开发细节：从头做微信是什么体验？](https://www.ithome.com/0/865/490.htm)
 - 掘金社区
   - [【HarmonyOS】HAR和HSP循环依赖和依赖传递问题详解](https://juejin.cn/post/7522658844990160937)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [支持扫码登录文件传输助手网页版，微信鸿蒙版 App 获 1.0.8.37 邀测升级](https://www.ithome.com/0/865/936.htm)
+  - [腾讯系 TOP 常青游戏《火影忍者》今天正式服上架鸿蒙](https://www.ithome.com/0/865/850.htm)
+- 开源中国
+  - [三步解锁鸿蒙开发 + 2025 HarmonyOS 创新赛指南，7 月 8 日双攻略放送！](https://my.oschina.net/u/3859945/blog/18635616)
+- 鸿蒙官网
+  - [字符串智能重复](https://developer.huawei.com/consumer/cn/blog/topic/03187046776707153)
+  - [“来电显示”助力沟通，办公效率提升75%](https://developer.huawei.com/consumer/cn/blog/topic/03187033755352166)
+  - [【HarmonyOS】应用开发拖拽功能详解](https://developer.huawei.com/consumer/cn/blog/topic/03187032901143150)
+  - [【Harmony】鸿蒙企业应用详解](https://developer.huawei.com/consumer/cn/blog/topic/03187032755220263)
+  - [TabBuilder生成页签图标的两种方法，你选哪种方法呢？](https://developer.huawei.com/consumer/cn/blog/topic/03187009120829262)
+  - [2025年技术团队必看：10款CRM工具架构解析与选型指南](https://developer.huawei.com/consumer/cn/blog/topic/03187008072439149)
+- 掘金社区
+  - [【HarmonyOS】应用开发拖拽功能详解](https://juejin.cn/post/7523030788658348041)
