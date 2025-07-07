@@ -7349,3 +7349,17 @@
   - [2025年技术团队必看：10款CRM工具架构解析与选型指南](https://developer.huawei.com/consumer/cn/blog/topic/03187008072439149)
 - 掘金社区
   - [【HarmonyOS】应用开发拖拽功能详解](https://juejin.cn/post/7523030788658348041)
+- 鸿蒙官网
+  - [ArkTS常见的数据类型有哪些?  什么地方用到了枚举?](https://developer.huawei.com/consumer/cn/blog/topic/03187225230623156)
+  - [如果前端伪造token, 如何做跳转拦截?](https://developer.huawei.com/consumer/cn/blog/topic/03187224886432173)
+  - [【HarmonyOS】鸿蒙应用开发Text控件常见错误](https://developer.huawei.com/consumer/cn/blog/topic/03187222780194163)
+  - [【HarmonyOS】富文本编辑器RichEditor详解](https://developer.huawei.com/consumer/cn/blog/topic/03187217509362162)
+  - [修改新端口后，还是报告有错误hdc server port 8710 has been used. Configure environment variable "OHOS_HDC_SERVER_PORT" and restart IDE.](https://developer.huawei.com/consumer/cn/blog/topic/03187182628113172)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [带壳截图功能下放，华为 nova 14 系列手机获鸿蒙 HarmonyOS NEXT 5.0.1.135 升级](https://www.ithome.com/0/866/225.htm)
+  - [百度地图适配华为鸿蒙 HiCar：支持车道级导航、智能巡航等功能](https://www.ithome.com/0/866/130.htm)
+  - [华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS NEXT 5.0.1.135 升级，优化与部分第三方应用的兼容性](https://www.ithome.com/0/866/001.htm)
+  - [华为 WATCH FIT 4 智能手表获鸿蒙 HarmonyOS 5.1.0.121 升级，新增健康摘要应用](https://www.ithome.com/0/865/978.htm)
+- 掘金社区
+  - [【HarmonyOS】鸿蒙应用开发Text控件常见错误](https://juejin.cn/post/7523407519981944871)
+  - [【HarmonyOS】富文本编辑器RichEditor详解](https://juejin.cn/post/7523255902439620662)
