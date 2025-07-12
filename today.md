@@ -7474,3 +7474,21 @@
   - [HDC Utils, 一个操作 HDC 的 python lib, 支持通过 adb 命令查询对应 hdc 命令](https://developer.huawei.com/consumer/cn/blog/topic/03187519681393191)
 - GitHub
   - [Harmonix](https://github.com/hackeris/Harmonix)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [AI 辅助构图功能增强，华为 Pura80 系列手机获鸿蒙 HarmonyOS NEXT 5.1.0.128 升级](https://www.ithome.com/0/867/424.htm)
+- 鸿蒙官网
+  - [鸿蒙中获取全局信息的时机?](https://developer.huawei.com/consumer/cn/blog/topic/03187659959076296)
+  - [鸿蒙next，鸿蒙中访问拦截处理, 如何处理安全问题?](https://developer.huawei.com/consumer/cn/blog/topic/03187653617830294)
+  - [教培行业首发！腾讯云 X 咕泡科技 AI 实训 CDE 平台正式落地](https://developer.huawei.com/consumer/cn/blog/topic/03187642552377201)
+  - [音频录制](https://developer.huawei.com/consumer/cn/blog/topic/03187636054476176)
+  - [华为地图JSAPI空白页/加载失败解决方案：ngrok+Python+APIKey配置全流程避坑指南](https://developer.huawei.com/consumer/cn/blog/topic/03187625592008199)
+  - [音频播放_avPlayer](https://developer.huawei.com/consumer/cn/blog/topic/03187621560984198)
+  - [文件下载](https://developer.huawei.com/consumer/cn/blog/topic/03187619488671201)
+  - [HarmonyOS应用开发补充学习材料 #快速入门鸿蒙应用开发 #HarmonyOS零基础 #学习资源汇总](https://developer.huawei.com/consumer/cn/blog/topic/03187617914255200)
+  - [鸿蒙系统内核层的微内核架构](https://developer.huawei.com/consumer/cn/blog/topic/03187617156541199)
+  - [鸿蒙系统的系统架构](https://developer.huawei.com/consumer/cn/blog/topic/03187616642455197)
+  - [HarmonyOS AI辅助编程工具（CodeGenie）报错分析](https://developer.huawei.com/consumer/cn/blog/topic/03187609233843175)
+- 掘金社区
+  - [【HarmonyOS 5】鸿蒙中自定义弹框OpenCustomDialog、CustomDialog与DialogHub的区别详解](https://juejin.cn/post/7525632445790715930)
+- 开源中国
+  - [解码鸿蒙生态及核心技术 + 2025 HarmonyOS 创新赛，携手共创万物互联新未来](https://my.oschina.net/u/3859945/blog/18684360)
