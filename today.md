@@ -7492,3 +7492,8 @@
   - [【HarmonyOS 5】鸿蒙中自定义弹框OpenCustomDialog、CustomDialog与DialogHub的区别详解](https://juejin.cn/post/7525632445790715930)
 - 开源中国
   - [解码鸿蒙生态及核心技术 + 2025 HarmonyOS 创新赛，携手共创万物互联新未来](https://my.oschina.net/u/3859945/blog/18684360)
+- 鸿蒙官网
+  - [HarmonyOS组件/模板集成创新活动-元服务小云体重管理引入案例](https://developer.huawei.com/consumer/cn/blog/topic/03187781524029180)
+  - [程序在计算机中如何运行？——写给编程初学者的指南](https://developer.huawei.com/consumer/cn/blog/topic/03187743942728204)
+  - [V1装饰器和V2装饰器：](https://developer.huawei.com/consumer/cn/blog/topic/03187736329428203)
+  - [鸿蒙中首选项通过什么方式存储？存在什么地方？](https://developer.huawei.com/consumer/cn/blog/topic/03187726363745178)
