@@ -7524,3 +7524,33 @@
   - [HarmonyOS组件/模板集成创新活动-元服务小云体重管理引入案例](https://developer.huawei.com/consumer/cn/blog/topic/03187781524029180)
 - 掘金社区
   - [鸿蒙开发：一键更新，让应用无需提交应用市场即可下载安装](https://juejin.cn/post/7526541171012255778)
+- 51CTO
+  - [【HarmonyOS】元服务入门详解 （一）](https://ost.51cto.com/posts/36131)
+  - [鸿蒙的动态渐变背景实现](https://ost.51cto.com/posts/36129)
+  - [跟老卫学HarmonyOS开发：ArkTS关系型数据库开发](https://ost.51cto.com/posts/36127)
+  - [详解鸿蒙开发中的端云一体化](https://ost.51cto.com/posts/36124)
+- 鸿蒙官网
+  - [基于UniappX的多端兼容自定义弹窗实现方案](https://developer.huawei.com/consumer/cn/blog/topic/03187958056937208)
+  - [HarmonyOS的一些思考](https://developer.huawei.com/consumer/cn/blog/topic/03187923957280212)
+  - [HarmonyOS DevEco Studio 小技巧 - 鸿蒙单向数据流](https://developer.huawei.com/consumer/cn/blog/topic/03187922913281197)
+  - [java for循环](https://developer.huawei.com/consumer/cn/blog/topic/03187915995395312)
+  - [java](https://developer.huawei.com/consumer/cn/blog/topic/03187915934614211)
+  - [鸿蒙中，访问拦截处理, 如果处理安全问题?=》](https://developer.huawei.com/consumer/cn/blog/topic/03187913553126207)
+  - [应用APL的等级有哪些?](https://developer.huawei.com/consumer/cn/blog/topic/03187913172098195)
+  - [Flutter调用鸿蒙原生相机及相册](https://developer.huawei.com/consumer/cn/blog/topic/03187898766068194)
+  - [ArkTS_V2装饰器_Link效果实现指南](https://developer.huawei.com/consumer/cn/blog/topic/03187898545515193)
+  - [HarmonyOS AI辅助编程工具（CodeGenie）代码测试](https://developer.huawei.com/consumer/cn/blog/topic/03187892638576192)
+  - [跟老卫学HarmonyOS开发：ArkTS关系型数据库开发](https://developer.huawei.com/consumer/cn/blog/topic/03187886815486191)
+  - [保存网络图片到相册](https://developer.huawei.com/consumer/cn/blog/topic/03187885138606189)
+  - [鸿蒙开发：一键更新，让应用无需提交应用市场即可下载安装](https://developer.huawei.com/consumer/cn/blog/topic/03187879825981188)
+  - [ArkTS Web组件隐藏H5页面元素完全指南](https://developer.huawei.com/consumer/cn/blog/topic/03187867889353187)
+  - [鸿蒙hashmap转uint8array](https://developer.huawei.com/consumer/cn/blog/topic/03187867834072306)
+  - [鸿蒙系统键盘弹出UI适配技术文档](https://developer.huawei.com/consumer/cn/blog/topic/03187867656206186)
+  - [鸿蒙系统二维码生成与相册存储技术文档](https://developer.huawei.com/consumer/cn/blog/topic/03187867474701305)
+  - [鸿蒙如何实现键盘避让](https://developer.huawei.com/consumer/cn/blog/topic/03187867365523185)
+  - [内存泄漏（Memory Leak）](https://developer.huawei.com/consumer/cn/blog/topic/03187867129507304)
+- 开源中国
+  - [飞书开源“RTV”富文本组件](https://www.oschina.net/news/360299)
+- 掘金社区
+  - [【HarmonyOS】元服务概念详解](https://juejin.cn/post/7526825489341726747)
+  - [【HarmonyOS】元服务入门详解 （一）](https://juejin.cn/post/7526821868868681778)
