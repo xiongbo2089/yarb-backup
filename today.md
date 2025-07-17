@@ -7586,3 +7586,21 @@
 - 掘金社区
   - [【HarmonyOS】ArkUI-X 跨平台框架入门详解（一）](https://juejin.cn/post/7527177709924122664)
   - [【HarmonyOS】ArkUI-X一套代码跑多端的跨平台方案概念详解](https://juejin.cn/post/7527154276222763048)
+- 51CTO
+  - [【HarmonyOS Next之旅】HarmonyOS开发基础知识(二)](https://ost.51cto.com/posts/36143)
+  - [【HarmonyOS Next之旅】HarmonyOS开发基础知识(一)](https://ost.51cto.com/posts/36142)
+  - [【HarmonyOS Next之旅】DevEco Studio的安装与环境配置](https://ost.51cto.com/posts/36139)
+- 鸿蒙官网
+  - [鸿蒙应用怎么运行的，代码是怎么运行的](https://developer.huawei.com/consumer/cn/blog/topic/03188088162530214)
+  - [未来智能家居设想，以及衍生功能](https://developer.huawei.com/consumer/cn/blog/topic/03188086162925324)
+  - [全场景智慧生态的一些思考](https://developer.huawei.com/consumer/cn/blog/topic/03188085460534213)
+  - [java数组](https://developer.huawei.com/consumer/cn/blog/topic/03188083941067211)
+  - [java导包](https://developer.huawei.com/consumer/cn/blog/topic/03188083879130323)
+  - [我厌倦了当AI的“包-工头”，现在，我想做它的“创世神”](https://developer.huawei.com/consumer/cn/blog/topic/03188083859701224)
+  - [C#.NET Serilog 结构化日志全解析](https://developer.huawei.com/consumer/cn/blog/topic/03188082270320210)
+  - [Spring中@Component与@Bean核心区别详解](https://developer.huawei.com/consumer/cn/blog/topic/03188082092155209)
+  - [﻿ThinkPHP5.1匹配所有的路由请求](https://developer.huawei.com/consumer/cn/blog/topic/03188081963437212)
+  - [云测试提前定位和解决问题 萤火故事屋上架提前测](https://developer.huawei.com/consumer/cn/blog/topic/03188081381615322)
+  - [Stage应用模型](https://developer.huawei.com/consumer/cn/blog/topic/03188070089759223)
+  - [在ArkTS项目里实现类似Vue.js的插槽功能](https://developer.huawei.com/consumer/cn/blog/topic/03188069552693222)
+  - [鸿蒙数据持久化方案](https://developer.huawei.com/consumer/cn/blog/topic/03188059609409208)
