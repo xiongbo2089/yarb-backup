@@ -7604,3 +7604,21 @@
   - [Stage应用模型](https://developer.huawei.com/consumer/cn/blog/topic/03188070089759223)
   - [在ArkTS项目里实现类似Vue.js的插槽功能](https://developer.huawei.com/consumer/cn/blog/topic/03188069552693222)
   - [鸿蒙数据持久化方案](https://developer.huawei.com/consumer/cn/blog/topic/03188059609409208)
+- 鸿蒙官网
+  - [应用分身](https://developer.huawei.com/consumer/cn/blog/topic/03188212224095327)
+  - [java数组](https://developer.huawei.com/consumer/cn/blog/topic/03188171694773217)
+  - [java导包](https://developer.huawei.com/consumer/cn/blog/topic/03188171582859225)
+  - [Docker极速部署Java Web应用指南](https://developer.huawei.com/consumer/cn/blog/topic/03188170826598213)
+  - [Ubuntu快速安装phpMyAdmin指南](https://developer.huawei.com/consumer/cn/blog/topic/03188170689746216)
+  - [Java学到什么程度才能叫精通？](https://developer.huawei.com/consumer/cn/blog/topic/03188170448477326)
+  - [云数据库报错: schema parse fail or objectTypeName error](https://developer.huawei.com/consumer/cn/blog/topic/03188168332173212)
+  - [HarmonyOS AI辅助编程工具（CodeGenie）代码智能解读](https://developer.huawei.com/consumer/cn/blog/topic/03188153477621215)
+  - [如何创建智能插件](https://developer.huawei.com/consumer/cn/blog/topic/03188132230403325)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [虽迟但到：华为鸿蒙 HarmonyOS 5 系统负一屏更新 15.0.15.330 版本，12306 行程信息服务回归](https://www.ithome.com/0/868/773.htm)
+- 掘金社区
+  - [鸿蒙开发笔记-21-ArkUI：按钮、单选框、切换按钮、进度条](https://juejin.cn/post/7527871994340687891)
+  - [【HarmonyOS组件/模板集成创新活动-如何高效开发鸿蒙应用 (鸿社圈子)】](https://juejin.cn/post/7527648895729844265)
+- 51CTO
+  - [【HarmonyOS组件/模板集成创新活动-如何高效开发鸿蒙应用 (鸿社圈子)】](https://ost.51cto.com/posts/36158)
+  - [华为鸿蒙系统 手机音量加键 可以在游戏中作为自定义按键吗？](https://ost.51cto.com/posts/36156)
