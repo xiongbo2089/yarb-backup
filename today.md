@@ -7622,3 +7622,16 @@
 - 51CTO
   - [【HarmonyOS组件/模板集成创新活动-如何高效开发鸿蒙应用 (鸿社圈子)】](https://ost.51cto.com/posts/36158)
   - [华为鸿蒙系统 手机音量加键 可以在游戏中作为自定义按键吗？](https://ost.51cto.com/posts/36156)
+- 鸿蒙官网
+  - [红框里的形状如何用前端实现？](https://developer.huawei.com/consumer/cn/blog/topic/03188262514789329)
+  - [SOFABoot子模块动态刷新Nacos配置指南](https://developer.huawei.com/consumer/cn/blog/topic/03188262337481222)
+  - [小程序云开发开源联邦化实践](https://developer.huawei.com/consumer/cn/blog/topic/03188262091366216)
+  - [[架构设计] Prompt 的终局：从“指令集”到“意识生态系统”的范式革命](https://developer.huawei.com/consumer/cn/blog/topic/03188253797422215)
+  - [ArkTS 组件复用方法与最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03188240325299219)
+  - [鸿蒙操作系统中的"墓碑机制"（Tombstone Mechanism）](https://developer.huawei.com/consumer/cn/blog/topic/03188239598929328)
+  - [分享一下实际开发中遇到的一些问题](https://developer.huawei.com/consumer/cn/blog/topic/03188233933444226)
+  - [应用分身](https://developer.huawei.com/consumer/cn/blog/topic/03188212224095327)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [WIKO Hi 畅享 80 Pro 开售：1599 元起，昆仑品质加持更有 365 天只换不修](https://www.ithome.com/0/869/049.htm)
+- 掘金社区
+  - [【HarmonyOS NEXT】解决Repeat复用导致Image加载图片展示的是上一张图片的问题](https://juejin.cn/post/7527948253083746346)
