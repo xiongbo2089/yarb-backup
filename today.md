@@ -7635,3 +7635,5 @@
   - [WIKO Hi 畅享 80 Pro 开售：1599 元起，昆仑品质加持更有 365 天只换不修](https://www.ithome.com/0/869/049.htm)
 - 掘金社区
   - [【HarmonyOS NEXT】解决Repeat复用导致Image加载图片展示的是上一张图片的问题](https://juejin.cn/post/7527948253083746346)
+- 鸿蒙官网
+  - [鸿蒙系统使用了哪些技术来提高系统性能？](https://developer.huawei.com/consumer/cn/blog/topic/03188327761849331)
