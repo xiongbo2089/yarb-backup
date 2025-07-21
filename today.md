@@ -7637,3 +7637,14 @@
   - [【HarmonyOS NEXT】解决Repeat复用导致Image加载图片展示的是上一张图片的问题](https://juejin.cn/post/7527948253083746346)
 - 鸿蒙官网
   - [鸿蒙系统使用了哪些技术来提高系统性能？](https://developer.huawei.com/consumer/cn/blog/topic/03188327761849331)
+- 鸿蒙官网
+  - [计算机体系结构的发展历程](https://developer.huawei.com/consumer/cn/blog/topic/03188476478663230)
+  - [计算机体系结构（Computer Architecture）](https://developer.huawei.com/consumer/cn/blog/topic/03188474921134336)
+  - [DFX是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03188437149420220)
+  - [【HarmonyOS】ArkUI-X 跨平台框架入门详解（一）](https://developer.huawei.com/consumer/cn/blog/topic/03188427190138219)
+  - [​从“指令木偶”到“生命系统”：AI Agent架构的范式革命](https://developer.huawei.com/consumer/cn/blog/topic/03188426932120335)
+  - [【HarmonyOS】元服务入门详解 （一）](https://developer.huawei.com/consumer/cn/blog/topic/03188425556480334)
+  - [应用和元服务终于通过审核上线了：焓湿互查](https://developer.huawei.com/consumer/cn/blog/topic/03188423497409333)
+  - [Laravel 框架NOAUTH Authentication required 错误解决方案-优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03188415033739218)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为手机 / 平板 7 月底前陆续升级鸿蒙 HarmonyOS 5.1 系统](https://www.ithome.com/0/869/484.htm)
