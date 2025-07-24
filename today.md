@@ -7708,3 +7708,31 @@
   - [【HarmonyOS 5】鸿蒙App，Application，Ability以及页面和组件生命周期函数详解](https://juejin.cn/post/7529538866181652526)
 - 开源中国
   - [鸿蒙 NEXT 实战：构建安全高效的在线支付应用](https://www.oschina.net/news/361621)
+- 鸿蒙官网
+  - [如何配置DevEco Studio的代理](https://developer.huawei.com/consumer/cn/blog/topic/03188732905605005)
+  - [变量装饰器的使用小技巧和场景](https://developer.huawei.com/consumer/cn/blog/topic/03188732793995234)
+  - [Too many open files报错以及WiredTiger 存储引擎与 MongoDB 的关系及原理详解-以及早期的MMAPv1详解-卓伊凡|阿肯|糖果|贝贝|莉莉](https://developer.huawei.com/consumer/cn/blog/topic/03188697963495001)
+  - [【HarmonyOS】ArkTS语法详细解析](https://developer.huawei.com/consumer/cn/blog/topic/03188695636985007)
+  - [HarmonyOS手动签名管理](https://developer.huawei.com/consumer/cn/blog/topic/03188692348317006)
+  - [关于HarmonyOS系统问题改进建议](https://developer.huawei.com/consumer/cn/blog/topic/03188689335170004)
+  - [relationalStore关系型数据库封装](https://developer.huawei.com/consumer/cn/blog/topic/03188687319764003)
+  - [关于穿戴设备（手表）跳转页面失败的原因](https://developer.huawei.com/consumer/cn/blog/topic/03188685255431241)
+  - [Markdown使用手册](https://developer.huawei.com/consumer/cn/blog/topic/03188680843815240)
+  - [HarmonyOS创建应用静态快捷方式](https://developer.huawei.com/consumer/cn/blog/topic/03188667987538003)
+  - [“创生”而非“扮演”：Zyantine项目中的AI人格工程化实践](https://developer.huawei.com/consumer/cn/blog/topic/03188666206488239)
+  - [bigint字段解析丢失处理](https://developer.huawei.com/consumer/cn/blog/topic/03188666194047002)
+  - [HarmonyOS自动化框架Hypium之元服务自动化测试最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03188663183013002)
+  - [我该怎么做才能跳出这个死循环？](https://developer.huawei.com/consumer/cn/blog/topic/03188661349942232)
+  - [【HarmonyOS Next】鸿蒙开发主题服务端下发颜色，图片动态变色（使用svg）](https://developer.huawei.com/consumer/cn/blog/topic/03188657794431001)
+  - [ webview加载url缓慢的优化方法](https://developer.huawei.com/consumer/cn/blog/topic/03188652935107001)
+  - [针对API18，一些写法即将废弃，新写法应该如何优化？（一、getContext的新用法）](https://developer.huawei.com/consumer/cn/blog/topic/03188648694547230)
+  - [指令集有哪些？指令集的作用是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03188644431334229)
+  - [科技云报到：算力即国力，智算基础设施成AI下一主战场](https://developer.huawei.com/consumer/cn/blog/topic/03188643787899228)
+- 开源中国
+  - [蜻蜓 FM 开源 SmartXPlayer 音频播放组件](https://www.oschina.net/news/362049)
+- 掘金社区
+  - [【HarmonyOS】ArkTS语法详细解析](https://juejin.cn/post/7530088591395504170)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙版微信进阶指南：这些功能其实都已经上线，速来体验！](https://www.ithome.com/0/870/210.htm)
+  - [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 新增支持 Mate XT、Pura 70 Pro / X 机型](https://www.ithome.com/0/870/200.htm)
+  - [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 发布，Game Service Kit 游戏近场快传支持碰一碰模式传输资源包](https://www.ithome.com/0/870/115.htm)
