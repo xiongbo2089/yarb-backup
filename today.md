@@ -7763,3 +7763,20 @@
   - [变量装饰器的使用小技巧和场景](https://developer.huawei.com/consumer/cn/blog/topic/03188732793995234)
 - 开源中国
   - [开源鸿蒙机器人操作系统 M-Robots OS 正式开源](https://www.oschina.net/news/362103)
+- 鸿蒙官网
+  - [HarmonyOS Next 手动获取权限，手动拉起弹窗授权，第一次授权取消后二次拉起系统弹窗授权](https://developer.huawei.com/consumer/cn/blog/topic/03188903918898012)
+  - [number类型丢失精度](https://developer.huawei.com/consumer/cn/blog/topic/03188872164533011)
+  - [HarmonyOS Next】鸿蒙开发无需重启页面，切换自定义深色模式图片和字体颜色](https://developer.huawei.com/consumer/cn/blog/topic/03188859856369013)
+  - [精准快速定位UI代码块【ArkUI Inspector】](https://developer.huawei.com/consumer/cn/blog/topic/03188851579635008)
+  - [关于liet手表开发板网络连接](https://developer.huawei.com/consumer/cn/blog/topic/03188850535747012)
+  - [选择音视频通话SDK时应重点关注哪些指标？](https://developer.huawei.com/consumer/cn/blog/topic/03188848099234007)
+  - [HarmonyOS - UIObserver无感监](https://developer.huawei.com/consumer/cn/blog/topic/03188845551404016)
+  - [使用attributeModifier方式给转场动画赋值时，转场动画执行结束时onFinish没有触发问题规避方法](https://developer.huawei.com/consumer/cn/blog/topic/03188844051328244)
+  - [鸿蒙环境RN 下使用截屏不生效](https://developer.huawei.com/consumer/cn/blog/topic/03188838718628243)
+  - [AES算法的CBC模式加密NoPadding加密非16位时程序报错问题](https://developer.huawei.com/consumer/cn/blog/topic/03188837637093242)
+  - [鸿蒙沙箱浏览器 - SandboxFinder](https://developer.huawei.com/consumer/cn/blog/topic/03188835555985006)
+  - [【HarmonyOS】鸿蒙应用开发中常用的三方库介绍和使用示例](https://developer.huawei.com/consumer/cn/blog/topic/03188834270070011)
+  - [鸿蒙帧动画](https://developer.huawei.com/consumer/cn/blog/topic/03188820761205005)
+  - [ArkTs：现代前端开发的类型化实践](https://developer.huawei.com/consumer/cn/blog/topic/03188818684365004)
+- 掘金社区
+  - [【HarmonyOS】鸿蒙应用开发中常用的三方库介绍和使用示例](https://juejin.cn/post/7530573788469624884)
