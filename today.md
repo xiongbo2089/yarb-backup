@@ -7780,3 +7780,18 @@
   - [ArkTs：现代前端开发的类型化实践](https://developer.huawei.com/consumer/cn/blog/topic/03188818684365004)
 - 掘金社区
   - [【HarmonyOS】鸿蒙应用开发中常用的三方库介绍和使用示例](https://juejin.cn/post/7530573788469624884)
+- GitHub
+  - [ACE.BaseMod](https://github.com/ACEmulator/ACE.BaseMod)
+- 鸿蒙官网
+  - [图片和视频保存至图库](https://developer.huawei.com/consumer/cn/blog/topic/03188961401609004)
+  - [鸿蒙代理抓包指南](https://developer.huawei.com/consumer/cn/blog/topic/03188930111154001)
+  - [跨应用跳转流程总结](https://developer.huawei.com/consumer/cn/blog/topic/03188928905014019)
+  - [鸿蒙智能居家养老系统构思（续一） —— 核心子系统详细构思](https://developer.huawei.com/consumer/cn/blog/topic/03188925093296018)
+  - [Repeat复用导致Image加载图片展示的是上一张图片](https://developer.huawei.com/consumer/cn/blog/topic/03188922525047016)
+  - [低功耗蓝牙使用及如何获取蓝牙设备真实deviceId](https://developer.huawei.com/consumer/cn/blog/topic/03188921252309017)
+  - [AvPlayer播放音频](https://developer.huawei.com/consumer/cn/blog/topic/03188919387316015)
+  - [基于鸿蒙rcp进行网络请求封装](https://developer.huawei.com/consumer/cn/blog/topic/03188918923118014)
+  - [运行模拟器的时候遇到ErrorCode:00801002 （磁盘空间低于启动要求，）](https://developer.huawei.com/consumer/cn/blog/topic/03188917513015016)
+  - [屏幕方向控制实践](https://developer.huawei.com/consumer/cn/blog/topic/03188910498432013)
+  - [鸿蒙UIAbility开发指南](https://developer.huawei.com/consumer/cn/blog/topic/03188908240815015)
+  - [HarmonyOS Next 手动获取权限，手动拉起弹窗授权，第一次授权取消后二次拉起系统弹窗授权](https://developer.huawei.com/consumer/cn/blog/topic/03188903918898012)
