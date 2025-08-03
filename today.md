@@ -7935,3 +7935,9 @@
   - [鸿蒙UI设计利器：borderRadius()属性全方位解析](https://developer.huawei.com/consumer/cn/blog/topic/03189447013689037)
   - [List与Grid混合布局：构建高性能复杂页面的艺术](https://developer.huawei.com/consumer/cn/blog/topic/03189447012080050)
   - [线性布局中的justifyContent属性详解](https://developer.huawei.com/consumer/cn/blog/topic/03189446987468049)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为宣布腾讯《英雄联盟手游》鸿蒙版 8 月 6 日开启万人抢先体验，账号无缝继承、资产数据互通](https://www.ithome.com/0/872/595.htm)
+- 鸿蒙官网
+  - [JAVA高级开发必备·卓伊凡详细JDK、JRE、JVM与Java生态深度解析-形象比喻系统理解-优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03189562936929062)
+  - [AIPPT工具 | 教程：有哪些AI工具可以让我们制作PPT更方便？](https://developer.huawei.com/consumer/cn/blog/topic/03189552737936075)
+  - [鸿蒙智能居家养老系统构思（续二） —— 适老化烹饪中心详细构思](https://developer.huawei.com/consumer/cn/blog/topic/03189531884076060)
