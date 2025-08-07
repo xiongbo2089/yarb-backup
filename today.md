@@ -7971,3 +7971,34 @@
   - [生成式人工智能服务上线备案（大模型备案）材料清单详解](https://developer.huawei.com/consumer/cn/blog/topic/03189773190358072)
 - 51CTO
   - [HarmonyOS一杯冰咖啡 —— MVVM?](https://ost.51cto.com/posts/36257)
+- 博客园
+  - [餐饮服务与软件创新的融合：解析海底捞 APP 的 Flutter 鸿蒙开发之路 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/19023040)
+- GitHub
+  - [harmony-ts](https://github.com/zacharytamas/harmony-ts)
+- 鸿蒙官网
+  - [鸿蒙开发中context总结](https://developer.huawei.com/consumer/cn/blog/topic/03189944134463082)
+  - [鸿蒙资源加载深度解析：$r与$rawfile的性能差异与最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03189943780559081)
+  - [iOS应用开发核心知识总结](https://developer.huawei.com/consumer/cn/blog/topic/03189943531585092)
+  - [真机无线调试](https://developer.huawei.com/consumer/cn/blog/topic/03189943238524083)
+  - [如何使用全局loading加载弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03189942905882091)
+  - [鸿蒙三方存储框架@tencent/mmkv的封装](https://developer.huawei.com/consumer/cn/blog/topic/03189941775489090)
+  - [ArkUI 多种布局方式](https://developer.huawei.com/consumer/cn/blog/topic/03189941407336062)
+  - [搭建网络请求框架](https://developer.huawei.com/consumer/cn/blog/topic/03189941269332080)
+  - [一个经典的小例子](https://developer.huawei.com/consumer/cn/blog/topic/03189940367466079)
+  - [鸿蒙APP权限管理](https://developer.huawei.com/consumer/cn/blog/topic/03189905035888089)
+  - [AppstorageV2用法](https://developer.huawei.com/consumer/cn/blog/topic/03189889181908080)
+  - [人脸识别技术应用备案高频驳回点与后续维护全解析](https://developer.huawei.com/consumer/cn/blog/topic/03189881917799079)
+  - [上传文件](https://developer.huawei.com/consumer/cn/blog/topic/03189880957601088)
+  - [程序包使用](https://developer.huawei.com/consumer/cn/blog/topic/03189879951849078)
+  - [翻页动画的开发思路](https://developer.huawei.com/consumer/cn/blog/topic/03189876766750087)
+  - [大模型备案攻略—2025全网最新最详细解读版](https://developer.huawei.com/consumer/cn/blog/topic/03189873527396078)
+  - [如何在一个native项目创建多个native模块](https://developer.huawei.com/consumer/cn/blog/topic/03189861613377061)
+  - [鸿蒙APMS：开箱即用，崩溃卡顿耗电秒级捕捉](https://developer.huawei.com/consumer/cn/blog/topic/03189856130854076)
+  - [高德地理逆编码精准适配](https://developer.huawei.com/consumer/cn/blog/topic/03189853413916060)
+  - [鸿蒙网络编程系列61-仓颉版基于TCP实现最简单的HTTP服务器](https://developer.huawei.com/consumer/cn/blog/topic/03189853272340059)
+  - [高德定位SDK高效集成与实战指南](https://developer.huawei.com/consumer/cn/blog/topic/03189853087767077)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为推出鸿蒙应用开发者激励计划 2025，现金激励超亿元](https://www.ithome.com/0/873/624.htm)
+- 掘金社区
+  - [HarmonyOS 基于Network Kit封装的网络请求工具](https://juejin.cn/post/7535355162316996662)
+  - [HarmonyOS5 源码分析 —— ‘状态管理’如何管理的（1）？](https://juejin.cn/post/7535372761540132891)
