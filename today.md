@@ -8034,3 +8034,26 @@
   - [HarmonyOS Next 全兼容，三端统一的路由跳转方案]()
 - 掘金社区
   - [探秘 HarmonyOS_samples：开发者的鸿蒙生态宝藏库](https://juejin.cn/post/7535678762089775142)
+- 鸿蒙官网
+  - [counter()组件小例子](https://developer.huawei.com/consumer/cn/blog/topic/03190062249616099)
+  - [实现点击按钮控制台输出](https://developer.huawei.com/consumer/cn/blog/topic/03190061880873094)
+  - [手把手教你如何部署一个元服务上架](https://developer.huawei.com/consumer/cn/blog/topic/03190054265187069)
+  - [Python 数据分析高效处理技巧](https://developer.huawei.com/consumer/cn/blog/topic/03190053560789098)
+  - [鸿蒙平面仿三维直线运动动画（平移+缩放+加速度）](https://developer.huawei.com/consumer/cn/blog/topic/03190053184902098)
+  - [咕泡8.8品牌日 | AI革新力，品牌再升级](https://developer.huawei.com/consumer/cn/blog/topic/03190051629695092)
+  - [List列表二级联动](https://developer.huawei.com/consumer/cn/blog/topic/03190051260591066)
+  - [日常问题记录(一)](https://developer.huawei.com/consumer/cn/blog/topic/03190047648217091)
+  - [ArKTS：Record](https://developer.huawei.com/consumer/cn/blog/topic/03190046836581096)
+  - [算法备案新手攻略——2025全网最新最详细解读版](https://developer.huawei.com/consumer/cn/blog/topic/03190037764430095)
+  - [关于全局Dialog的一些封装使用](https://developer.huawei.com/consumer/cn/blog/topic/03190036071017065)
+  - [六类注定烂尾的甲方软件外包必看！这类甲方不要理-优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03190035448940097)
+  - [鸿蒙应用特性剖析](https://developer.huawei.com/consumer/cn/blog/topic/03190034419245093)
+  - [鸿蒙 Flex 布局中 flexShrink 属性](https://developer.huawei.com/consumer/cn/blog/topic/03190030977282096)
+  - [鸿蒙如何上传图片？](https://developer.huawei.com/consumer/cn/blog/topic/03190029866653092)
+- 博客园
+  - [HarmonyOS SDK助力讯飞听见App能力建设 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19028988)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [腾讯《QQ 飞车手游》华为鸿蒙正式服本月上线，将进行最后一次体验服测试](https://www.ithome.com/0/874/148.htm)
+  - [华为月度 / 季度安全更新机型列表公布，Mate 40、P50 系列离场](https://www.ithome.com/0/874/090.htm)
+  - [华为 Mate X6 系列折叠屏手机获鸿蒙 HarmonyOS 4.3.0.173 升级，升级多色温白平衡色彩还原技术](https://www.ithome.com/0/874/084.htm)
+  - [倒计时 3 天！华为鸿蒙公开课报名最后召集，十大生态伙伴体验区玩法加码](https://www.ithome.com/0/874/031.htm)
