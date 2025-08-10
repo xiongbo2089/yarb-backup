@@ -8057,3 +8057,9 @@
   - [华为月度 / 季度安全更新机型列表公布，Mate 40、P50 系列离场](https://www.ithome.com/0/874/090.htm)
   - [华为 Mate X6 系列折叠屏手机获鸿蒙 HarmonyOS 4.3.0.173 升级，升级多色温白平衡色彩还原技术](https://www.ithome.com/0/874/084.htm)
   - [倒计时 3 天！华为鸿蒙公开课报名最后召集，十大生态伙伴体验区玩法加码](https://www.ithome.com/0/874/031.htm)
+- 鸿蒙官网
+  - [《HarmonyOS NEXT：当代码拥有了多设备的灵魂》](https://developer.huawei.com/consumer/cn/blog/topic/03190125812191095)
+- 51CTO
+  - [#HarmonyOS NEXT体验官#钢琴和弦小工具（二）布局思路](https://ost.51cto.com/posts/29657)
+  - [#HarmonyOS NEXT体验官#钢琴和弦小工具（一）乐理和功能简介](https://ost.51cto.com/posts/29655)
+  - [解锁鸿蒙开发新可能：HarmonyOS_Codelabs 助你快速成长](https://ost.51cto.com/posts/36291)
