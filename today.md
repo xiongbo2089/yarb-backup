@@ -8063,3 +8063,12 @@
   - [#HarmonyOS NEXT体验官#钢琴和弦小工具（二）布局思路](https://ost.51cto.com/posts/29657)
   - [#HarmonyOS NEXT体验官#钢琴和弦小工具（一）乐理和功能简介](https://ost.51cto.com/posts/29655)
   - [解锁鸿蒙开发新可能：HarmonyOS_Codelabs 助你快速成长](https://ost.51cto.com/posts/36291)
+- 鸿蒙官网
+  - [Native项目怎么加载本地编译好的so？](https://developer.huawei.com/consumer/cn/blog/topic/03190290207816103)
+  - [高德地图（HarmonyOS）](https://developer.huawei.com/consumer/cn/blog/topic/03190287343142106)
+  - [counter()组件](https://developer.huawei.com/consumer/cn/blog/topic/03190247357596104)
+  - [鸿蒙版微信分开发步骤与第一次开发易踩坑点](https://developer.huawei.com/consumer/cn/blog/topic/03190243063030071)
+  - [如何配置和自动切换生产环境和测试环境参数](https://developer.huawei.com/consumer/cn/blog/topic/03190231693663101)
+  - [Lottie_Component：@ohos/lottie 封装为 @ComponentV2 组件](https://developer.huawei.com/consumer/cn/blog/topic/03190226803249102)
+- 掘金社区
+  - [HarmonyOS5 源码分析 —— 生命周期与状态管理（2）](https://juejin.cn/post/7536228418829680649)
