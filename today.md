@@ -8126,3 +8126,27 @@
   - [华为 nova 14 Ultra 手机获鸿蒙 HarmonyOS 5.1.0.128 升级，小艺导航条可快捷开启定向拾音等功能](https://www.ithome.com/0/874/869.htm)
 - 掘金社区
   - [鸿蒙纪·Flutter卷#02 | 已有 Flutter 项目鸿蒙化 · 3.27.4 版](https://juejin.cn/post/7537354852046176256)
+- 鸿蒙官网
+  - [HarmonyOS监听侧滑返回事件](https://developer.huawei.com/consumer/cn/blog/topic/03190548662881121)
+  - [【图片】将资源文件转为image.PixelMap对像](https://developer.huawei.com/consumer/cn/blog/topic/03190539615764120)
+  - [【图片】【存储】将image.PixelMap对像存沙盒文件](https://developer.huawei.com/consumer/cn/blog/topic/03190538585433120)
+  - [api分类](https://developer.huawei.com/consumer/cn/blog/topic/03190504904619119)
+  - [纯血鸿蒙App跳转到支付宝小程序](https://developer.huawei.com/consumer/cn/blog/topic/03190494988887085)
+  - [技术分享 | 使用Golang开发鸿蒙模块](https://developer.huawei.com/consumer/cn/blog/topic/03190490305758118)
+  - [自定义线性进度条--颜色渐变](https://developer.huawei.com/consumer/cn/blog/topic/03190490265907122)
+  - [HarmonyOS +image显示https  SSL证书过期的图片](https://developer.huawei.com/consumer/cn/blog/topic/03190486026381084)
+  - [开发者技术支持-TextPicker控件适配时间段区间选择](https://developer.huawei.com/consumer/cn/blog/topic/03190485729317117)
+  - [花式拉起花瓣地图](https://developer.huawei.com/consumer/cn/blog/topic/03190485680390083)
+  - [大模型备案要点一次过【附材料清单详解】](https://developer.huawei.com/consumer/cn/blog/topic/03190482015511082)
+  - [LDP FLY EFB 系统信息页面技术实现解析](https://developer.huawei.com/consumer/cn/blog/topic/03190478149802115)
+  - [LDP FLY EFB 应用实现技术解析](https://developer.huawei.com/consumer/cn/blog/topic/03190477031754116)
+  - [开发者技术支持-RN下Sample工程无法打包](https://developer.huawei.com/consumer/cn/blog/topic/03190475726379120)
+  - [国际化实现](https://developer.huawei.com/consumer/cn/blog/topic/03190466277188115)
+  - [HarmonyOS跨层级组件状态双向同步使用 @Provide 与 @Consume 打破组件传参链](https://developer.huawei.com/consumer/cn/blog/topic/03190466171863081)
+  - [鸿蒙Flutter实战：13-鸿蒙应用打包上架流程](https://developer.huawei.com/consumer/cn/blog/topic/03190461201997114)
+  - [HarmonyOS AI辅助编程工具（CodeGenie）页面生成](https://developer.huawei.com/consumer/cn/blog/topic/03190459945046118)
+  - [【AI】【文档扫描】DocumentScanner指定图片扫描](https://developer.huawei.com/consumer/cn/blog/topic/03190457032366080)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 5 应用市场新增 App 内购项目显示，支持跳转购买会员](https://www.ithome.com/0/875/165.htm)
+- 开源中国
+  - [深开鸿携手 Arm 成立开源鸿蒙 Arm SIG 组](https://www.oschina.net/news/366028)
