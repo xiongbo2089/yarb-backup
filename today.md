@@ -8178,3 +8178,24 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [“对齐”安卓 / iOS 版本：微信鸿蒙版 App 获 1.0.9.37 版本邀测升级，一些已知问题的修复](https://www.ithome.com/0/875/464.htm)
   - [修复了部分场景的异常问题，华为 MateBook Pro 笔记本获 HarmonyOS 5.1 版本 B320SP16 升级](https://www.ithome.com/0/875/456.htm)
+- 鸿蒙官网
+  - [【ArkUI】【通用】获取组件在屏幕上的坐标（监听onAreaChange方式）](https://developer.huawei.com/consumer/cn/blog/topic/03190680383965137)
+  - [【ArkUI】【通用】获取组件在屏幕上的坐标（调用getRectangleById方式）](https://developer.huawei.com/consumer/cn/blog/topic/03190678779288134)
+  - [Rating--评级组件的使用](https://developer.huawei.com/consumer/cn/blog/topic/03190675377373097)
+  - [Java Spring框架技术栈选和最新版本及发展史详解（截至2025年8月）-优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03190673985330131)
+  - [UniApp 小程序 鸿蒙SDK集成实现热更新](https://developer.huawei.com/consumer/cn/blog/topic/03190661453000134)
+  - [开发者技术支持-使用promptAction.openCustomDialog()弹出底部translate弹窗时蒙板动画问题](https://developer.huawei.com/consumer/cn/blog/topic/03190660040327132)
+  - [鸿蒙list实现滑动内容定位到中间的功能](https://developer.huawei.com/consumer/cn/blog/topic/03190659302652133)
+  - [窗口屏幕管理封装](https://developer.huawei.com/consumer/cn/blog/topic/03190650052709130)
+  - [大模型登记指南—全网最详细解读版，纯干货快收藏！](https://developer.huawei.com/consumer/cn/blog/topic/03190642691275095)
+  - [鸿蒙系统级跳转](https://developer.huawei.com/consumer/cn/blog/topic/03190638660937131)
+  - [鸿蒙 Swiper 导航指示器（Indicator）](https://developer.huawei.com/consumer/cn/blog/topic/03190637943048129)
+  - [HarmonyOS AI辅助编程工具（CodeGenie）智能问答](https://developer.huawei.com/consumer/cn/blog/topic/03190637058963132)
+  - [几种性能分析的方向及分析工具](https://developer.huawei.com/consumer/cn/blog/topic/03190635779076131)
+  - [smaps比对工具分享](https://developer.huawei.com/consumer/cn/blog/topic/03190633734983094)
+  - [开发者支持--实况窗不能关闭问题](https://developer.huawei.com/consumer/cn/blog/topic/03190632054208130)
+  - [中文文本如何转汉语拼音](https://developer.huawei.com/consumer/cn/blog/topic/03190630639526128)
+- 开源中国
+  - [京东小程序 JS API 仓颉改造实践](https://my.oschina.net/u/4090830/blog/18683569)
+- 掘金社区
+  - [HarmonyOS5 凭什么学鸿蒙 —— Context详解](https://juejin.cn/post/7538750040191729664)
