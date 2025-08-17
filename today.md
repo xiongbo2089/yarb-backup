@@ -8199,3 +8199,15 @@
   - [京东小程序 JS API 仓颉改造实践](https://my.oschina.net/u/4090830/blog/18683569)
 - 掘金社区
   - [HarmonyOS5 凭什么学鸿蒙 —— Context详解](https://juejin.cn/post/7538750040191729664)
+- 51CTO
+  - [干货分享：鸿蒙应用上架详细教程](https://ost.51cto.com/posts/36324)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(四) -＞ 常见组件(二) -＞ swiper](https://ost.51cto.com/posts/36322)
+  - [干货分享：HarmonyOS Next 剪切板能力详解](https://ost.51cto.com/posts/36318)
+  - [干货分享：HarmonyOS Next 如何快速下载网络图片到相册？](https://ost.51cto.com/posts/36317)
+- 鸿蒙官网
+  - [【图片】将沙盒中的图片文件转为image.PixelMap对像](https://developer.huawei.com/consumer/cn/blog/topic/03190804968550137)
+  - [【图片】获取image.PixelMap对像的宽高及转vp](https://developer.huawei.com/consumer/cn/blog/topic/03190803513064136)
+  - [开发者技术支持-如何实现组件截图](https://developer.huawei.com/consumer/cn/blog/topic/03190777549625135)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [2025 第一堂 HarmonyOS 公开课举办：200 多名青年学子沉浸式体验鸿蒙之旅](https://www.ithome.com/0/875/898.htm)
+  - [荣耀 MagicOS 八月升级一览：支持 AI 自动接听、鸿蒙 NEXT 换机克隆等](https://www.ithome.com/0/875/864.htm)
