@@ -8211,3 +8211,12 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [2025 第一堂 HarmonyOS 公开课举办：200 多名青年学子沉浸式体验鸿蒙之旅](https://www.ithome.com/0/875/898.htm)
   - [荣耀 MagicOS 八月升级一览：支持 AI 自动接听、鸿蒙 NEXT 换机克隆等](https://www.ithome.com/0/875/864.htm)
+- 鸿蒙官网
+  - [【图片】【编缉】图片增加水印（通过组件的Overlay方法增加水印）](https://developer.huawei.com/consumer/cn/blog/topic/03190887183970101)
+  - [【图片】【编缉】图片增加水印（直接对image.PixelMap对象增加水印）](https://developer.huawei.com/consumer/cn/blog/topic/03190885993712139)
+  - [开发者技术支持-HarmonyOS-Web组件页面加载失败后加载自定义的失败页面](https://developer.huawei.com/consumer/cn/blog/topic/03190853635116138)
+  - [锁屏误触](https://developer.huawei.com/consumer/cn/blog/topic/03190805234600099)
+  - [【图片】将沙盒中的图片文件转为image.PixelMap对像](https://developer.huawei.com/consumer/cn/blog/topic/03190804968550137)
+  - [【图片】获取image.PixelMap对像的宽高及转vp](https://developer.huawei.com/consumer/cn/blog/topic/03190803513064136)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 HiCar 熄屏显示上线，鸿蒙 HarmonyOS 5.1.0.128 及以上版本支持](https://www.ithome.com/0/875/936.htm)
