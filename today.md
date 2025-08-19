@@ -8220,3 +8220,28 @@
   - [【图片】获取image.PixelMap对像的宽高及转vp](https://developer.huawei.com/consumer/cn/blog/topic/03190803513064136)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 HiCar 熄屏显示上线，鸿蒙 HarmonyOS 5.1.0.128 及以上版本支持](https://www.ithome.com/0/875/936.htm)
+- 51CTO
+  - [干货分享：Harmonyos Next组件式开发中的高效传参技巧](https://ost.51cto.com/posts/36333)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(六) -＞ CSS动画](https://ost.51cto.com/posts/36337)
+  - [【HarmonyOS Next之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(五) -＞ Svg](https://ost.51cto.com/posts/36336)
+- 鸿蒙官网
+  - [【HarmonyOS】应用设置全屏和安全区域详解](https://developer.huawei.com/consumer/cn/blog/topic/03190979953248148)
+  - [【鸿蒙/HarmonyOS NEXT开发】【图片】【编缉】图片增加水印（通过组件的Stack方法增加水印）](https://developer.huawei.com/consumer/cn/blog/topic/03190972991471148)
+  - [【图片】【分享】启动碰一碰分享图片至对方设备相册](https://developer.huawei.com/consumer/cn/blog/topic/03190972254650148)
+  - [复杂项目即时通讯从android 5升级android x后遗症之解决报错#6 java.net.SocketException Software caused connection abort-优雅草卓伊凡|bigniu](https://developer.huawei.com/consumer/cn/blog/topic/03190942772988142)
+  - [图片双指捏合放大以及双击放大](https://developer.huawei.com/consumer/cn/blog/topic/03190925054036141)
+  - [大模型备案材料—《安全评估报告》撰写指南](https://developer.huawei.com/consumer/cn/blog/topic/03190918087801140)
+  - [多实例模式下，UIAbility的实例是如何管理的？](https://developer.huawei.com/consumer/cn/blog/topic/03190917441283141)
+  - [Web网页端即时通讯源码/IM聊天源码RainbowChat-Web](https://developer.huawei.com/consumer/cn/blog/topic/03190910309036140)
+  - [HarmonyOSAI编程DevEco AI辅助编程工具](https://developer.huawei.com/consumer/cn/blog/topic/03190909971328140)
+  - [开发者技术支持-鸿蒙集成TRTC视频直播功能技术方案](https://developer.huawei.com/consumer/cn/blog/topic/03190909511842139)
+  - [开发者技术支持-相机使用黑屏技术经验总结](https://developer.huawei.com/consumer/cn/blog/topic/03190895824212138)
+  - [【图片】【编缉】图片增加水印（通过组件的Overlay方法增加水印）](https://developer.huawei.com/consumer/cn/blog/topic/03190887183970101)
+- 博客园
+  - [汽车之家联合HarmonyOS SDK，深度构建鸿蒙生态体系 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19044378)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 5.1.0.150 版本“悄悄”下放 Pura80 系列手机新版智能遥控 App](https://www.ithome.com/0/876/317.htm)
+  - [华为 Mate 60 / 70 系列等机型获鸿蒙 HarmonyOS 5.1.0.150 升级，图库支持相册排序、图片二维码识别功能](https://www.ithome.com/0/876/315.htm)
+  - [2025“走进华为・第一堂 HarmonyOS 公开课”开讲，他们，是鸿蒙未来的希望](https://www.ithome.com/0/876/139.htm)
+- 掘金社区
+  - [【HarmonyOS】应用设置全屏和安全区域详解](https://juejin.cn/post/7539804716160532522)
