@@ -8275,3 +8275,28 @@
 - 掘金社区
   - [HarmonyOS5 凭什么学鸿蒙—— GetContext](https://juejin.cn/post/7540249639628242978)
   - [【HarmonyOS】应用调用相机功能（扫码，自定义相机，人脸活体检测等）显示黑屏](https://juejin.cn/post/7539825028532518948)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta3 发布，新增应用预加载机制、AI 超帧等功能](https://www.ithome.com/0/876/865.htm)
+- 鸿蒙官网
+  - [【文件】【资源】将rawfile目录下的资源文件拷贝至沙盒目录](https://developer.huawei.com/consumer/cn/blog/topic/03191147637526166)
+  - [【页面路由导航】三步实现页面跳转的完整示例](https://developer.huawei.com/consumer/cn/blog/topic/03191145477115137)
+  - [开发者技术支持-lazyForEach数据更新](https://developer.huawei.com/consumer/cn/blog/topic/03191109769598136)
+  - [WebServer - 鸿蒙Web服务器框架](https://developer.huawei.com/consumer/cn/blog/topic/03191105857728165)
+  - [开发者技术支持—鸿蒙使用canvas画雷达图的详细写法](https://developer.huawei.com/consumer/cn/blog/topic/03191088352418134)
+  - [开发者技术支持-Image组件网络资源加载与处理](https://developer.huawei.com/consumer/cn/blog/topic/03191087756574164)
+  - [鸿蒙NEXT即时通讯/IM系统RinbowTalk v2.4版发布，基于MobileIMSDK框架、ArkTS编写](https://developer.huawei.com/consumer/cn/blog/topic/03191086717958164)
+  - [鸿蒙5可以加个应用助手吗？](https://developer.huawei.com/consumer/cn/blog/topic/03191085424433163)
+  - [鸿蒙下RN Sample项目编译](https://developer.huawei.com/consumer/cn/blog/topic/03191085318509163)
+  - [开发者技术支持-鸿蒙创建Window弹框工具类封装](https://developer.huawei.com/consumer/cn/blog/topic/03191085291250162)
+  - [HarmonyOSAI编程编辑区代码生成](https://developer.huawei.com/consumer/cn/blog/topic/03191084859170163)
+  - [通过 Cursor CLI 使用 GPT-5 的教程](https://developer.huawei.com/consumer/cn/blog/topic/03191081931682133)
+  - [从系统相册选择照片后，怎么获取照片的位置信息](https://developer.huawei.com/consumer/cn/blog/topic/03191080337709161)
+  - [ArkTS中处理数据为空(null)的四种解决方案 ! ! !](https://developer.huawei.com/consumer/cn/blog/topic/03191078412411132)
+  - [交叉编译.so到鸿蒙使用](https://developer.huawei.com/consumer/cn/blog/topic/03191072814930131)
+  - [开发者技术支持-鸿蒙NavDestination容器统一管理](https://developer.huawei.com/consumer/cn/blog/topic/03191072113388130)
+  - [harmony-free鸿蒙build-profile.json5开发环境签名隔离](https://developer.huawei.com/consumer/cn/blog/topic/03191068074310160)
+  - [【鸿蒙心迹】写给鸿蒙开发的一封信：那些小确幸、长夜与成长](https://developer.huawei.com/consumer/cn/blog/topic/03191067864416161)
+  - [【鸿蒙心迹】从“小确幸”到“独家记忆”，我的鸿蒙开发之路](https://developer.huawei.com/consumer/cn/blog/topic/03191067161470159)
+  - [自定义字体](https://developer.huawei.com/consumer/cn/blog/topic/03191066823786160)
+- 掘金社区
+  - [鸿蒙next 获取versionCode和versionName](https://juejin.cn/post/7540184370378031130)
