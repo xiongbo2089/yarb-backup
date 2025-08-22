@@ -8300,3 +8300,21 @@
   - [自定义字体](https://developer.huawei.com/consumer/cn/blog/topic/03191066823786160)
 - 掘金社区
   - [鸿蒙next 获取versionCode和versionName](https://juejin.cn/post/7540184370378031130)
+- 鸿蒙官网
+  - [【基础】Content的filesDir方法返回沙盒路径中的<module-name>在什么时候会不同](https://developer.huawei.com/consumer/cn/blog/topic/03191232683011171)
+  - [【基础】UIAbilityContext 和 UIContext的区别](https://developer.huawei.com/consumer/cn/blog/topic/03191228234067168)
+  - [开发者技术支持-鸿蒙原生Tab与滚动同步技术方案文档](https://developer.huawei.com/consumer/cn/blog/topic/03191183446237169)
+  - [开发者技术支持-鸿蒙 ScrollBar 组件解析](https://developer.huawei.com/consumer/cn/blog/topic/03191177800656167)
+  - [开发者技术支持-TextInput 渲染后如何控制不自动聚焦](https://developer.huawei.com/consumer/cn/blog/topic/03191177371484138)
+  - [开发者技术支持-Image组件网络资源加载与处理如何解决占位符](https://developer.huawei.com/consumer/cn/blog/topic/03191175901419168)
+  - [鸿蒙原生视频播放模块异常问题与解决方案文档](https://developer.huawei.com/consumer/cn/blog/topic/03191173568502169)
+  - [HarmonyOSAI编程编辑区代码续写](https://developer.huawei.com/consumer/cn/blog/topic/03191172432972168)
+  - [【Harmony】鸿蒙数据库工具封装ZDbUtil](https://developer.huawei.com/consumer/cn/blog/topic/03191172285322167)
+  - [Tabs 导航栏凸起自定义](https://developer.huawei.com/consumer/cn/blog/topic/03191169526679167)
+  - [【文件】【资源】将rawfile目录下的资源文件拷贝至沙盒目录](https://developer.huawei.com/consumer/cn/blog/topic/03191147637526166)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS 5.1.0.150 升级，支持使用 Pura80 系列分享的趣味主题](https://www.ithome.com/0/877/060.htm)
+- 掘金社区
+  - [鸿蒙纪·Flutter卷#03 | 从配置证书到打包发布](https://juejin.cn/post/7541047503811018786)
+- 开源中国
+  - [腾讯 Kuikly 开源框架新增支持 Web](https://www.oschina.net/news/367561)
