@@ -8346,3 +8346,12 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [诚迈科技发布基于鸿志桌面操作系统和龙芯 3A6000 处理器的开源鸿蒙电脑](https://www.ithome.com/0/877/426.htm)
   - [QQ 鸿蒙版 App 获 9.1.70 测试版升级，新增我的电脑互传等功能](https://www.ithome.com/0/877/266.htm)
+- 鸿蒙官网
+  - [【Text】【布局】文本显示超出Text组件大小时以走马灯的形式展示的实现](https://developer.huawei.com/consumer/cn/blog/topic/03191404659148192)
+  - [【Text】【布局】文本显示超出Text组件大小时显示省略号的实现](https://developer.huawei.com/consumer/cn/blog/topic/03191403574813191)
+  - [抚矿总医院创新医企合作，助力健康企业，获媒体聚焦](https://developer.huawei.com/consumer/cn/blog/topic/03191367000690151)
+  - [ArkUI 里 onClick 和 onTouch 的区别](https://developer.huawei.com/consumer/cn/blog/topic/03191351816524190)
+  - [三天鸿蒙学习之旅：从零到认证，解锁万物智联新世界](https://developer.huawei.com/consumer/cn/blog/topic/03191325739027187)
+  - [HarmonyOS 5+ 音视频推流实现方案](https://developer.huawei.com/consumer/cn/blog/topic/03191324470288186)
+  - [【文件】【资源】将media目录下的资源文件拷贝至沙盒目录](https://developer.huawei.com/consumer/cn/blog/topic/03191319921721185)
+  - [开发者技术支持-对Tab组件下onPageShow不触发的解决分享](https://developer.huawei.com/consumer/cn/blog/topic/03191318728244189)
