@@ -8520,3 +8520,19 @@
   - [浮层](https://developer.huawei.com/consumer/cn/blog/topic/03191845657485043)
 - 开源中国
   - [知乎开源“智能预渲染框架”](https://www.oschina.net/news/369189)
+- 博客园
+  - [云闪付联合HarmonyOS SDK打造更便捷安全的支付体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19065651)
+- 鸿蒙官网
+  - [【基础能力】如何区分当前设备是模拟还是真机](https://developer.huawei.com/consumer/cn/blog/topic/03191966050249004)
+  - [一本书的故事《搜索架构之道：App中的搜索系统设计与优化实践》](https://developer.huawei.com/consumer/cn/blog/topic/03191950255624056)
+  - [怎么调整四阶矩阵参数让矩形实现3D倾斜效果](https://developer.huawei.com/consumer/cn/blog/topic/03191949804273055)
+  - [鸿蒙系统中图形变换对应的四阶矩阵的参数解释](https://developer.huawei.com/consumer/cn/blog/topic/03191946738898003)
+  - [开发者技术支持---保障客户端加密密钥安全：告别明文存储的隐患与ArkTS实战](https://developer.huawei.com/consumer/cn/blog/topic/03191936617944002)
+  - [可可图片编辑 HarmonyOS（4）图片裁剪-canvas](https://developer.huawei.com/consumer/cn/blog/topic/03191932012349001)
+  - [分享(Share Kit)](https://developer.huawei.com/consumer/cn/blog/topic/03191932011321054)
+  - [可可图片编辑 HarmonyOS（3）应用间分享图片](https://developer.huawei.com/consumer/cn/blog/topic/03191931756150017)
+  - [基础入门-冷门组件](https://developer.huawei.com/consumer/cn/blog/topic/03191931643317016)
+  - [网络是否可用](https://developer.huawei.com/consumer/cn/blog/topic/03191930674152039)
+  - [ 文本转语音？我们来盘一盘(鸿蒙开发)](https://developer.huawei.com/consumer/cn/blog/topic/03191925166273038)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为轮值董事长徐直军：鸿蒙生态根基已立，互联网头部应用已适配](https://www.ithome.com/0/879/237.htm)
