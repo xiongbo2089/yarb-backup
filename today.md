@@ -8536,3 +8536,18 @@
   - [ 文本转语音？我们来盘一盘(鸿蒙开发)](https://developer.huawei.com/consumer/cn/blog/topic/03191925166273038)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为轮值董事长徐直军：鸿蒙生态根基已立，互联网头部应用已适配](https://www.ithome.com/0/879/237.htm)
+- 鸿蒙官网
+  - [开发者技术支持-鸿蒙APP消息推送技术方案](https://developer.huawei.com/consumer/cn/blog/topic/03192104581114029)
+  - [开发者技术支持-App installed. With the launch option set to nothing, no ability has been launched.](https://developer.huawei.com/consumer/cn/blog/topic/03192097976165027)
+  - [开发者技术支持-短视频列表如何实现连续播放](https://developer.huawei.com/consumer/cn/blog/topic/03192067239382010)
+  - [常用ohpm命令清单](https://developer.huawei.com/consumer/cn/blog/topic/03192041956658008)
+  - [常用的 HDC 命令清单](https://developer.huawei.com/consumer/cn/blog/topic/03192041862119007)
+  - [鸿蒙 NEXT 应用开发学习路径表](https://developer.huawei.com/consumer/cn/blog/topic/03192039978025022)
+  - [开发者技术支持 - MapKit的使用](https://developer.huawei.com/consumer/cn/blog/topic/03192033531824021)
+  - [【图片】【缩放】图片缩放到指定大小（scale方式）并生成新的image.PixelMap实例](https://developer.huawei.com/consumer/cn/blog/topic/03192020480504005)
+  - [刻度尺旋转](https://developer.huawei.com/consumer/cn/blog/topic/03192020405643059)
+  - [【图片】【缩放】图片缩放到指定大小（Canvas方式）并生成新的image.PixelMap实例](https://developer.huawei.com/consumer/cn/blog/topic/03192019531224003)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为、工信部人才交流中心等 14 家单位发起鸿蒙人才领航行动倡议](https://www.ithome.com/0/879/342.htm)
+- 博客园
+  - [让集成更安心，让连接更高效：鸿蒙生态伙伴SDK优选库双端赋能 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19067768)
