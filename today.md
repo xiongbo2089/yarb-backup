@@ -8551,3 +8551,32 @@
   - [华为、工信部人才交流中心等 14 家单位发起鸿蒙人才领航行动倡议](https://www.ithome.com/0/879/342.htm)
 - 博客园
   - [让集成更安心，让连接更高效：鸿蒙生态伙伴SDK优选库双端赋能 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19067768)
+- 博客园
+  - [货拉拉开源两款三方库，为鸿蒙应用高效开发贡献力量 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/19068080)
+- 鸿蒙官网
+  - [【 HarmonyOS 】错误描述：The certificate has expired! 鸿蒙证书过期如何解决？](https://developer.huawei.com/consumer/cn/blog/topic/03192144945020014)
+  - [【HarmonyOS】一步解决弹框集成-快速弹框QuickDialog使用详解](https://developer.huawei.com/consumer/cn/blog/topic/03192144850372034)
+  - [【基础】async函数与普通函数的区别](https://developer.huawei.com/consumer/cn/blog/topic/03192143550469033)
+  - [读取资源图片和网络图片的尺寸](https://developer.huawei.com/consumer/cn/blog/topic/03192138836781013)
+  - [开发者技术支持 - 从系统相册选择照片后，怎么获取照片的位置信息](https://developer.huawei.com/consumer/cn/blog/topic/03192132602120067)
+  - [开发者技术支持-分类已选数据再次进入丢失问题技术经验总结](https://developer.huawei.com/consumer/cn/blog/topic/03192128144327066)
+  - [藏不住了！App Linking 这些宝藏技巧，解锁服务直达新路径](https://developer.huawei.com/consumer/cn/blog/topic/03192126913283011)
+  - [H5页面加载终于不转圈了！FastWeb组件让加载快到起飞](https://developer.huawei.com/consumer/cn/blog/topic/03192126695309065)
+  - [让服务来“敲门”！HarmonyOS近场能力激活服务找人新价值](https://developer.huawei.com/consumer/cn/blog/topic/03192126647917010)
+  - [发者技术支持-鸿蒙基于 Sensor 传感器的指南针应用技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03192125396164063)
+  - [HarmonyOSAI编程智慧调优](https://developer.huawei.com/consumer/cn/blog/topic/03192120963859030)
+  - [开发者技术支持-鸿蒙APP消息推送技术方案](https://developer.huawei.com/consumer/cn/blog/topic/03192104581114029)
+  - [图片保存到沙箱](https://developer.huawei.com/consumer/cn/blog/topic/03192103977224011)
+  - [放大镜效果](https://developer.huawei.com/consumer/cn/blog/topic/03192103777435028)
+  - [开发者技术支持-App installed. With the launch option set to nothing, no ability has been launched.](https://developer.huawei.com/consumer/cn/blog/topic/03192097976165027)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH GT 5 系列智能手表获鸿蒙 HarmonyOS 5.1.0.26 升级，新增支持 HRV（心率变异性）数据](https://www.ithome.com/0/879/741.htm)
+  - [继续修 BUG，微信鸿蒙版 App 获 1.0.10.35 版本邀测升级](https://www.ithome.com/0/879/722.htm)
+  - [华为 MateBook Pro 鸿蒙笔记本获 HarmonyOS 5.1.0.320 SP23 升级，新增压力触控板侧边手势等功能](https://www.ithome.com/0/879/712.htm)
+  - [IT之家鸿蒙生态 8 月“星”榜单发布：多款热门游戏加入，鸿蒙终端快速突破 1200 万](https://www.ithome.com/0/879/642.htm)
+  - [最会买鸿蒙版 2.0 上架：价格监控上线！历史价一键查，蹲好价买低点~](https://www.ithome.com/0/879/612.htm)
+- 掘金社区
+  - [FlutterUnit 3.3.0 | 全组件、全属性、鸿蒙支持来袭](https://juejin.cn/post/7545087647174754355)
+  - [【 HarmonyOS 】错误描述：The certificate has expired! 鸿蒙证书过期如何解决？](https://juejin.cn/post/7544755230889852980)
+  - [【HarmonyOS】一步解决弹框集成-快速弹框QuickDialog使用详解](https://juejin.cn/post/7545039070289395746)
+  - [Harmony Next - 手势的使用（一）](https://juejin.cn/post/7545039070289051682)
