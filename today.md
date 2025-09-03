@@ -8580,3 +8580,29 @@
   - [【 HarmonyOS 】错误描述：The certificate has expired! 鸿蒙证书过期如何解决？](https://juejin.cn/post/7544755230889852980)
   - [【HarmonyOS】一步解决弹框集成-快速弹框QuickDialog使用详解](https://juejin.cn/post/7545039070289395746)
   - [Harmony Next - 手势的使用（一）](https://juejin.cn/post/7545039070289051682)
+- GitHub
+  - [consonance-ACE](https://github.com/andreamust/consonance-ACE)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [从获奖开发者到就业 / 创业成功：HarmonyOS 创新赛成大学生发展新契机](https://www.ithome.com/0/879/965.htm)
+- 博客园
+  - [H5 页面加载终于不转圈了！FastWeb 组件让加载快到起飞 - HarmonyOS小助手](https://www.cnblogs.com/HarmonyOS5/p/19070398)
+- 鸿蒙官网
+  - [Objective-C 的坚毅与传承：在Swift时代下的不可替代性优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03192231563316040)
+  - [【02】针对客户详细信息开发苹果客户端object-c语言完整详细包含产品查询，购买，交易验证和恢复购买功能的完整目录文件结构-优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03192231437609019)
+  - [苹果开发中什么是Storyboard？object-c 和swiftui 以及Storyboard到底有什么关系以及逻辑？优雅草卓伊凡](https://developer.huawei.com/consumer/cn/blog/topic/03192231397109018)
+  - [月是未写完的情书](https://developer.huawei.com/consumer/cn/blog/topic/03192222992675071)
+  - [HarmonyOSAI编程智能代码解读](https://developer.huawei.com/consumer/cn/blog/topic/03192210961117017)
+  - [鸿蒙应用内人脸识别及保存实践](https://developer.huawei.com/consumer/cn/blog/topic/03192210569269038)
+  - [开发者技术支持-瀑布流集成点赞评论功能开发技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03192210450011016)
+  - [AI+鸿蒙自动化测试之自定义用例](https://developer.huawei.com/consumer/cn/blog/topic/03192209882665070)
+  - [这可能是截止目前最简单的一镜到底动效解决方案了，你确定不来看看嘛~](https://developer.huawei.com/consumer/cn/blog/topic/03192208758719016)
+  - [鸿蒙开发：从陌生到熟悉的生态探索之旅](https://developer.huawei.com/consumer/cn/blog/topic/03192203660640015)
+  - [开发者技术支持——HarmonyOS MapKit地图不显示](https://developer.huawei.com/consumer/cn/blog/topic/03192192386025069)
+  - [计算文本长度 字体大小 文本大小](https://developer.huawei.com/consumer/cn/blog/topic/03192191427941037)
+  - [文件操作](https://developer.huawei.com/consumer/cn/blog/topic/03192191376090036)
+  - [ForEach循环渲染小例子](https://developer.huawei.com/consumer/cn/blog/topic/03192190611542015)
+  - [开发者技术支持-应用续接](https://developer.huawei.com/consumer/cn/blog/topic/03192190172791068)
+- 掘金社区
+  - [【 HarmonyOS 6 】HarmonyOS智能体开发实战：Function组件和智能体创建](https://juejin.cn/post/7545303571237175348)
+  - [【HarmonyOS 6】仿AI唤起屏幕边缘流光特效](https://juejin.cn/post/7545320732952887296)
+  - [Harmony Next - 手势的使用（二）](https://juejin.cn/post/7545111319432511507)
