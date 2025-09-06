@@ -8654,3 +8654,20 @@
 - 开源中国
   - [华为鸿蒙 HarmonyOS 5 终端设备数突破 1400 万](https://www.oschina.net/news/370305)
   - [花椒直播首次开源推流器组件 HJpusher](https://www.oschina.net/news/370296)
+- 鸿蒙官网
+  - [【基础】【Record】获取Record的所有key及value](https://developer.huawei.com/consumer/cn/blog/topic/03192532374355036)
+  - [华为"1+8+N"鸿蒙全场景智慧生态战略](https://developer.huawei.com/consumer/cn/blog/topic/03192489180569040)
+  - [为什么要设计ArkTS ？](https://developer.huawei.com/consumer/cn/blog/topic/03192486438756055)
+  - [ArkTS 实战：本地 JSON 数据加载与解析全流程实现](https://developer.huawei.com/consumer/cn/blog/topic/03192482176282039)
+  - [HarmonyOSAI编程自然语言代码生成](https://developer.huawei.com/consumer/cn/blog/topic/03192472972494085)
+  - [传感器数据的订阅与使用](https://developer.huawei.com/consumer/cn/blog/topic/03192471866739084)
+  - [开发者技术支持-华为登陆](https://developer.huawei.com/consumer/cn/blog/topic/03192465387999083)
+  - [上海徐汇区大模型备案与大模型登记奖励补贴申报指南](https://developer.huawei.com/consumer/cn/blog/topic/03192462941680038)
+  - [客户端小白的Kuikly鸿蒙开发之旅-初试配置](https://developer.huawei.com/consumer/cn/blog/topic/03192450911007052)
+  - [开发者技术支持-HMRouter路由](https://developer.huawei.com/consumer/cn/blog/topic/03192450367305051)
+  - [应用窗口模式](https://developer.huawei.com/consumer/cn/blog/topic/03192448387968035)
+  - [容器类库](https://developer.huawei.com/consumer/cn/blog/topic/03192448335526034)
+  - [图片渐变透明](https://developer.huawei.com/consumer/cn/blog/topic/03192446922185033)
+  - [【资源】系统主题图标库](https://developer.huawei.com/consumer/cn/blog/topic/03192443844950032)
+- OSCHINA 社区最新软件
+  - [跨平台多媒体框架 HJMedia](https://www.oschina.net/p/hjmedia)
