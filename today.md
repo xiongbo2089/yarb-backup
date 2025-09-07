@@ -8671,3 +8671,11 @@
   - [【资源】系统主题图标库](https://developer.huawei.com/consumer/cn/blog/topic/03192443844950032)
 - OSCHINA 社区最新软件
   - [跨平台多媒体框架 HJMedia](https://www.oschina.net/p/hjmedia)
+- 鸿蒙官网
+  - [对象数组Item数据发生变化时UI不刷新问题](https://developer.huawei.com/consumer/cn/blog/topic/03192558789595060)
+  - [应用API版本判断](https://developer.huawei.com/consumer/cn/blog/topic/03192557343962087)
+  - [ 【鸿蒙5/6适配】TextDecoder.decodeWithStream接口将要废弃如何适配](https://developer.huawei.com/consumer/cn/blog/topic/03192555609544043)
+  - [零压力了解 LoRA 微调原理](https://developer.huawei.com/consumer/cn/blog/topic/03192549181395059)
+  - [【基础】【Record】获取Record的所有key及value](https://developer.huawei.com/consumer/cn/blog/topic/03192532374355036)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH 5 系列智能手表获 HarmonyOS 5.1.0.212 SP11 升级，新增铁路 12306 App 实况窗联动等功能](https://www.ithome.com/0/880/980.htm)
