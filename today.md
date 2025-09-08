@@ -8679,3 +8679,18 @@
   - [【基础】【Record】获取Record的所有key及value](https://developer.huawei.com/consumer/cn/blog/topic/03192532374355036)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 WATCH 5 系列智能手表获 HarmonyOS 5.1.0.212 SP11 升级，新增铁路 12306 App 实况窗联动等功能](https://www.ithome.com/0/880/980.htm)
+- 鸿蒙官网
+  - [开发者技术支持-自定义tgz依赖](https://developer.huawei.com/consumer/cn/blog/topic/03192704370995043)
+  - [开发者技术支持-鸿蒙下拉二楼UI](https://developer.huawei.com/consumer/cn/blog/topic/03192667469389066)
+  - [微内核架构会走向通用吗？](https://developer.huawei.com/consumer/cn/blog/topic/03192667418112048)
+  - [开发者技术支持-初识仓颉（1）](https://developer.huawei.com/consumer/cn/blog/topic/03192665018284047)
+  - [安全术语REE是什么](https://developer.huawei.com/consumer/cn/blog/topic/03192663229482046)
+  - [开发者技术支持-富文本设置图片显示的实现](https://developer.huawei.com/consumer/cn/blog/topic/03192663205982065)
+  - [关于安全，对外频繁解释的TEE是什么 ？](https://developer.huawei.com/consumer/cn/blog/topic/03192662795034042)
+  - [HarmonyOS 页面路由Router切换组件导航Navigation](https://developer.huawei.com/consumer/cn/blog/topic/03192662213543091)
+  - [开发者技术支持---基于网络动态密钥的加密体系建设：解决客户端密钥安全传输与验证难题](https://developer.huawei.com/consumer/cn/blog/topic/03192654894133063)
+  - [android 开发的app 不能访问拨号自动录音下的录音文件吗](https://developer.huawei.com/consumer/cn/blog/topic/03192643385666090)
+  - [页面路由与导航](https://developer.huawei.com/consumer/cn/blog/topic/03192640849990061)
+  - [【基础】aboutToAppear中代码执行卡死来看async函数中的异常处理的必要性](https://developer.huawei.com/consumer/cn/blog/topic/03192628959956089)
+  - [HarmonyOS公共事件--学习笔记](https://developer.huawei.com/consumer/cn/blog/topic/03192628450653040)
+  - [【实用技巧】像 `Code .` 一样用命令行启动 DevEco Studio](https://developer.huawei.com/consumer/cn/blog/topic/03192628175530039)
