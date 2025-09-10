@@ -8725,3 +8725,31 @@
 - 掘金社区
   - [【HarmonyOS 6】 The target can not be empty. check the build.profile,json5 file of](https://juejin.cn/post/7547552301117571126)
   - [【HarmonyOS 6】Install Failed: error: failed to install bundle.code:9568322](https://juejin.cn/post/7547669673040003114)
+- 鸿蒙官网
+  - [HarmonyOS 5.1.1版本图片上传功能](https://developer.huawei.com/consumer/cn/blog/topic/03192842603520099)
+  - [个人开发者做手机应用还是做微信小程序？](https://developer.huawei.com/consumer/cn/blog/topic/03192835035716098)
+  - [调用系统日历添加日程](https://developer.huawei.com/consumer/cn/blog/topic/03192820196267072)
+  - [HarmonyOSAI编程万能卡片生成（二）](https://developer.huawei.com/consumer/cn/blog/topic/03192815003348049)
+  - [从零到优：我的高级认证之旅](https://developer.huawei.com/consumer/cn/blog/topic/03192808839737097)
+  - [鸿蒙应用开发者基础认证实战分享：从备考到进阶规划](https://developer.huawei.com/consumer/cn/blog/topic/03192807931250096)
+  - [开发者技术支持-软键盘展开时显示自定义Toast导致键盘关闭问题](https://developer.huawei.com/consumer/cn/blog/topic/03192805470102058)
+  - [开发者技术支持-ShareKit](https://developer.huawei.com/consumer/cn/blog/topic/03192798778056048)
+  - [RefreshList - 上拉下拉刷新组件](https://developer.huawei.com/consumer/cn/blog/topic/03192797216083057)
+  - [hilog日志](https://developer.huawei.com/consumer/cn/blog/topic/03192795576605047)
+  - [下载文件 文件下载（断点续传）](https://developer.huawei.com/consumer/cn/blog/topic/03192795498490071)
+  - [开发者技术支持-鸿蒙(HarmonyOS)应用智能化升级：基于意图框架（Intents Kit）的事件推荐方案详解](https://developer.huawei.com/consumer/cn/blog/topic/03192795070818070)
+  - [父子组件之间传值实现复制](https://developer.huawei.com/consumer/cn/blog/topic/03192793321093046)
+- 51CTO
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(九)](https://ost.51cto.com/posts/36481)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(八)](https://ost.51cto.com/posts/36480)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(七)](https://ost.51cto.com/posts/36479)
+- 博客园
+  - [HarmonyOS实现快递APP自动识别地址 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19082027)
+  - [打破场景边界，支付宝联合实况窗提供全新出行服务体验 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19081680)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [米哈游《原神》鸿蒙版开放游戏资源下载，完整版预估下载量 39.34GB](https://www.ithome.com/0/881/740.htm)
+  - [华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS 5.1.0.150 SP7 升级，支持文件管理打开 gzip 格式压缩包](https://www.ithome.com/0/881/664.htm)
+  - [华为 Pura80 系列手机获鸿蒙 HarmonyOS 5.1.0.227 升级，新增桌面布局锁定、备忘录删除云同步提醒等功能](https://www.ithome.com/0/881/636.htm)
+  - [红枫镜头遮挡算法升级：华为 Mate XTs 非凡大师三折叠手机获鸿蒙 HarmonyOS 5.1.0.228 更新](https://www.ithome.com/0/881/472.htm)
+- 开源中国
+  - [OpenHarmony 6.0 发布](https://www.oschina.net/news/371122/openharmony-v6)
