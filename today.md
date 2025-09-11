@@ -8753,3 +8753,38 @@
   - [红枫镜头遮挡算法升级：华为 Mate XTs 非凡大师三折叠手机获鸿蒙 HarmonyOS 5.1.0.228 更新](https://www.ithome.com/0/881/472.htm)
 - 开源中国
   - [OpenHarmony 6.0 发布](https://www.oschina.net/news/371122/openharmony-v6)
+- 51CTO
+  - [HarmonyOS Next 干货分享：网络图片保存到相册的两种实现方案](https://ost.51cto.com/posts/36494)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6 开发者版本体验招募（一期）开启，支持 Mate 70、Pura X 等 11 款机型](https://www.ithome.com/0/882/019.htm)
+  - [鸿蒙版抖音上线团购功能：种草、下单、核销全链路打通](https://www.ithome.com/0/881/889.htm)
+  - [《原神》鸿蒙版启动：华为官方宣布游戏进度互通、数据无缝继承](https://www.ithome.com/0/881/788.htm)
+- 博客园
+  - [HarmonyOS编写教师节贺卡 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19084494)
+- GitHub
+  - [harmony-demo](https://github.com/applicreation/harmony-demo)
+- 鸿蒙官网
+  - [ArkTS 开发：用分层参数轻松搞定颜色切换与主题更改](https://developer.huawei.com/consumer/cn/blog/topic/03192961737319066)
+  - [文字识别转语音](https://developer.huawei.com/consumer/cn/blog/topic/03192917167960001)
+  - [操作过程中添加震动反馈](https://developer.huawei.com/consumer/cn/blog/topic/03192917093081107)
+  - [意图框架的标准意图--技术模板](https://developer.huawei.com/consumer/cn/blog/topic/03192907867919065)
+  - [NNRt的编译和编程语言的编译有什么区别和联系](https://developer.huawei.com/consumer/cn/blog/topic/03192907074754106)
+  - [mindSpore 和 mindSpore Lite是什么关系](https://developer.huawei.com/consumer/cn/blog/topic/03192906388827105)
+  - [小艺小艺是个啥？](https://developer.huawei.com/consumer/cn/blog/topic/03192904325831056)
+  - [开发者技术支持-鸿蒙多文件下载技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03192901673138063)
+  - [开发者技术支持-鸿蒙文件预览技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03192901642676055)
+  - [microKernel通用化潜力分析](https://developer.huawei.com/consumer/cn/blog/topic/03192899209578104)
+  - [RN鸿蒙化直接调用原生组件（Fabric Native Component）函数](https://developer.huawei.com/consumer/cn/blog/topic/03192899175986062)
+  - [鸿蒙的KAL（内核抽象层）理解](https://developer.huawei.com/consumer/cn/blog/topic/03192899060518103)
+  - [【新上手】真机调试步骤一站式](https://developer.huawei.com/consumer/cn/blog/topic/03192896736361061)
+  - [开发者技术支持 - 鸿蒙全屏登录页技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03192896643675054)
+  - [读取JSON文件到对象数组](https://developer.huawei.com/consumer/cn/blog/topic/03192895481970053)
+  - [使用 Conan v1.x 交叉编译常见开源项目鸿蒙产物](https://developer.huawei.com/consumer/cn/blog/topic/03192894959193102)
+  - [HarmonyOS 应用Linux构建流水线（CI/CD）搭建以及Docker镜像制作](https://developer.huawei.com/consumer/cn/blog/topic/03192883260669052)
+  - [【数学】【动画】圆上点的生成原理](https://developer.huawei.com/consumer/cn/blog/topic/03192882168388073)
+  - [重启应用](https://developer.huawei.com/consumer/cn/blog/topic/03192881731498101)
+  - [应用文件访问](https://developer.huawei.com/consumer/cn/blog/topic/03192881675668100)
+- 开源中国
+  - [DCloud 发布并开源 uni-ai x，全平台支持的原生 AI 聊天套件](https://www.oschina.net/news/371259)
+- OSCHINA 社区最新软件
+  - [跨平台原生 AI 聊天套件 uni-ai x](https://www.oschina.net/p/uni-ai-x)
