@@ -8813,3 +8813,28 @@
   - [ArkUI渲染引擎](https://developer.huawei.com/consumer/cn/blog/topic/03192968261960111)
   - [搜索/搜索框/历史记录/高亮展示](https://developer.huawei.com/consumer/cn/blog/topic/03192967997934110)
   - [.onVisibleAreaChange 判断自身显示范围（广告是否完全显示）](https://developer.huawei.com/consumer/cn/blog/topic/03192967945944109)
+- 鸿蒙官网
+  - [ArkTS（鸿蒙）Promise、async/await 极简笔记](https://developer.huawei.com/consumer/cn/blog/topic/03193089396481119)
+  - [开箱即用的文字播放功能](https://developer.huawei.com/consumer/cn/blog/topic/03193089220380082)
+  - [开发者技术支持-鸿蒙PC端动态菜单高效渲染实践](https://developer.huawei.com/consumer/cn/blog/topic/03193085670357117)
+  - [开发者技术支持-画中画技术实现与适配经验总结](https://developer.huawei.com/consumer/cn/blog/topic/03193080934057081)
+  - [开发者技术支持-鸿蒙文件预览技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03193080234355010)
+  - [超越“旧”安卓---深度解析鸿蒙Stage模型与ArkUI的声明式开发范式](https://developer.huawei.com/consumer/cn/blog/topic/03193076157940080)
+  - [AppTest邀请测试---创建测试群组（一）](https://developer.huawei.com/consumer/cn/blog/topic/03193075083185009)
+  - [开发者技术支持-浮动布局多尺寸屏幕适配](https://developer.huawei.com/consumer/cn/blog/topic/03193074156650079)
+  - [我的【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03193057581999068)
+  - [「我的鸿蒙奋斗」【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03193057455157077)
+  - [鸿蒙布道课件-鸿蒙生态 创见未来](https://developer.huawei.com/consumer/cn/blog/topic/03193057390835067)
+  - [初来乍到](https://developer.huawei.com/consumer/cn/blog/topic/03193056341632076)
+  - [开发者技术支持-鸿蒙对角线滚动视图（梯形排列列表数据）技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03193056317679066)
+  - [声明式UI是MVVM模式的实现手段](https://developer.huawei.com/consumer/cn/blog/topic/03193055864653065)
+  - [获取通讯录联系人和电话](https://developer.huawei.com/consumer/cn/blog/topic/03193053473404075)
+  - [步骤条](https://developer.huawei.com/consumer/cn/blog/topic/03193053417904007)
+  - [HarmonyOS高频出现的架构设计方法](https://developer.huawei.com/consumer/cn/blog/topic/03193048619535115)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate XTs 三折叠手机获鸿蒙 5.1.0.228 SP2 更新：新增全局手写、超清全景模式等功能](https://www.ithome.com/0/882/542.htm)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（三）：第一个鸿蒙应用 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19087466)
+- 掘金社区
+  - [看懂鸿蒙系统源码 比较重要的知识点](https://juejin.cn/post/7548835244296912906)
+  - [HarmonyOS：在NDK工程中使用预构建库](https://juejin.cn/post/7548729249563197480)
