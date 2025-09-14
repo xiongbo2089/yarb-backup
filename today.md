@@ -8838,3 +8838,7 @@
 - 掘金社区
   - [看懂鸿蒙系统源码 比较重要的知识点](https://juejin.cn/post/7548835244296912906)
   - [HarmonyOS：在NDK工程中使用预构建库](https://juejin.cn/post/7548729249563197480)
+- 鸿蒙官网
+  - [场景即应用，应用即计算](https://developer.huawei.com/consumer/cn/blog/topic/03193187115104071)
+  - [开源HarmonyOS的挑战](https://developer.huawei.com/consumer/cn/blog/topic/03193185346043085)
+  - [鸿蒙如何应对故障注入攻击（fault injection attack）](https://developer.huawei.com/consumer/cn/blog/topic/03193180879184084)
