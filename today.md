@@ -8842,3 +8842,18 @@
   - [场景即应用，应用即计算](https://developer.huawei.com/consumer/cn/blog/topic/03193187115104071)
   - [开源HarmonyOS的挑战](https://developer.huawei.com/consumer/cn/blog/topic/03193185346043085)
   - [鸿蒙如何应对故障注入攻击（fault injection attack）](https://developer.huawei.com/consumer/cn/blog/topic/03193180879184084)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（四）：ArkTS 语言概述 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19091349)
+- 鸿蒙官网
+  - [鸿蒙AI.  (Image/Canvas/Web/XComponent/Video组件)](https://developer.huawei.com/consumer/cn/blog/topic/03193313424636077)
+  - [组件工厂封装最佳实践wrapBuilder](https://developer.huawei.com/consumer/cn/blog/topic/03193313368359088)
+  - [五大操作系统生态导入期商业发展历程梳理 v0.0002](https://developer.huawei.com/consumer/cn/blog/topic/03193312021116076)
+  - [开发者技术支持-Swiper组件深度优化](https://developer.huawei.com/consumer/cn/blog/topic/03193309222881126)
+  - [画中画技术实现与适配经验总结](https://developer.huawei.com/consumer/cn/blog/topic/03193284658779075)
+  - [为什么不能识别我的快游戏项目了](https://developer.huawei.com/consumer/cn/blog/topic/03193275026781125)
+  - [开发者技术支持-地图轨迹图标方向校准分享](https://developer.huawei.com/consumer/cn/blog/topic/03193270453019087)
+  - [五大操作系统生态导入期商业发展历程 v0.0001](https://developer.huawei.com/consumer/cn/blog/topic/03193269211953074)
+  - [昆虫纲悖论：量变与质变的边界重构](https://developer.huawei.com/consumer/cn/blog/topic/03193258524025014)
+  - [开发者技术支持-RN适配TextInput组件鸿蒙端拉起键盘显示问题](https://developer.huawei.com/consumer/cn/blog/topic/03193256096842123)
+  - [DevEcoStudio Cannot find module 'utils' or its corresponding type declarations. 错误原因](https://developer.huawei.com/consumer/cn/blog/topic/03193248687106013)
+  - [《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者反馈帖](https://developer.huawei.com/consumer/cn/blog/topic/03193232946317121)
