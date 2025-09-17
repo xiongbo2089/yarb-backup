@@ -8880,3 +8880,31 @@
   - [华为 MatePad Pro 12.2 2025 平板获鸿蒙 HarmonyOS 5.1.0.225 升级：天生会画、笔记等功能更新](https://www.ithome.com/0/883/210.htm)
   - [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta5 开发者版本发布：ArkWeb 的 Chromium 内核升级至 132 版本、新增端侧问答模型等](https://www.ithome.com/0/883/185.htm)
   - [华为鸿蒙系统游戏中心上线预约入口，含《明日方舟》、《植物大战僵尸 2》、《狂野飙车 9》等热门 / 经典游戏](https://www.ithome.com/0/883/025.htm)
+- 鸿蒙官网
+  - [HarmonyOS应用拉起系列（三）：如何直接拉起腾讯/百度/高德地图进行导航](https://developer.huawei.com/consumer/cn/blog/topic/03193442321108131)
+  - [在列表循环渲染的场景下使用点光源pointlight效果](https://developer.huawei.com/consumer/cn/blog/topic/03193423851489097)
+  - [鸿蒙应用开发流程](https://developer.huawei.com/consumer/cn/blog/topic/03193419749777021)
+  - [鸿蒙学习路径](https://developer.huawei.com/consumer/cn/blog/topic/03193419529241128)
+  - [创建并发布测试版本（一）](https://developer.huawei.com/consumer/cn/blog/topic/03193418020240096)
+  - [华为手机升级鸿蒙5以后，微信偶尔会没办法挂语音咋回事？](https://developer.huawei.com/consumer/cn/blog/topic/03193413058118020)
+  - [基于开源IM即时通讯框架MobileIMSDK：RainbowChat-iOS端v10.0版已发布](https://developer.huawei.com/consumer/cn/blog/topic/03193406556922083)
+  - [王成录博士的观点](https://developer.huawei.com/consumer/cn/blog/topic/03193404804088082)
+  - [手写绘制功能 生成图片 手画图](https://developer.huawei.com/consumer/cn/blog/topic/03193401951070127)
+  - [水印](https://developer.huawei.com/consumer/cn/blog/topic/03193401682320095)
+  - [开发者技术支持 - 鸿蒙收货地址编辑功能技术方案](https://developer.huawei.com/consumer/cn/blog/topic/03193400150770094)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 推送 1.0.10.41 版本尝鲜升级，修复 BUG、支持 QQ 邮箱邮件打开功能](https://www.ithome.com/0/883/526.htm)
+  - [华为鸿蒙 HarmonyOS 6.0.0.100 开发者 / 用户尝鲜版本开启推送，含 nova 14、Mate 70 系列等机型](https://www.ithome.com/0/883/491.htm)
+  - [华为 MateBook Pro 鸿蒙笔记本获 HarmonyOS 5.1.0.320 SP26 升级，优化多设备协同场景使用体验](https://www.ithome.com/0/883/464.htm)
+  - [微信客服回应聊天可发 LivePhoto 实况照片：暂仅支持苹果 iOS，安卓 / 鸿蒙客户端适配中](https://www.ithome.com/0/883/437.htm)
+  - [腾讯《英雄联盟手游》鸿蒙版定档 9 月 19 日上线](https://www.ithome.com/0/883/372.htm)
+  - [华为 WATCH FIT 4 升级鸿蒙 HarmonyOS 5.1.0.211 版本，生理周期优化、支持手表控制耳机等](https://www.ithome.com/0/883/365.htm)
+  - [腾讯《洛克王国：世界》今启「同行测试」招募，官方宣布“鸿蒙还在适配中（以后会有！）”](https://www.ithome.com/0/883/305.htm)
+  - [华为鸿蒙 HarmonyOS 5.1.0 (18) 及以上版本系统支持 eSIM 卡管理](https://www.ithome.com/0/883/302.htm)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（七）：ArkTS组件声明语法 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19096118)
+- 开源中国
+  - [腾讯跨端开源框架 Kuikly 适配“液态玻璃”](https://www.oschina.net/news/372524)
+- 掘金社区
+  - [HarmonyOS：创建ArkTS卡片](https://juejin.cn/post/7550227023468036148)
+  - [如何判断手机是否是纯血鸿蒙系统](https://juejin.cn/post/7550247300791042086)
