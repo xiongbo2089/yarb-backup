@@ -8908,3 +8908,32 @@
 - 掘金社区
   - [HarmonyOS：创建ArkTS卡片](https://juejin.cn/post/7550227023468036148)
   - [如何判断手机是否是纯血鸿蒙系统](https://juejin.cn/post/7550247300791042086)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（八）：ArkTS自定义组件语法 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19098035)
+- 鸿蒙官网
+  - [鸿蒙6.0](https://developer.huawei.com/consumer/cn/blog/topic/03193531668717029)
+  - [开发者技术支持-NavDestination子孙组件无法监听onBackPressed/onBackPressed问题](https://developer.huawei.com/consumer/cn/blog/topic/03193530042774090)
+  - [审核通过要多久？](https://developer.huawei.com/consumer/cn/blog/topic/03193514243404088)
+  - [开发者技术支持-AlphabetIndexer弹窗优化技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03193511440038028)
+  - [AI驱动的全栈开发框架，企业级AI开发基础设施，大模型评测](https://developer.huawei.com/consumer/cn/blog/topic/03193503300402027)
+  - [创建并发布测试版本（二）](https://developer.huawei.com/consumer/cn/blog/topic/03193502238590026)
+  - [可代替onPageShow,onPageHide的方法，严谨到组件](https://developer.huawei.com/consumer/cn/blog/topic/03193501929611105)
+  - [不一样](https://developer.huawei.com/consumer/cn/blog/topic/03193498589097025)
+  - [解锁后进入主页面多任务后台卡顿](https://developer.huawei.com/consumer/cn/blog/topic/03193498358056024)
+  - [升级鸿蒙6需要备份吗](https://developer.huawei.com/consumer/cn/blog/topic/03193498300869104)
+  - [开发者联盟答题次数受限](https://developer.huawei.com/consumer/cn/blog/topic/03193498143569132)
+  - [在Windows系统的Docker中部署OpenGauss5.0.0（Open高斯）的一次记录](https://developer.huawei.com/consumer/cn/blog/topic/03193490454007087)
+  - [应用文件访问](https://developer.huawei.com/consumer/cn/blog/topic/03193489378471023)
+  - [页面悬浮球组件](https://developer.huawei.com/consumer/cn/blog/topic/03193489103534086)
+  - [三层架构 ](https://developer.huawei.com/consumer/cn/blog/topic/03193487739126085)
+  - [开发者技术支持-评论组件动态高度适配](https://developer.huawei.com/consumer/cn/blog/topic/03193486232023102)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6 系统被曝新增两种个性水印](https://www.ithome.com/0/883/822.htm)
+  - [微信鸿蒙版 App 安装量破 1600 万次，1.0.10.41 正式版更新推送](https://www.ithome.com/0/883/794.htm)
+  - [华为鸿蒙 HarmonyOS 6 系统名称被曝取消“NEXT”后缀](https://www.ithome.com/0/883/791.htm)
+  - [华为 MateBook Fold 折叠屏笔记本获 HarmonyOS 5.1.0.320 SP26 升级，新增最大化窗口或分屏时系统快捷栏可隐藏功能](https://www.ithome.com/0/883/675.htm)
+  - [华为鸿蒙 App Gallery 应用市场新增支持查看应用版本历史记录功能](https://www.ithome.com/0/883/662.htm)
+  - [别报错名：华为鸿蒙 HarmonyOS 6 升级报名新增红字提醒，区分开发者和尝鲜用户版本](https://www.ithome.com/0/883/644.htm)
+  - [华为鸿蒙 HarmonyOS 6 系统开启首次尝鲜用户升级报名，支持 Pura80 系列、nova Flip 等机型](https://www.ithome.com/0/883/213.htm)
+- 掘金社区
+  - [HarmonyOS：ArkTS卡片页面刷新](https://juejin.cn/post/7550687030087680035)
