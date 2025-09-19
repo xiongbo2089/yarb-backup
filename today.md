@@ -8937,3 +8937,32 @@
   - [华为鸿蒙 HarmonyOS 6 系统开启首次尝鲜用户升级报名，支持 Pura80 系列、nova Flip 等机型](https://www.ithome.com/0/883/213.htm)
 - 掘金社区
   - [HarmonyOS：ArkTS卡片页面刷新](https://juejin.cn/post/7550687030087680035)
+- 51CTO
+  - [HarmonyOS Next 开发干货：Preferences 实现用户个性化设置存储](https://ost.51cto.com/posts/36514)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(十二)](https://ost.51cto.com/posts/36531)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(十一)](https://ost.51cto.com/posts/36530)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（九）：ArkTS渲染控制 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19100080)
+- 鸿蒙官网
+  - [开发者技术支持-HarmonyOS NEXT多模块应用桌面快捷方式开发总结](https://developer.huawei.com/consumer/cn/blog/topic/03193658346480005)
+  - [期待鸿蒙6.0系统最新体验，祝我好运吧！](https://developer.huawei.com/consumer/cn/blog/topic/03193654849791004)
+  - [请问报名成功，多久能推送？](https://developer.huawei.com/consumer/cn/blog/topic/03193617304171001)
+  - [【软能力】程序员是不是只要有理解需求的能力，然后写好代码就行了?沟通表达能力重要吗?](https://developer.huawei.com/consumer/cn/blog/topic/03193614026467096)
+  - [鸿蒙6](https://developer.huawei.com/consumer/cn/blog/topic/03193609555367095)
+  - [HarmonyOS 6 健康使用设备(ScreenTimeGuard Kit)的使用](https://developer.huawei.com/consumer/cn/blog/topic/03193607546560111)
+  - [深夜加班崩溃时，我如何用“企微iPad协议接口”救活了一个项目](https://developer.huawei.com/consumer/cn/blog/topic/03193598371320110)
+  - [一个开发者，从初级到高级，到底要经历什么样的转变](https://developer.huawei.com/consumer/cn/blog/topic/03193591463466094)
+  - [如何成为一个优秀的开发者](https://developer.huawei.com/consumer/cn/blog/topic/03193591072088033)
+  - [【鸿蒙心迹】鸿蒙开发，是“神来之笔”，也是“时运之幸”。](https://developer.huawei.com/consumer/cn/blog/topic/03193589493201031)
+  - [saas是什么意思，saas软件是干嘛的](https://developer.huawei.com/consumer/cn/blog/topic/03193589213819030)
+  - [企业级实时消息推送系统的架构设计，一文即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03193586829584109)
+  - [鸿蒙应用开发入门学习资料](https://developer.huawei.com/consumer/cn/blog/topic/03193578307422108)
+  - [AppTest邀请测试 -邀请用户](https://developer.huawei.com/consumer/cn/blog/topic/03193574468537107)
+  - [应用埋点/统计时间](https://developer.huawei.com/consumer/cn/blog/topic/03193574119401093)
+  - [骨架屏/LazyForEach实现骨架屏预加载效果](https://developer.huawei.com/consumer/cn/blog/topic/03193573841004106)
+  - [微博分享开发](https://developer.huawei.com/consumer/cn/blog/topic/03193573700822092)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [IT之家鸿蒙版 5.60 发布：看直播新体验，小窗、全屏、倍速](https://www.ithome.com/0/884/099.htm)
+  - [优化红枫相机遮挡提示准确性，华为 Mate XTs 三折叠手机获鸿蒙 5.1.0.228 SP6 更新](https://www.ithome.com/0/884/087.htm)
+  - [华为 Mate 70 Pro、Pura X 系列等机型升级 HarmonyOS 6 开发者版本，支持 AI 构图和个性色卡](https://www.ithome.com/0/883/967.htm)
+  - [华为 Pura 80 Ultra 手机升级鸿蒙 HarmonyOS 6.0 尝鲜版可选择录制 4K 60 帧 HDR 视频](https://www.ithome.com/0/883/920.htm)
