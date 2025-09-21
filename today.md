@@ -8978,3 +8978,12 @@
   - [AppTest邀请测试 -停止测试](https://developer.huawei.com/consumer/cn/blog/topic/03193658376844006)
   - [开发者技术支持-HarmonyOS NEXT多模块应用桌面快捷方式开发总结](https://developer.huawei.com/consumer/cn/blog/topic/03193658346480005)
   - [期待鸿蒙6.0系统最新体验，祝我好运吧！](https://developer.huawei.com/consumer/cn/blog/topic/03193654849791004)
+- 鸿蒙官网
+  - [HmCodeHub 鸿蒙上可以使用的github客户端](https://developer.huawei.com/consumer/cn/blog/topic/03193780140587007)
+  - [已经升级到鸿蒙系统6.0](https://developer.huawei.com/consumer/cn/blog/topic/03193755514720007)
+  - [头条看视频有时会卡死](https://developer.huawei.com/consumer/cn/blog/topic/03193755068990016)
+  - [鸿蒙版wireguard已实现](https://developer.huawei.com/consumer/cn/blog/topic/03193741676326014)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 nova Flip S 小折叠手机现身中国电信终端产品库，搭载鸿蒙 HarmonyOS 5.0 系统](https://www.ithome.com/0/884/552.htm)
+  - [华为鸿蒙 HarmonyOS 6.0 版本被曝预埋节日限时水印功能](https://www.ithome.com/0/884/509.htm)
+  - [华为 Mate 70 等机型推送鸿蒙 HarmonyOS 6.0.0.100 SP6 开发版更新](https://www.ithome.com/0/884/411.htm)
