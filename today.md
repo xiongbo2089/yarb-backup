@@ -8987,3 +8987,14 @@
   - [华为 nova Flip S 小折叠手机现身中国电信终端产品库，搭载鸿蒙 HarmonyOS 5.0 系统](https://www.ithome.com/0/884/552.htm)
   - [华为鸿蒙 HarmonyOS 6.0 版本被曝预埋节日限时水印功能](https://www.ithome.com/0/884/509.htm)
   - [华为 Mate 70 等机型推送鸿蒙 HarmonyOS 6.0.0.100 SP6 开发版更新](https://www.ithome.com/0/884/411.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [鸿蒙进击：华为正式启动“天工计划”，将投入 10 亿元支持 AI 生态创新](https://www.ithome.com/0/884/594.htm)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（十一）：ArkUI组件Text&TextInput - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19104557)
+- 鸿蒙官网
+  - [开发者技术支持-鸿蒙应用数据库升级（Schema Change）导致数据丢失的完整解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03193918524195012)
+  - [鸿蒙HamonyOS应用上架手动签名与发布](https://developer.huawei.com/consumer/cn/blog/topic/03193916379640008)
+  - [鸿蒙-（用户注册，静态数据post发送请求)](https://developer.huawei.com/consumer/cn/blog/topic/03193877492469020)
+  - [开发者技术支持-卡片无法调用应用上下文](https://developer.huawei.com/consumer/cn/blog/topic/03193872121049010)
+  - [开发者技术支持---距离计算功能](https://developer.huawei.com/consumer/cn/blog/topic/03193851644548018)
+  - [鸿蒙6免打扰相关](https://developer.huawei.com/consumer/cn/blog/topic/03193845323570008)
