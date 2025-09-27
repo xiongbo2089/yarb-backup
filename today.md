@@ -9123,3 +9123,26 @@
   - [华为 MateBook Pro 鸿蒙笔记本获 HarmonyOS 5.1.0.320 SP30 升级，优化文件管理在预览、编辑等场景操作体验](https://www.ithome.com/0/885/852.htm)
   - [IT之家征集：9 月份，你最想点赞哪一个鸿蒙应用？](https://www.ithome.com/0/885/673.htm)
   - [华为 Mate XTs 非凡大师三折叠手机获鸿蒙 HarmonyOS 5.1.0.229 SP3 升级，新增 200+ 应用支持分栏模式](https://www.ithome.com/0/885/654.htm)
+- 鸿蒙官网
+  - [ArkTS中如何将数字字符串转换成数字](https://developer.huawei.com/consumer/cn/blog/topic/03194302873145052)
+  - [如何减少鸿蒙装饰器@Consume的性能开销？](https://developer.huawei.com/consumer/cn/blog/topic/03194297674580044)
+  - [新进小白](https://developer.huawei.com/consumer/cn/blog/topic/03194288958316048)
+  - [ArkTS中设置Text组件为一个固定的正方形大小](https://developer.huawei.com/consumer/cn/blog/topic/03194285870629047)
+  - [实现抽象类Util并在其他文件中使用工具方法](https://developer.huawei.com/consumer/cn/blog/topic/03194285284868051)
+  - [AppGallery Connect（HarmonyOS 5及以上） --公开测试创建并发布测试版本（一）](https://developer.huawei.com/consumer/cn/blog/topic/03194284007751051)
+  - [WebSocket通信](https://developer.huawei.com/consumer/cn/blog/topic/03194280701573050)
+  - [ArkTS随机数生成](https://developer.huawei.com/consumer/cn/blog/topic/03194276839948050)
+  - [“企业微信iPad协议”凌晨 2:24：一句自动回复把投诉率从 8% 拉到 0.3%](https://developer.huawei.com/consumer/cn/blog/topic/03194268844608048)
+  - [从0到1.6万下载：一个普通全栈的鸿蒙折腾史【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03194265185136047)
+  - [鸿蒙系统敏感文件安全存储：从系统机制到 ArkTS 实现](https://developer.huawei.com/consumer/cn/blog/topic/03194264492599046)
+  - [bindPopup 修改高度](https://developer.huawei.com/consumer/cn/blog/topic/03194263065543046)
+  - [鸿蒙6唤醒小艺再到进入小艺界面有点别扭](https://developer.huawei.com/consumer/cn/blog/topic/03194262838890045)
+  - [鸿蒙getRawFileContent的巨大坑](https://developer.huawei.com/consumer/cn/blog/topic/03194262557575045)
+  - [关于鸿蒙6系统及软件掉帧问题](https://developer.huawei.com/consumer/cn/blog/topic/03194259779417044)
+  - [弹窗的入门典型案例 this.getUIContext().showAlertDialog()](https://developer.huawei.com/consumer/cn/blog/topic/03194258080006049)
+- 博客园
+  - [使用Tabs选项卡组件快速搭建鸿蒙APP框架 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19114738)
+- 开源中国
+  - [蚂蚁集团开源移动端流式 Markdown 渲染引擎 FluidMarkdown](https://www.oschina.net/news/374554)
+- OSCHINA 社区最新软件
+  - [移动端流式 Markdown 渲染引擎 FluidMarkdown](https://www.oschina.net/p/fluidmarkdown)
