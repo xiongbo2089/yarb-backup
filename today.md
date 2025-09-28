@@ -9146,3 +9146,19 @@
   - [蚂蚁集团开源移动端流式 Markdown 渲染引擎 FluidMarkdown](https://www.oschina.net/news/374554)
 - OSCHINA 社区最新软件
   - [移动端流式 Markdown 渲染引擎 FluidMarkdown](https://www.oschina.net/p/fluidmarkdown)
+- 鸿蒙官网
+  - [(学生视角)华为芯片自研的启示](https://developer.huawei.com/consumer/cn/blog/topic/03194434245830057)
+  - [鸿蒙6金铲铲游戏体验](https://developer.huawei.com/consumer/cn/blog/topic/03194421717704056)
+  - [鸿蒙6开发版目前遇到首次登陆火影忍者存在断触不跟手的现象](https://developer.huawei.com/consumer/cn/blog/topic/03194421642301054)
+  - [系统严重障碍](https://developer.huawei.com/consumer/cn/blog/topic/03194398847952053)
+  - [【 技术开源共建 】开源日历组件ossimplecalendarview快速集成](https://developer.huawei.com/consumer/cn/blog/topic/03194398801024052)
+  - [【鸿蒙开源技术共建】用@luvi/lv-markdown-in在HarmonyOS上打造高性能Markdown编辑体验](https://developer.huawei.com/consumer/cn/blog/topic/03194395708070048)
+  - [LiteOS A 和 LiteOS M的区别和联系](https://developer.huawei.com/consumer/cn/blog/topic/03194386314732055)
+  - [谈谈华为鸿蒙开发技术](https://developer.huawei.com/consumer/cn/blog/topic/03194364613056054)
+  - [国家战略加持，AI黄金十年已至：程序员如何突破大模型时代的职业瓶颈？](https://developer.huawei.com/consumer/cn/blog/topic/03194351772228053)
+  - [【鸿蒙生态共建】一文两表三实例讲清async函数与普通函数的区别-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03194350511855053)
+  - [鸿蒙系统权限分级提示设计](https://developer.huawei.com/consumer/cn/blog/topic/03194348306143051)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（十六）：线性布局案例 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19116110)
+- 掘金社区
+  - [【鸿蒙开源技术共建】用@luvi/lv-markdown-in在HarmonyOS上打造高性能Markdown编辑体验](https://juejin.cn/post/7554307909422202889)
