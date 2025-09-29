@@ -9162,3 +9162,26 @@
   - [鸿蒙应用开发从入门到实战（十六）：线性布局案例 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19116110)
 - 掘金社区
   - [【鸿蒙开源技术共建】用@luvi/lv-markdown-in在HarmonyOS上打造高性能Markdown编辑体验](https://juejin.cn/post/7554307909422202889)
+- 鸿蒙官网
+  - [如何将鸿蒙5应用升级到鸿蒙6](https://developer.huawei.com/consumer/cn/blog/topic/03194519628104063)
+  - [【鸿蒙生态共建】一文说明兼容版本、目标版本和编译版本的区别与应用实践-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03194518894292058)
+  - [游戏方面开放120帧选项](https://developer.huawei.com/consumer/cn/blog/topic/03194508112890051)
+  - [昨天更新的HarmonyOS6.0.0.100 (SP6C00E47R7P3patch05) Developer初步体验和问题](https://developer.huawei.com/consumer/cn/blog/topic/03194507992001050)
+  - [【HarmonyOS】鸿蒙应用实现微信分享-最新版](https://developer.huawei.com/consumer/cn/blog/topic/03194487398291062)
+  - [轮播图设计与实现指南](https://developer.huawei.com/consumer/cn/blog/topic/03194462438512061)
+  - [HarmonyOS NEXT 5.0 的星闪（NearLink）开发应用案例](https://developer.huawei.com/consumer/cn/blog/topic/03194461374703049)
+  - [AppGallery Connect（HarmonyOS 5及以上） --公开测试创建并发布测试版本（二）](https://developer.huawei.com/consumer/cn/blog/topic/03194453681083059)
+  - [Swiper组件跳到指定页实现的坑](https://developer.huawei.com/consumer/cn/blog/topic/03194451611485055)
+  - [HarmonyOS 广告服务 ArkTS 实现指南：从激励广告到多形式适配](https://developer.huawei.com/consumer/cn/blog/topic/03194440692571058)
+  - [【获奖名单公布】HDC 2025“碰一碰”火出圈！App Linking解锁酷炫链接新玩法 获奖名单](https://developer.huawei.com/consumer/cn/blog/topic/03194438986554058)
+  - [开发者技术支持-Flutter通用Web页面](https://developer.huawei.com/consumer/cn/blog/topic/03194436207834057)
+  - [(学生视角)华为芯片自研的启示](https://developer.huawei.com/consumer/cn/blog/topic/03194434245830057)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为余承东：鸿蒙 5 终端设备已突破 2000 万](https://www.ithome.com/0/886/543.htm)
+  - [微信鸿蒙版 App 开启 1.0.11.34 尝鲜升级，支持共享实时位置等功能](https://www.ithome.com/0/886/474.htm)
+  - [百度地图骑步行导航上线华为鸿蒙 HarmonyOS 5 实况窗](https://www.ithome.com/0/886/402.htm)
+  - [IT之家鸿蒙版 5.70 发布：新闻极速加载，脱胎换骨之变](https://www.ithome.com/0/886/398.htm)
+  - [腾讯手游《穿越火线-枪战王者》鸿蒙版正式上线：支持跨平台匹配对战、原安卓账号游戏资产完整保留](https://www.ithome.com/0/886/352.htm)
+- 开源中国
+  - [鸿蒙5终端破 1700 万，余承东：开源鸿蒙开创我国软件发展史的奇迹](https://www.oschina.net/news/374951)
+  - [开源鸿蒙 6.0 Release 版本发布](https://www.oschina.net/news/374909)
