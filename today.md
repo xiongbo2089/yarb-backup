@@ -9185,3 +9185,28 @@
 - 开源中国
   - [鸿蒙5终端破 1700 万，余承东：开源鸿蒙开创我国软件发展史的奇迹](https://www.oschina.net/news/374951)
   - [开源鸿蒙 6.0 Release 版本发布](https://www.oschina.net/news/374909)
+- 鸿蒙官网
+  - [开发者技术支持-Flutter的MVVM的设计模式](https://developer.huawei.com/consumer/cn/blog/topic/03194608312490067)
+  - [校园信号人多不咋地](https://developer.huawei.com/consumer/cn/blog/topic/03194602906131066)
+  - [鸿蒙6信号在校园里也会卡死不论是手机卡还是校园卡](https://developer.huawei.com/consumer/cn/blog/topic/03194602751695065)
+  - [高度显示](https://developer.huawei.com/consumer/cn/blog/topic/03194572534268065)
+  - [穿越火线正式版](https://developer.huawei.com/consumer/cn/blog/topic/03194572382438066)
+  - [开发者技术支持-list添加下拉刷新](https://developer.huawei.com/consumer/cn/blog/topic/03194561964329063)
+  - [ "hvigor Create hvigor server failed. No Idle daemon can be found" 的编译错误](https://developer.huawei.com/consumer/cn/blog/topic/03194560706841056)
+  - [嵌套使用可滚动容器产生OOM](https://developer.huawei.com/consumer/cn/blog/topic/03194552530646062)
+  - [AppGallery Connect（HarmonyOS 5及以上） --公开测试创建并发布测试版本（三）](https://developer.huawei.com/consumer/cn/blog/topic/03194549335114060)
+  - [加载lottie动画](https://developer.huawei.com/consumer/cn/blog/topic/03194548381728055)
+  - [HarmonyOS模仿酷狗音乐播放器文字跳动字幕特效 ](https://developer.huawei.com/consumer/cn/blog/topic/03194544136218059)
+  - [20230925 旧闻新读](https://developer.huawei.com/consumer/cn/blog/topic/03194542577132063)
+  - [TypeScript 接口（interface）基础](https://developer.huawei.com/consumer/cn/blog/topic/03194539840748053)
+  - [“企业微信iPad协议”凌晨沉默实验：当群发接口只剩心跳声](https://developer.huawei.com/consumer/cn/blog/topic/03194539459449064)
+  - [鸿蒙极客新势力申请](https://developer.huawei.com/consumer/cn/blog/topic/03194527328035052)
+  - [鸿蒙6.0开发版本月最新补丁，昨晚已经开始全面推送](https://developer.huawei.com/consumer/cn/blog/topic/03194525891977062)
+  - [解决To deliver a better app startup experience, use layered icons.警告](https://developer.huawei.com/consumer/cn/blog/topic/03194523607097061)
+  - [如何将鸿蒙5应用升级到鸿蒙6](https://developer.huawei.com/consumer/cn/blog/topic/03194519628104063)
+  - [【鸿蒙生态共建】一文说明兼容版本、目标版本和编译版本的区别与应用实践-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03194518894292058)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [国产神话武侠题材独立游戏《太吾绘卷：天幕心帷》将深度适配鸿蒙操作系统](https://www.ithome.com/0/886/674.htm)
+  - [“华”式宠粉！鸿蒙 5 终端数量突破 2000 万，华为推出鸿蒙有礼特别版，回馈千万同行者](https://www.ithome.com/0/886/571.htm)
+- 开源中国
+  - [鸿蒙 5 终端设备突破 2000 万](https://www.oschina.net/news/375153)
