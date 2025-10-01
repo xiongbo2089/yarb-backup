@@ -9210,3 +9210,25 @@
   - [“华”式宠粉！鸿蒙 5 终端数量突破 2000 万，华为推出鸿蒙有礼特别版，回馈千万同行者](https://www.ithome.com/0/886/571.htm)
 - 开源中国
   - [鸿蒙 5 终端设备突破 2000 万](https://www.oschina.net/news/375153)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙电脑版 App 获 4.1.0.7 邀测升级，消息称新增聊天数据导出功能](https://www.ithome.com/0/887/011.htm)
+  - [IT之家鸿蒙生态 9 月“星”榜单发布：应用快速繁荣，终端设备数破 2000 万](https://www.ithome.com/0/886/916.htm)
+  - [华为推出“鸿蒙有礼特别版”权益活动，桌面右滑进入负一屏畅享福利长假](https://www.ithome.com/0/886/915.htm)
+  - [鸿蒙版微信迎来重要更新，这个功能太适合国庆假期了](https://www.ithome.com/0/886/909.htm)
+- 鸿蒙官网
+  - [科技云报到：比欧洲快一周！中国企业改写全球气象数据共享模式](https://developer.huawei.com/consumer/cn/blog/topic/03194648445766068)
+  - [hvigor是什么](https://developer.huawei.com/consumer/cn/blog/topic/03194647699501061)
+  - [ 图片/视频操作一条龙(3)：文件上传全攻略--从简单直传到分片续传，一次搞定！](https://developer.huawei.com/consumer/cn/blog/topic/03194640042991069)
+  - [什么是低代码开发平台?2025年最热门的10大低代码开发平台盘点!](https://developer.huawei.com/consumer/cn/blog/topic/03194636395523060)
+  - [AppGallery Connect（HarmonyOS 5及以上） --修改测试时间](https://developer.huawei.com/consumer/cn/blog/topic/03194631955902059)
+  - [ 图片/视频操作一条龙(2)：视频转码，缩略如获取（鸿蒙开发）](https://developer.huawei.com/consumer/cn/blog/topic/03194631365635067)
+  - [数据挖掘分析与研究](https://developer.huawei.com/consumer/cn/blog/topic/03194625230011068)
+  - [2025年9月26日华为赋能交流会后有感](https://developer.huawei.com/consumer/cn/blog/topic/03194621319262067)
+  - [页面跳转获取路由参数的坑](https://developer.huawei.com/consumer/cn/blog/topic/03194612849011066)
+  - [个人方案梳理：AI 自主化演进四文件逻辑衔接（仅为清晰个人思路）](https://developer.huawei.com/consumer/cn/blog/topic/03194610485782058)
+  - [开发者技术支持-Flutter的MVVM的设计模式](https://developer.huawei.com/consumer/cn/blog/topic/03194608312490067)
+  - [校园信号人多不咋地](https://developer.huawei.com/consumer/cn/blog/topic/03194602906131066)
+  - [鸿蒙6信号在校园里也会卡死不论是手机卡还是校园卡](https://developer.huawei.com/consumer/cn/blog/topic/03194602751695065)
+- 掘金社区
+  - [HarmonyOS：固定样式弹出框](https://juejin.cn/post/7555438598025314338)
+  - [HarmonyOS：不依赖UI组件的全局自定义弹出框 (openCustomDialog)](https://juejin.cn/post/7555450596670734351)
