@@ -9232,3 +9232,8 @@
 - 掘金社区
   - [HarmonyOS：固定样式弹出框](https://juejin.cn/post/7555438598025314338)
   - [HarmonyOS：不依赖UI组件的全局自定义弹出框 (openCustomDialog)](https://juejin.cn/post/7555450596670734351)
+- 鸿蒙官网
+  - [1024bit operating system](https://developer.huawei.com/consumer/cn/blog/topic/03194709480326071)
+  - [多多买菜快适配，好给妈妈买手机](https://developer.huawei.com/consumer/cn/blog/topic/03194700632322070)
+  - [校园软件学小易加快上线](https://developer.huawei.com/consumer/cn/blog/topic/03194700554045062)
+  - [Trae IDE支持ArkTS的操作方法](https://developer.huawei.com/consumer/cn/blog/topic/03194694908801069)
