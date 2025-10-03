@@ -9237,3 +9237,11 @@
   - [多多买菜快适配，好给妈妈买手机](https://developer.huawei.com/consumer/cn/blog/topic/03194700632322070)
   - [校园软件学小易加快上线](https://developer.huawei.com/consumer/cn/blog/topic/03194700554045062)
   - [Trae IDE支持ArkTS的操作方法](https://developer.huawei.com/consumer/cn/blog/topic/03194694908801069)
+- 鸿蒙官网
+  - [那我服了 华为能不能别老瞎更新了](https://developer.huawei.com/consumer/cn/blog/topic/03194829270672067)
+  - [AGC（AppGallery Connect） 是什么](https://developer.huawei.com/consumer/cn/blog/topic/03194826737985071)
+  - [星闪（NearLink）和 SSAP](https://developer.huawei.com/consumer/cn/blog/topic/03194824473059077)
+  - [组件间数据同步：@Prop和@Link](https://developer.huawei.com/consumer/cn/blog/topic/03194809097571065)
+  - [鸿蒙（HarmonyOS）常见布局容器及特点详解](https://developer.huawei.com/consumer/cn/blog/topic/03194803567018076)
+  - [从深夜灵感到10万用户：我的鸿蒙开发之路【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03194799009760075)
+  - [父子组件参数传递](https://developer.huawei.com/consumer/cn/blog/topic/03194791232007063)
