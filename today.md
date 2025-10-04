@@ -9245,3 +9245,5 @@
   - [鸿蒙（HarmonyOS）常见布局容器及特点详解](https://developer.huawei.com/consumer/cn/blog/topic/03194803567018076)
   - [从深夜灵感到10万用户：我的鸿蒙开发之路【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03194799009760075)
   - [父子组件参数传递](https://developer.huawei.com/consumer/cn/blog/topic/03194791232007063)
+- 鸿蒙官网
+  - [打包app时没有生成singed App的坑](https://developer.huawei.com/consumer/cn/blog/topic/03194889672345072)
