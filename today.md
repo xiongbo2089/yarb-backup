@@ -9247,3 +9247,10 @@
   - [父子组件参数传递](https://developer.huawei.com/consumer/cn/blog/topic/03194791232007063)
 - 鸿蒙官网
   - [打包app时没有生成singed App的坑](https://developer.huawei.com/consumer/cn/blog/topic/03194889672345072)
+- 鸿蒙官网
+  - [实现表情切换](https://developer.huawei.com/consumer/cn/blog/topic/03195040839967076)
+  - [DevEco Studio  创建软件包](https://developer.huawei.com/consumer/cn/blog/topic/03194983969530074)
+  - [HarmonyOS采用axios封装（基础版）](https://developer.huawei.com/consumer/cn/blog/topic/03194961837252073)
+  - [6.0版本迭代咋这么慢啊，发热还是大了点](https://developer.huawei.com/consumer/cn/blog/topic/03194950509881080)
+  - [原神的通知铃声bug](https://developer.huawei.com/consumer/cn/blog/topic/03194950436067079)
+  - [6.0.0.100 (SP6C00E47R7P3patch06) Developer版本录像问题](https://developer.huawei.com/consumer/cn/blog/topic/03194950321593073)
