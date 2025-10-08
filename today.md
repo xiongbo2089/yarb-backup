@@ -9284,3 +9284,12 @@
   - [HAR、HSP 和 HAP](https://developer.huawei.com/consumer/cn/blog/topic/03195126695018076)
   - [鸿蒙PC抖音看图集以及看很多东西都会卡一下的问题](https://developer.huawei.com/consumer/cn/blog/topic/03195120538108089)
   - [鸿蒙6pura80和鸿蒙PCMatebookpro在WiFi环境下微信学习也会延迟](https://developer.huawei.com/consumer/cn/blog/topic/03195120428531079)
+- 鸿蒙官网
+  - [HarmonyOS开发中的2in1设备](https://developer.huawei.com/consumer/cn/blog/topic/03195237326931096)
+  - [微信这些功能什么时候适配？](https://developer.huawei.com/consumer/cn/blog/topic/03195231562518082)
+  - [穿越火线鸿蒙版](https://developer.huawei.com/consumer/cn/blog/topic/03195227774154081)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.107 SP2 Developer 版本新特性曝光，含双击桌面空白处锁屏等](https://www.ithome.com/0/887/910.htm)
+  - [华为鸿蒙 HarmonyOS 6.0.0.107 SP2 Developer 版本开启推送，优化相机稳定性等](https://www.ithome.com/0/887/897.htm)
+- 51CTO
+  - [HarmonyOS应用开发 - strip编译配置优先级](https://ost.51cto.com/posts/36616)
