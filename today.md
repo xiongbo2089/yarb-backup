@@ -9293,3 +9293,11 @@
   - [华为鸿蒙 HarmonyOS 6.0.0.107 SP2 Developer 版本开启推送，优化相机稳定性等](https://www.ithome.com/0/887/897.htm)
 - 51CTO
   - [HarmonyOS应用开发 - strip编译配置优先级](https://ost.51cto.com/posts/36616)
+- 鸿蒙官网
+  - [HarmonyOS 分布式软总线架构](https://developer.huawei.com/consumer/cn/blog/topic/03195341206460087)
+  - [【鸿蒙6适配】promptAction.showToast接口将要废弃如何适配](https://developer.huawei.com/consumer/cn/blog/topic/03195337328090097)
+  - [音频流PCM（Pulse Code Modulation） ](https://developer.huawei.com/consumer/cn/blog/topic/03195332980822089)
+  - [碰一碰场景](https://developer.huawei.com/consumer/cn/blog/topic/03195329983374088)
+  - [乙基硅酸铁锂超导电池的制备工艺、性能表征及应用研究](https://developer.huawei.com/consumer/cn/blog/topic/03195322700337087)
+- 51CTO
+  - [【HarmonyOS NEXT+AI】问答07：仓颉编程语言的DevEco Studio Cangjie Plugin在哪里下载？为什么看不到？](https://ost.51cto.com/posts/36618)
