@@ -9301,3 +9301,28 @@
   - [乙基硅酸铁锂超导电池的制备工艺、性能表征及应用研究](https://developer.huawei.com/consumer/cn/blog/topic/03195322700337087)
 - 51CTO
   - [【HarmonyOS NEXT+AI】问答07：仓颉编程语言的DevEco Studio Cangjie Plugin在哪里下载？为什么看不到？](https://ost.51cto.com/posts/36618)
+- 鸿蒙官网
+  - [鸿蒙6原神游戏还得优化](https://developer.huawei.com/consumer/cn/blog/topic/03195470851591095)
+  - [鸿蒙6最新版本砍功能](https://developer.huawei.com/consumer/cn/blog/topic/03195470776646083)
+  - [HarmonyOS 应用开发中的工具类等如何获取 UIAbilityContext ？](https://developer.huawei.com/consumer/cn/blog/topic/03195470268147082)
+  - [如何恢复Git拉取代码时覆盖的本地文件？](https://developer.huawei.com/consumer/cn/blog/topic/03195469901805094)
+  - [鸿蒙 Tab 中的 WebView 如何优雅地拦截侧滑返回？](https://developer.huawei.com/consumer/cn/blog/topic/03195469630150081)
+  - [【鸿蒙生态共建】一文说清复杂类型数据的非预期输入转换与兜底-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03195426880107093)
+  - [开发者技术支持-md5加密](https://developer.huawei.com/consumer/cn/blog/topic/03195426383128093)
+  - [单片机LiteOS：小身材，大能量](https://developer.huawei.com/consumer/cn/blog/topic/03195424322312102)
+  - [ArkUI深色模式 resource/dark/color.json ](https://developer.huawei.com/consumer/cn/blog/topic/03195418299023092)
+  - [@Preview装饰器](https://developer.huawei.com/consumer/cn/blog/topic/03195415997443091)
+  - [操作系统底层逻辑是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03195412661514092)
+  - [“企业微信iPad协议”静默 72 小时：一台被遗忘的测试机如何成为私域的逃生梯](https://developer.huawei.com/consumer/cn/blog/topic/03195411476578091)
+  - [超导氧化镓单极型晶体管（场效应管）的制备工艺、性能及应用研究](https://developer.huawei.com/consumer/cn/blog/topic/03195410938709080)
+  - [HiChain可信设备管理](https://developer.huawei.com/consumer/cn/blog/topic/03195388971374089)
+  - [MQTT、CAN、Modbus 三个协议](https://developer.huawei.com/consumer/cn/blog/topic/03195388507926088)
+  - [AppTest邀请测试---邀请用户参与测试](https://developer.huawei.com/consumer/cn/blog/topic/03195386668598079)
+  - [鸿蒙66.0.0.107 (SP2C00E107R7P4patch01) Developer应用内部掉帧问题还没解决](https://developer.huawei.com/consumer/cn/blog/topic/03195385401679101)
+  - [鸿蒙6最新版6.0.0.107 (SP2C00E107R7P4patch01) Developer遇到问题](https://developer.huawei.com/consumer/cn/blog/topic/03195385299354100)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（十八）：组件编程思想之代码复用 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19132394)
+- 开源中国
+  - [从 0 到 1，直播拆解鸿蒙应用开发实战](https://my.oschina.net/u/3859945/blog/18694829)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0 Developer 系统重要补丁发布，优化部分场景的使用体验](https://www.ithome.com/0/888/231.htm)
