@@ -9380,3 +9380,33 @@
   - [鸿蒙app 中应用的热启动 执行的生命周期](https://developer.huawei.com/consumer/cn/blog/topic/03195559727903114)
 - 博客园
   - [鸿蒙应用开发从入门到实战（十九）：样式复用案例 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19134656)
+- 51CTO
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(二十)](https://ost.51cto.com/posts/36638)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(十九) -＞ PreviewChecker检测规则](https://ost.51cto.com/posts/36637)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(十八) -＞ 跨语言代码编辑](https://ost.51cto.com/posts/36636)
+  - [【HarmonyOS Next之旅】DevEco Studio使用指南(十七) -＞ 生成ArkTSDoc文档](https://ost.51cto.com/posts/36635)
+- 鸿蒙官网
+  - [基于 UTS 的缓存清理插件（CoreFileKit Integration）](https://developer.huawei.com/consumer/cn/blog/topic/03195731683813113)
+  - [基于 UTS 的系统设置页调起插件（AbilityKit Integration）](https://developer.huawei.com/consumer/cn/blog/topic/03195731485271100)
+  - [基于 UTS 的浏览器调起插件（AbilityKit Integration）](https://developer.huawei.com/consumer/cn/blog/topic/03195731378967112)
+  - [基于 UTS 的相机拍照/录制插件（CameraKit Integration）](https://developer.huawei.com/consumer/cn/blog/topic/03195731115320111)
+  - [基于 UTS 的鸿蒙图片操作插件（ImageKit + CoreFileKit Integration）](https://developer.huawei.com/consumer/cn/blog/topic/03195730878774125)
+  - [UTS集成活体检测（VisionKit Interactive Liveness）](https://developer.huawei.com/consumer/cn/blog/topic/03195730672701110)
+  - [在鸿蒙应用中集成地图定位能力（LocationKit + MapKit）](https://developer.huawei.com/consumer/cn/blog/topic/03195730362563109)
+  - [在鸿蒙 App 内打开 uni-app 小程序（UniMP 宿主集成）](https://developer.huawei.com/consumer/cn/blog/topic/03195730140994108)
+  - [在 uni-app 中集成鸿蒙原生支付能力（PaymentKit）](https://developer.huawei.com/consumer/cn/blog/topic/03195729931785107)
+  - [在 uni-app 中调用鸿蒙原生扫码能力（ScanKit 集成）](https://developer.huawei.com/consumer/cn/blog/topic/03195729623879111)
+  - [【鸿蒙生态共建】鸿蒙6适配-API变化与兼容(1.基础能力篇)-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03195727462533124)
+  - [华为技术遥遥领先](https://developer.huawei.com/consumer/cn/blog/topic/03195726438579110)
+  - [鸿蒙网络编程系列63-仓颉版web组件与应用互操作示例](https://developer.huawei.com/consumer/cn/blog/topic/03195721724970109)
+  - [网络请求](https://developer.huawei.com/consumer/cn/blog/topic/03195686073234098)
+  - [通过手势实现图片等元素的缩放和拖拽](https://developer.huawei.com/consumer/cn/blog/topic/03195672342241123)
+  - [难道我不配使用鸿蒙6](https://developer.huawei.com/consumer/cn/blog/topic/03195666312504122)
+  - [华为加油坚持引领](https://developer.huawei.com/consumer/cn/blog/topic/03195666280300121)
+  - [闪烁，卡顿](https://developer.huawei.com/consumer/cn/blog/topic/03195665565219107)
+  - [昨天最新补丁包初步体验](https://developer.huawei.com/consumer/cn/blog/topic/03195638650766105)
+  - [昨天更新了6.0.0.107 (SP2C00E107R7P4patch05) Developer](https://developer.huawei.com/consumer/cn/blog/topic/03195638585710097)
+- 博客园
+  - [鸿蒙应用开发从入门到实战（二十）：ArkUI内置弹窗组件 - 程序员潘Sir](https://www.cnblogs.com/heimatengyun/p/19137770)
+- 掘金社区
+  - [【HarmonyOS AI赋能】朗读控件详解](https://juejin.cn/post/7559855474474254382)
