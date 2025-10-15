@@ -9446,3 +9446,37 @@
 - 掘金社区
   - [鸿蒙HarmonyOS实战开发系列课程](https://juejin.cn/post/7560183051230871602)
   - [深入理解 Flutter 的 PlatformView 如何在鸿蒙平台实现混合开发](https://juejin.cn/post/7559875444817526847)
+- 51CTO
+  - [鸿蒙架构师GeorgeGcs的迁移之旅：跨越Android与HarmonyOS的开发纪实](https://ost.51cto.com/posts/36682)
+- 鸿蒙官网
+  - [Worker线程和TaskPool线程的关于上下文context问题](https://developer.huawei.com/consumer/cn/blog/topic/03195904895124115)
+  - [有人更新到6.0.0.107版本 了吗](https://developer.huawei.com/consumer/cn/blog/topic/03195902362521141)
+  - [5.0系统主题的相机代码](https://developer.huawei.com/consumer/cn/blog/topic/03195897434320132)
+  - [为什么在前端展示代码页面中netHandle前面需要加下横线](https://developer.huawei.com/consumer/cn/blog/topic/03195869040991131)
+  - [鸿蒙原生多个滚动组件协同问题](https://developer.huawei.com/consumer/cn/blog/topic/03195860052422114)
+  - [鸿蒙系统：一场定义操作系统未来的深刻变革](https://developer.huawei.com/consumer/cn/blog/topic/03195854508251139)
+  - [从技术革命到生态共建，鸿蒙系统的崛起之路](https://developer.huawei.com/consumer/cn/blog/topic/03195854410158113)
+  - [勇敢的人先享受世界](https://developer.huawei.com/consumer/cn/blog/topic/03195851060617128)
+  - [鸿蒙开发之——小艺智能体开发初体验](https://developer.huawei.com/consumer/cn/blog/topic/03195848424336111)
+  - [DevEco Studio地址大集合助你访问畅通无阻](https://developer.huawei.com/consumer/cn/blog/topic/03195846208097138)
+  - [鸿蒙：将项目的rawfile目录下全部文件拷贝到app沙箱目录（方案二）](https://developer.huawei.com/consumer/cn/blog/topic/03195843663997110)
+  - [鸿蒙：将项目的rawfile目录下全部文件拷贝到app沙箱目录（方案一）](https://developer.huawei.com/consumer/cn/blog/topic/03195843451399127)
+  - [ 鸿蒙：ForEach列表循环实现单项左滑删除（LazyForEach同理）](https://developer.huawei.com/consumer/cn/blog/topic/03195843232421137)
+  - [鸿蒙：在沙箱目录下压缩或解压文件](https://developer.huawei.com/consumer/cn/blog/topic/03195842877795136)
+  - [鸿蒙：保存文件到用户目录（可在文件管理器中查看）](https://developer.huawei.com/consumer/cn/blog/topic/03195842613652126)
+  - [鸿蒙：封装HiLog日志打印工具类（简单明了）](https://developer.huawei.com/consumer/cn/blog/topic/03195842413179125)
+  - [跨进程经常需要数据共享如服务卡片和其主应用，但在主应用更新首选项数据后，在服务卡片中用取到的值错误的场景。](https://developer.huawei.com/consumer/cn/blog/topic/03195830363192135)
+  - [【HarmonyOS】原生 Markdown 渲染解决方案 —— @luvi/lv-markdown-in](https://developer.huawei.com/consumer/cn/blog/topic/03195822653320109)
+  - [鸿蒙app开发编译遇到了问题 "@hadss/hmrouter": "^1.2.0-beta.0",](https://developer.huawei.com/consumer/cn/blog/topic/03195822285673134)
+  - [Nova14系列6.0系统相机和AI辅助吗](https://developer.huawei.com/consumer/cn/blog/topic/03195818834579124)
+  - [微信锁屏接不到来电，和系统有关系吗？](https://developer.huawei.com/consumer/cn/blog/topic/03195818742711108)
+  - [PC端点击文章中右击无法再便签页中打开链接](https://developer.huawei.com/consumer/cn/blog/topic/03195817812107123)
+  - [元服务软件包合法性检测](https://developer.huawei.com/consumer/cn/blog/topic/03195817293774133)
+  - [科技云报到：股价暴涨近50%！UiPath带火的“智能体自动化”，艺赛旗已摸到新玩法](https://developer.huawei.com/consumer/cn/blog/topic/03195816836842122)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.107 SP7 / SP5 Developer 版本发布，覆盖手机、平板产品](https://www.ithome.com/0/889/462.htm)
+  - [华为鸿蒙 HarmonyOS 5 应用市场 App 适配设备新增支持显示智慧屏类别](https://www.ithome.com/0/889/444.htm)
+- 开源中国
+  - [开源鸿蒙 6.1 和 8.1 版本被确定为 LTS 建议版本](https://www.oschina.net/news/377296)
+- 掘金社区
+  - [【HarmonyOS Bug踩坑】主窗口调用的接口，UI在子窗口异常显示](https://juejin.cn/post/7560956336697147442)
