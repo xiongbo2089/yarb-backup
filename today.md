@@ -9579,3 +9579,17 @@
 - 掘金社区
   - [【Harmony Next】手把手撸一个支持高度自定义的Toast](https://juejin.cn/post/7562005555584122931)
   - [玩Android Harmony next版，通过项目了解harmony项目快速搭建开发](https://juejin.cn/post/7561685130789437478)
+- 鸿蒙官网
+  - [丢失并被偷手机的花粉的反思](https://developer.huawei.com/consumer/cn/blog/topic/03196244299817163)
+  - [新能源/超导太阳能电池板/超导铝化镓硅电池板/多晶体/22VDC/1VDC/90mA/1mA/50纳米/55%金属硅/创新生产工艺](https://developer.huawei.com/consumer/cn/blog/topic/03196204985792149)
+  - [如何在组件函数传递想要在函数结束后处理独有的业务逻辑](https://developer.huawei.com/consumer/cn/blog/topic/03196181943000181)
+  - [开发者技术支持-Flutter的CustomScrollView列表组头悬浮](https://developer.huawei.com/consumer/cn/blog/topic/03196177714269163)
+  - [鸿蒙启智，万物互联的数字新纪元​](https://developer.huawei.com/consumer/cn/blog/topic/03196163424798180)
+  - [鸿蒙：破晓数字时代的东方之光​](https://developer.huawei.com/consumer/cn/blog/topic/03196163082686179)
+- 51CTO
+  - [#星光不负 码向未来#从安卓到鸿蒙，一个老兵的“换枪”纪实与 ArkUI 状态管理深度解析](https://ost.51cto.com/posts/36738)
+  - [#星光不负 码向未来#从安卓到鸿蒙：一个开发者的“破茧”与重生](https://ost.51cto.com/posts/36737)
+  - [HarmonyOS学习笔记：手把手教你打造个人资料卡片](https://ost.51cto.com/posts/36662)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 MatePad Pro 12.2 英寸 2025 款平板获 HarmonyOS 5.1.0.235 SP5 升级，部分游戏流畅性优化](https://www.ithome.com/0/890/532.htm)
+  - [华为 nova Flip S / nova 14 活力版手机出厂搭载 HarmonyOS 5.1，不支持变更为 4.x 及以下系统](https://www.ithome.com/0/890/515.htm)
