@@ -9730,3 +9730,21 @@
   - [华为鸿蒙 HarmonyOS 6.0.0.108 SP6 版本开推，新增艺术签名、AI 一键成片等功能](https://www.ithome.com/0/891/405.htm)
   - [史上发展最快：华为鸿蒙操作系统 5 终端设备突破 2300 万台](https://www.ithome.com/0/891/401.htm)
   - [鸿蒙电脑版 DevEco Studio IDE 开启预览版 Beta 用户招募](https://www.ithome.com/0/891/337.htm)
+- 51CTO
+  - [三箭齐发！HarmonyOS 6、AI 开发工具与央视盛典引爆科技圈](https://ost.51cto.com/posts/36790)
+  - [#星光不负 码向未来# 鸿蒙6.0实战：打造一个“左滑上瘾”的电影清单 App](https://ost.51cto.com/posts/36798)
+  - [#星光不负 码向未来# 鸿蒙 ArkTS 探险：手把手教你“召唤”一个高大上的侧边栏 (HdsSideBar)！](https://ost.51cto.com/posts/36794)
+- 鸿蒙官网
+  - [探索数据传输痕迹实现精准获客的策略](https://developer.huawei.com/consumer/cn/blog/topic/03196649115825200)
+  - [鸿蒙PC以报名尝鲜](https://developer.huawei.com/consumer/cn/blog/topic/03196619893543194)
+  - [更新了最新的108公测版反馈](https://developer.huawei.com/consumer/cn/blog/topic/03196619815219197)
+  - [鸿蒙：将网络图片链接转成PixelMap格式的图片](https://developer.huawei.com/consumer/cn/blog/topic/03196618889913224)
+  - [系统更新建议](https://developer.huawei.com/consumer/cn/blog/topic/03196615068509193)
+  - [鸿蒙：将Resource类型的image转成 image.PixelMap格式](https://developer.huawei.com/consumer/cn/blog/topic/03196613604361223)
+  - [从著书到赠书，我与高校共筑鸿蒙生态新未来](https://developer.huawei.com/consumer/cn/blog/topic/03196605614844196)
+  - [ChatGPT如何实现聊天一样的实时交互？快速读懂SSE实时“推”技术](https://developer.huawei.com/consumer/cn/blog/topic/03196601479506181)
+  - [DevEcoStudio 工程结构多Module](https://developer.huawei.com/consumer/cn/blog/topic/03196599854290195)
+  - [开源休闲娱乐榜24名的《摩斯电码通》，几点心得分享](https://developer.huawei.com/consumer/cn/blog/topic/03196597653848222)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate XTs 三折叠手机 HarmonyOS 6.0.0.108 SP9 版本开推，新增智慧光感等](https://www.ithome.com/0/891/867.htm)
+  - [消息称华为家庭存储完成鸿蒙 HarmonyOS 6 版本开发适配，分批推送中](https://www.ithome.com/0/891/755.htm)
