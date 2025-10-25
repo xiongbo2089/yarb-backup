@@ -9748,3 +9748,17 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 Mate XTs 三折叠手机 HarmonyOS 6.0.0.108 SP9 版本开推，新增智慧光感等](https://www.ithome.com/0/891/867.htm)
   - [消息称华为家庭存储完成鸿蒙 HarmonyOS 6 版本开发适配，分批推送中](https://www.ithome.com/0/891/755.htm)
+- 鸿蒙官网
+  - [朗读输入的文字内容](https://developer.huawei.com/consumer/cn/blog/topic/03196724998407203)
+  - [发布元服务配置本地化基础信息（应用名称、图标）](https://developer.huawei.com/consumer/cn/blog/topic/03196709836861202)
+  - [MySQL 版本对比及说明](https://developer.huawei.com/consumer/cn/blog/topic/03196702165274184)
+  - [开发者技术支持-图片添加水印技术案例总结](https://developer.huawei.com/consumer/cn/blog/topic/03196697142876183)
+  - [鸿蒙6Pura 80 Pro+尝鲜版](https://developer.huawei.com/consumer/cn/blog/topic/03196686975242201)
+  - [鸿蒙电脑更新了尝鲜](https://developer.huawei.com/consumer/cn/blog/topic/03196686880970225)
+- 51CTO
+  - [#星光不负 码向未来#【我与鸿蒙】在这个不断革新的时代，我们应该需要知道真正创新的有什么](https://ost.51cto.com/posts/36833)
+  - [#星光不负 码向未来#成长纪实：一名HDE与HDG的初心与坚持](https://ost.51cto.com/posts/36824)
+  - [#星光不负 码向未来# 鸿蒙ArkUI笔记：List分组 + 索引器(AlphabetIndexer)的“爱恨情仇”](https://ost.51cto.com/posts/36812)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [消息称华为 Mate 80 全系支持 3D 人脸](https://www.ithome.com/0/892/252.htm)
+  - [龙芯 + 华为工业鸿蒙操作系统：“华龙体系”已在航空 / 汽车 / 装备制造等多个关键行业落地](https://www.ithome.com/0/892/228.htm)
