@@ -9762,3 +9762,21 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [消息称华为 Mate 80 全系支持 3D 人脸](https://www.ithome.com/0/892/252.htm)
   - [龙芯 + 华为工业鸿蒙操作系统：“华龙体系”已在航空 / 汽车 / 装备制造等多个关键行业落地](https://www.ithome.com/0/892/228.htm)
+- GitHub
+  - [sparkles](https://github.com/wieszheng/sparkles)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [（更新：官方已删除文档信息）消息称华为 Mate 80 全系支持 3D 人脸](https://www.ithome.com/0/892/252.htm)
+- 51CTO
+  - [鸿蒙ArkTS入门教程：小白实战“易经”Demo，详解@State、@Prop与List组件](https://ost.51cto.com/posts/36836)
+- 鸿蒙官网
+  - [rawfile读取json文本内容](https://developer.huawei.com/consumer/cn/blog/topic/03196855463663234)
+  - [如何搞定启动页页面倒计时呢？](https://developer.huawei.com/consumer/cn/blog/topic/03196853256233205)
+  - [头部文件导入](https://developer.huawei.com/consumer/cn/blog/topic/03196819883865209)
+  - [UI界面搭建](https://developer.huawei.com/consumer/cn/blog/topic/03196819784227202)
+  - [读取资源文件内容](https://developer.huawei.com/consumer/cn/blog/topic/03196819561725191)
+  - [详情内容](https://developer.huawei.com/consumer/cn/blog/topic/03196818978317200)
+  - [AI的底层逻辑是什么？](https://developer.huawei.com/consumer/cn/blog/topic/03196807759739231)
+  - [氧化镓单极型晶体管的制备工艺与性能研究](https://developer.huawei.com/consumer/cn/blog/topic/03196807657577230)
+  - [开发者技术支持-Flutter的列表下拉刷新、上拉加载更多组件封装](https://developer.huawei.com/consumer/cn/blog/topic/03196791153861206)
+  - [@Styles @Extend AttributeModifier 在项目中如何区分使用](https://developer.huawei.com/consumer/cn/blog/topic/03196784133843228)
+  - [关于实现摇一摇 / 前倾 / 扭一扭的实践经验与技术选型](https://developer.huawei.com/consumer/cn/blog/topic/03196770751311226)
