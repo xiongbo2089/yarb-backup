@@ -9826,3 +9826,33 @@
   - [开发者技术支持 - 系统路由和动态路由技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03196940658471215)
 - 51CTO
   - [#星光不负 码向未来# 绣色应用 - 项目复盘文档](https://ost.51cto.com/posts/36859)
+- 51CTO
+  - [HarmonyOS 6 页面水印最佳实践：看得到、碰不到](https://ost.51cto.com/posts/36865)
+  - [#星光不负 码向未来# 鸿蒙应用开发者的真实故事](https://ost.51cto.com/posts/36838)
+- 鸿蒙官网
+  - [鸿蒙PC6尝鲜版patch03](https://developer.huawei.com/consumer/cn/blog/topic/03197112648817220)
+  - [鸿蒙6相机录像问题](https://developer.huawei.com/consumer/cn/blog/topic/03197112590332219)
+  - [【鸿蒙生态共建】一文讲清发布共享库至openharmony三方库中心仓时Module的配置-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03197108335790227)
+  - [一种十四级离子铁材料及其制备方法](https://developer.huawei.com/consumer/cn/blog/topic/03197069675488218)
+  - [BuilderParam 浅入浅出](https://developer.huawei.com/consumer/cn/blog/topic/03197066044323252)
+  - [一位学生的鸿蒙开发历程与发展【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03197057118690217)
+  - [鸿蒙技术资源全景：开启万物互联的开发新纪元](https://developer.huawei.com/consumer/cn/blog/topic/03197056562147250)
+  - [#星光不负 码向未来# 巧用鸿蒙分布式软总线 + 云测试，打造跨设备医疗数据协同工具](https://developer.huawei.com/consumer/cn/blog/topic/03197055411333226)
+  - [一种氧化硅超导单晶体的创新生产工艺及产品](https://developer.huawei.com/consumer/cn/blog/topic/03197052171290249)
+  - [星闪技术支持PCM/WAV格式的音频数据无损传输 ？](https://developer.huawei.com/consumer/cn/blog/topic/03197048672880225)
+  - [@Builder装饰器：自定义构建函数 怎么修改状态变量](https://developer.huawei.com/consumer/cn/blog/topic/03197047394332216)
+  - [华为星闪技术对音频的体验升级](https://developer.huawei.com/consumer/cn/blog/topic/03197046369078224)
+  - [国际SparkLink和大陆华为星闪NearLink](https://developer.huawei.com/consumer/cn/blog/topic/03197046147113215)
+  - [HarmonyOS  V2 状态管理中@Build 方法状态更新](https://developer.huawei.com/consumer/cn/blog/topic/03197033426519214)
+  - [开发者技术支持-自定义动态时钟组件技术案例总结](https://developer.huawei.com/consumer/cn/blog/topic/03197032376523223)
+  - [鸿蒙语言简介](https://developer.huawei.com/consumer/cn/blog/topic/03197023154273248)
+  - [鸿蒙6尝鲜版动画问题](https://developer.huawei.com/consumer/cn/blog/topic/03197021441467222)
+  - [鸿蒙6戴耳机时问题](https://developer.huawei.com/consumer/cn/blog/topic/03197021358453213)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.1 版本首曝，天气 App 将支持强提醒能力](https://www.ithome.com/0/893/103.htm)
+  - [同声传译等功能上线：华为首款开放式耳挂耳机 FreeArc 获 HarmonyOS 5.1.0.196 升级](https://www.ithome.com/0/893/095.htm)
+  - [微信鸿蒙版 App 获 8.0.12.16 邀测升级，新增红包封面功能](https://www.ithome.com/0/893/088.htm)
+  - [华为 FreeBuds 6 / 7i / Arc 耳机开启 HarmonyOS 6 音频产品体验官招募](https://www.ithome.com/0/893/055.htm)
+  - [IT之家征集：10 月份，你最想点赞哪一个鸿蒙应用？](https://www.ithome.com/0/893/053.htm)
+- 掘金社区
+  - [鸿蒙开发：web页面如何适配深色模式](https://juejin.cn/post/7565881810833784886)
