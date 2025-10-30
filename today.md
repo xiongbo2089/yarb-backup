@@ -9856,3 +9856,38 @@
   - [IT之家征集：10 月份，你最想点赞哪一个鸿蒙应用？](https://www.ithome.com/0/893/053.htm)
 - 掘金社区
   - [鸿蒙开发：web页面如何适配深色模式](https://juejin.cn/post/7565881810833784886)
+- 51CTO
+  - [#星光不负 码向未来# 从零到一教你在鸿蒙中实现微信分享–全流程](https://ost.51cto.com/posts/36876)
+  - [#星光不负 码向未来# 从前端到鸿蒙：一次“分布式签到”的落地复盘](https://ost.51cto.com/posts/36875)
+  - [#星光不负 码向未来# 鸿蒙next内购支付接入教程横空出世](https://ost.51cto.com/posts/36873)
+- 鸿蒙官网
+  - [开发者技术支持-文本转语音组件技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03197199463728229)
+  - [开发者技术支持-语音转文字适配案例技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03197199203882238)
+  - [开发者技术支持-半模态弹窗技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03197198760274237)
+  - [开发者技术支持-下拉刷新/上拉加载技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03197198216562209)
+  - [关于HarmonyOS 5 Liquid Glass Flux引入“液态玻璃”设计风格的优化建议](https://developer.huawei.com/consumer/cn/blog/topic/03197152182853208)
+  - [关于鸿蒙6引入“液态玻璃”设计风格的优化建议](https://developer.huawei.com/consumer/cn/blog/topic/03197151952161226)
+  - [一种金属硅超导电极及电池封装材料](https://developer.huawei.com/consumer/cn/blog/topic/03197145947395224)
+  - [鸿蒙开发软件在运动健康领域的体验](https://developer.huawei.com/consumer/cn/blog/topic/03197142414601233)
+  - [发布元服务配置应用分类、标签和资质信息](https://developer.huawei.com/consumer/cn/blog/topic/03197138227495232)
+  - [第一次开发鸿蒙原子化服务，完整步骤看这里](https://developer.huawei.com/consumer/cn/blog/topic/03197138000976206)
+  - [鸿蒙api12及以上实现Latex数学表达式](https://developer.huawei.com/consumer/cn/blog/topic/03197133087282223)
+  - [【Share Kit 分享服务】通过Share Kit接入碰一碰分享](https://developer.huawei.com/consumer/cn/blog/topic/03197129891595230)
+  - [原生AlertDialog.show开启的弹出确认框效果不好，自定义一个CustomDialog弹出框](https://developer.huawei.com/consumer/cn/blog/topic/03197121616668255)
+  - [Cliproxy代理IP与Kameleo指纹浏览器在自动化采集中的协同实践](https://developer.huawei.com/consumer/cn/blog/topic/03197120586756254)
+  - [wrapBuilder 全局封装@Builder的使用姿势](https://developer.huawei.com/consumer/cn/blog/topic/03197120156156205)
+  - [HarmonyOS行业解决方案提供各行业鸿蒙应用&元服务全流程技术方案](https://developer.huawei.com/consumer/cn/blog/topic/03197119969616222)
+  - [解锁鸿蒙生态，以认证为阶踏浪前行](https://developer.huawei.com/consumer/cn/blog/topic/03197118917692229)
+  - [华为AppGallery Connect中“项目”和“应用”的差别](https://developer.huawei.com/consumer/cn/blog/topic/03197117587716228)
+  - [鸿蒙PC6尝鲜版patch03](https://developer.huawei.com/consumer/cn/blog/topic/03197112648817220)
+  - [鸿蒙6相机录像问题](https://developer.huawei.com/consumer/cn/blog/topic/03197112590332219)
+  - [【鸿蒙生态共建】一文讲清发布共享库至openharmony三方库中心仓时Module的配置-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03197108335790227)
+- 博客园
+  - [开发上架鸿蒙应用，现金激励超亿元！ - 博客园团队](https://www.cnblogs.com/cmt/p/19175385)
+- 掘金社区
+  - [鸿蒙开发中快速获取相册图片的缩略图](https://juejin.cn/post/7566463693920845839)
+  - [HarmonyOS：弹出框层级管理](https://juejin.cn/post/7566195186751438888)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信员工：鸿蒙新版本正常推进内测，图片提取文字功能逐步放量中](https://www.ithome.com/0/893/362.htm)
+  - [微信鸿蒙版 App 获 8.0.12.32 邀测升级，网页支持全文翻译](https://www.ithome.com/0/893/337.htm)
+  - [QQ 鸿蒙版 App 开启 9.1.90 尝鲜升级，新增选图片支持切换系统相册目录等功能](https://www.ithome.com/0/893/247.htm)
