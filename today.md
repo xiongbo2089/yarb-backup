@@ -9924,3 +9924,21 @@
   - [微信鸿蒙版 App 获 8.0.12.33 邀测升级，部分搜索合成表情支持显示相关专辑来源](https://www.ithome.com/0/893/673.htm)
 - 掘金社区
   - [鸿蒙HDF框架源码分析](https://juejin.cn/post/7566626899578880027)
+- 51CTO
+  - [#星光不负 码向未来# 《宠知汇》应用案例热点技术解析](https://ost.51cto.com/posts/36930)
+  - [#星光不负 码向未来#完全用AI来写HarmonyOS应用会怎么样？](https://ost.51cto.com/posts/36939)
+- 鸿蒙官网
+  - [为什么说科技可以强国](https://developer.huawei.com/consumer/cn/blog/topic/03197365789958243)
+  - [一、 轻松使用@Reusable组件复用装饰器](https://developer.huawei.com/consumer/cn/blog/topic/03197336730020217)
+  - [【华为开发者布道师技术沙龙】基于HarmongOS生态的大赛案例分享](https://developer.huawei.com/consumer/cn/blog/topic/03197331733986267)
+  - [我的鸿蒙开发入门之旅：从理论到代码实践的成长记录](https://developer.huawei.com/consumer/cn/blog/topic/03197310589671264)
+  - [元服务发布配置开发者服务信息](https://developer.huawei.com/consumer/cn/blog/topic/03197309314057242)
+  - [HarmonyOS6.0原子化服务，服务页面(ets/pages)与卡片(widget/pages)的区别](https://developer.huawei.com/consumer/cn/blog/topic/03197294318360263)
+  - [鸿蒙应用开发小鱼易连 SDK 接入实践：从架构设计到核心实现](https://developer.huawei.com/consumer/cn/blog/topic/03197286824507214)
+  - [HarmonyOS6手机版小艺智能体问题](https://developer.huawei.com/consumer/cn/blog/topic/03197284423442213)
+  - [鸿蒙4.2.185版本与鸿蒙电脑多屏协同](https://developer.huawei.com/consumer/cn/blog/topic/03197284354837212)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [IT之家鸿蒙生态 10 月“星”榜单发布：HarmonyOS 6 发布，独家、首发应用和功能加速涌现](https://www.ithome.com/0/893/931.htm)
+  - [IT之家鸿蒙版 6.10 发布：评论段落定位，多项修复优化](https://www.ithome.com/0/893/849.htm)
+- 开源中国
+  - [国内首款鸿蒙人形机器人光谷亮相](https://www.oschina.net/news/380612)
