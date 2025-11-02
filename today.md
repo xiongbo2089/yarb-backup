@@ -9942,3 +9942,10 @@
   - [IT之家鸿蒙版 6.10 发布：评论段落定位，多项修复优化](https://www.ithome.com/0/893/849.htm)
 - 开源中国
   - [国内首款鸿蒙人形机器人光谷亮相](https://www.oschina.net/news/380612)
+- 鸿蒙官网
+  - [@LocalStorageProp 与 @LocalStorageLink 的区别与应用](https://developer.huawei.com/consumer/cn/blog/topic/03197401131800269)
+  - [鸿蒙开发之屏幕旋转](https://developer.huawei.com/consumer/cn/blog/topic/03197384522275244)
+- GitHub
+  - [NextAI](https://github.com/Chen-ce/NextAI)
+- 掘金社区
+  - [（2）Kotlin/Js For Harmony——如何复用ViewModel](https://juejin.cn/post/7567220436423000100)
