@@ -9949,3 +9949,18 @@
   - [NextAI](https://github.com/Chen-ce/NextAI)
 - 掘金社区
   - [（2）Kotlin/Js For Harmony——如何复用ViewModel](https://juejin.cn/post/7567220436423000100)
+- 鸿蒙官网
+  - [HarmonyOS6下个版本啥时候推送啊](https://developer.huawei.com/consumer/cn/blog/topic/03197536835657252)
+  - [鸿蒙4.2.185](https://developer.huawei.com/consumer/cn/blog/topic/03197536795253278)
+  - [浅入@Track装饰器类对象属性级更新](https://developer.huawei.com/consumer/cn/blog/topic/03197503944830275)
+  - [【鸿蒙生态共建】一文讲清如何复用openharmony三方库中心仓中的共享库-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03197498816923251)
+  - [解决错误：A page configured in 'main_pages.json or build-profile.json5' must have one and only one '@Entry' decorator.](https://developer.huawei.com/consumer/cn/blog/topic/03197480558150224)
+  - [鸿蒙http编程系列<1>:  封装httpRequest接口](https://developer.huawei.com/consumer/cn/blog/topic/03197465988729223)
+  - [鸿蒙6.0.0.108 (SP6C00E107R7P4patch03)](https://developer.huawei.com/consumer/cn/blog/topic/03197458265895222)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0 小艺修图智能体预计 11 月完成推送，支持用户自由创作编辑、连续实时修图](https://www.ithome.com/0/894/357.htm)
+  - [小音量底噪问题优化，华为 FreeClip 2 耳夹耳机获 HarmonyOS 5.1.0.158 升级](https://www.ithome.com/0/894/313.htm)
+  - [华为 MateBook Pro 笔记本获 HarmonyOS 5.1.0.320SP36 升级，新增触控板边缘滑动调节音量 / 亮度开关](https://www.ithome.com/0/894/302.htm)
+- 博客园
+  - [【FAQ】HarmonyOS SDK 闭源开放能力 — Background Tasks Kit - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19186304)
+  - [上周热点回顾（10.27-11.2） - 博客园团队](https://www.cnblogs.com/cmt/p/19185879)
