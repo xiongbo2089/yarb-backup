@@ -9964,3 +9964,21 @@
 - 博客园
   - [【FAQ】HarmonyOS SDK 闭源开放能力 — Background Tasks Kit - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19186304)
   - [上周热点回顾（10.27-11.2） - 博客园团队](https://www.cnblogs.com/cmt/p/19185879)
+- 鸿蒙官网
+  - [开发者技术支持-全局加载动画技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03197632911163229)
+  - [鸿蒙6110版本还没给pro＋推送](https://developer.huawei.com/consumer/cn/blog/topic/03197625420803228)
+  - [鸿蒙6PC与手机多屏协同](https://developer.huawei.com/consumer/cn/blog/topic/03197625371324243)
+  - [鸿蒙http编程系列<3>: 简单的RCP上传文件](https://developer.huawei.com/consumer/cn/blog/topic/03197590447286242)
+  - [鸿蒙http编程系列<2>: 简单的RCP拦截器的封装](https://developer.huawei.com/consumer/cn/blog/topic/03197585580883254)
+  - [中华有为](https://developer.huawei.com/consumer/cn/blog/topic/03197585560495240)
+  - [中国芯](https://developer.huawei.com/consumer/cn/blog/topic/03197585448097253)
+  - [鸿蒙项目中实现类似web项目中的.env环境变量配置的功能](https://developer.huawei.com/consumer/cn/blog/topic/03197582139332281)
+  - [元服务发布选择待发布软件包](https://developer.huawei.com/consumer/cn/blog/topic/03197571477981227)
+  - [开发者技术支持-防重复点击适配案例技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03197569587663226)
+  - [浅入@ObservedV2装饰器和@Trace装饰器](https://developer.huawei.com/consumer/cn/blog/topic/03197563374325280)
+  - [Android端的SHA256WithRSA签名算法在HarmonyOS端的实现](https://developer.huawei.com/consumer/cn/blog/topic/03197552842361279)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.110 SP8 全面推送，小艺任务 / 帮帮忙等功能上线](https://www.ithome.com/0/894/628.htm)
+  - [华为 Pura 80 系列手机获鸿蒙 Harmony 6.0.0.110 SP18 升级，小艺新增帮帮忙等功能](https://www.ithome.com/0/894/528.htm)
+- 开源中国
+  - [余承东致员工信：鸿蒙 5 搭载设备已突破 2300 万](https://www.oschina.net/news/381365)
