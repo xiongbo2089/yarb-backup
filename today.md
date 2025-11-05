@@ -9982,3 +9982,20 @@
   - [华为 Pura 80 系列手机获鸿蒙 Harmony 6.0.0.110 SP18 升级，小艺新增帮帮忙等功能](https://www.ithome.com/0/894/528.htm)
 - 开源中国
   - [余承东致员工信：鸿蒙 5 搭载设备已突破 2300 万](https://www.oschina.net/news/381365)
+- 鸿蒙官网
+  - [鸿蒙HarmonyOS开源项目：知乎日报-爱影家-爱音乐-后台接口资源分享](https://developer.huawei.com/consumer/cn/blog/topic/03197717218623233)
+  - [鸿蒙6110版本](https://developer.huawei.com/consumer/cn/blog/topic/03197708467376232)
+  - [鸿蒙PC还没推送107sp9，patch05](https://developer.huawei.com/consumer/cn/blog/topic/03197708407474287)
+  - [为什么说科技可以强国](https://developer.huawei.com/consumer/cn/blog/topic/03197672816255285)
+  - [onPop回调异常问题，跳转完成后调用了pageStack.pop，跳转时也注册了onPop: () => {}回调，但是没有调用进来](https://developer.huawei.com/consumer/cn/blog/topic/03197656846075244)
+  - [鸿蒙新闻行业解决方案助力行业应用体验变革，开发效率提升50%](https://developer.huawei.com/consumer/cn/blog/topic/03197648114663284)
+  - [Harmony代码编写规范](https://developer.huawei.com/consumer/cn/blog/topic/03197637835061282)
+  - [浅入@Local装饰器:组件内部状态](https://developer.huawei.com/consumer/cn/blog/topic/03197637455111231)
+  - [鸿蒙app开发中 list 列表 一次加载上万条数据如何解决](https://developer.huawei.com/consumer/cn/blog/topic/03197637242337230)
+  - [开发随记-HashMap的静态初始化](https://developer.huawei.com/consumer/cn/blog/topic/03197636890135256)
+  - [开发者技术支持-全局加载动画技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03197632911163229)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [新增支持快捷打开支付应用，华为 WATCH FIT 3 手表获 HarmonyOS 5.0.0.28 升级](https://www.ithome.com/0/894/909.htm)
+  - [测试范围扩大，微信鸿蒙版 App 获 8.0.12.36 邀测升级](https://www.ithome.com/0/894/901.htm)
+- 掘金社区
+  - [鸿蒙通用属性与Stack容器性能优化](https://juejin.cn/post/7568323565772652580)
