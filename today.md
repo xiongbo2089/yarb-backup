@@ -10073,3 +10073,11 @@
   - [Ability 核心概念](https://developer.huawei.com/consumer/cn/blog/topic/03197891020810245)
 - 掘金社区
   - [鸿蒙线性布局Row和Column详解](https://juejin.cn/post/7569537693500424235)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 8.0.12.39 尝鲜升级，小程序桌面添加数量上限调为 10 个](https://www.ithome.com/0/895/999.htm)
+- 鸿蒙官网
+  - [浅入@Provider装饰器和@Consumer装饰器:跨组件层级双向同步](https://developer.huawei.com/consumer/cn/blog/topic/03198028461238014)
+  - [一种高密度硅晶体的制备方法及产品](https://developer.huawei.com/consumer/cn/blog/topic/03198015247114012)
+  - [cangjie 遍历string](https://developer.huawei.com/consumer/cn/blog/topic/03198005959351311)
+  - [一种金属铜硅系列算力芯片及其制备方法](https://developer.huawei.com/consumer/cn/blog/topic/03197997267493254)
+  - [企微ipad协议：消息上行通道的加密流实现](https://developer.huawei.com/consumer/cn/blog/topic/03197986639956273)
