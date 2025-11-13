@@ -10149,3 +10149,27 @@
   - [HarmonyOS通过wifiManager来连接Wi-Fi](https://developer.huawei.com/consumer/cn/blog/topic/03198231896642270)
 - 掘金社区
   - [鸿蒙开发：this的指向问题](https://juejin.cn/post/7570995368739504170)
+- 鸿蒙官网
+  - [HarmonyOS preview 预览文件 Kit 的入门讲解](https://developer.huawei.com/consumer/cn/blog/topic/03198406574248007)
+  - [鸿蒙6信号切换慢](https://developer.huawei.com/consumer/cn/blog/topic/03198402967353006)
+  - [鸿蒙6110sp8patch02问题](https://developer.huawei.com/consumer/cn/blog/topic/03198402888328295)
+  - [星盾](https://developer.huawei.com/consumer/cn/blog/topic/03198371225534294)
+  - [浅入PersistenceV2: 持久化储存UI状态](https://developer.huawei.com/consumer/cn/blog/topic/03198369898358293)
+  - [Huawei: Pioneering a Fully Connected, Intelligent World](https://developer.huawei.com/consumer/cn/blog/topic/03198363316140274)
+  - [数实融合的技术赋能者](https://developer.huawei.com/consumer/cn/blog/topic/03198363152878003)
+  - [CodeGenie AI插件提问--backgroundImage能传入svg图片吗](https://developer.huawei.com/consumer/cn/blog/topic/03198352870563290)
+  - [开发者技术支持-设备发现及设备WiFi连接技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03198350671905034)
+  - [开发者技术支持-基于天气状态的动态背景图实现案例技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03198347933600329)
+  - [开发者技术支持-碰一碰分享实现案例技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03198347775779328)
+  - [# 星闪(NearLink)相关API调用](https://developer.huawei.com/consumer/cn/blog/topic/03198345396954002)
+  - [一种金属镓硅显示超导芯片及其制备方法](https://developer.huawei.com/consumer/cn/blog/topic/03198340629256033)
+  - [【鸿蒙6.0.0.110 SP97】版本开发者版本定向招募活动-有兴趣可以报名](https://developer.huawei.com/consumer/cn/blog/topic/03198321325715028)
+  - [鸿蒙6110sp8，patch08问题](https://developer.huawei.com/consumer/cn/blog/topic/03198320510735269)
+  - [鸿蒙电脑学习通问题](https://developer.huawei.com/consumer/cn/blog/topic/03198320454725274)
+  - [记第一次鸿蒙应用上架之旅：一场略带遗憾的旅途](https://developer.huawei.com/consumer/cn/blog/topic/03198319380021268)
+  - [HarmonyOS 打印 API 完整示例](https://developer.huawei.com/consumer/cn/blog/topic/03198319263439273)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 8.0.12.43 尝鲜升级，红包封面自定义功能逐步开放中](https://www.ithome.com/0/897/032.htm)
+  - [电脑账单手机付：华为鸿蒙 HarmonyOS 系统“隔空支付”功能曝光](https://www.ithome.com/0/896/988.htm)
+- 掘金社区
+  - [鸿蒙相对布局RelativeContainer详解](https://juejin.cn/post/7571641339688960000)
