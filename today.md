@@ -10173,3 +10173,21 @@
   - [电脑账单手机付：华为鸿蒙 HarmonyOS 系统“隔空支付”功能曝光](https://www.ithome.com/0/896/988.htm)
 - 掘金社区
   - [鸿蒙相对布局RelativeContainer详解](https://juejin.cn/post/7571641339688960000)
+- 鸿蒙官网
+  - [鸿蒙电脑问题](https://developer.huawei.com/consumer/cn/blog/topic/03198494656461019)
+  - [鸿蒙6优化问题](https://developer.huawei.com/consumer/cn/blog/topic/03198494590302301)
+  - [SSE使用POST请求调用大模型流式输出](https://developer.huawei.com/consumer/cn/blog/topic/03198456526124300)
+  - [星盾介绍](https://developer.huawei.com/consumer/cn/blog/topic/03198455425345299)
+  - [【鸿蒙生态共建】一文讲清窗口（window）的基础用法（二）-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03198451608763298)
+  - [浅入Repeat：子组件复用](https://developer.huawei.com/consumer/cn/blog/topic/03198444499085015)
+  - [多种方式实现字体渐变效果](https://developer.huawei.com/consumer/cn/blog/topic/03198443749854297)
+  - [Column和Row组件中子组件中上下左右居中对齐的吗](https://developer.huawei.com/consumer/cn/blog/topic/03198437749887014)
+  - [开发者技术支持-APP启动引导与操作指引技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03198437536158296)
+  - [CodeGenieAI插件提问--子组件中上下左右居中对齐，Column和Row组件设置相同吗](https://developer.huawei.com/consumer/cn/blog/topic/03198435146912013)
+  - [Markdown组件 @luvi/lv-markdown-in 代码块复制操作指导](https://developer.huawei.com/consumer/cn/blog/topic/03198432164313012)
+  - [AVPlayer播放Http在线视频](https://developer.huawei.com/consumer/cn/blog/topic/03198430203520010)
+  - [一种超导金属硒硅芯片及其制备方法](https://developer.huawei.com/consumer/cn/blog/topic/03198425098653042)
+  - [使用PixelMap+Canvas实现图片的旋转+预览，并同时裁剪出等高的长方形(宽高比2:1)、正方形PixelMap](https://developer.huawei.com/consumer/cn/blog/topic/03198413428336008)
+  - [HarmonyOS preview 预览文件 Kit 的入门讲解](https://developer.huawei.com/consumer/cn/blog/topic/03198406574248007)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [爱优腾终聚首：华为鸿蒙视频 App 放开爱奇艺账号绑定，可看独家版权内容](https://www.ithome.com/0/897/320.htm)
