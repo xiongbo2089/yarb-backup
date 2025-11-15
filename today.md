@@ -10191,3 +10191,25 @@
   - [HarmonyOS preview 预览文件 Kit 的入门讲解](https://developer.huawei.com/consumer/cn/blog/topic/03198406574248007)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [爱优腾终聚首：华为鸿蒙视频 App 放开爱奇艺账号绑定，可看独家版权内容](https://www.ithome.com/0/897/320.htm)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.112 版本首曝，支持电脑投平板](https://www.ithome.com/0/897/612.htm)
+- 鸿蒙官网
+  - [从 “技术突围” 到 “价值落地”：华为的新增长逻辑](https://developer.huawei.com/consumer/cn/blog/topic/03198537361623007)
+  - [从 “活下去” 到 “引领者”：华为的三十年科技长征](https://developer.huawei.com/consumer/cn/blog/topic/03198537265784006)
+  - [wifi:使用connectToCandidateConfig连接指定wifi没有弹窗](https://developer.huawei.com/consumer/cn/blog/topic/03198527412937005)
+  - [换昵称啦。GeorgeGcs替换为GeorgePanda。](https://developer.huawei.com/consumer/cn/blog/topic/03198526774358004)
+  - [【HarmonyOS 6】SpeechKit中的朗读控件，初始化前不进行窗口舞台的设置，也不会报错，与文档描述不符。](https://developer.huawei.com/consumer/cn/blog/topic/03198522662525005)
+  - [【HarmonyOS 6】静态和动态添加应用快捷方式详解](https://developer.huawei.com/consumer/cn/blog/topic/03198521354475004)
+  - [Markdown代码工坊 正式上线！](https://developer.huawei.com/consumer/cn/blog/topic/03198512458222002)
+  - [开发者技术支持-蓝牙设备搜索及连接技术方案总结](https://developer.huawei.com/consumer/cn/blog/topic/03198511620009026)
+  - [PersistentStorage、Preferences 的区别 和 Preferences 、 RDB 区别](https://developer.huawei.com/consumer/cn/blog/topic/03198511267186305)
+  - [一种高性能锰锌铁氧体磁块及其制备方法与应用](https://developer.huawei.com/consumer/cn/blog/topic/03198503201029025)
+  - [HarmonyOS 6.0 服务卡片实战：把「轻食刻」装进桌面，让轻断食一眼可控](https://developer.huawei.com/consumer/cn/blog/topic/03198500826932304)
+  - [@Provide/@Consume 的数据更新机制 注意事项](https://developer.huawei.com/consumer/cn/blog/topic/03198499604725303)
+  - [鸿蒙 Next 如何使用 AVRecorder 从0到1实现视频录制功能（ArkTS）](https://developer.huawei.com/consumer/cn/blog/topic/03198498670966021)
+  - [开发者技术支持-录屏功能实现案例技术总结](https://developer.huawei.com/consumer/cn/blog/topic/03198498653864302)
+  - [鸿蒙电脑问题](https://developer.huawei.com/consumer/cn/blog/topic/03198494656461019)
+  - [鸿蒙6优化问题](https://developer.huawei.com/consumer/cn/blog/topic/03198494590302301)
+- 掘金社区
+  - [【HarmonyOS 6】SpeechKit中的朗读控件，初始化前不进行窗口舞台的设置，也不会报错，与文档描述不符。](https://juejin.cn/post/7572389069706280970)
+  - [【HarmonyOS 6】静态和动态添加应用快捷方式详解](https://juejin.cn/post/7572387877138776074)
