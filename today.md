@@ -10213,3 +10213,7 @@
 - 掘金社区
   - [【HarmonyOS 6】SpeechKit中的朗读控件，初始化前不进行窗口舞台的设置，也不会报错，与文档描述不符。](https://juejin.cn/post/7572389069706280970)
   - [【HarmonyOS 6】静态和动态添加应用快捷方式详解](https://juejin.cn/post/7572387877138776074)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 MatePad Mini 小平板获鸿蒙 HarmonyOS 5.1.0.265 SP3 升级，多设备通信共享优化](https://www.ithome.com/0/897/705.htm)
+- 鸿蒙官网
+  - [鸿蒙next-使用pushService.receiveMessage接口接收数据](https://developer.huawei.com/consumer/cn/blog/topic/03198611273400008)
