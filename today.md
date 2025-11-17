@@ -10217,3 +10217,16 @@
   - [华为 MatePad Mini 小平板获鸿蒙 HarmonyOS 5.1.0.265 SP3 升级，多设备通信共享优化](https://www.ithome.com/0/897/705.htm)
 - 鸿蒙官网
   - [鸿蒙next-使用pushService.receiveMessage接口接收数据](https://developer.huawei.com/consumer/cn/blog/topic/03198611273400008)
+- 鸿蒙官网
+  - [鸿蒙6多来几个更新吧](https://developer.huawei.com/consumer/cn/blog/topic/03198755359198027)
+  - [6.0.0.110 (SP8C00E110R7P5patch10)](https://developer.huawei.com/consumer/cn/blog/topic/03198755306949029)
+  - [剖析深色模式适配方案](https://developer.huawei.com/consumer/cn/blog/topic/03198714969895024)
+  - [从算力突围到智能共振：华为的新质生产力实践之路](https://developer.huawei.com/consumer/cn/blog/topic/03198710700884028)
+  - [从技术自主到生态共荣：华为的数字底座攻坚之路](https://developer.huawei.com/consumer/cn/blog/topic/03198710549274027)
+  - [【鸿蒙生态共建】一文讲清窗口（window）的基础用法（三）数据状态变更的同步-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03198702171349026)
+  - [采用规范驱动开发AI辅助开发仓颉第三方库UMI-ORM](https://developer.huawei.com/consumer/cn/blog/topic/03198695458774023)
+  - [第十四篇：Harmony OS 场景十一：自定义TabBar页签](https://developer.huawei.com/consumer/cn/blog/topic/03198682607312011)
+  - [游戏的稳定性](https://developer.huawei.com/consumer/cn/blog/topic/03198678462331016)
+  - [早上更新的patch10补丁包](https://developer.huawei.com/consumer/cn/blog/topic/03198678410300015)
+- 掘金社区
+  - [鸿蒙Text文本设置选中菜单和AI菜单](https://juejin.cn/post/7572781559767679026)
