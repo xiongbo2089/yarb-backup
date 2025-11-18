@@ -10230,3 +10230,23 @@
   - [早上更新的patch10补丁包](https://developer.huawei.com/consumer/cn/blog/topic/03198678410300015)
 - 掘金社区
   - [鸿蒙Text文本设置选中菜单和AI菜单](https://juejin.cn/post/7572781559767679026)
+- 鸿蒙官网
+  - [6.0.0.110（patch10）](https://developer.huawei.com/consumer/cn/blog/topic/03198831839758036)
+  - [【鸿蒙生态共建】一文讲清可空变量的操作符与应用示例-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03198830651226035)
+  - [MVVM V2状态管理 开发模式，看完即懂！](https://developer.huawei.com/consumer/cn/blog/topic/03198804825947006)
+  - [多端分发机制](https://developer.huawei.com/consumer/cn/blog/topic/03198803053291034)
+  - [ohos_highlightguide动态场景使用示例](https://developer.huawei.com/consumer/cn/blog/topic/03198801455770004)
+  - [在一个普通的class里拉起dialog](https://developer.huawei.com/consumer/cn/blog/topic/03198799884856033)
+  - [清理app缓存的代码](https://developer.huawei.com/consumer/cn/blog/topic/03198798747195032)
+  - [TypeScript 与 ArkTS 全面对比：鸿蒙生态下的语言演进](https://developer.huawei.com/consumer/cn/blog/topic/03198782892249030)
+  - [基于rcp封装的XApi网络请求](https://developer.huawei.com/consumer/cn/blog/topic/03198782134133033)
+  - [配置本地化基础信息（介绍、特性）](https://developer.huawei.com/consumer/cn/blog/topic/03198779165037029)
+  - [鸿蒙flutter编译步骤](https://developer.huawei.com/consumer/cn/blog/topic/03198774042450032)
+  - [一键配置！咕泡AI云实验室全面升级！](https://developer.huawei.com/consumer/cn/blog/topic/03198757354566028)
+  - [鸿蒙6多来几个更新吧](https://developer.huawei.com/consumer/cn/blog/topic/03198755359198027)
+  - [6.0.0.110 (SP8C00E110R7P5patch10)](https://developer.huawei.com/consumer/cn/blog/topic/03198755306949029)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.112 SP22 更新日志曝光，App 可收纳至应用中心](https://www.ithome.com/0/898/090.htm)
+- 掘金社区
+  - [鸿蒙开发：支持自定义组件的跑马灯](https://juejin.cn/post/7573549302620045355)
+  - [HarmonyOS：弹出框控制器](https://juejin.cn/post/7572537221541969935)
