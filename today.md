@@ -10374,3 +10374,12 @@
   - [性能优化 | HarmonyOS预加载，三步即可提升APP页面的响应速度 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19253670)
 - 掘金社区
   - [HarmonyOS：属性动画](https://juejin.cn/post/7574803558878396431)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 公众号推送流灰度更新，列表显示变更为图文卡片模式](https://www.ithome.com/0/899/509.htm)
+  - [防误删：华为鸿蒙 HarmonyOS 6.0.0.112 再添新特性，卸载微信可保留应用本地数据](https://www.ithome.com/0/899/496.htm)
+- 鸿蒙官网
+  - [getContext() 废弃的原因和替代方案](https://developer.huawei.com/consumer/cn/blog/topic/03199216508136092)
+  - [高斯能量](https://developer.huawei.com/consumer/cn/blog/topic/03199206488325089)
+  - [第十五篇：Harmony OS 场景十二：不同形式的对话框（bindPopup）](https://developer.huawei.com/consumer/cn/blog/topic/03199202962288088)
+- 掘金社区
+  - [（6）Kotlin/Js For Harmony——ArkTs 开发工具套件](https://juejin.cn/post/7575006095389769737)
