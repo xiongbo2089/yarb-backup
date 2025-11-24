@@ -10383,3 +10383,18 @@
   - [第十五篇：Harmony OS 场景十二：不同形式的对话框（bindPopup）](https://developer.huawei.com/consumer/cn/blog/topic/03199202962288088)
 - 掘金社区
   - [（6）Kotlin/Js For Harmony——ArkTs 开发工具套件](https://juejin.cn/post/7575006095389769737)
+- 鸿蒙官网
+  - [从0使用Kuikly框架写一个小红书Demo-Day3](https://developer.huawei.com/consumer/cn/blog/topic/03199359427546079)
+  - [【HarmonyOS 6】在UI控件上滑动也会触发onClick点击事件？](https://developer.huawei.com/consumer/cn/blog/topic/03199325462122078)
+  - [【HarmonyOS 6】为什么getContext 废弃，使用getHostContext说明](https://developer.huawei.com/consumer/cn/blog/topic/03199322078247044)
+  - [组件刷新踩雷](https://developer.huawei.com/consumer/cn/blog/topic/03199286508531076)
+  - [电池问题](https://developer.huawei.com/consumer/cn/blog/topic/03199276294805036)
+  - [鸿蒙6112版本锁屏壁纸问题](https://developer.huawei.com/consumer/cn/blog/topic/03199276186879043)
+- GitHub
+  - [jingmo-for-HarmonyOS](https://github.com/hefengbao/jingmo-for-HarmonyOS)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [还有“隐藏”特性：华为鸿蒙小艺助理支持游戏场景“智能声控”功能](https://www.ithome.com/0/899/556.htm)
+  - [领先 iOS 版：美团“拼好饭”首发接入华为鸿蒙实况窗功能](https://www.ithome.com/0/899/533.htm)
+- 掘金社区
+  - [【HarmonyOS 6】在UI控件上滑动也会触发onClick点击事件？](https://juejin.cn/post/7575413146921811983)
+  - [【HarmonyOS 6】为什么getContext 废弃，使用getHostContext说明](https://juejin.cn/post/7575413146921631759)
