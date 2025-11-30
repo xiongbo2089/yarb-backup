@@ -10526,3 +10526,9 @@
   - [从0开始学习成为一名华为开发者](https://developer.huawei.com/consumer/cn/blog/topic/03199707199174072)
   - [我让AI用Kuikly写了个“孤寡青蛙”App，一码五端真丝滑！](https://developer.huawei.com/consumer/cn/blog/topic/03199706373358077)
   - [从0使用Kuikly框架写一个小红书Demo-Day5](https://developer.huawei.com/consumer/cn/blog/topic/03199704726832101)
+- 鸿蒙官网
+  - [用户首选项（Preferences）读取](https://developer.huawei.com/consumer/cn/blog/topic/03199815635208129)
+  - [2025 “液态玻璃时代” 六大跨端框架横向对比，为何最终倾向Kuikly？](https://developer.huawei.com/consumer/cn/blog/topic/03199813658252105)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [5A 先进通信技术外显：华为 Mate 70 Air 手机获鸿蒙 HarmonyOS 6.0.0.115 SP6 升级](https://www.ithome.com/0/901/271.htm)
+  - [老机也将告别无 G：消息称华为多数机型升级鸿蒙 HarmonyOS 6.0.0.115 版本信号栏可见 5A](https://www.ithome.com/0/901/228.htm)
