@@ -10532,3 +10532,18 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [5A 先进通信技术外显：华为 Mate 70 Air 手机获鸿蒙 HarmonyOS 6.0.0.115 SP6 升级](https://www.ithome.com/0/901/271.htm)
   - [老机也将告别无 G：消息称华为多数机型升级鸿蒙 HarmonyOS 6.0.0.115 版本信号栏可见 5A](https://www.ithome.com/0/901/228.htm)
+- 鸿蒙官网
+  - [学习《应用程序框架基础》的知识点思维导图](https://developer.huawei.com/consumer/cn/blog/topic/03199964098043091)
+  - [鸿蒙生态三剑客：ArkTS、ArkTS Web、ArkTS UI](https://developer.huawei.com/consumer/cn/blog/topic/03199962635159080)
+  - [更新112版本之后帧率不稳定](https://developer.huawei.com/consumer/cn/blog/topic/03199961757812109)
+  - [星盾](https://developer.huawei.com/consumer/cn/blog/topic/03199928293067090)
+  - [Pura 80系列何时能更新115版本](https://developer.huawei.com/consumer/cn/blog/topic/03199909584685131)
+  - [112patch09版本问题](https://developer.huawei.com/consumer/cn/blog/topic/03199909470525089)
+  - [案例集合Tabs：原生tab | 自定义tab 背景模糊](https://developer.huawei.com/consumer/cn/blog/topic/03199903032201088)
+  - [AI+Kuikly自研DSL初体验：让UI开发更简洁优雅](https://developer.huawei.com/consumer/cn/blog/topic/03199898201243108)
+  - [企业微信ipad协议：语音通信帧的实时拆解与优化](https://developer.huawei.com/consumer/cn/blog/topic/03199886457453086)
+  - [【鸿蒙生态共建】一文讲清耗时操作对定时器的超时事件影响及解决方案-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03199882716582085)
+  - [关于5A标志的几点看法](https://developer.huawei.com/consumer/cn/blog/topic/03199882619147079)
+  - [《鸿蒙生态下的声明式编程革命：ArkTS语言的创新实践与高级技巧》](https://developer.huawei.com/consumer/cn/blog/topic/03199882055796107)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 6.0.0.115 SP16 版本开推，首批适配机型含 nova 14、Pura 80 系列等](https://www.ithome.com/0/901/461.htm)
