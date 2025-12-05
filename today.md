@@ -10642,3 +10642,28 @@
 - 掘金社区
   - [HarmonyOS：转场动画-模态转场](https://juejin.cn/post/7579476335557214243)
   - [HarmonyOS：转场动画](https://juejin.cn/post/7579476335557181475)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 获 8.0.13.34 正式版更新，实况照片查看功能扩大测试范围](https://www.ithome.com/0/902/349.htm)
+- 鸿蒙官网
+  - [手势 事件 事件传递 触摸测试 组合手势 HitTestMode 返回时回退Web浏览记录](https://developer.huawei.com/consumer/cn/blog/topic/03200309125316160)
+  - [鸿蒙如何实现短时震动](https://developer.huawei.com/consumer/cn/blog/topic/03200273715053112)
+  - [鸿蒙实现默认界面的扫码](https://developer.huawei.com/consumer/cn/blog/topic/03200271725640111)
+  - [关于RSA下签名与签名恢复](https://developer.huawei.com/consumer/cn/blog/topic/03200270792675110)
+  - [苹果电脑如何读写NTFS移动硬盘？](https://developer.huawei.com/consumer/cn/blog/topic/03200264237739127)
+  - [案例集合List：ListItem拖拽（交换位置，过渡动画）](https://developer.huawei.com/consumer/cn/blog/topic/03200262933515159)
+  - [Lottie动画](https://developer.huawei.com/consumer/cn/blog/topic/03200250035150123)
+  - [元服务配置备案信息](https://developer.huawei.com/consumer/cn/blog/topic/03200247129329158)
+  - [DevEco Studio软件开发设计常用功能（王者开发）](https://developer.huawei.com/consumer/cn/blog/topic/03200246138967122)
+  - [鸿蒙6115优化问题](https://developer.huawei.com/consumer/cn/blog/topic/03200244114623157)
+  - [理解触摸测试控制（HitTestMode）](https://developer.huawei.com/consumer/cn/blog/topic/03200244084035121)
+  - [鸿蒙6115版本问题](https://developer.huawei.com/consumer/cn/blog/topic/03200243991710108)
+  - [怎么结合Lingma和CodeGenie提高开发效率](https://developer.huawei.com/consumer/cn/blog/topic/03200243625015125)
+  - [触摸测试的概念 及 干预命中的方法](https://developer.huawei.com/consumer/cn/blog/topic/03200241584350107)
+  - [HarmonyOS —— 资源分类与访问 速记 & 实战笔记（ArkTS）](https://developer.huawei.com/consumer/cn/blog/topic/03200240566541106)
+  - [发布元服务提交审核](https://developer.huawei.com/consumer/cn/blog/topic/03200240387205124)
+  - [福昕高级PDF编辑器，让你解锁“躺平办公”！](https://developer.huawei.com/consumer/cn/blog/topic/03200238154188105)
+  - [企业级AI知识库：让每个员工都拥有一个24小时在线的智能助手](https://developer.huawei.com/consumer/cn/blog/topic/03200226121956156)
+  - [企业微信ipad协议：下行语音帧零拷贝转码方案](https://developer.huawei.com/consumer/cn/blog/topic/03200225215293123)
+- 掘金社区
+  - [HarmonyOS：粒子动画](https://juejin.cn/post/7579811819667931188)
+  - [HarmonyOS：转场动画--共享元素转场 (一镜到底)](https://juejin.cn/post/7579892222608375843)
