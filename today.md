@@ -10667,3 +10667,21 @@
 - 掘金社区
   - [HarmonyOS：粒子动画](https://juejin.cn/post/7579811819667931188)
   - [HarmonyOS：转场动画--共享元素转场 (一镜到底)](https://juejin.cn/post/7579892222608375843)
+- 鸿蒙官网
+  - [功能模块添加](https://developer.huawei.com/consumer/cn/blog/topic/03200359896427169)
+  - [list和foreach用法举例](https://developer.huawei.com/consumer/cn/blog/topic/03200359789218129)
+  - [  HarmonyOS —— 日程管理功能详解](https://developer.huawei.com/consumer/cn/blog/topic/03200343525112121)
+  - [灵犀遥控器焦点适配之滑动触发点击获焦的bug解决办法](https://developer.huawei.com/consumer/cn/blog/topic/03200337120136120)
+  - [Kuikly基础之Kuikly DSL基础组件实战：构建青蛙主界面](https://developer.huawei.com/consumer/cn/blog/topic/03200337080006127)
+  - [如何快速的从0开始搭建项目](https://developer.huawei.com/consumer/cn/blog/topic/03200330949967165)
+  - [案例集合List：ListItem拖拽（交换位置，过渡动画）（性能篇）](https://developer.huawei.com/consumer/cn/blog/topic/03200330796481118)
+  - [HarmonyOS NEXT 携手 AI，以 DeepSeek 赋能智能助手 APP 新体验](https://developer.huawei.com/consumer/cn/blog/topic/03200326815233163)
+  - [企业微信ipad协议：语音通信帧零拷贝转码方案](https://developer.huawei.com/consumer/cn/blog/topic/03200324543092162)
+  - [关于如何裁剪预览流照片，以预览流中识别二维码为例](https://developer.huawei.com/consumer/cn/blog/topic/03200320720125117)
+  - [.navDestination(this.PageMap)和配置route_map的两种方式的区别](https://developer.huawei.com/consumer/cn/blog/topic/03200314385027126)
+  - [拥抱鸿蒙生态：从入门到精通的优质学习资料合集](https://developer.huawei.com/consumer/cn/blog/topic/03200314173426116)
+  - [自定义手势判定 .onGestureJudgeBegin((gestureInfo: GestureInfo, event: BaseGestureEvent) => {}  HitTestMode.Transparent   ](https://developer.huawei.com/consumer/cn/blog/topic/03200313242165161)
+  - [KoalaQA：2025年最值得拥有的AI智能客服助手](https://developer.huawei.com/consumer/cn/blog/topic/03200312330147114)
+  - [手势 事件 事件传递 触摸测试 组合手势 HitTestMode 返回时回退Web浏览记录](https://developer.huawei.com/consumer/cn/blog/topic/03200309125316160)
+- 开源中国
+  - [【HarmonyOS NEXT】Calendar Kit日历管理](https://www.oschina.net/news/387968)
