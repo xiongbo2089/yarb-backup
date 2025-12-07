@@ -10685,3 +10685,9 @@
   - [手势 事件 事件传递 触摸测试 组合手势 HitTestMode 返回时回退Web浏览记录](https://developer.huawei.com/consumer/cn/blog/topic/03200309125316160)
 - 开源中国
   - [【HarmonyOS NEXT】Calendar Kit日历管理](https://www.oschina.net/news/387968)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate 80 系列手机获 HarmonyOS 6.0.0.115 SP12 升级，部分界面显示效果优化](https://www.ithome.com/0/903/033.htm)
+- 鸿蒙官网
+  - [三十余载深耕，铸就技术信仰](https://developer.huawei.com/consumer/cn/blog/topic/03200440830172131)
+- 掘金社区
+  - [（7）Kotlin/Js For Harmony——ArkTs 开发架构](https://juejin.cn/post/7580277964340953098)
