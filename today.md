@@ -10691,3 +10691,20 @@
   - [三十余载深耕，铸就技术信仰](https://developer.huawei.com/consumer/cn/blog/topic/03200440830172131)
 - 掘金社区
   - [（7）Kotlin/Js For Harmony——ArkTs 开发架构](https://juejin.cn/post/7580277964340953098)
+- 鸿蒙官网
+  - [从0使用Kuikly框架写一个小红书Demo-Day7](https://developer.huawei.com/consumer/cn/blog/topic/03200569249684136)
+  - [鸿蒙开发：支持自定义组件的跑马灯](https://developer.huawei.com/consumer/cn/blog/topic/03200568783441142)
+  - [跟老卫学仓颉编程语言开发：欢迎进入仓颉编程语言编程世界](https://developer.huawei.com/consumer/cn/blog/topic/03200568522512130)
+  - [Mark 1.2.0 正式发布 - 编辑器增强与搜索功能上线](https://developer.huawei.com/consumer/cn/blog/topic/03200566161698135)
+  - [【鸿蒙生态共建】一文讲清耗时操作对定时器的超时事件影响及解决方案-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03200563288771141)
+  - [关于微信的几点缺陷](https://developer.huawei.com/consumer/cn/blog/topic/03200558520842140)
+  - [【HarmonyOS 6】List之间实现拖拽排序](https://developer.huawei.com/consumer/cn/blog/topic/03200532272158128)
+  - [华为鸿蒙极客2025证书不会是金的吧？！](https://developer.huawei.com/consumer/cn/blog/topic/03200528411877133)
+  - [产品创新：以用户为原点，让科技贴近生活本质](https://developer.huawei.com/consumer/cn/blog/topic/03200523133105139)
+  - [初心如磐：从 2.1 万元到万亿生态的逆袭](https://developer.huawei.com/consumer/cn/blog/topic/03200523071516138)
+  - [鸿蒙6应用内集成防窥保护](https://developer.huawei.com/consumer/cn/blog/topic/03200511578964137)
+  - [  HarmonyOS 蓝牙服务开发概述](https://developer.huawei.com/consumer/cn/blog/topic/03200488093673136)
+  - [  跨设备互通特性：远程拍照功能的实现](https://developer.huawei.com/consumer/cn/blog/topic/03200487901750172)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙电脑企业版来了，擎云 HM740 官宣 12 月 11 日发布](https://www.ithome.com/0/903/206.htm)
+  - [华为鸿蒙 HarmonyOS 6 最新适配情况公布，MatePad Mini 小平板等转为公测](https://www.ithome.com/0/903/104.htm)
