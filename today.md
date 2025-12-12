@@ -10785,3 +10785,28 @@
   - [常见的访问控制模型](https://developer.huawei.com/consumer/cn/blog/topic/03200738101162150)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [鸿蒙生态金融行业论坛，让我看到金融服务的两大新方向](https://www.ithome.com/0/903/907.htm)
+- 鸿蒙官网
+  - [HarmonyOS所有类型屏幕&模式的适配](https://developer.huawei.com/consumer/cn/blog/topic/03200871170435197)
+  - [HarmonyOS从网络下载图片保存进相册](https://developer.huawei.com/consumer/cn/blog/topic/03200870578442158)
+  - [HarmonyOS从相册选取图片保存进应用沙箱](https://developer.huawei.com/consumer/cn/blog/topic/03200870173656157)
+  - [智驾生态：“五界” 合力迈入 L3 时代](https://developer.huawei.com/consumer/cn/blog/topic/03200869177487196)
+  - [算力革命：昇腾芯片开启 AI 算力新纪元](https://developer.huawei.com/consumer/cn/blog/topic/03200869129689195)
+  - [鸿蒙应用上架被打回](https://developer.huawei.com/consumer/cn/blog/topic/03200866693000156)
+  - [单例模式-首选项](https://developer.huawei.com/consumer/cn/blog/topic/03200852725680161)
+  - [同一项目根据不同配置项编译不同的Cpp文件](https://developer.huawei.com/consumer/cn/blog/topic/03200850606770160)
+  - [Arkts中native C++层通过NAPI接口获取Arkts（js）层的数据类型的方法以及常见问题](https://developer.huawei.com/consumer/cn/blog/topic/03200848086290159)
+  - [信号量（Semaphore）](https://developer.huawei.com/consumer/cn/blog/topic/03200847907196158)
+  - [无线数据流动的核心引擎。](https://developer.huawei.com/consumer/cn/blog/topic/03200844688465157)
+  - [如何在实验室回放现网的“大乱炖”流量？](https://developer.huawei.com/consumer/cn/blog/topic/03200844496096157)
+  - [鸿蒙简易语言学习卡](https://developer.huawei.com/consumer/cn/blog/topic/03200842047055156)
+  - [2025年AI知识库终极对决：PandaWiki如何在一众选手中脱颖而出？](https://developer.huawei.com/consumer/cn/blog/topic/03200834289113156)
+  - [企业微信iPad协议接口探索笔记](https://developer.huawei.com/consumer/cn/blog/topic/03200832443924155)
+  - [API20   端云一体化  用模拟器调用云函数的正确使用方式](https://developer.huawei.com/consumer/cn/blog/topic/03200830147037194)
+  - [华为云盘古大模型](https://developer.huawei.com/consumer/cn/blog/topic/03200829594075155)
+  - [【鸿蒙生态共建】DevEco Studio超好用的功能点及使用说明-《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03200824280518193)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [微信鸿蒙版 App 推送 8.0.13.41 正式版升级，新增插件、朋友圈实况照片等功能](https://www.ithome.com/0/904/329.htm)
+  - [华为 Sound X 系列音箱推送 HarmonyOS 6.0 Beta 尝鲜升级，新增 AI 搜歌、连续对话等功能](https://www.ithome.com/0/904/325.htm)
+  - [微信鸿蒙版 App 已支持朋友圈发布 / 查看实况照片](https://www.ithome.com/0/904/154.htm)
+- 掘金社区
+  - [已有Flutter项目适配鸿蒙6](https://juejin.cn/post/7582149417768812594)
