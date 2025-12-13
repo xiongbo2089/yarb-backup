@@ -10810,3 +10810,19 @@
   - [微信鸿蒙版 App 已支持朋友圈发布 / 查看实况照片](https://www.ithome.com/0/904/154.htm)
 - 掘金社区
   - [已有Flutter项目适配鸿蒙6](https://juejin.cn/post/7582149417768812594)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 WATCH 5/FIT 4 系列开启鸿蒙 HarmonyOS 6 公测招募](https://www.ithome.com/0/904/637.htm)
+  - [华为路由 BE7 系列推送鸿蒙 HarmonyOS 6.0 版本：优化漫游体验，Web 页面增加 MLO 开关](https://www.ithome.com/0/904/634.htm)
+- 鸿蒙官网
+  - [产业链攻坚：筑牢自主可控的 “工业基石”](https://developer.huawei.com/consumer/cn/blog/topic/03200954739111167)
+  - [中小企业赋能：“4+10+N” 方案打通智能最后一公里](https://developer.huawei.com/consumer/cn/blog/topic/03200954663480203)
+  - [HarmonyOS应用/元服务上架流程](https://developer.huawei.com/consumer/cn/blog/topic/03200943057691160)
+  - [如何在DevEco Studio中实现界面显示文本的本地化](https://developer.huawei.com/consumer/cn/blog/topic/03200942290793166)
+  - [关于鸿蒙依赖方式](https://developer.huawei.com/consumer/cn/blog/topic/03200939207198160)
+  - [一个编程小白的成长史 【鸿蒙极客新势力申请】](https://developer.huawei.com/consumer/cn/blog/topic/03200937095359165)
+  - [企业微信iPad协议接口的轻量实践](https://developer.huawei.com/consumer/cn/blog/topic/03200935508716164)
+  - [鸿蒙进阶：关系型数据库（RelationalStore）开发实践与最佳实践](https://developer.huawei.com/consumer/cn/blog/topic/03200921143902163)
+  - [当AI遇上客服：KoalaQA如何用智能化解企业售后难题](https://developer.huawei.com/consumer/cn/blog/topic/03200920326562201)
+  - [使用 音振协同 制作单例音振播放功能](https://developer.huawei.com/consumer/cn/blog/topic/03200919962474162)
+  - [运营周报上线！数据周周可查，运营效率稳步提升](https://developer.huawei.com/consumer/cn/blog/topic/03200918977545200)
+  - [HarmonyOS 原生开发进阶：从 ArkTS 语法到分布式全场景架构](https://developer.huawei.com/consumer/cn/blog/topic/03200917592783199)
