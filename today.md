@@ -10826,3 +10826,11 @@
   - [使用 音振协同 制作单例音振播放功能](https://developer.huawei.com/consumer/cn/blog/topic/03200919962474162)
   - [运营周报上线！数据周周可查，运营效率稳步提升](https://developer.huawei.com/consumer/cn/blog/topic/03200918977545200)
   - [HarmonyOS 原生开发进阶：从 ArkTS 语法到分布式全场景架构](https://developer.huawei.com/consumer/cn/blog/topic/03200917592783199)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为 Mate X7 系列折叠屏手机获 HarmonyOS 6.0.0.120 升级，支持打断应用“摇一摇”广告施法](https://www.ithome.com/0/904/824.htm)
+  - [华为 Mate 80 系列手机推送鸿蒙 HarmonyOS 6.0.0.120 SP9 版本更新，支持与 iOS 设备互传图片、文件等](https://www.ithome.com/0/904/788.htm)
+- 鸿蒙官网
+  - [  HarmonyOS ArkUI 瀑布流性能优化：用 TaskPool 把“查库”从 UI 线程搬走（WaterFlow 实战）](https://developer.huawei.com/consumer/cn/blog/topic/03201045406103206)
+  - [HarmonyOS 常驻任务开发指导：用 Worker 跑“持续执行”的后台任务（ArkTS）](https://developer.huawei.com/consumer/cn/blog/topic/03201044615530163)
+  - [（Harmony南向开发）GPIO与I2C](https://developer.huawei.com/consumer/cn/blog/topic/03201043054813171)
+  - [锚定科技自立自强，筑牢创新发展根基](https://developer.huawei.com/consumer/cn/blog/topic/03201013022680205)
