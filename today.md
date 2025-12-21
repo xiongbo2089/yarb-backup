@@ -10993,3 +10993,20 @@
   - [HarmonyOS机械臂蓝牙控制应用开发完整教程](https://developer.huawei.com/consumer/cn/blog/topic/03201519496549243)
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [支付宝 FluidMarkdown 鸿蒙版开源，专为 AI 流式交互设计](https://www.ithome.com/0/906/425.htm)
+- 鸿蒙官网
+  - [TypeScript强类型特性简要说明](https://developer.huawei.com/consumer/cn/blog/topic/03201656676251220)
+  - [ArkTS 语言基础语法知识](https://developer.huawei.com/consumer/cn/blog/topic/03201656182066258)
+  - [华为云上部署Docker](https://developer.huawei.com/consumer/cn/blog/topic/03201653037443224)
+  - [ArkTS的数据类型](https://developer.huawei.com/consumer/cn/blog/topic/03201643080882224)
+  - [ArkTs的数据类型、语句、函数、类、其他类型](https://developer.huawei.com/consumer/cn/blog/topic/03201652283496217)
+  - [在AR KTS（AR相关的Kotlin Script）中，数据类型主要基于Kotlin的基础类型，并结合AR开发的业务场景衍生出特定的自定义/封装类型，核心可分为基础数据类型和AR专属数据类型两类，以下是关键内容梳理：](https://developer.huawei.com/consumer/cn/blog/topic/03201648451264216)
+  - [ArkTS数据类型](https://developer.huawei.com/consumer/cn/blog/topic/03201644008415255)
+  - [TaskPool（任务池）和Worker（线程）](https://developer.huawei.com/consumer/cn/blog/topic/03201639229164218)
+  - [ArkTS预览器特性](https://developer.huawei.com/consumer/cn/blog/topic/03201636759830214)
+  - [鸿蒙 自定义弹框 V2 交互 ](https://developer.huawei.com/consumer/cn/blog/topic/03201631395951222)
+  - [HarmonyOS 5.0 AI原生开发系统简介](https://developer.huawei.com/consumer/cn/blog/topic/03201614554064217)
+  - [鸿蒙星光盛典是什么](https://developer.huawei.com/consumer/cn/blog/topic/03201603353083216)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [修复部分掌机画面投屏显示异常问题，华为 MateBook Fold 折叠电脑获 HarmonyOS 6.0.0.120 SP1 升级](https://www.ithome.com/0/906/657.htm)
+- 掘金社区
+  - [鸿蒙开发：个人开发者如何使用华为账号登录](https://juejin.cn/post/7585382553290440740)
