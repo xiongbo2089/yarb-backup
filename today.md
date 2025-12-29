@@ -11187,3 +11187,26 @@
   - [24小时不打烊的知识宝库——RFID智能书柜](https://developer.huawei.com/consumer/cn/blog/topic/03202215773921279)
   - [建筑监测中的倾角传感器解决方案](https://developer.huawei.com/consumer/cn/blog/topic/03202215543945308)
   - [【内存】Allocation抓取到的dlopen内存占用很多，怎么分析？](https://developer.huawei.com/consumer/cn/blog/topic/03202210137940307)
+- 鸿蒙官网
+  - [元服务交易评价](https://developer.huawei.com/consumer/cn/blog/topic/03202385289262290)
+  - [Kuikly 基础之封装自定义音频播放模块](https://developer.huawei.com/consumer/cn/blog/topic/03202384683346289)
+  - [[Bug反馈] 鸿蒙6网络邻居无法添加](https://developer.huawei.com/consumer/cn/blog/topic/03202379882486321)
+  - [[意见建议] 智感握姿设置项优化](https://developer.huawei.com/consumer/cn/blog/topic/03202379421803013)
+  - [昇腾 vs 英伟达 / AMD 主流 AI 芯片关键参数对比表](https://developer.huawei.com/consumer/cn/blog/topic/03202360837318320)
+  - [昇腾（Ascend）的诞生和演变史](https://developer.huawei.com/consumer/cn/blog/topic/03202360509626288)
+  - [昇腾（Ascend）是什么](https://developer.huawei.com/consumer/cn/blog/topic/03202360222234319)
+  - [鸿蒙6充电问题](https://developer.huawei.com/consumer/cn/blog/topic/03202338318305012)
+  - [鸿蒙6手机和鸿蒙电脑建立通信共享问题](https://developer.huawei.com/consumer/cn/blog/topic/03202338276136011)
+  - [突破限制：在HarmonyOS x86_64环境安装正式版应用的技术探索与边界](https://developer.huawei.com/consumer/cn/blog/topic/03202326265883317)
+  - [绕开限制：在HarmonyOS PC x86_64系统中探索应用市场的访问路径](https://developer.huawei.com/consumer/cn/blog/topic/03202326010762269)
+  - [1. @Entry - 标记页面入口组件](https://developer.huawei.com/consumer/cn/blog/topic/03202321428809010)
+  - [[意见建议]鸿蒙6相册增加路径显示](https://developer.huawei.com/consumer/cn/blog/topic/03202308328761286)
+  - [2.应用数据持久化工具类PreferencesUtil](https://developer.huawei.com/consumer/cn/blog/topic/03202296641053285)
+  - [RFID测温技术：让电力巡检迈入便捷新时代](https://developer.huawei.com/consumer/cn/blog/topic/03202293032321284)
+  - [简述物联网技术在化工行业中的应用](https://developer.huawei.com/consumer/cn/blog/topic/03202292925886268)
+- GitHub
+  - [RimworldHARPatch](https://github.com/MrFastZombie/RimworldHARPatch)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [华为鸿蒙 HarmonyOS 实况窗支持 200+ 应用，每月平均服务 7700 万+ 人次](https://www.ithome.com/0/908/612.htm)
+- 掘金社区
+  - [Android和HarmonyOS 设置透明度](https://juejin.cn/post/7588456115882786851)
