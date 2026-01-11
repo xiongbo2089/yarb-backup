@@ -11559,3 +11559,18 @@
   - [协议“老将”，连接工业智能的桥梁——一文读懂ModBus通信协议](https://developer.huawei.com/consumer/cn/blog/topic/03203337772948003)
 - 掘金社区
   - [HarmonyOS一杯冰美式的时间 -- FullScreenLaunchComponent](https://juejin.cn/post/7593338828195577896)
+- 鸿蒙官网
+  - [如何用“意图框架”让设备真正“懂你”](https://developer.huawei.com/consumer/cn/blog/topic/03203510254141012)
+  - [鸿蒙如何用“确定性延迟”重塑实时交互体验](https://developer.huawei.com/consumer/cn/blog/topic/03203471856671014)
+  - [鸿蒙如何用“软时钟”解决分布式系统的时间同步难题](https://developer.huawei.com/consumer/cn/blog/topic/03203471521841019)
+  - [鸿蒙的“元服务”不是小程序，而是一次对应用分发模式的颠覆](https://developer.huawei.com/consumer/cn/blog/topic/03203471492079013)
+  - [鸿蒙的“一次开发多端部署”到底靠什么实现？不是魔法，是三重解耦](https://developer.huawei.com/consumer/cn/blog/topic/03203471155930011)
+  - [鸿蒙的“超级终端”不是营销话术，而是一套可编程的设备关系模型](https://developer.huawei.com/consumer/cn/blog/topic/03203470987076012)
+  - [鸿蒙如何用“确定性渲染”终结UI卡顿玄学](https://developer.huawei.com/consumer/cn/blog/topic/03203470843993017)
+  - [鸿蒙如何用统一内核路线终结“碎片化内核”困局](https://developer.huawei.com/consumer/cn/blog/topic/03203470639123017)
+  - [鸿蒙如何让一块智能手表也能跑分布式应用](https://developer.huawei.com/consumer/cn/blog/topic/03203470508020016)
+  - [鸿蒙如何用形式化验证守护微内核安全](https://developer.huawei.com/consumer/cn/blog/topic/03203470322057015)
+  - [鸿蒙的AI节能调度：让续航不再靠“省电模式”硬扛](https://developer.huawei.com/consumer/cn/blog/topic/03203470125448010)
+  - [感应加热电源中的主流频率跟踪技术解析](https://developer.huawei.com/consumer/cn/blog/topic/03203453805953014)
+  - [AI与存储双革命共振 全闪化拐点重塑数字底座](https://developer.huawei.com/consumer/cn/blog/topic/03203453713835007)
+  - [25分钟生命奇迹！央媒聚焦抚矿总医院，点赞多学科孕产急救](https://developer.huawei.com/consumer/cn/blog/topic/03203422976481006)
