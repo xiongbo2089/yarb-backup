@@ -11732,3 +11732,10 @@
   - [证书数量达到上限处理方式](https://developer.huawei.com/consumer/cn/blog/topic/03203939128464021)
   - [物联网的应用范围有哪些?](https://developer.huawei.com/consumer/cn/blog/topic/03203936543789015)
   - [加密芯片在游戏行业内的应用](https://developer.huawei.com/consumer/cn/blog/topic/03203936274644020)
+- 鸿蒙官网
+  - [OmniPact双层架构：OES+DAN，破解去中心化商业的“非标难题”](https://developer.huawei.com/consumer/cn/blog/topic/03204074805812023)
+  - [函数回调](https://developer.huawei.com/consumer/cn/blog/topic/03204056843239027)
+  - [函数类型](https://developer.huawei.com/consumer/cn/blog/topic/03204052701901029)
+  - [鸿蒙应用开发快速实现多端适配实践](https://developer.huawei.com/consumer/cn/blog/topic/03204040889077026)
+  - [鸿蒙应用开发实战：线稿提取功能深度解析](https://developer.huawei.com/consumer/cn/blog/topic/03204040627427022)
+  - [鸿蒙开发中npm包的作用及安装步骤](https://developer.huawei.com/consumer/cn/blog/topic/03204027707496021)
