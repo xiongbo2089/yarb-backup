@@ -11811,3 +11811,23 @@
 - 鸿蒙_鸿蒙最新动态_IT之家
   - [华为 MateBook Pro 鸿蒙电脑获 HarmonyOS 6.0.0.130 SP7 升级，新增应用锁功能等](https://www.ithome.com/0/914/978.htm)
   - [华为 MateBook Fold 非凡大师获 HarmonyOS 6.0.0.130 SP7 升级，增强小艺知识库问答能力等](https://www.ithome.com/0/914/965.htm)
+- 博客园
+  - [【FAQ】HarmonyOS SDK 闭源开放能力 — Media Kit - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/19515676)
+- 鸿蒙官网
+  - [鸿蒙应用开发-使用Napi和Cpp实现多线程并发](https://developer.huawei.com/consumer/cn/blog/topic/03204458841345048)
+  - [企业微信接口在复杂业务流程编排中的应用实践](https://developer.huawei.com/consumer/cn/blog/topic/03204418127481047)
+  - [HarmonyOS APP开发-鸿蒙6中imagePacker.packing API将要废弃的适配《精通HarmonyOS NEXT ：鸿蒙App开发入门与项目化实战》读者福利](https://developer.huawei.com/consumer/cn/blog/topic/03204413554057046)
+  - [鸿蒙应用开发-使用taskpool和Worker实现多线程并发](https://developer.huawei.com/consumer/cn/blog/topic/03204403895224009)
+  - [【避坑指南】鸿蒙ArkTS 接口赋值与匿名实现终极解答](https://developer.huawei.com/consumer/cn/blog/topic/03204400326041045)
+  - [ArkTS 中的错误处理与健壮性设计](https://developer.huawei.com/consumer/cn/blog/topic/03204399775918044)
+  - [技术攻坚，AI赋能：抚矿总医院消化内科的“技术升维”](https://developer.huawei.com/consumer/cn/blog/topic/03204389857030007)
+  - [实现SideContainer的效果(简单效果)](https://developer.huawei.com/consumer/cn/blog/topic/03204374054078006)
+  - [鸿蒙APP《浩瀚唐诗》上线！一起在指尖重温盛唐气象~ ✨](https://developer.huawei.com/consumer/cn/blog/topic/03204373595653043)
+  - [人工智能的起源和里程碑事件](https://developer.huawei.com/consumer/cn/blog/topic/03204371300473041)
+  - [计算机视觉与模式识别的关系](https://developer.huawei.com/consumer/cn/blog/topic/03204370557698005)
+  - [蓝牙mesh技术支持下的智能室内灯控网络](https://developer.huawei.com/consumer/cn/blog/topic/03204369361746039)
+  - [酒店RFID布草洗涤管理方案](https://developer.huawei.com/consumer/cn/blog/topic/03204369150264038)
+  - [【Flutter-OH学习必备】AtomGit开源仓库flutter_samples实践案例推荐](https://developer.huawei.com/consumer/cn/blog/topic/03204367577609040)
+  - [Flutter三方库生态：选型核心竞争力，flutter_packages让鸿蒙迁移一步到位](https://developer.huawei.com/consumer/cn/blog/topic/03204367539006046)
+- 鸿蒙_鸿蒙最新动态_IT之家
+  - [乐道汽车官宣推出鸿蒙版 App，正式版直接登陆华为应用市场](https://www.ithome.com/0/915/309.htm)
